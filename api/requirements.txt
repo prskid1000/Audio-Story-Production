@@ -1,0 +1,4 @@
+requests>=2.25.1
+pydub>=0.25.1
+pathlib2>=2.3.5
+futures>=3.1.1
