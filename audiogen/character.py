@@ -49,9 +49,9 @@ male_voices, female_voices = load_available_voices(LANGUAGE, REGION)
 
 # Default character voice assignments
 character_voices = {
-    "narrator": "alok_en",
-    "watson": "alok_en",
-    "holmes": "ramesh_en"
+    "male_narrator": "alok_en",
+    "male_watson": "alok_en",
+    "male_holmes": "ramesh_en"
 }
 
 class CharacterManager:
@@ -146,33 +146,50 @@ class CharacterManager:
         for char, voice in updated_character_voices.items():
             print(f"- {char}: {voice}")
         
-        # Ask for gender for characters not already assigned
+        # Process characters not already assigned
         unassigned_chars = [char for char in characters if char not in updated_character_voices]
         
         if unassigned_chars:
             print(f"\nNeed to assign voices for: {', '.join(unassigned_chars)}")
             
             for char in unassigned_chars:
-                while True:
-                    gender = input(f"\nIs '{char}' male or female? (m/f): ").lower().strip()
-                    if gender in ['m', 'male']:
-                        # Assign a male voice (cycle through available voices)
-                        used_male_voices = [v for v in updated_character_voices.values() if v in self.male_voices]
-                        male_voice_index = len(used_male_voices) % len(self.male_voices)
-                        voice = self.male_voices[male_voice_index]
-                        updated_character_voices[char] = voice
-                        print(f"Assigned male voice '{voice}' to '{char}'")
-                        break
-                    elif gender in ['f', 'female']:
-                        # Assign a female voice (cycle through available voices)
-                        used_female_voices = [v for v in updated_character_voices.values() if v in self.female_voices]
-                        female_voice_index = len(used_female_voices) % len(self.female_voices)
-                        voice = self.female_voices[female_voice_index]
-                        updated_character_voices[char] = voice
-                        print(f"Assigned female voice '{voice}' to '{char}'")
-                        break
-                    else:
-                        print("Please enter 'm' for male or 'f' for female.")
+                # Check if character name has gender prefix
+                if char.lower().startswith('male_'):
+                    # Auto-assign male voice
+                    used_male_voices = [v for v in updated_character_voices.values() if v in self.male_voices]
+                    male_voice_index = len(used_male_voices) % len(self.male_voices)
+                    voice = self.male_voices[male_voice_index]
+                    updated_character_voices[char] = voice
+                    print(f"Auto-assigned male voice '{voice}' to '{char}' (male_ prefix detected)")
+                elif char.lower().startswith('female_'):
+                    # Auto-assign female voice
+                    used_female_voices = [v for v in updated_character_voices.values() if v in self.female_voices]
+                    female_voice_index = len(used_female_voices) % len(self.female_voices)
+                    voice = self.female_voices[female_voice_index]
+                    updated_character_voices[char] = voice
+                    print(f"Auto-assigned female voice '{voice}' to '{char}' (female_ prefix detected)")
+                else:
+                    # Ask for gender if no prefix found
+                    while True:
+                        gender = input(f"\nIs '{char}' male or female? (m/f): ").lower().strip()
+                        if gender in ['m', 'male']:
+                            # Assign a male voice (cycle through available voices)
+                            used_male_voices = [v for v in updated_character_voices.values() if v in self.male_voices]
+                            male_voice_index = len(used_male_voices) % len(self.male_voices)
+                            voice = self.male_voices[male_voice_index]
+                            updated_character_voices[char] = voice
+                            print(f"Assigned male voice '{voice}' to '{char}'")
+                            break
+                        elif gender in ['f', 'female']:
+                            # Assign a female voice (cycle through available voices)
+                            used_female_voices = [v for v in updated_character_voices.values() if v in self.female_voices]
+                            female_voice_index = len(used_female_voices) % len(self.female_voices)
+                            voice = self.female_voices[female_voice_index]
+                            updated_character_voices[char] = voice
+                            print(f"Assigned female voice '{voice}' to '{char}'")
+                            break
+                        else:
+                            print("Please enter 'm' for male or 'f' for female.")
         else:
             print("\nAll characters already have voice assignments!")
         
