@@ -6,6 +6,7 @@ import shutil
 import re
 from pathlib import Path
 from character import CharacterManager
+from pydub import AudioSegment
 
 class StoryProcessor:
     def __init__(self, comfyui_url="http://127.0.0.1:8188/"):
@@ -115,9 +116,11 @@ class StoryProcessor:
                                             source_path = os.path.join(self.output_folder, most_recent_file)
                                             print(f"Found generated file: {source_path}")
                                             
-                                            # Copy the file to current directory as story.wav
-                                            shutil.copy2(source_path, self.final_output)
-                                            print(f"Copied {source_path} to {self.final_output}")
+                                            # Convert MP3 to WAV and save to current directory
+                                            print(f"Converting {source_path} to WAV format...")
+                                            audio = AudioSegment.from_mp3(source_path)
+                                            audio.export(self.final_output, format="wav")
+                                            print(f"Converted and saved as {self.final_output}")
                                             return self.final_output
                                         
                                         print(f"No files found starting with 'story'")

@@ -1,0 +1,2852 @@
+1
+00:00:00,000 --> 00:00:04,219
+The vein was falling with a soft but steady persistence upon the gaslit streets of London.
+
+2
+00:00:04,560 --> 00:00:09,540
+That vast and shadowed city which seemed to brood eternally beneath its pall of smoke and mystery.
+
+3
+00:00:09,919 --> 00:00:15,679
+It was upon such a night, damp and sullen, that I, Dr. John Watson, was summoned from my own
+
+4
+00:00:15,679 --> 00:00:21,059
+domestic peace into an adventure whose strange turns and startling revelations yet linger in
+
+5
+00:00:21,059 --> 00:00:26,120
+my memory with singular vividness. I shall set it down faithfully here, in the hope that those
+
+6
+00:00:26,120 --> 00:00:31,359
+who follow the exploits of my friend Mr. Sherlock Holmes may find interest in the peculiar case of
+
+7
+00:00:31,359 --> 00:00:36,160
+the man with the twisted lip. I must begin by confessing that my own role at the outset was
+
+8
+00:00:36,160 --> 00:00:42,760
+quite unconnected to any investigation. Rather, it was the simple call of friendship and duty
+
+9
+00:00:42,760 --> 00:00:47,520
+which led me forth into the night. My dear wife, perceiving my concern for a patient who had
+
+10
+00:00:47,520 --> 00:00:51,920
+slipped grievously in her battle against the malady of opium, had urged me to attend her
+
+11
+00:00:51,920 --> 00:00:55,600
+even at this late hour, and thus, cloaked and gloved against the damp,
+
+12
+00:00:55,980 --> 00:00:59,460
+I made my way to the dismal quarter of the city, known as the East End,
+
+13
+00:00:59,760 --> 00:01:02,660
+where the narrow streets were lined with gin shops and opium dens,
+
+14
+00:01:02,900 --> 00:01:05,200
+and where the law held but a feeble dominion.
+
+15
+00:01:05,840 --> 00:01:08,659
+I recall thinking, as I walked beneath the dripping eaves,
+
+16
+00:01:09,040 --> 00:01:11,460
+how different is this world from that of Baker Street,
+
+17
+00:01:11,760 --> 00:01:14,599
+where Holmes sits by his fire, cold pipe in hand,
+
+18
+00:01:14,980 --> 00:01:17,040
+marshalling the facts of some intricate case.
+
+19
+00:01:17,320 --> 00:01:20,760
+Here, the tragedy is of a humbler, but no less ruinous sort,
+
+20
+00:01:20,760 --> 00:01:26,439
+the slow poisoning of body and soul. At length I came to the squalid house known to me as one of
+
+21
+00:01:26,439 --> 00:01:32,420
+ill-repute, where men of all classes, sailors, beggars, and even gentlemen in disguise sought
+
+22
+00:01:32,420 --> 00:01:37,040
+escape from reality in the deadly fumes of the poppy, with some reluctance I entered,
+
+23
+00:01:37,300 --> 00:01:42,200
+and found myself amidst the low murmur of voices, the reek of opium, and the dim gimmer of lambs
+
+24
+00:01:42,200 --> 00:01:47,180
+hung askew upon the peeling walls. The keeper of the den, a lasker of sinister appearance,
+
+25
+00:01:47,180 --> 00:01:48,900
+greeted me with a knowing smile,
+
+26
+00:01:49,220 --> 00:01:51,300
+as though accustomed to the sight of respectable men
+
+27
+00:01:51,300 --> 00:01:53,280
+slinking into his pit of degradation.
+
+28
+00:01:54,620 --> 00:01:56,440
+I inquired after my patient
+
+29
+00:01:56,440 --> 00:01:58,240
+and was soon led to the corner
+
+30
+00:01:58,240 --> 00:02:00,520
+where she lay half-conscious upon a tat-
+
+31
+00:02:00,520 --> 00:02:01,480
+red couch,
+
+32
+00:02:01,720 --> 00:02:03,580
+having ascertained her condition
+
+33
+00:02:03,580 --> 00:02:05,180
+and given what aid I could.
+
+34
+00:02:05,400 --> 00:02:06,400
+I was about to depart
+
+35
+00:02:06,400 --> 00:02:08,680
+when my eye was caught by a familiar figure
+
+36
+00:02:08,680 --> 00:02:09,700
+seated in the shadow,
+
+37
+00:02:09,939 --> 00:02:11,100
+his long limbs stretched,
+
+38
+00:02:11,420 --> 00:02:14,219
+his deer-stalker hat pulled low upon his brow.
+
+39
+00:02:15,000 --> 00:02:16,319
+Holmes, I exclaimed,
+
+40
+00:02:16,319 --> 00:02:17,900
+scarcely believing my senses.
+
+41
+00:02:18,340 --> 00:02:19,939
+What in heaven's name are you doing here,
+
+42
+00:02:20,219 --> 00:02:21,120
+in a place like this?
+
+43
+00:02:21,819 --> 00:02:24,539
+His thin lips curled into a faint smile
+
+44
+00:02:24,539 --> 00:02:28,159
+as he drew me nearer with a slight motion of the hand.
+
+45
+00:02:28,859 --> 00:02:30,859
+Hush, Watson, your voice may carry.
+
+46
+00:02:31,259 --> 00:02:34,799
+I am engaged upon an inquiry of considerable delicacy,
+
+47
+00:02:35,219 --> 00:02:37,500
+and this den is, for the moment,
+
+48
+00:02:37,840 --> 00:02:39,979
+the very heart of my investigation.
+
+49
+00:02:40,859 --> 00:02:42,659
+But surely, surely such a place is beneath
+
+50
+00:02:42,659 --> 00:02:44,099
+even your most singular methods.
+
+51
+00:02:44,099 --> 00:02:47,400
+What can you hope to learn here amidst this degradation?
+
+52
+00:02:48,379 --> 00:02:54,280
+Elementary, my dear fellow, crime, like disease, must be traced to its breeding grounds.
+
+53
+00:02:54,900 --> 00:03:03,799
+And here, amongst the smoke and the whispers, men reveal truths they would never speak in the bright light of the strand.
+
+54
+00:03:04,519 --> 00:03:11,359
+But come, your arrival is not ill-timed. There is more afoot tonight than either of us expected.
+
+55
+00:03:11,360 --> 00:03:18,280
+He rose swiftly, and with that peculiar energy, which seemed always to animate him in the pursuit of a case,
+
+56
+00:03:18,560 --> 00:03:20,760
+he guided me from the den and into the street.
+
+57
+00:03:20,980 --> 00:03:24,000
+The rain had slackened, but the cobblestones gleamed with a treacherous sheen.
+
+58
+00:03:24,220 --> 00:03:27,360
+A handsome cab was waiting at the corner, its horse stamping impatiently.
+
+59
+00:03:28,680 --> 00:03:34,120
+Quickly, Watson, a lady of your acquaintance has need of you, and by extension, of me.
+
+60
+00:03:34,820 --> 00:03:38,340
+We go to Kentish Town. There is no time to lose.
+
+61
+00:03:38,340 --> 00:03:42,500
+Perplexed but obedient, I climbed into the cab beside him.
+
+62
+00:03:42,819 --> 00:03:47,340
+The horse sprang forward and the damp night air rushed past as Holmes, ever composed,
+
+63
+00:03:47,640 --> 00:03:50,699
+produced his clay pipe and filled it with his black shag tobacco.
+
+64
+00:03:50,699 --> 00:03:57,280
+He puffed once or twice, then turned to me with that piercing gaze which seemed to look to a man's very soul.
+
+65
+00:03:58,039 --> 00:04:02,319
+Tell me at once what this is about, Holmes. You speak of a lady of my acquaintance. Who can it be?
+
+66
+00:04:02,319 --> 00:04:08,719
+It is none other than Mrs. St. Clair, the wife of the respectable gentleman of the city.
+
+67
+00:04:09,219 --> 00:04:14,919
+She is, at this very moment, in a state of the most acute agitation.
+
+68
+00:04:15,519 --> 00:04:23,759
+She believes her husband has been foully used in the neighbourhood of that very opium den we have just quitted.
+
+69
+00:04:23,759 --> 00:04:30,759
+Her message reached me not an hour ago, and knowing that your medical obligations might draw you eastward,
+
+70
+00:04:30,759 --> 00:04:34,259
+Eastward, I took the liberty of seeking you there.
+
+71
+00:04:34,759 --> 00:04:37,800
+The case, Watson, promises to be one of those puzzles
+
+72
+00:04:37,800 --> 00:04:40,000
+where the outward appearance is grotesque
+
+73
+00:04:40,000 --> 00:04:42,800
+and the inward truth stranger still.
+
+74
+00:04:43,339 --> 00:04:43,620
+Ah?
+
+75
+00:04:44,379 --> 00:04:47,180
+Mr. St. Clair, I do not recall having met the man.
+
+76
+00:04:48,000 --> 00:04:50,180
+He is a person of good repute,
+
+77
+00:04:50,180 --> 00:04:52,899
+engaged in certain mercantile ventures
+
+78
+00:04:52,899 --> 00:04:54,819
+and known for his probity.
+
+79
+00:04:55,579 --> 00:04:57,699
+Yet it is in connection with him
+
+80
+00:04:57,699 --> 00:05:02,319
+that we shall find ourselves in the very thick of London's underworld,
+
+81
+00:05:02,819 --> 00:05:09,019
+and perhaps face a deception so bold that even I must take care to untangle it.
+
+82
+00:05:09,860 --> 00:05:13,360
+Thus did Holmes tantalize me with hints, but no more, hey, Sibol,
+
+83
+00:05:13,659 --> 00:05:16,539
+until at last we reached the modest residence in Kentish Town.
+
+84
+00:05:16,659 --> 00:05:18,480
+The cab drew up before a neat little villa,
+
+85
+00:05:18,800 --> 00:05:21,779
+where a light still burned in the window despite the late hour.
+
+86
+00:05:22,039 --> 00:05:26,800
+As we entered, we were greeted by a lady whose pale countenance and trembling hands
+
+87
+00:05:26,800 --> 00:05:28,120
+betrayed her distress.
+
+88
+00:05:29,220 --> 00:05:30,180
+Oh, Mr. Holmes,
+
+89
+00:05:30,540 --> 00:05:31,960
+thank heaven you have come.
+
+90
+00:05:32,420 --> 00:05:33,960
+And you too, Dr. Watson.
+
+91
+00:05:34,360 --> 00:05:36,199
+You are both most kind.
+
+92
+00:05:36,840 --> 00:05:39,680
+I am nearly beside myself with dread
+
+93
+00:05:39,680 --> 00:05:41,840
+for I know not whether my husband
+
+94
+00:05:41,840 --> 00:05:43,400
+be alive or dead.
+
+95
+00:05:44,699 --> 00:05:46,800
+Holmes bowed with his accustomed courtesy,
+
+96
+00:05:47,259 --> 00:05:49,120
+but his eyes missed nothing.
+
+97
+00:05:49,120 --> 00:05:51,620
+The disorder of the room,
+
+98
+00:05:52,340 --> 00:05:54,000
+the hastily discarded shawl,
+
+99
+00:05:54,319 --> 00:05:56,220
+the anxious glances toward the door.
+
+100
+00:05:56,800 --> 00:05:58,560
+Compose yourself, madam.
+
+101
+00:05:59,240 --> 00:06:03,160
+You have sent for us to aid you, and aid you we shall.
+
+102
+00:06:03,600 --> 00:06:07,980
+But you must give us every particular without reservation.
+
+103
+00:06:09,040 --> 00:06:11,040
+Yes, yes, I shall tell you all.
+
+104
+00:06:11,319 --> 00:06:15,019
+My husband, Neville Sinclair, set out this morning for the city.
+
+105
+00:06:15,560 --> 00:06:20,420
+He is a most punctual man, and never has he failed to return by evening to his supper.
+
+106
+00:06:20,960 --> 00:06:22,500
+Yet today he did not come.
+
+107
+00:06:22,500 --> 00:06:27,040
+In my anxiety, I took it upon myself to go in search of him.
+
+108
+00:06:27,579 --> 00:06:31,379
+I knew that his business would take him through the east end
+
+109
+00:06:31,379 --> 00:06:35,519
+and so I made my way there, though it is a place I dread.
+
+110
+00:06:37,959 --> 00:06:40,800
+She shuddered and I offered her a glass of water,
+
+111
+00:06:41,060 --> 00:06:43,120
+which she accepted dreadfully before continuing.
+
+112
+00:06:44,199 --> 00:06:49,540
+It was near to the riverside, in that vile quarter where the opium dens abound,
+
+113
+00:06:49,540 --> 00:06:55,300
+that I saw him, or thought I saw him, at a window above the sign of the bar of gold.
+
+114
+00:06:55,840 --> 00:06:59,900
+He was leaning out, and for an instant I caught his face in the lamplight.
+
+115
+00:07:00,460 --> 00:07:08,160
+I cried out to him, but in that very moment he seemed to be dragged back violently as though by some unseen hand,
+
+116
+00:07:08,160 --> 00:07:12,040
+and then the window was closed, and I saw him no more.
+
+117
+00:07:12,920 --> 00:07:15,920
+Good Lord! That is most sinister indeed.
+
+118
+00:07:16,820 --> 00:07:18,820
+Pray continue, madam, what followed.
+
+119
+00:07:19,540 --> 00:07:24,720
+I rushed to the place at once, but the last car who keeps the establishment would not admit me.
+
+120
+00:07:25,400 --> 00:07:31,020
+I was near to fainting when a constable came by, and to him I explained my plight.
+
+121
+00:07:32,480 --> 00:07:36,960
+Together we forced our way inside, but there was no sign of my husband,
+
+122
+00:07:36,960 --> 00:07:44,040
+only a most hideous creature, a beggar with a twisted lip sat, crouched among the pillows.
+
+123
+00:07:44,580 --> 00:07:48,180
+The constable searched him, and found upon his person a few coins and a letter,
+
+124
+00:07:48,180 --> 00:07:51,759
+and here, here is the last terrible proof.
+
+125
+00:07:52,660 --> 00:07:54,500
+With trembling hands she drew from her bosom
+
+126
+00:07:54,500 --> 00:07:56,300
+a small parcel wrapped in paper.
+
+127
+00:07:56,600 --> 00:07:58,500
+She unfolded it and to our astonishment
+
+128
+00:07:58,500 --> 00:08:00,360
+there fell upon the table a child's toy,
+
+129
+00:08:00,639 --> 00:08:02,280
+a wooden block with letters upon it,
+
+130
+00:08:02,500 --> 00:08:03,280
+smeared with blood.
+
+131
+00:08:03,439 --> 00:08:04,780
+I recognized it instantly,
+
+132
+00:08:05,100 --> 00:08:07,360
+for my own children had such playthings.
+
+133
+00:08:08,100 --> 00:08:09,180
+It is my son's.
+
+134
+00:08:09,560 --> 00:08:11,660
+Neville carried it with him this morning
+
+135
+00:08:11,660 --> 00:08:14,180
+to amuse the little one when he returned home.
+
+136
+00:08:14,579 --> 00:08:16,600
+And now it is stained thus.
+
+137
+00:08:16,600 --> 00:08:19,240
+Oh, Mr. Holmes, what can it mean?
+
+138
+00:08:21,260 --> 00:08:25,820
+Holmes took up the toy, examined it minutely, and then set it down.
+
+139
+00:08:26,240 --> 00:08:31,580
+His face was inscrutable, yet his eyes gleamed with that light I knew so well,
+
+140
+00:08:31,939 --> 00:08:34,740
+the light of fierce intellectual engagement.
+
+141
+00:08:35,639 --> 00:08:38,920
+We must go at once to the Bar of Gold, Watson.
+
+142
+00:08:39,700 --> 00:08:44,759
+The night is not yet spent, and if there is truth to be learned, it lies there.
+
+143
+00:08:44,759 --> 00:08:48,439
+Mrs. St. Clair caught his sleep with desperate urgency.
+
+144
+00:08:49,360 --> 00:08:53,980
+Promise me, Mr. Holmes, promise me that you will bring him back to me,
+
+145
+00:08:54,439 --> 00:08:59,679
+dead or alive, only do not leave me in this torment of uncertainty.
+
+146
+00:09:00,740 --> 00:09:05,139
+I promise, madam, that I shall leave no stone unturned in my search.
+
+147
+00:09:05,659 --> 00:09:10,740
+Whether your husband lives or has met some darker fate, you shall have the truth.
+
+148
+00:09:10,740 --> 00:09:16,279
+And so, without delay, Holmes and I once more plunged into the labyrinth of London by night,
+
+149
+00:09:16,680 --> 00:09:21,100
+the case unfolding before us like some dreadful enigma whose solution would test even the limits
+
+150
+00:09:21,100 --> 00:09:26,600
+of his remarkable genius. The handsome cab rattled swiftly over the cobbles as Holmes and I sped
+
+151
+00:09:26,600 --> 00:09:31,159
+once more toward the east end. The hour was late, and most respectable citizens were long abed,
+
+152
+00:09:31,440 --> 00:09:36,220
+yet the darker quarters of London seemed to grow only more animated. Women of dishevelled attire
+
+153
+00:09:36,220 --> 00:09:40,620
+coiled from shadowed doorways, while drunken sailors wheeled arm in arm, singing coarse
+
+154
+00:09:40,620 --> 00:09:45,180
+songs beneath the dripping lamps. A chill wind rose from the river, carrying with it the mingled
+
+155
+00:09:45,180 --> 00:09:50,500
+odours of tar, smoke and decay. Holmes, seated opposite me, remained in profound concentration,
+
+156
+00:09:50,899 --> 00:09:55,300
+his eyes half closed, the toy block turning slowly in his lean fingers as though it held
+
+157
+00:09:55,300 --> 00:10:00,620
+some secret known only to him. Holmes, do you truly believe Neville St. Clair was abducted
+
+158
+00:10:00,620 --> 00:10:06,299
+before his wife's very eyes, the idea chins the blood. And yet, might she not have been deceived
+
+159
+00:10:06,299 --> 00:10:12,279
+by some resemblance, some figure seen dimly through the lamplight? My dear Watson, I never
+
+160
+00:10:12,279 --> 00:10:19,480
+permit myself the luxury of premature conclusions. Whether Mrs. St. D'Ere, Clare's testimony is
+
+161
+00:10:19,480 --> 00:10:27,220
+accurate or not, it is an essential fact that she herself believes it true. That alone renders it of
+
+162
+00:10:27,220 --> 00:10:33,540
+value. Our task is to separate the certain from the conjectural, the proved from the imagined.
+
+163
+00:10:34,279 --> 00:10:38,600
+And for that, we must examine the bar of gold for ourselves.
+
+164
+00:10:41,460 --> 00:10:45,980
+At length, the cab drew up beside a crooked alley which sloped down toward the thins.
+
+165
+00:10:46,180 --> 00:10:50,540
+There, beneath a weathered signboard depicting a gilded chalice, stood the squalid den which
+
+166
+00:10:50,540 --> 00:10:55,300
+had already played so sinister a part in the day's events. Soon, a solitary lamp flickered
+
+167
+00:10:55,299 --> 00:11:00,319
+above its door, throwing a fitful glow upon the wet pavement, the Lasker keeper, with his
+
+168
+00:11:00,319 --> 00:11:06,639
+turban askew, regarded us with sullen suspicion as we entered. Good evening. You recall me,
+
+169
+00:11:06,639 --> 00:11:13,479
+no doubt. I was here earlier tonight. Yes, Sahib, I remember. But there is nothing here for you now.
+
+170
+00:11:13,659 --> 00:11:19,779
+No trouble tonight. That remains to be seen. My companion and I shall have a look about.
+
+171
+00:11:19,779 --> 00:11:22,319
+Do not trouble yourself to follow us.
+
+172
+00:11:49,779 --> 00:11:54,740
+window overlooking the alley. Holmes crossed at once to that window and examined the sill with
+
+173
+00:11:54,740 --> 00:11:59,679
+his magnifying lens. The rain had washed it clean, yet I saw him nod with satisfaction as he traced
+
+174
+00:11:59,679 --> 00:12:06,059
+some faint mark invisible to my eye. Watson, observe here. Though the paint is blistered,
+
+175
+00:12:06,059 --> 00:12:12,319
+there remains the smudge of a hand. Rest hard against the wood, and see here fibres
+
+176
+00:12:12,320 --> 00:12:13,820
+quarked upon the latch.
+
+177
+00:12:14,540 --> 00:12:16,920
+The window was not merely closed,
+
+178
+00:12:17,100 --> 00:12:19,120
+but shut in great haste.
+
+179
+00:12:19,379 --> 00:12:20,660
+I do not doubt
+
+180
+00:12:20,660 --> 00:12:22,500
+Mrs. St. Clair's account.
+
+181
+00:12:22,920 --> 00:12:24,440
+A husband was indeed here.
+
+182
+00:12:25,140 --> 00:12:26,620
+But if so, where is he now,
+
+183
+00:12:26,780 --> 00:12:28,020
+and by whom was he seized?
+
+184
+00:12:29,040 --> 00:12:30,500
+That, my friend,
+
+185
+00:12:30,760 --> 00:12:31,560
+is the riddle
+
+186
+00:12:31,560 --> 00:12:33,200
+we are come to answer.
+
+187
+00:12:33,680 --> 00:12:34,840
+Yet consider,
+
+188
+00:12:35,360 --> 00:12:37,180
+the lady described a man
+
+189
+00:12:37,180 --> 00:12:38,440
+with a twisted lip.
+
+190
+00:12:39,080 --> 00:12:40,120
+Such a person
+
+191
+00:12:40,120 --> 00:12:41,840
+is not easily forgotten.
+
+192
+00:12:42,320 --> 00:12:46,320
+Let us see what manner of fellow he may be.
+
+193
+00:12:47,300 --> 00:12:52,120
+As though in answer to Holmes' words, the door opened and Constable Barton, a stout young officer,
+
+194
+00:12:52,660 --> 00:12:56,180
+entered the chamber, his lantern casting long shadows upon the walls.
+
+195
+00:12:56,740 --> 00:13:00,379
+Good evening, Mr. Holmes. Doctor, you come in good time.
+
+196
+00:13:00,700 --> 00:13:03,260
+The fellow is secured below and awaits your inspection.
+
+197
+00:13:04,160 --> 00:13:06,600
+Excellent. And what have you found here?
+
+198
+00:13:07,400 --> 00:13:10,720
+Nothing of Mr. St. Clair, sir, save for this.
+
+199
+00:13:10,720 --> 00:13:16,139
+He held up a bundle of clothes, neatly folded, and undeniably of good quality.
+
+200
+00:13:16,660 --> 00:13:19,040
+Within the coat pocket dimmered a handful of sovereigns,
+
+201
+00:13:19,240 --> 00:13:22,340
+and in the waistcoat lay a pocketbook bearing the name Neville St. Sane.
+
+202
+00:13:22,779 --> 00:13:23,259
+Claire.
+
+203
+00:13:24,139 --> 00:13:29,580
+It is his beyond all doubt, and yet how should his garments be here while he himself has vanished?
+
+204
+00:13:30,519 --> 00:13:33,440
+A question worthy of our utmost attention.
+
+205
+00:13:34,019 --> 00:13:37,160
+But let us first behold the occupant of this chamber.
+
+206
+00:13:37,159 --> 00:13:39,639
+I then said, Anved Daya.
+
+207
+00:13:40,000 --> 00:13:42,980
+We descended once more and were conducted to a corner where,
+
+208
+00:13:43,279 --> 00:13:47,519
+upon a heap of rags, crouched as loathsome a creature as ever I beheld.
+
+209
+00:13:47,699 --> 00:13:50,159
+His face was twisted into a perpetual leer,
+
+210
+00:13:50,480 --> 00:13:54,079
+his lip drawn awry so as to expose a row of yellow teeth.
+
+211
+00:13:54,219 --> 00:13:57,419
+Kutishing, a mass of unkempt hair hung about his brow
+
+212
+00:13:57,419 --> 00:14:00,559
+and his small eyes glittered with mingled fear and defiance.
+
+213
+00:14:00,779 --> 00:14:03,500
+He clutched a clay pipe in his claw-like hand
+
+214
+00:14:03,500 --> 00:14:06,500
+and when we approached, he snarled like some cornered animal.
+
+215
+00:14:07,159 --> 00:14:08,240
+Your name?
+
+216
+00:14:09,299 --> 00:14:12,199
+They call me Boone, sir.
+
+217
+00:14:12,759 --> 00:14:14,120
+Hugh, Boone.
+
+218
+00:14:14,659 --> 00:14:16,539
+Under begging life I lead,
+
+219
+00:14:16,980 --> 00:14:19,059
+for there's little else for the likes of me.
+
+220
+00:14:19,919 --> 00:14:21,860
+You occupy this chamber?
+
+221
+00:14:22,860 --> 00:14:24,759
+Aye, and pay rent for it.
+
+222
+00:14:24,759 --> 00:14:27,519
+But you will not find your gentleman here.
+
+223
+00:14:27,759 --> 00:14:29,379
+I know nothing of him.
+
+224
+00:14:30,600 --> 00:14:32,159
+But his clothes were discovered above.
+
+225
+00:14:32,480 --> 00:14:33,439
+How do you explain that?
+
+226
+00:14:33,980 --> 00:14:35,899
+I cannot explain what I never saw.
+
+227
+00:14:35,899 --> 00:14:39,639
+Maybe he left them, maybe someone blanted them.
+
+228
+00:14:40,000 --> 00:14:44,579
+All I know is that I mind my own trade, and no harm in it.
+
+229
+00:14:45,279 --> 00:14:47,799
+His voice was thick and guttural, his manner evasive.
+
+230
+00:14:48,079 --> 00:14:49,740
+Holmes regarded him with cool detachment,
+
+231
+00:14:50,120 --> 00:14:53,699
+though I could perceive the keen play of thought behind those sharp grey eyes.
+
+232
+00:14:54,439 --> 00:14:57,840
+You deny, then, any knowledge of Mr. Neville St. Clair?
+
+233
+00:14:58,459 --> 00:15:00,299
+And yet, Mrs. St. Clair?
+
+234
+00:15:00,860 --> 00:15:04,340
+Clair herself avers that she saw her husband at your window
+
+235
+00:15:04,340 --> 00:15:05,800
+this very evening.
+
+236
+00:15:07,060 --> 00:15:08,600
+Then the lady is mistaken,
+
+237
+00:15:08,940 --> 00:15:11,160
+for no man has been here save me.
+
+238
+00:15:12,220 --> 00:15:13,840
+Holmes turned to the constable.
+
+239
+00:15:13,840 --> 00:15:16,620
+You have searched the premises thoroughly?
+
+240
+00:15:17,780 --> 00:15:18,740
+Every inch, sir.
+
+241
+00:15:19,160 --> 00:15:20,660
+No trace of the missing man,
+
+242
+00:15:21,160 --> 00:15:22,680
+alive or dead.
+
+243
+00:15:23,680 --> 00:15:25,399
+And yet here are his garments,
+
+244
+00:15:25,740 --> 00:15:26,500
+his pocketbook,
+
+245
+00:15:26,780 --> 00:15:27,879
+his very rings.
+
+246
+00:15:28,500 --> 00:15:29,879
+Curious indeed.
+
+247
+00:15:30,700 --> 00:15:32,780
+Boon, you will remain in custody
+
+248
+00:15:32,780 --> 00:15:34,160
+until further inquiry.
+
+249
+00:15:34,340 --> 00:15:39,399
+The beggar only shrugged and sank back into his rags, muttering curses under his breath.
+
+250
+00:15:39,540 --> 00:15:40,600
+Holmes beckoned me aside.
+
+251
+00:15:41,519 --> 00:15:45,000
+You perceive, Watson, how the case grows darker.
+
+252
+00:15:45,680 --> 00:15:49,399
+Here we have the undeniable presence of Saint Seyn.
+
+253
+00:15:49,899 --> 00:15:54,160
+Clare, yet the only occupant of the house is this wretch.
+
+254
+00:15:54,879 --> 00:15:59,040
+Are we to suppose that he murdered the man and disposed of the body
+
+255
+00:15:59,040 --> 00:16:03,540
+between the moment his wife cried out and the moment that Constable entered?
+
+256
+00:16:03,539 --> 00:16:08,500
+Impossible! And yet what other hypothesis presents itself?
+
+257
+00:16:09,679 --> 00:16:11,699
+Could he have concealed the body somewhere near at hand?
+
+258
+00:16:12,059 --> 00:16:15,219
+The river-lice clothes might not have been cast into the water?
+
+259
+00:16:16,500 --> 00:16:20,199
+A plausible thought, but it fails in one regard.
+
+260
+00:16:20,659 --> 00:16:21,980
+The clothes are here.
+
+261
+00:16:22,379 --> 00:16:27,500
+Why should a murderer trouble to strip his victim at casting him into the Thames?
+
+262
+00:16:28,039 --> 00:16:31,579
+No, Watson, there is a deeper artifice at work.
+
+263
+00:16:31,580 --> 00:16:34,120
+we must return to Baker Street
+
+264
+00:16:34,120 --> 00:16:36,900
+and there in the light of my study
+
+265
+00:16:36,900 --> 00:16:39,820
+arrange these facts in proper order
+
+266
+00:16:39,820 --> 00:16:41,700
+only then shall we hope
+
+267
+00:16:41,700 --> 00:16:43,740
+to pierce the mystery of the man
+
+268
+00:16:43,740 --> 00:16:45,040
+with the twisted lip
+
+269
+00:16:45,040 --> 00:16:47,300
+and so leaving Boone in custody
+
+270
+00:16:47,300 --> 00:16:49,320
+and the bewildered constable to his duties
+
+271
+00:16:49,320 --> 00:16:50,920
+we quitted the bar of gold
+
+272
+00:16:50,920 --> 00:16:52,280
+and once more took to the cab
+
+273
+00:16:52,280 --> 00:16:54,080
+the streets were near deserted now
+
+274
+00:16:54,080 --> 00:16:55,520
+and the lamps burned low
+
+275
+00:16:55,520 --> 00:16:56,680
+as we drove westward
+
+276
+00:16:56,680 --> 00:16:58,379
+Holmes, siphoned and absorbed
+
+277
+00:16:58,379 --> 00:16:59,660
+drew his cloak about him
+
+278
+00:16:59,660 --> 00:17:01,160
+while I turned the matter over
+
+279
+00:17:01,159 --> 00:17:06,899
+in my own mind, only to find each conjecture ending in contradiction. At last, as the first
+
+280
+00:17:06,899 --> 00:17:12,720
+pallor of dawn touched the eastern sky, we reached Baker Street. Mrs. Hudson had long since retired,
+
+281
+00:17:12,940 --> 00:17:16,960
+and so we let ourselves in with a key. Holmes threw himself into his armchair, lit his pipe,
+
+282
+00:17:17,079 --> 00:17:21,119
+and spread upon the table the array of evidence, the toy block, the garments, the pocketbook,
+
+283
+00:17:21,220 --> 00:17:26,779
+and his own hasty notes. Then, leaning back, he steepled his fingers beneath his chin and closed
+
+284
+00:17:26,779 --> 00:17:36,720
+his eyes. Now, Watson, let us review. A gentleman of respectability disappears. His wife beholds him,
+
+285
+00:17:36,940 --> 00:17:45,399
+as she believes, straddling at a window above an opium den. She raises the alarm. The room
+
+286
+00:17:45,399 --> 00:17:52,180
+contains only a deformed beggar. The husband's clothing is discovered, but not the man himself.
+
+287
+00:17:52,180 --> 00:17:59,140
+There is no blood, no weapon, no trace of violence, save in the lady's account.
+
+288
+00:17:59,500 --> 00:18:02,240
+What explanation can encompass all?
+
+289
+00:18:03,140 --> 00:18:08,060
+Murder seems the most natural conclusion, yet you yourself dismiss it. Kidnapping, perhaps?
+
+290
+00:18:09,000 --> 00:18:15,180
+To what end? A man of moderate fortune, no political significance, no known enemies.
+
+291
+00:18:15,180 --> 00:18:17,720
+And yet, Watson, consider this.
+
+292
+00:18:18,240 --> 00:18:22,539
+Why should the beggar Boone possess the outward signs of such prosperity?
+
+293
+00:18:23,060 --> 00:18:27,700
+A room above a den, yes, but also sovereigns in his purse,
+
+294
+00:18:27,900 --> 00:18:31,160
+a pipe of good quality, and did you mark it?
+
+295
+00:18:32,039 --> 00:18:37,860
+The clean, well-kept nails of his hands, strange for one who lives in filth.
+
+296
+00:18:38,740 --> 00:18:40,519
+Indeed, I had not observed that.
+
+297
+00:18:40,519 --> 00:18:44,680
+It is in such trifles that the truth reveals itself.
+
+298
+00:18:44,680 --> 00:18:47,240
+I must pursue this line further.
+
+299
+00:18:47,500 --> 00:18:49,380
+But first, we must rest.
+
+300
+00:18:50,160 --> 00:18:51,660
+Sleep a few hours, my friend,
+
+301
+00:18:51,720 --> 00:18:55,100
+and tomorrow we shall follow the twisted lip to its root.
+
+302
+00:18:56,100 --> 00:18:57,980
+Thus ended that long and bewildering night.
+
+303
+00:18:58,240 --> 00:19:01,019
+Though for myself, sleep came only in uneasy fragments,
+
+304
+00:19:01,279 --> 00:19:04,039
+haunted by the image of Mrs. St. Clair's pained face
+
+305
+00:19:04,039 --> 00:19:06,340
+and the leering visage of the beggar boon,
+
+306
+00:19:06,620 --> 00:19:09,640
+little did I know what revelations awaited us upon the morrow.
+
+307
+00:19:10,400 --> 00:19:12,820
+The following day dawned grey and cheerless,
+
+308
+00:19:12,819 --> 00:19:16,519
+with the fog hanging low over Baker Street, like a heavy curtain.
+
+309
+00:19:16,980 --> 00:19:19,220
+London, that restless giant, was stirring to life.
+
+310
+00:19:19,460 --> 00:19:22,519
+But within the quiet walls of our sitting room, the world seemed suspended,
+
+311
+00:19:22,919 --> 00:19:26,599
+awaiting the unravelling of the strange mystery that had so suddenly enmeshed us.
+
+312
+00:19:26,859 --> 00:19:29,740
+Holmes had slept, but briefly, rising with the first light.
+
+313
+00:19:29,899 --> 00:19:32,399
+And I found him already immersed in chemical experiments.
+
+314
+00:19:32,720 --> 00:19:35,740
+His sleeves rolled back and his sharp profile bent over a retort.
+
+315
+00:19:35,939 --> 00:19:40,599
+A faint smell of acid mingled with the aroma of coffee Mrs. Hudson had contrived for us.
+
+316
+00:19:41,259 --> 00:19:42,539
+Holmes, you astonish me.
+
+317
+00:19:42,539 --> 00:19:44,899
+After such a night, one would expect you to rest.
+
+318
+00:19:45,460 --> 00:19:49,879
+And here you are at your crucibles, as if a laboratory were more refreshing than a bed.
+
+319
+00:19:50,659 --> 00:19:53,700
+Rest, my dear Watson, is a relative thing.
+
+320
+00:19:54,139 --> 00:20:01,339
+My mind was occupied, and until it has reached a point of resolution, the body refuses repose.
+
+321
+00:20:01,839 --> 00:20:06,539
+Besides, a few hours suffice me where another man might require aid.
+
+322
+00:20:06,859 --> 00:20:08,220
+But come, sit down.
+
+323
+00:20:08,220 --> 00:20:13,620
+I have arranged matters in my thoughts and would gladly submit them to your judgment.
+
+324
+00:20:14,880 --> 00:20:18,380
+I did as he bade me, settling into the familiar armchair opposite,
+
+325
+00:20:18,759 --> 00:20:21,940
+while Holmes laid aside his retort and, pipe in hand,
+
+326
+00:20:22,339 --> 00:20:27,059
+began to pace the carpet with that peculiar quick stride which marked his deepest concentration.
+
+327
+00:20:27,860 --> 00:20:29,900
+Let us begin with certainties.
+
+328
+00:20:30,299 --> 00:20:31,819
+First, Neville Sane.
+
+329
+00:20:31,819 --> 00:20:38,240
+Claire was unquestionably in the room above the bar of gold upon the evening in question.
+
+330
+00:20:38,740 --> 00:20:42,980
+His wife saw him, and her recognition may be accepted as conclusive.
+
+331
+00:20:46,059 --> 00:20:51,039
+Second, his clothing was found there, complete and in good order.
+
+332
+00:20:51,659 --> 00:20:55,599
+Third, the only other person present was the beggar Boone.
+
+333
+00:20:56,059 --> 00:21:00,000
+Fourth, no trace of violence was discovered. These are facts.
+
+334
+00:21:01,819 --> 00:21:05,460
+Now, how are we to reconcile them?
+
+335
+00:21:07,299 --> 00:21:09,839
+The most natural supposition, surely,
+
+336
+00:21:10,179 --> 00:21:13,179
+is that Boone murdered St. Clair and disposed of the body.
+
+337
+00:21:13,980 --> 00:21:16,559
+You forget, Watson, that the constable entered
+
+338
+00:21:16,559 --> 00:21:19,139
+within moments of Mrs. St. Clair's alarm.
+
+339
+00:21:19,679 --> 00:21:22,599
+Could a man commit murder, strip his victim,
+
+340
+00:21:22,980 --> 00:21:24,319
+conceal or remove the body,
+
+341
+00:21:24,539 --> 00:21:26,759
+and then resume his place upon the rags?
+
+342
+00:21:27,099 --> 00:21:28,839
+All in so short an interval?
+
+343
+00:21:28,839 --> 00:21:32,159
+Third, the hypothesis will not hold.
+
+344
+00:21:33,000 --> 00:21:34,939
+Then perhaps the body was hidden within the house?
+
+345
+00:21:35,679 --> 00:21:38,119
+The police searched thoroughly.
+
+346
+00:21:38,980 --> 00:21:43,959
+Unless we assume supernatural powers of concealment, the body is not there.
+
+347
+00:21:45,139 --> 00:21:46,919
+Yet, the garments are.
+
+348
+00:21:47,259 --> 00:21:51,579
+Therefore, one of two conclusions must be drawn, either saint.
+
+349
+00:21:52,139 --> 00:21:55,740
+Clare left that room alive and by his own will,
+
+350
+00:21:55,740 --> 00:22:02,000
+or else he never left it at all, but in a manner which defies our conventional categories.
+
+351
+00:22:02,420 --> 00:22:08,579
+I confess I shook my head at this, for such subtleties of reasoning are not native to my own mind.
+
+352
+00:22:09,339 --> 00:22:13,299
+If he left alive, then why should he abandon his clothes? It is unthinkable.
+
+353
+00:22:14,279 --> 00:22:17,500
+Quite so. And yet, Watson, look at Boone.
+
+354
+00:22:17,839 --> 00:22:22,900
+You noted his appearance, the twisted lick, the wild hair, the rags.
+
+355
+00:22:22,900 --> 00:22:25,440
+But did you note his hands?
+
+356
+00:22:25,740 --> 00:22:29,240
+You mentioned them last night. They were cleaner than one would expect.
+
+357
+00:22:30,220 --> 00:22:33,920
+Precisely. The nails were well-shaped, the fingers tapering.
+
+358
+00:22:34,640 --> 00:22:40,019
+Not the claws of a vagabond who scrabbles in the gutter, but the hands of a gentleman.
+
+359
+00:22:40,660 --> 00:22:46,359
+That incongruity, my dear fellow, is the key. Boon is not what he seems.
+
+360
+00:22:47,259 --> 00:22:50,859
+Holmes spoke with that quiet certainty, which made contradiction futile.
+
+361
+00:22:50,859 --> 00:22:55,759
+Joke hai! He threw himself once more into his chair and blew a ring of smoke toward the ceiling.
+
+362
+00:22:56,699 --> 00:23:02,099
+Imagine, Watson, that a man of education and respectability should adopt,
+
+363
+00:23:02,419 --> 00:23:06,079
+if for purposes of his own, the disguise of a beggar.
+
+364
+00:23:06,559 --> 00:23:11,139
+What then? He could earn a livelihood, escape recognition,
+
+365
+00:23:11,619 --> 00:23:15,319
+and vanish at will into the city's teeming crowds.
+
+366
+00:23:15,719 --> 00:23:17,639
+Might not Boone be such a one?
+
+367
+00:23:17,640 --> 00:23:21,980
+But to what end? Why should a gentleman debase himself so horribly?
+
+368
+00:23:23,040 --> 00:23:26,080
+That is the point we must discover.
+
+369
+00:23:26,620 --> 00:23:30,000
+Yet I have already made one experiment toward it.
+
+370
+00:23:30,620 --> 00:23:34,340
+He rose, went to his desk and drew forth a sheet of notepaper.
+
+371
+00:23:34,759 --> 00:23:37,900
+Upon it was scrawled several lines in his bold, angular hand.
+
+372
+00:23:38,740 --> 00:23:42,600
+This morning I dispatched telegrams to certain agents of mine in the city,
+
+373
+00:23:44,080 --> 00:23:46,980
+instructing them to gather intelligence upon the beggar.
+
+374
+00:23:47,640 --> 00:23:54,860
+Boone, where he stations himself, how long he has been known, what manner of life he leads.
+
+375
+00:23:55,660 --> 00:24:02,400
+Their reports will reach me ere nightfall. Meanwhile, we must wait. In the interval,
+
+376
+00:24:02,400 --> 00:24:09,520
+I propose we call once more upon Mrs. Saints, Claire, that we may learn whether any further
+
+377
+00:24:09,520 --> 00:24:15,840
+intelligence has reached her. Accordingly, after a hasty luncheon, we set forth again to
+
+378
+00:24:15,839 --> 00:24:18,079
+Kentish town. The weather had turned drizzling
+
+379
+00:24:18,079 --> 00:24:20,159
+and the streets were splashed with puddles.
+
+380
+00:24:20,579 --> 00:24:22,059
+Mrs. Saint-Saint Lair received
+
+381
+00:24:22,059 --> 00:24:23,980
+us with anxious eagerness, though her
+
+382
+00:24:23,980 --> 00:24:25,980
+face was somewhat less stricken than on the
+
+383
+00:24:25,980 --> 00:24:26,579
+previous night.
+
+384
+00:24:27,439 --> 00:24:29,399
+Oh, Mr. Holmes, you are kind to come.
+
+385
+00:24:29,779 --> 00:24:31,899
+I have heard nothing since I last saw you.
+
+386
+00:24:32,720 --> 00:24:33,919
+My heart tells me
+
+387
+00:24:33,919 --> 00:24:35,480
+that Neville is still alive,
+
+388
+00:24:35,839 --> 00:24:38,079
+yet the uncertainty is torture.
+
+389
+00:24:40,980 --> 00:24:42,079
+You may trust,
+
+390
+00:24:42,079 --> 00:24:44,039
+madam, that no effort shall be
+
+391
+00:24:44,039 --> 00:24:52,680
+spared. Permit me a few questions. Your husband, I understand, is in the habit of going daily to
+
+392
+00:24:52,680 --> 00:25:00,019
+the city? Yes, sir, though his business is of a private sort. He has dealings in shares and such
+
+393
+00:25:00,019 --> 00:25:07,259
+matters, and keeps an office in the square. Did you ever observe aught unusual in his comings
+
+394
+00:25:07,259 --> 00:25:09,119
+or goings? Any
+
+395
+00:25:09,119 --> 00:25:11,180
+acquaintances of whom you disapproved?
+
+396
+00:25:11,440 --> 00:25:12,900
+Any hint that he lived
+
+397
+00:25:12,900 --> 00:25:14,039
+a double life?
+
+398
+00:25:14,879 --> 00:25:17,200
+Never. He was the most affectionate of husbands,
+
+399
+00:25:17,319 --> 00:25:18,720
+the most devoted of fathers.
+
+400
+00:25:19,119 --> 00:25:21,319
+He had no secrets from me,
+
+401
+00:25:21,440 --> 00:25:23,359
+at least so I believed.
+
+402
+00:25:23,980 --> 00:25:25,279
+You mentioned yesterday
+
+403
+00:25:25,279 --> 00:25:26,839
+that he carried a chai stoy,
+
+404
+00:25:27,119 --> 00:25:28,680
+the wooden block stained with blood.
+
+405
+00:25:29,000 --> 00:25:30,700
+Was that indeed the same which you saw?
+
+406
+00:25:31,579 --> 00:25:32,599
+Oh yes, doctor.
+
+407
+00:25:32,900 --> 00:25:35,160
+I gave it him myself, not an
+
+408
+00:25:35,160 --> 00:25:36,879
+hour before he left the house.
+
+409
+00:25:36,880 --> 00:25:40,840
+He placed it in his pocket, saying that our little one should have it at bedtime.
+
+410
+00:25:41,460 --> 00:25:46,380
+To see it return to me in such a condition, it was dreadful.
+
+411
+00:25:47,640 --> 00:25:53,580
+And on the day of his disappearance, was there anything unusual in his manner?
+
+412
+00:25:54,560 --> 00:25:58,200
+He was cheerful as always. Nothing gave me cause for alarm.
+
+413
+00:25:59,140 --> 00:26:02,300
+Holmes listened with grave attention, making brief notes in his pocketbook.
+
+414
+00:26:02,560 --> 00:26:05,680
+When she had finished, he rose and bowed with the utmost courtesy.
+
+415
+00:26:05,680 --> 00:26:11,960
+You have aided us greatly, madam. Be assured the truth is nearer than you think.
+
+416
+00:26:12,519 --> 00:26:20,220
+Watson and I will pursue the inquiry further, and I hope ere long to bring you tidings more certain than hope or fear.
+
+417
+00:26:20,600 --> 00:26:26,019
+We took our leave, and as we walked back toward the main road, I could not refrain from voicing my perplexity.
+
+418
+00:26:26,420 --> 00:26:26,720
+Huh!
+
+419
+00:26:27,380 --> 00:26:34,180
+Horns, the matter grows only darker. The wife swears to her husband's character and to her own vision of him at the window.
+
+420
+00:26:34,180 --> 00:26:36,640
+yet all material evidence points only to Boone.
+
+421
+00:26:36,920 --> 00:26:38,320
+How can the two be reconciled?
+
+422
+00:26:39,060 --> 00:26:42,360
+By assuming that they are not two, but one.
+
+423
+00:26:43,140 --> 00:26:44,500
+I stared at him in astonishment.
+
+424
+00:26:45,180 --> 00:26:47,759
+You mean that Boone is Neville St. Clair himself?
+
+425
+00:26:48,480 --> 00:26:50,940
+Ah, exactly so. Hmm.
+
+426
+00:26:51,700 --> 00:26:52,940
+But Holmes, that is monstrous.
+
+427
+00:26:53,279 --> 00:26:56,140
+Why should a gentleman voluntarily assume such a loathsome disguise?
+
+428
+00:26:57,060 --> 00:27:01,759
+That, Watson, is the very question which makes the case so singular.
+
+429
+00:27:01,759 --> 00:27:04,640
+Yet remember, the evidence fits.
+
+430
+00:27:05,220 --> 00:27:10,920
+The clean hands, the sovereigns, the pipe of quality, the well-furnished room.
+
+431
+00:27:11,980 --> 00:27:14,180
+These are not the belongings of a vagabond.
+
+432
+00:27:14,539 --> 00:27:17,720
+They belong to a man who plays at vagabondage.
+
+433
+00:27:18,119 --> 00:27:18,539
+How?
+
+434
+00:27:19,160 --> 00:27:23,379
+And what is more profitable in London than the trade of a professional beggar?
+
+435
+00:27:24,079 --> 00:27:27,279
+Boone has been seen daily upon the streets,
+
+436
+00:27:27,279 --> 00:27:32,859
+and it is whispered that his takings exceed those of many a merchant.
+
+437
+00:27:33,559 --> 00:27:38,639
+Suppose, then, that Neville's saint, Clare, for reasons of his own,
+
+438
+00:27:38,899 --> 00:27:41,639
+has for years maintained this double existence,
+
+439
+00:27:42,079 --> 00:27:45,960
+respectable gentleman by day, mendicant by evening.
+
+440
+00:27:47,460 --> 00:27:50,920
+Last night his wife stumbled upon his secret.
+
+441
+00:27:51,420 --> 00:27:52,879
+Her cry brought the police.
+
+442
+00:27:53,500 --> 00:27:56,160
+He had but moments to effect his transformation.
+
+443
+00:27:56,160 --> 00:28:00,460
+He thrust his clothes aside and appeared as Boone.
+
+444
+00:28:00,920 --> 00:28:05,160
+It is a bold theory, but consider how well it answers all difficulties.
+
+445
+00:28:06,920 --> 00:28:13,120
+Whenever, Tampa, I was struck dumb for the audacity of the idea left me at once bewildered and convinced.
+
+446
+00:28:14,340 --> 00:28:18,460
+It is incredible, and yet, as you stated, I can scarce resist believing.
+
+447
+00:28:19,080 --> 00:28:20,820
+And yet, how to prove it?
+
+448
+00:28:21,500 --> 00:28:23,460
+Proof is what we shall seek.
+
+449
+00:28:24,019 --> 00:28:25,460
+Boone is in custody.
+
+450
+00:28:25,460 --> 00:28:32,519
+I have but to obtain certain cosmetic reagents, and we shall see what lies beneath that twisted lip.
+
+451
+00:28:33,259 --> 00:28:37,240
+Holmes' words thrilled me, for I knew that some decisive revelation was near.
+
+452
+00:28:37,500 --> 00:28:41,779
+We returned to Baker Street, where the remainder of the afternoon was spent in impatient expectation.
+
+453
+00:28:42,019 --> 00:28:48,420
+At length, as dusk fell, there came the sound of wheels, and a messenger arrived bearing several envelopes.
+
+454
+00:28:48,680 --> 00:28:52,440
+Holmes tore them open eagerly, scanning the contents with a gleam of triumph.
+
+455
+00:28:52,440 --> 00:28:59,059
+It is as I suspected. Boone has been known these seven years at the corner of Threadneedle Street
+
+456
+00:28:59,059 --> 00:29:05,019
+and is reputed to make his two pounds a day. Yet no one knows where he goes at night.
+
+457
+00:29:05,759 --> 00:29:11,259
+Some say he has a lodging in Stepney, others that he vanishes into the river fog.
+
+458
+00:29:11,640 --> 00:29:19,840
+No beggar of his class ever handled so much coin. Watson, the case is solved in all but the formal proof.
+
+459
+00:29:19,839 --> 00:29:21,659
+And that proof?
+
+460
+00:29:22,459 --> 00:29:24,039
+We shall obtain it tonight
+
+461
+00:29:24,039 --> 00:29:26,419
+Come, the yard awaits us
+
+462
+00:29:26,419 --> 00:29:27,579
+Bring your revolver
+
+463
+00:29:27,579 --> 00:29:29,559
+Though I think we shall need no force
+
+464
+00:29:29,559 --> 00:29:31,240
+Beyond a pair of sharp eyes
+
+465
+00:29:31,240 --> 00:29:32,659
+And a bottle of spirits
+
+466
+00:29:32,659 --> 00:29:36,559
+And so, as night closed once more upon London
+
+467
+00:29:36,559 --> 00:29:38,259
+We set forth with renewed vigour
+
+468
+00:29:38,259 --> 00:29:39,539
+Bound for the police station
+
+469
+00:29:39,539 --> 00:29:41,839
+Where Boone, the man with the twisted lip
+
+470
+00:29:41,839 --> 00:29:44,539
+Awaited the final stroke of Holmes' deduction
+
+471
+00:29:44,539 --> 00:29:46,579
+The night was heavy with fog
+
+472
+00:29:46,579 --> 00:29:47,740
+When we left Baker Street
+
+473
+00:29:47,740 --> 00:29:48,459
+Hide and piety
+
+474
+00:29:48,460 --> 00:29:50,840
+Asif, the lamps along the thoroughfare
+
+475
+00:29:50,840 --> 00:29:52,539
+Dewing faintly like beacons
+
+476
+00:29:52,539 --> 00:29:54,100
+Half lost in a sea of grey
+
+477
+00:29:54,100 --> 00:29:56,600
+Didi, Combs was in a state of quiet
+
+478
+00:29:56,600 --> 00:29:57,819
+But intense excitement
+
+479
+00:29:57,819 --> 00:30:00,740
+His long fingers twitching restlessly upon his gain
+
+480
+00:30:00,740 --> 00:30:03,059
+His eyes gleaming with that peculiar fire
+
+481
+00:30:03,059 --> 00:30:05,400
+Which betrayed the near approach of discovery
+
+482
+00:30:05,400 --> 00:30:07,079
+Hi, for my part
+
+483
+00:30:07,079 --> 00:30:09,019
+Felt a mingling of eagerness and unease
+
+484
+00:30:09,019 --> 00:30:11,700
+For though I had come to trust his instincts implicitly
+
+485
+00:30:11,700 --> 00:30:13,819
+The notion that a respectable gentleman
+
+486
+00:30:13,819 --> 00:30:15,740
+Could also be a loathsome beggar
+
+487
+00:30:15,740 --> 00:30:18,440
+Seemed almost beyond the bounds of human tradulity
+
+488
+00:30:18,440 --> 00:30:21,519
+Our cab bore us swiftly eastward to Bow Street
+
+489
+00:30:21,519 --> 00:30:22,779
+where Boone was confined
+
+490
+00:30:22,779 --> 00:30:25,559
+The police, accustomed now to Holmes' interventions
+
+491
+00:30:25,559 --> 00:30:27,320
+admitted us without demur
+
+492
+00:30:27,320 --> 00:30:29,420
+We were ushered into a plain chamber
+
+493
+00:30:29,420 --> 00:30:31,059
+lit by a single oil lamp
+
+494
+00:30:31,059 --> 00:30:33,039
+where at a table sat Inspector Bradstreet
+
+495
+00:30:33,039 --> 00:30:35,519
+a burly officer of frank and genuine manner
+
+496
+00:30:35,519 --> 00:30:37,519
+Beside him, slouched in his chair
+
+497
+00:30:37,519 --> 00:30:39,259
+was the miserable figure of Boone
+
+498
+00:30:39,259 --> 00:30:41,420
+His twisted mouth contorted in a sneer
+
+499
+00:30:41,420 --> 00:30:43,740
+His eyes darting from one to another of us
+
+500
+00:30:43,740 --> 00:30:44,759
+with sullen defiance
+
+501
+00:30:44,759 --> 00:30:46,299
+Good evening, Mr. Holmes
+
+502
+00:30:46,299 --> 00:30:50,779
+Dr. Watson, I thought it but fair to let you have a look at our prisoner.
+
+503
+00:30:51,139 --> 00:30:53,059
+He's as obstinate as a mule.
+
+504
+00:30:53,399 --> 00:30:55,240
+Won't give us a word beyond his name.
+
+505
+00:30:55,579 --> 00:30:58,500
+What's more, we've no charge to hold him on, save suspicion.
+
+506
+00:30:58,839 --> 00:31:02,139
+If we can't prove art against him, he'll walk free in the morning.
+
+507
+00:31:02,700 --> 00:31:05,079
+That would be a pity, Inspector,
+
+508
+00:31:05,680 --> 00:31:09,980
+for I believe this man's true identity to be of the first importance.
+
+509
+00:31:10,440 --> 00:31:13,500
+If you will grant me a few minutes alone with him,
+
+510
+00:31:13,500 --> 00:31:19,779
+I promise you the strangest transformation you have ever witnessed within these walls.
+
+511
+00:31:22,220 --> 00:31:24,319
+Gnarling transformation, is it?
+
+512
+00:31:25,480 --> 00:31:30,680
+You may waste your time, sir, but I am what I am.
+
+513
+00:31:31,400 --> 00:31:33,720
+A poor cripple with a cursed lip.
+
+514
+00:31:34,200 --> 00:31:35,539
+And that's the end of it.
+
+515
+00:31:37,980 --> 00:31:39,259
+We shall see.
+
+516
+00:31:39,259 --> 00:31:48,440
+Inspector, with your leave, I should like a basin of warm water, a bar of soap, and a small bottle of spirits of heart horn.
+
+517
+00:31:48,879 --> 00:31:51,759
+You may add a towel, if you are so disposed.
+
+518
+00:31:52,900 --> 00:31:56,700
+Laughing? By George, Mr. Holmes, this grows curious indeed.
+
+519
+00:31:57,140 --> 00:31:58,920
+Very well, you shall have your wish.
+
+520
+00:31:59,819 --> 00:32:03,579
+The required items were soon brought, and Holmes set them meekly upon the table.
+
+521
+00:32:03,579 --> 00:32:09,679
+He removed his coat, rolled back his sleeves and regarded the prisoner with an expression at once cold and commanding.
+
+522
+00:32:10,519 --> 00:32:15,879
+Now Boone, or should I say Neville St. Clair, let us dispense with pretense.
+
+523
+00:32:16,379 --> 00:32:20,699
+You have played your part admirably, but the curtain must fall.
+
+524
+00:32:21,199 --> 00:32:24,199
+Will you revere yourself or must I do it for you?
+
+525
+00:32:24,859 --> 00:32:28,240
+At the sound of his true name, Boone started violently.
+
+526
+00:32:28,779 --> 00:32:30,679
+For an instant, his eyes betrayed panic.
+
+527
+00:32:30,919 --> 00:32:33,019
+Then he folded his arms with affected composure.
+
+528
+00:32:33,019 --> 00:32:37,180
+You talk nonsense, sir. I never heard that name before.
+
+529
+00:32:38,139 --> 00:32:41,180
+So be it. Watson, kindly hold the basin.
+
+530
+00:32:41,839 --> 00:32:46,180
+With that, Holmes seized the man's chin in his firm grasp, heedless of his struggles,
+
+531
+00:32:46,400 --> 00:32:50,039
+and began vigorously to scrub the distorted lip with the soapy cloth.
+
+532
+00:32:50,259 --> 00:32:53,420
+The prisoner writhed and cursed, but Holmes' grip was unyielding.
+
+533
+00:32:53,779 --> 00:32:57,940
+Presently, with a few rapid motions and a dash of the sharp-smelling spirits,
+
+534
+00:32:58,240 --> 00:33:01,000
+the grime and pigment yielded and the hideous layer faded.
+
+535
+00:33:01,619 --> 00:33:06,440
+Beneath the twisted mouth appeared the well-formed features of a man of education and refinement.
+
+536
+00:33:06,759 --> 00:33:09,319
+The coarse hair was dragged away to reveal a smooth brow,
+
+537
+00:33:09,319 --> 00:33:14,839
+and the rags seemed suddenly incongruous upon a body that bore itself with the instinctive carriage of a gentleman.
+
+538
+00:33:15,619 --> 00:33:19,240
+Inspector Bradstreet sprang to his feet with an exclamation of amazement.
+
+539
+00:33:19,900 --> 00:33:22,079
+By heaven! It is St. Clair himself!
+
+540
+00:33:23,160 --> 00:33:27,359
+I too was struck speechless, for there before us sat, trembling and abashed,
+
+541
+00:33:27,359 --> 00:33:31,519
+The very image of the missing gentleman whom we had sought in vain
+
+542
+00:33:31,519 --> 00:33:34,359
+The transformation was so complete, so astounding
+
+543
+00:33:34,359 --> 00:33:37,240
+That for a moment I could scarce believe my eyes
+
+544
+00:33:37,240 --> 00:33:41,059
+Gentlemen, I will confess, resistance is useless
+
+545
+00:33:41,059 --> 00:33:44,819
+You are torn from me the secret I had hoped to guard to my grave
+
+546
+00:33:44,819 --> 00:33:47,179
+Yes, I am Neville St. Saint
+
+547
+00:33:47,179 --> 00:33:51,099
+Claire, though in this garb I am better known as Hugh Boone
+
+548
+00:33:51,099 --> 00:33:54,519
+It is well, sir, that you acknowledge the truth
+
+549
+00:33:54,519 --> 00:33:57,119
+Your wife's distress has been grievous
+
+550
+00:33:57,119 --> 00:34:00,659
+and it is our duty to set her mind at rest.
+
+551
+00:34:01,279 --> 00:34:06,299
+You owe us, therefore, a full and frank account of your strange deception.
+
+552
+00:34:07,659 --> 00:34:11,000
+Sindham, Claire buried his face in his hands for a moment,
+
+553
+00:34:11,219 --> 00:34:14,199
+then raised it with an expression of mingled shame and resignation.
+
+554
+00:34:15,019 --> 00:34:16,019
+You shall know all.
+
+555
+00:34:16,319 --> 00:34:20,579
+There is nothing criminal in my conduct, save the deceit of a double life.
+
+556
+00:34:20,940 --> 00:34:26,079
+When first I came to London, I found myself with modest means and no certain prospect.
+
+557
+00:34:26,079 --> 00:34:32,639
+effect. One day, in a spirit of idle curiosity, I disguised myself as a beggar, and took a
+
+558
+00:34:32,639 --> 00:34:38,279
+seat upon the steps of the exchange. To my amazement, I received more alms in a single
+
+559
+00:34:38,279 --> 00:34:43,960
+day than I could have earned in a week by honest labour. The temptation proved too strong.
+
+560
+00:34:43,960 --> 00:34:49,319
+I perfected my disguise, altered my lip with a twist of wax and pigment, and soon found
+
+561
+00:34:49,319 --> 00:34:54,500
+that I could command an income such as many a merchant might envy. By day, I lived as
+
+562
+00:34:54,500 --> 00:35:01,539
+Neville St. Clair, a gentleman of respectability. By evening I became Boone, the crippled mendicant,
+
+563
+00:35:01,539 --> 00:35:06,659
+haunting the thoroughfares and filling my purse with the careless charity of passers-by.
+
+564
+00:35:07,539 --> 00:35:09,940
+But sir, surely you've had shame at such a deception?
+
+565
+00:35:10,659 --> 00:35:16,500
+At first, doctor, I did indeed. Yet the gold was heavy in my pocket, and as the years passed,
+
+566
+00:35:16,500 --> 00:35:22,820
+I grew accustomed to the part. I told myself that I wronged no man, that I but accepted
+
+567
+00:35:22,820 --> 00:35:30,019
+what they freely gave. And in truth, I prospered. I built my house in Kentish Town. I married.
+
+568
+00:35:30,019 --> 00:35:36,100
+I became a father. None suspected, save the wretched Lusca who let me the room above his den,
+
+569
+00:35:36,100 --> 00:35:40,100
+where I might transform myself unseen. And last night?
+
+570
+00:35:41,539 --> 00:35:48,180
+Ah, last night was my undoing. I had donned my disguise as usual and was in the act of changing
+
+571
+00:35:48,179 --> 00:36:04,739
+in the room above the bar of gold when suddenly i heard my wife's voice in the street below she had seen me at the window ere i could withdraw in my panic i dragged myself back closed the sash and flung off my gentleman's clothes at that instant the constable burst in
+
+572
+00:36:04,739 --> 00:36:16,659
+i had but a moment to thrust the garments aside and resume the semblance of boon they found me thus and i held stubbornly to the part i never dreamed that holmes would pierce the veil so swiftly
+
+573
+00:36:16,659 --> 00:36:19,839
+and the blood upon the toy block.
+
+574
+00:36:20,559 --> 00:36:21,159
+A trifle.
+
+575
+00:36:21,579 --> 00:36:23,920
+I had cut my finger as I strove in haste
+
+576
+00:36:23,920 --> 00:36:25,319
+to conceal my appearance.
+
+577
+00:36:25,779 --> 00:36:27,119
+The toy was in my pocket
+
+578
+00:36:27,119 --> 00:36:28,839
+and so it was stained.
+
+579
+00:36:29,219 --> 00:36:31,420
+I swear, there was no violence, no crime,
+
+580
+00:36:31,559 --> 00:36:32,619
+save my own duplicity.
+
+581
+00:36:33,559 --> 00:36:35,819
+Inspector Bradstreet shook his head in astonishment.
+
+582
+00:36:36,679 --> 00:36:37,839
+Well, I'll be bound.
+
+583
+00:36:38,119 --> 00:36:40,059
+In all my days, I've never seen the like.
+
+584
+00:36:40,059 --> 00:36:42,299
+You think that a respectable gentleman
+
+585
+00:36:42,299 --> 00:36:43,759
+should masquerade thus?
+
+586
+00:36:44,139 --> 00:36:45,879
+But as no crime has been committed,
+
+587
+00:36:45,880 --> 00:36:48,960
+Sabre fraud upon the public, I cannot hold you further.
+
+588
+00:36:48,960 --> 00:36:50,240
+You are free, sir.
+
+589
+00:36:50,579 --> 00:36:54,519
+Though I dare say you'll find your reputation in peril should this tale become known.
+
+590
+00:36:55,700 --> 00:37:01,360
+Inspector, Mr. Holmes, Dr. Watson, I implore you, keep this secret from the world.
+
+591
+00:37:01,680 --> 00:37:04,480
+My wife and children, let them not suffer for my folly.
+
+592
+00:37:04,820 --> 00:37:08,960
+I give you my word, I shall never again don this loathsome garb.
+
+593
+00:37:09,780 --> 00:37:12,800
+The Holmes regarded him sternly for a moment, then softened.
+
+594
+00:37:12,800 --> 00:37:19,400
+Your punishment, sir, lies in the shame you feel and in the confidence you have betrayed.
+
+595
+00:37:19,880 --> 00:37:22,800
+I shall not add to it by public exposure.
+
+596
+00:37:22,800 --> 00:37:28,560
+The truth shall remain among ourselves, provided you keep your oaths.
+
+597
+00:37:28,780 --> 00:37:34,620
+Go then, and live henceforth as Neville St. Clair, the honest gentleman.
+
+598
+00:37:35,200 --> 00:37:41,440
+But remember, the eye of conscience is sharper than mine, and it will follow you wheresoever you go.
+
+599
+00:37:42,800 --> 00:37:46,860
+St. Clair bowed his head in silent gratitude, and the matter was thus concluded.
+
+600
+00:37:47,200 --> 00:37:51,320
+Yet as we quitted the police station and stepped once more into the foggy street,
+
+601
+00:37:51,580 --> 00:37:53,840
+I could not refrain from expressing my wonder.
+
+602
+00:37:54,920 --> 00:37:57,760
+Holmes, this is the strangest case we have yet encountered.
+
+603
+00:37:57,760 --> 00:38:02,820
+Who could have believed that a man would lead so double a life and for so base a reason?
+
+604
+00:38:03,720 --> 00:38:07,860
+It is but another proof, Watson, that truth is ever stranger than fiction.
+
+605
+00:38:07,860 --> 00:38:15,500
+The world is full of masks and deceptions, and it is the task of the detective to tear them away.
+
+606
+00:38:16,220 --> 00:38:27,360
+In this instance, the mask was literal, and the truth lay beneath a smear of pigment and a twist of wax, elementary, once the cue was grasped.
+
+607
+00:38:27,820 --> 00:38:35,860
+But to Mrs. Saint, clear. The truth will be joy, and that, I think, is satisfaction enough.
+
+608
+00:38:35,860 --> 00:38:39,059
+We rode back to Baker Street in thoughtful silence,
+
+609
+00:38:39,380 --> 00:38:41,640
+while the city slumbered beneath its pall of mist,
+
+610
+00:38:42,079 --> 00:38:44,780
+and thus ended the case of The Man with the Twisted Lip,
+
+611
+00:38:44,940 --> 00:38:47,440
+a case which, for sheer singularity of circumstance,
+
+612
+00:38:47,920 --> 00:38:50,559
+stands unmatched in my long association with Sherlock Holmes.
+
+613
+00:38:51,460 --> 00:38:55,280
+The fog had lifted somewhat by the time we returned to Baker Street,
+
+614
+00:38:55,280 --> 00:38:58,200
+though the air was still damp with the lingering breath of the Thames.
+
+615
+00:38:58,440 --> 00:39:01,260
+Holmes, silent and contemplative, hung his coat upon the peg,
+
+616
+00:39:01,539 --> 00:39:04,220
+lit the lamp, and flung himself into a familiar chair by the fire,
+
+617
+00:39:04,219 --> 00:39:07,559
+followed, sinking wearily into my accustomed seat.
+
+618
+00:39:07,739 --> 00:39:09,139
+The events of the last hours,
+
+619
+00:39:09,419 --> 00:39:10,939
+the confrontation, the revelation,
+
+620
+00:39:11,139 --> 00:39:12,179
+the strange confession,
+
+621
+00:39:12,599 --> 00:39:14,359
+still weighed heavily upon my mind.
+
+622
+00:39:15,039 --> 00:39:17,519
+Holmes, I can scarcely believe it even now
+
+623
+00:39:17,519 --> 00:39:19,839
+to think that a man could live such a double life
+
+624
+00:39:19,839 --> 00:39:21,739
+and that beneath the tatters of a beggar
+
+625
+00:39:21,739 --> 00:39:23,919
+there should lurk a respectable gentleman.
+
+626
+00:39:24,219 --> 00:39:25,759
+It is as though one of Dickens' tears
+
+627
+00:39:25,759 --> 00:39:27,799
+had sprung to life before our very eyes.
+
+628
+00:39:28,559 --> 00:39:29,839
+You are right, Watson.
+
+629
+00:39:30,159 --> 00:39:32,879
+It is a tale for the penny magazines.
+
+630
+00:39:32,880 --> 00:39:37,099
+Yet it illustrates a principle I have long held
+
+631
+00:39:37,099 --> 00:39:40,039
+that appearances are but the surface of things
+
+632
+00:39:40,039 --> 00:39:44,059
+and that beneath the mask of poverty may lie the craft of wealth
+
+633
+00:39:44,059 --> 00:39:48,280
+even as beneath the guise of wealth may lurk the gunning of crime.
+
+634
+00:39:48,860 --> 00:39:54,140
+In short, we must reason from facts, not from preconceptions.
+
+635
+00:39:55,760 --> 00:39:58,420
+He leaned back, the smoke from his pipe,
+
+636
+00:39:58,680 --> 00:40:00,420
+reading about his aesthetic features.
+
+637
+00:40:00,420 --> 00:40:05,500
+You see, the case was not truly so impenetrable as it appeared.
+
+638
+00:40:05,760 --> 00:40:10,079
+There was no murder, no abduction, no supernatural disappearance,
+
+639
+00:40:10,680 --> 00:40:14,740
+merely a clever disguise, sustained by long practice.
+
+640
+00:40:15,400 --> 00:40:18,659
+The clean hands betrayed him, the sovereigns gave him away,
+
+641
+00:40:18,900 --> 00:40:24,139
+and the speed with which he transformed himself in that chamber was the final proof.
+
+642
+00:40:24,139 --> 00:40:30,759
+All was elementally once one permitted oneself to think of the possibility
+
+643
+00:40:30,759 --> 00:40:35,279
+And yet, Holmes, do you not feel some measure of pity for the man?
+
+644
+00:40:35,539 --> 00:40:38,699
+His shame, his secrecy, the terror of exposure
+
+645
+00:40:38,699 --> 00:40:41,359
+Must it not have weighed upon him heavily through the years?
+
+646
+00:40:42,480 --> 00:40:45,500
+No doubt, Watson, but pity is not my trade
+
+647
+00:40:45,500 --> 00:40:47,819
+I concern myself with truth
+
+648
+00:40:47,819 --> 00:40:52,059
+And it is for the man himself to reckon with conscience
+
+649
+00:40:52,059 --> 00:41:00,719
+Still, I am not inhuman. I agreed to keep his secret, for the sake of his innocent wife and children.
+
+650
+00:41:01,440 --> 00:41:06,679
+Their happiness outweighs the satisfaction of public justice in this instance.
+
+651
+00:41:07,159 --> 00:41:14,199
+Let the man bury Boone with his own hands, and may Neville's saint, Clare, henceforth, walk an honest road.
+
+652
+00:41:14,880 --> 00:41:18,799
+For a time we sat in silence, the fire crackling softly in the grate.
+
+653
+00:41:18,800 --> 00:41:36,640
+i thought of mrs st claire waiting even now in her little villa at kentish town her heart torn between dread and hope at length i could bear it no longer holmes surely we should carry her the tidings at once it is cruer to let her pass another hour in uncertainty
+
+654
+00:41:36,639 --> 00:41:51,539
+spoken like a true dr watson ever with an eye to the patient's suffering very well we shall go together a cab will take us swiftly and perhaps you may play the herald of glad news
+
+655
+00:41:51,539 --> 00:41:55,420
+And so, despite the lateness of the hour, we set forth once more.
+
+656
+00:41:55,599 --> 00:42:00,179
+The streets were quieter now, the lands burning low, but the city never sleeps entirely.
+
+657
+00:42:00,619 --> 00:42:02,800
+Soon we stood once more before the modest villa.
+
+658
+00:42:03,199 --> 00:42:04,900
+Holmes bade me be the one to knock.
+
+659
+00:42:05,099 --> 00:42:09,300
+And when Mrs. Bezala, mm, Saint Mum, Claire herself answered,
+
+660
+00:42:09,619 --> 00:42:14,159
+candle in hand, her face pale with long vigils, I took her trembling hand in mine.
+
+661
+00:42:15,019 --> 00:42:16,519
+Madam, be comforted.
+
+662
+00:42:16,759 --> 00:42:19,279
+Your husband lives and is safe, tinklers his self.
+
+663
+00:42:19,279 --> 00:42:21,400
+His absence was not the work of violence.
+
+664
+00:42:21,539 --> 00:42:23,539
+but of his own most singular deception.
+
+665
+00:42:23,779 --> 00:42:25,480
+He will return to you this very night,
+
+666
+00:42:25,719 --> 00:42:28,059
+penitent, and resolved to cast off forever
+
+667
+00:42:28,059 --> 00:42:30,079
+the mask which has so tormented you.
+
+668
+00:42:30,360 --> 00:42:30,719
+Best!
+
+669
+00:42:31,079 --> 00:42:32,019
+All is well.
+
+670
+00:42:32,920 --> 00:42:35,519
+At these words, she uttered a cry of joy,
+
+671
+00:42:35,800 --> 00:42:37,719
+and the candle merely fell from her grasp.
+
+672
+00:42:38,000 --> 00:42:39,619
+Tears streamed down her cheeks
+
+673
+00:42:39,619 --> 00:42:41,400
+as she pressed my hand to her lips.
+
+674
+00:42:42,219 --> 00:42:44,000
+Oh doctor, you bring me back to life.
+
+675
+00:42:44,259 --> 00:42:45,039
+Tell me no more.
+
+676
+00:42:45,279 --> 00:42:46,579
+I ask no questions.
+
+677
+00:42:47,119 --> 00:42:49,000
+If Neville lives and will return,
+
+678
+00:42:49,219 --> 00:42:50,480
+that is all I need.
+
+679
+00:42:50,480 --> 00:42:53,760
+God bless you and God bless Mr. Holmes.
+
+680
+00:42:54,500 --> 00:42:54,780
+Wand
+
+681
+00:42:54,780 --> 00:42:57,860
+We left her thus.
+
+682
+00:42:58,240 --> 00:42:59,019
+Her heart lightened.
+
+683
+00:42:59,300 --> 00:43:03,159
+Her candle held high as do it were the lamp of hope itself.
+
+684
+00:43:03,579 --> 00:43:05,360
+Holmes said nothing as we re-entered the cab
+
+685
+00:43:05,360 --> 00:43:09,119
+but his eyes softened and I thought I perceived in him a rare glow of satisfaction.
+
+686
+00:43:09,900 --> 00:43:13,199
+Back at Baker Street, as dawn broke pale and worn across the housetops
+
+687
+00:43:13,199 --> 00:43:16,679
+Holmes stretched himself upon the sofa and closed his eyes.
+
+688
+00:43:17,559 --> 00:43:19,019
+Another case concluded.
+
+689
+00:43:19,340 --> 00:43:19,639
+Watson
+
+690
+00:43:19,639 --> 00:43:26,440
+Strange, grotesque, perhaps even sordid, but instructive.
+
+691
+00:43:27,219 --> 00:43:30,799
+Let it stand in your notes as an example of the power of disguise
+
+692
+00:43:30,799 --> 00:43:35,299
+and of the folly of assuming that poverty must always be genuine.
+
+693
+00:43:35,920 --> 00:43:39,679
+There is no such school of imposture as London itself.
+
+694
+00:43:40,339 --> 00:43:42,199
+It breeds deceits in every alley,
+
+695
+00:43:42,539 --> 00:43:47,539
+and it is our task to tear away the mask, whether it hides crime or folly.
+
+696
+00:43:47,539 --> 00:43:50,659
+I shall set it down faithfully, Holmes
+
+697
+00:43:50,659 --> 00:43:53,659
+And though some may find it less sensational than murder or conspiracy
+
+698
+00:43:53,659 --> 00:43:56,619
+I venture to think that readers will find it no less remarkable
+
+699
+00:43:56,619 --> 00:43:58,699
+Smiling faintly
+
+700
+00:43:58,699 --> 00:44:01,559
+Then my work has not been in vain
+
+701
+00:44:01,559 --> 00:44:04,179
+For if the tale instructs one mind
+
+702
+00:44:04,179 --> 00:44:06,320
+Sharpens one perception
+
+703
+00:44:06,320 --> 00:44:09,000
+Or lifts one veil of ignorance
+
+704
+00:44:09,000 --> 00:44:10,860
+It has served its purpose
+
+705
+00:44:10,860 --> 00:44:13,279
+And now, Watson, to bed
+
+706
+00:44:13,279 --> 00:44:16,920
+The next telegram may summon us to some fresh absurdity
+
+707
+00:44:16,920 --> 00:44:18,500
+and we must be ready.
+
+708
+00:44:46,920 --> 00:44:51,760
+logic. Beneath his keen deductions lay a thread of mercy, a willingness to temper justice
+
+709
+00:44:51,760 --> 00:44:57,320
+with compassion when the innocent might suffer by too rigid an application of law. That,
+
+710
+00:44:57,320 --> 00:45:02,360
+perhaps, was the truest revelation of all. And so I close this record as the lamps of
+
+711
+00:45:02,360 --> 00:45:07,599
+Baker Street fade into memory and the figure of my friend stands once more before me. Lean,
+
+712
+00:45:07,599 --> 00:45:12,860
+ascetic, pipe in hand, his eyes alight with that flame of intellect which burned so steadily
+
+713
+00:45:12,860 --> 00:45:16,200
+and which cast its glow upon many a darkened corner of the human soul,
+

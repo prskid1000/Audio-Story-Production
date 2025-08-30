@@ -1,0 +1,7 @@
+# Character Voice Mapping
+# Format: character=voice
+
+narrator=alok_en
+watson=alok_en
+holmes=ramesh_en
+john_openshaw=himanshu_en
