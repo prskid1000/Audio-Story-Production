@@ -1,1 +1,1 @@
-AI COntent Studio
+AI Content Studio
