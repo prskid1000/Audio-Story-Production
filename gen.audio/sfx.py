@@ -40,7 +40,7 @@ class DirectTimelineProcessor:
             else:
                 if current_silence_duration > 0:
                     combined_entries.append({
-                        'seconds': current_silence_duration,
+                        'seconds': round(current_silence_duration, 5),
                         'description': f"Silence"
                     })
                     current_silence_duration = 0
@@ -48,7 +48,7 @@ class DirectTimelineProcessor:
         
         if current_silence_duration > 0:
             combined_entries.append({
-                'seconds': current_silence_duration,
+                'seconds': round(current_silence_duration, 5),
                 'description': f"Silence"
             })
         
@@ -62,7 +62,7 @@ class DirectTimelineProcessor:
             if ':' in line:
                 parts = line.split(':', 1)
                 if len(parts) == 2:
-                    seconds = float(parts[0].strip())
+                    seconds = round(float(parts[0].strip()), 5)
                     description = parts[1].strip()
                     timeline_entries.append({'seconds': seconds, 'description': description})
         
@@ -73,7 +73,7 @@ class DirectTimelineProcessor:
         """Save combined timeline back to file"""
         with open(filename, 'w', encoding='utf-8') as f:
             for entry in timeline_entries:
-                f.write(f"{entry['seconds']}: {entry['description']}\n")
+                f.write(f"{round(entry['seconds'], 5)}: {entry['description']}\n")
         print(f"💾 Saved {len(timeline_entries)} entries to {filename}")
     
     def clear_output_folder(self):
@@ -194,13 +194,13 @@ class DirectTimelineProcessor:
     def generate_single_sfx(self, entry_data):
         """Generate single SFX audio file"""
         i, entry = entry_data
-        duration = entry['seconds']
+        duration = round(entry['seconds'], 5)
         if duration <= 0:
             return None
         
         # Create filename with order information for proper merging
         entry_type = "silence" if self.is_silence_entry(entry['description']) else "sfx"
-        filename = f"sfx_{i:03d}_{entry_type}_{entry['seconds']}"
+        filename = f"sfx_{i:03d}_{entry_type}_{round(entry['seconds'], 5)}"
         
         # Check if this is a silence entry
         if self.is_silence_entry(entry['description']):

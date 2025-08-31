@@ -31,10 +31,12 @@ def generate_files(segments, srt_file, text_file, timeline_file):
     
     # Generate timeline content
     timeline_content = ""
+    total_duration = 0
     for segment in segments:
         duration = segment["end"] - segment["start"]
+        total_duration += duration
         text = re.sub(r'\s+', ' ', segment["text"].strip())
-        timeline_content += f"{duration}: {text}\n"
+        timeline_content += f"{duration:.5f}: {text}\n"
     
     # Write files
     with open(srt_file, 'w', encoding='utf-8') as f:
@@ -49,6 +51,8 @@ def generate_files(segments, srt_file, text_file, timeline_file):
     print(f"SRT file saved to: {srt_file}")
     print(f"Text file saved to: {text_file}")
     print(f"Timeline file saved to: {timeline_file}")
+    
+    return total_duration
 
 def transcribe_audio(audio_path, srt_file, text_file, timeline_file, model_name="large"):
     """Transcribe audio and generate all output files"""
@@ -67,15 +71,16 @@ def transcribe_audio(audio_path, srt_file, text_file, timeline_file, model_name=
             word_timestamps=False
         )
         
-        print(f"Original segments: {len(result['segments'])}")
+        segment_count = len(result['segments'])
+        print(f"Original segments: {segment_count}")
         
         # Generate all files
-        generate_files(result["segments"], srt_file, text_file, timeline_file)
-        return True
+        total_duration = generate_files(result["segments"], srt_file, text_file, timeline_file)
+        return True, total_duration, segment_count
         
     except Exception as e:
         print(f"Error during transcription: {str(e)}")
-        return False
+        return False, 0, 0
 
 
 
@@ -98,15 +103,24 @@ def main():
     
     # Time the transcription process
     transcription_start = time.time()
-    success = transcribe_audio(audio_file, srt_file, text_file, timeline_file)
+    result = transcribe_audio(audio_file, srt_file, text_file, timeline_file)
     transcription_time = time.time() - transcription_start
     
-    if success:
+    if result[0]:  # success
+        total_duration = result[1]
+        segment_count = result[2]
         print("\nTranscription completed successfully!")
         print(f"\n✅ Process completed! Files generated:")
         print(f"  • {srt_file} (Original SRT format)")
         print(f"  • {text_file} (Plain text format)")
         print(f"  • {timeline_file} (Duration computed format)")
+        
+        # Display total duration
+        minutes = int(total_duration // 60)
+        seconds = total_duration % 60
+        print(f"\n📊 TRANSCRIPTION SUMMARY:")
+        print(f"  • Total audio duration: {total_duration:.2f} seconds ({minutes}m {seconds:.1f}s)")
+        print(f"  • Number of segments: {segment_count}")
         
         print(f"\n💡 To analyze transcription quality, run: python similarity.py")
     else:
