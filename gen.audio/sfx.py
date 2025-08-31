@@ -295,7 +295,7 @@ class DirectTimelineProcessor:
                 audio_segment = AudioSegment.from_file(file_info['file'], format="flac")
                 final_audio = final_audio + audio_segment
                 
-                print(f"➕ [{file_info['order_index']:2d}] {current_time:6.1f}s - {current_time + file_info['duration']:6.1f}s: {file_info['description']} ({file_info['duration']}s)")
+                print(f"➕ [{file_info['order_index']:2d}] {current_time:6.3f}s - {current_time + file_info['duration']:6.3f}s: {file_info['description']} ({file_info['duration']:.3f}s)")
                 current_time += file_info['duration']
                 
             except Exception as e:
@@ -305,7 +305,7 @@ class DirectTimelineProcessor:
         # Always save as sfx.wav
         final_audio.export("sfx.wav", format="wav")
         print(f"🎵 Final audio saved as: sfx.wav")
-        print(f"📊 Total duration: {current_time:.1f} seconds")
+        print(f"📊 Total duration: {current_time:.3f} seconds")
         
         return "sfx.wav"
     
@@ -386,7 +386,7 @@ if __name__ == "__main__":
     try:
         final_audio = processor.process_timeline(timeline_text)
         print(f"✅ Final audio file: {final_audio}")
-        print(f"⏱️  Total execution time: {time.time() - start_time:.2f} seconds")
+        print(f"⏱️  Total execution time: {time.time() - start_time:.3f} seconds")
     except Exception as e:
         print(f"❌ Error during processing: {e}")
         print("💡 Make sure ComfyUI is running at http://127.0.0.1:8188/ for SFX generation")

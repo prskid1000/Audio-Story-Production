@@ -90,9 +90,137 @@ def frequency_similarity(words1, words2):
     
     return intersection / union if union > 0 else 0.0
 
+def fast_edit_distance_similarity(text1, text2):
+    """Fast edit distance similarity using character-level comparison"""
+    if not text1 and not text2:
+        return 1.0
+    
+    # Use SequenceMatcher for faster edit distance approximation
+    similarity = SequenceMatcher(None, text1, text2).ratio()
+    return similarity
+
+def fast_semantic_similarity(words1, words2):
+    """Fast semantic similarity based on word overlap and length weighting"""
+    if not words1 or not words2:
+        return 0.0
+    
+    # Create word frequency vectors
+    freq1 = Counter(words1)
+    freq2 = Counter(words2)
+    
+    # Calculate weighted overlap (simplified)
+    common_words = set(freq1.keys()).intersection(set(freq2.keys()))
+    if not common_words:
+        return 0.0
+    
+    # Simple weighted calculation
+    total_weight = sum(freq1.values()) + sum(freq2.values())
+    overlap_weight = sum(min(freq1[word], freq2[word]) for word in common_words)
+    
+    return overlap_weight / total_weight if total_weight > 0 else 0.0
+
+def fast_structure_similarity(text1, text2):
+    """Fast structure similarity based on text length and word count"""
+    if not text1 and not text2:
+        return 1.0
+    
+    # Simple length-based similarity
+    len1, len2 = len(text1), len(text2)
+    words1, words2 = len(text1.split()), len(text2.split())
+    
+    # Calculate similarities
+    length_sim = 1 - abs(len1 - len2) / max(len1, len2) if max(len1, len2) > 0 else 0
+    word_sim = 1 - abs(words1 - words2) / max(words1, words2) if max(words1, words2) > 0 else 0
+    
+    return (length_sim + word_sim) / 2
+
+def fast_sequence_similarity(text1, text2):
+    """Fast sequence similarity using word-level comparison"""
+    words1, clean_text1 = normalize_text(text1)
+    words2, clean_text2 = normalize_text(text2)
+    
+    # Use word-level similarity for speed
+    return SequenceMatcher(None, words1, words2).ratio()
+
+def positional_word_similarity(text1, text2, tolerance=None):
+    """Calculate similarity based on words at similar positions with improved algorithm"""
+    words1, clean_text1 = normalize_text(text1)
+    words2, clean_text2 = normalize_text(text2)
+    
+    if not words1 or not words2:
+        return 0.0
+    
+    # Find the minimum length to compare
+    min_length = min(len(words1), len(words2))
+    if min_length == 0:
+        return 0.0
+    
+    # Calculate dynamic tolerance based on average sentence length
+    if tolerance is None:
+        # Use average words per sentence (roughly 15-20 words)
+        # For shorter texts, use smaller tolerance; for longer texts, use larger tolerance
+        avg_words_per_sentence = 15
+        dynamic_tolerance = max(2, min(6, min_length // avg_words_per_sentence + 1))
+        tolerance = dynamic_tolerance
+    
+    # Improved algorithm: Use sliding window with weighted scoring
+    total_score = 0.0
+    matched_positions = set()  # Track used positions in text2
+    
+    for i, word1 in enumerate(words1[:min_length]):
+        best_match_score = 0.0
+        best_match_pos = -1
+        
+        # Look for word1 in text2 within tolerance range
+        start_pos = max(0, i - tolerance)
+        end_pos = min(len(words2), i + tolerance + 1)
+        
+        # Check each position in the tolerance range
+        for j in range(start_pos, end_pos):
+            if j not in matched_positions and j < len(words2) and words2[j] == word1:
+                # Calculate position-based score (closer positions get higher scores)
+                distance = abs(i - j)
+                position_score = 1.0 - (distance / (tolerance + 1))
+                
+                # Additional bonus for exact position match
+                if distance == 0:
+                    position_score += 0.2
+                
+                if position_score > best_match_score:
+                    best_match_score = position_score
+                    best_match_pos = j
+        
+        # If we found a match, add it to our score and mark position as used
+        if best_match_pos != -1:
+            total_score += best_match_score
+            matched_positions.add(best_match_pos)
+    
+    # Calculate final positional similarity
+    positional_score = total_score / min_length if min_length > 0 else 0.0
+    
+    # Consider length similarity (penalty for different lengths)
+    length_ratio = min_length / max(len(words1), len(words2))
+    
+    # Additional bonus for overall word order preservation
+    order_bonus = 0.0
+    if len(matched_positions) > 1:
+        # Check if matched positions maintain relative order
+        sorted_positions = sorted(matched_positions)
+        order_consistency = 0
+        for k in range(len(sorted_positions) - 1):
+            if sorted_positions[k] < sorted_positions[k + 1]:
+                order_consistency += 1
+        order_bonus = (order_consistency / (len(sorted_positions) - 1)) * 0.1
+    
+    # Combine all factors
+    final_score = (positional_score + order_bonus) * length_ratio
+    
+    return min(1.0, final_score)
+
 def compare_text_similarity_advanced(text1, text2, detailed=False):
     """
     Advanced text similarity comparison using multiple algorithms.
+    Improved for speech-to-text evaluation.
     
     Args:
         text1 (str): First text to compare
@@ -110,21 +238,28 @@ def compare_text_similarity_advanced(text1, text2, detailed=False):
     word_set1 = set(words1)
     word_set2 = set(words2)
     
+    # Fast similarity metrics
     jaccard_score = jaccard_similarity(word_set1, word_set2)
     word_freq1 = Counter(words1)
     word_freq2 = Counter(words2)
     cosine_score = cosine_similarity(word_freq1, word_freq2)
-    sequence_score = SequenceMatcher(None, clean_text1, clean_text2).ratio()
-    order_score = word_order_similarity(words1, words2)
-    frequency_score = frequency_similarity(words1, words2)
     
-    # Weighted combined score
+    # Fast additional metrics
+    frequency_score = frequency_similarity(words1, words2)
+    semantic_score = fast_semantic_similarity(words1, words2)
+    edit_score = fast_edit_distance_similarity(clean_text1, clean_text2)
+    structure_score = fast_structure_similarity(text1, text2)
+    seq_score = fast_sequence_similarity(text1, text2)
+    positional_score = positional_word_similarity(text1, text2)
+    
+    # Fast weighted combined score for speech-to-text
     combined_score = (
-        sequence_score * 0.3 +      # Character-level similarity
-        cosine_score * 0.25 +       # Word frequency similarity
-        jaccard_score * 0.2 +       # Set-based similarity
-        frequency_score * 0.15 +    # Improved frequency similarity
-        order_score * 0.1           # Word order similarity
+        cosine_score * 0.25 +        # Word frequency similarity (most important)
+        jaccard_score * 0.20 +       # Set-based similarity
+        semantic_score * 0.20 +      # Fast semantic similarity
+        positional_score * 0.15 +    # Positional word similarity (new!)
+        seq_score * 0.10 +           # Fast sequence similarity
+        frequency_score * 0.10       # Frequency similarity
     )
     
     # Ensure the score is between 0.0 and 1.0
@@ -134,11 +269,12 @@ def compare_text_similarity_advanced(text1, text2, detailed=False):
         analysis = {
             'combined_score': round(combined_score, 4),
             'individual_scores': {
-                'sequence_similarity': round(sequence_score, 4),
                 'cosine_similarity': round(cosine_score, 4),
                 'jaccard_similarity': round(jaccard_score, 4),
-                'frequency_similarity': round(frequency_score, 4),
-                'word_order_similarity': round(order_score, 4)
+                'fast_semantic_similarity': round(semantic_score, 4),
+                'positional_word_similarity': round(positional_score, 4),
+                'fast_sequence_similarity': round(seq_score, 4),
+                'frequency_similarity': round(frequency_score, 4)
             },
             'text_analysis': {
                 'text1_length': len(words1),
@@ -198,6 +334,28 @@ def get_similarity_quality(score):
     else:
         return "POOR"
 
+def explain_similarity_score(score):
+    """Get easy-to-understand explanation of similarity score"""
+    if score >= 0.9:
+        return "🎯 Almost perfect! The transcription captures almost everything correctly."
+    elif score >= 0.8:
+        return "✅ Very good! Most words and meaning are preserved accurately."
+    elif score >= 0.6:
+        return "⚠️  Fair quality. Some words may be missing or different, but main meaning is clear."
+    else:
+        return "❌ Poor quality. Many words are different or missing, making it hard to understand."
+
+def explain_individual_metrics():
+    """Return explanations for each similarity metric"""
+    return {
+        'cosine_similarity': "📊 Word Frequency Match: How well the same words appear with similar frequency",
+        'jaccard_similarity': "🔗 Word Set Overlap: How many unique words are shared between texts",
+        'fast_semantic_similarity': "🧠 Meaning Similarity: How well the overall meaning is preserved",
+        'positional_word_similarity': "📍 Word Position: How well words appear in the same order (with flexibility)",
+        'fast_sequence_similarity': "📝 Word Sequence: How well the word-by-word flow matches",
+        'frequency_similarity': "📈 Word Count Match: How similar the word frequency patterns are"
+    }
+
 def main():
     """Main function for standalone similarity comparison"""
     print("Text Similarity Analysis Tool")
@@ -222,16 +380,21 @@ def main():
             print("📊 DETAILED SIMILARITY ANALYSIS")
             print("=" * 50)
             
-            # Combined score
+            # Combined score with explanation
             combined_score = result['combined_score']
             quality = get_similarity_quality(combined_score)
-            print(f"🎯 Combined Similarity Score: {combined_score:.4f} ({quality})")
+            explanation = explain_similarity_score(combined_score)
+            print(f"🎯 Combined Similarity Score: {combined_score:.3f} ({quality})")
+            print(f"💡 {explanation}")
             print()
             
-            # Individual scores
+            # Individual scores with explanations
             print("📈 Individual Algorithm Scores:")
+            metric_explanations = explain_individual_metrics()
             for algorithm, score in result['individual_scores'].items():
-                print(f"  • {algorithm.replace('_', ' ').title()}: {score:.4f}")
+                explanation = metric_explanations.get(algorithm, "Unknown metric")
+                print(f"  • {algorithm.replace('_', ' ').title()}: {score:.3f}")
+                print(f"    {explanation}")
             print()
             
             # Text analysis
@@ -242,21 +405,30 @@ def main():
             print(f"  • Common words: {analysis['common_words']}")
             print(f"  • Unique words (original): {analysis['unique_words_text1']}")
             print(f"  • Unique words (transcribed): {analysis['unique_words_text2']}")
-            print(f"  • Word overlap ratio: {analysis['word_overlap_ratio']:.4f}")
+            print(f"  • Word overlap ratio: {analysis['word_overlap_ratio']:.3f}")
             print()
             
-            # Quality assessment
+            # Quality assessment (now redundant since we have explanation above)
+            print("📋 Summary:")
             if combined_score >= 0.9:
-                print("🎯 EXCELLENT transcription quality!")
+                print("🎯 EXCELLENT - Your transcription is very accurate!")
             elif combined_score >= 0.8:
-                print("✅ GOOD transcription quality")
+                print("✅ GOOD - Your transcription captures most content well")
             elif combined_score >= 0.6:
-                print("⚠️  FAIR transcription quality")
+                print("⚠️  FAIR - Your transcription has some issues but is understandable")
             else:
-                print("❌ POOR transcription quality")
+                print("❌ POOR - Your transcription needs significant improvement")
+            
+            # Quick interpretation guide
+            print(f"\n📖 Quick Guide:")
+            print("   • 0.9+ = Excellent: Almost perfect transcription")
+            print("   • 0.8-0.9 = Good: Most content captured accurately")
+            print("   • 0.6-0.8 = Fair: Understandable but has issues")
+            print("   • <0.6 = Poor: Needs significant improvement")
+            print("   • Higher scores = Better transcription quality")
             
             end_time = time.time()
-            print(f"\n⏱️  Analysis completed in {end_time - start_time:.2f} seconds")
+            print(f"\n⏱️  Analysis completed in {end_time - start_time:.3f} seconds")
         
     else:
         print("No files found for comparison.")

@@ -1,525 +1,532 @@
-4.0: It is with a peculiar thrill that I commit to paper the strange circumstances
-2.0: surrounding what has, see,
-4.2: are made to be known in certain musical circles as the song of the vanishing piano.
-2.8: Few events in my long acquaintance with Mr. Sherlock Holmes
-3.5: demonstrated with such clarity his uncanny method of deduction,
-3.9: and few occasions showed more plainly how my own role as humble chronicler
-4.6: and fateful companion provided both contrast and completion to that singular intellect.
-3.4: The affair began upon one of those damp and sooty evenings in London
-3.2: when the fog seems to press against the windows of Baker Street
-2.7: like a half-conscious spirit demanding admittance.
-1.8: The gas lamps flickered in a haze
-2.9: and the sound of carriage wheels outside came muffled
-2.4: as if London itself were wrapped in cotton.
-2.6: Holmes had spent much of the day silent and restless,
-3.6: stretched upon the settee with his long fingers interlaced beneath his chin.
-3.2: A familiar sign that his mind was engaged upon some abstract speculation
-2.1: had been attempting to digest the medical journal.
-2.9: Though truthfully I had read the same page three times without comprehension,
-2.7: distracted by the intense stillness of my companion.
-3.9: My dear Holmes, you have been staring at that ceiling for the better part of the afternoon.
-5.1: I cannot but conclude that some case or perhaps the want of one has occupied your thoughts.
-5.9: Elementary Watson, I am, as you say, occupied, but by absence rather than presence.
-5.1: You will observe that the calling card tray upon our mantel is empty and misses.
-8.4: Hudson has twice informed us that no visitor has rung at our bell.
-5.4: For three days the stream of human problems has dried to a trickle.
-5.3: The city of London has, quite inconsiderately, ceased to be interesting.
-1.0: You astonish me, Holmes.
-5.0: Surely the metropolis of severed millions cannot fail to supply intrigue and rhyme even for a single evening.
-4.0: On the contrary, my dear fellow, it can.
-5.5: The criminal class is as subject to fatigue as any honest labourer.
-3.8: One may as well expect perpetual harvest as perpetual villainy.
-5.6: But mark me, when the pendulum ceases to swing, it but gathers force to strike again.
-4.4: I predict that before the night is out, Baker Street will not be so quiet.
-5.3: It was as if the great detective had summoned destiny with his words.
-3.4: For no sooner had he spoken than there came a sharp rap upon the door,
-3.3: followed by Mrs. Zondin Hudson's somewhat breathless voice.
-4.9: Mr. Holmes, sir, a gentleman to see you says it is most urgent.
-4.7: A moment later, into our sitting room stepped a tall and somewhat cadaverous man of middle years,
-2.6: dressed in a frock coat that had clearly seen better days,
-4.5: and carrying beneath his arm a folio of sheep music so swollen with loose pages
-3.3: that it threatened to scatter its contents upon a heart-thrug.
-4.1: His expression, pale and strained, betrayed an agitation not far from panic.
-2.4: His hair was unkempt, his boots poorly polished,
-4.5: yet his fingers were long, delicate and bore the unmistakable calluses of a musician.
-2.5: Mr. Sherlock Holmes, thank heaven I have found you.
-3.0: My name is Arthur Penfield, late of the Royal Academy of Music.
-4.6: I implore you, sir, to hear my case, but I am on the verge of ruin.
-2.2: You are most welcome, Mr. Penfield.
-0.8: Pray be seated.
-3.0: You will find the chair by the fire the most comfortable.
-2.6: Allow me to relieve you of your folio.
-5.7: Ah, I perceive it concerns a pianoforte composition, written in your own hand.
-2.5: You are correct, sir, though I marvel how you knew it.
-9.1: elementary the ink stains upon your right cuff match precisely the fresh notation on the uppermost
-7.0: leaf the nervous tremor in your left hand is not congenital but the result of recent over practice
-7.6: upon the keys and your manner of carrying the folio clutched not as an idle portfolio but as a
-3.7: Mother clutches a child, speaks of personal authorship.
-4.1: The poor man gazed at Holmes with wide eyes, as though confronted by a sorcerer.
-3.2: Then you will understand, sir, how desperate is my plight.
-7.2: I have written, nay, I had written, a composition intended for public premiere at St. James's Hall next week.
-2.3: It was to be my redemption, my masterwork.
-4.5: But last night, in the valley jamo where I lodged, the instrument upon which I composed,
-6.4: the pianoforte itself vanished utterly. Vanished, sir, as though the very air had swallowed it.
-4.3: Vanished? Surely you mean stolen, or removed by porters during your absence?
-5.0: Would that it was so simple, doctor, but I swear to you, and to Mr. Mr. Holmes,
-5.3: that the pianoforte disappeared whilst I sat before it. I had just completed the central
-6.3: motif of the second movement when, upon striking the keys, I heard no sound, nothing but silence.
-6.0: I looked down and the keyboard was gone. The lid, the frame, the sounding board all were gone.
-5.5: I sat with my hands upon empty air. Only the bench remained beneath me.
-5.9: Holmes, who had been listening with eyes half-closed, now leaned forward, every feature alert with interest.
-3.8: You say the piano vanished while you were in the act of playing it?
-7.4: You perceived no human agency, no movers, no trick of carpentry, no trap-door?
-4.5: None, sir. My lodgings are on the third floor of a boarding-house in Bloomsbury.
-8.0: The door was locked, the window shut, and yet the instrument, an upright pianoforte of German make, ceased to exist before my eyes.
-5.7: My dear Holmes, surely this is a delusion. Our visitor was overwrought, fatigued perhaps from labour at his art.
-4.2: I myself, in medical practice, have known patients who...
-3.8: Hush, Watson. Let us never mistake the improbable for the impossible.
-5.0: Our client's senses may have deceived him, but we must not permit our reason to do the same.
-0.3: Ah!
-4.2: Pay continue, Mr. Penfield. Did you at once search the chamber?
-4.9: Indeed I did, sir. I examined every corner, opened the wardrobe, even peered beneath the bed,
-2.6: as if a pianoforte might conceal itself there.
-2.3: Neighbours heard my outcry and came running.
-1.1: They too saw the room,
-2.8: bare save for the stool and the folio upon it.
-1.2: My landlady insists.
-1.1: I have gone mad.
-1.0: But I swear to you, mister.
-0.3: Mister!
-3.5: Holmes, the piano was there one instant and gone the next.
-2.5: And the sheet music you carry,
-3.3: this was composed upon that same vanished instrument.
-0.7: Yes, sir.
-2.2: Every note of it, without the instrument,
-3.0: I cannot refine the piece, nor can I rehearse.
-3.5: My reputation and my livelihood both depend upon the concert.
-3.1: Unless I recover the Piano Forte, or at the very least,
-2.9: solve the riddle of its disappearance, I am undone.
-4.6: Holmes rose and paced the room, his long strides carrying him from heart to window and back again.
-3.2: He rubbed his chin thoughtfully, then turned to me with a glint in his eye.
-3.9: Watson, you recall my remark, not ten minutes past,
-2.7: that Baker Street would not remain quiet tonight?
-2.4: The game, it seems, has begun.
-1.5: A vanishing piano, Watson.
-2.0: Have you ever heard of such a marvel?
-0.8: Never, Holmes.
-3.3: And I confess, I still struggle to believe it possible.
-5.0: That is because you rely upon probability rather than possibility.
-3.5: The improbable, my dear friend, happens daily.
-5.0: It is only the impossible that remains forever barred.
-4.0: Let us then ascertain whether Mr. Sin, whether Mr.
-4.0: Penfield's pianoforte is improbable or impossible.
-4.3: Mr. Penfield, you must take us to your lodgings at once.
-4.3: With all my heart, sir, I have prayed for nothing, so much as your assistance.
-2.3: But I warn you, the landlady is hostile.
-3.2: She believes me deranged and would prefer the matter hushed up.
-9.7: So much the better. Opposition sharpens the wits. Watson, your hat and coat. We go to Bloomsbury.
-4.0: Penfield clutched his photo upon his lap as though it were life itself.
-5.0: I, for my part, could not dispel the image of a piano vanishing before the eyes of its player.
-4.0: The city seemed to close in around us, whispering of secrets hidden in shadow,
-4.0: as we drove towards the first act of a most singular mystery.
-5.0: The descent into the lower rooms of Mrs. Gaskill's boarding house was accomplished
-4.0: with much creaking of timbers and muttered protests from the landlady,
-3.0: who had reappeared upon hearing our footsteps.
-4.0: The candlelight trembled against wallpaper, already blistered with damp,
-3.2: and the air drew close with the odor of boiled cabbage and cold smoke.
-1.2: Hmm, Mr. Hmm.
-4.2: Hemphine followed like a man condemned, clutching his folio tightly against his dress,
-2.6: while Holmes moved ahead with swift, noiseless tread,
-2.8: pausing at every landing to examine the walls, the banisters,
-2.3: the very nails that held the carpet runner in place.
-2.9: Watson, observe the spacing of these boards.
-3.1: They are old oak, but recently disturbed.
-3.0: Note the faint discolouration along the edges.
-4.3: Something has been lifted here and replaced within the last month.
-2.2: Yes, Holmes, I see the difference in you,
-2.1: though I should have walked past without remarking it.
-0.6: Precisely.
-3.1: The criminal counts upon the public's blindness to detail.
-3.1: To the trained eye, however, each grain of wood is a witness.
-2.8: Now let us inquire of Mrs. Gaskell.
-2.2: If you're meaning the floor, sir,
-1.9: it was repaired a fortnight ago.
-3.5: My second-floor lodger complained of drafts.
-3.0: A carpenter from Holborn came to lay new planks.
-1.4: Hey, just so.
-2.4: And what was the name of this carpenter?
-1.0: I couldn't tell you.
-1.9: Some tall fellow with a red beard.
-3.0: I paid him in coin and thought no more about it.
-0.5: A pity.
-3.7: Yet red beards like pianos cannot vanish without trace.
-2.1: Watson, make a note of it
-5.1: Now, let us see what lies immediately beneath Mr. Penfew's chamber
-3.8: We entered the second floor room, which was at present unoccupied
-3.8: Its bed stripped bare, its furniture cloaked in dust sheets
-3.1: Holmes paced to the centre of the floor and tapped with his cane
-3.7: producing a hollow resonance unlike the solid tone one would expect
-2.4: He dropped to one knee, pressed his ear against the boards
-2.0: and then smiled in quiet satisfaction
-3.0: There, Watson, do you not hear it?
-6.1: A cavity beneath, large enough, I dare say, to swallow more than draughts, large enough,
-2.3: perhaps, for an entire piano forte.
-3.7: A hidden chamber, then the piano may not have left the house at all.
-0.6: Exactly.
-6.7: Now, the question remains, by what mechanism was it lowered from above without Mr. Penfield
-1.4: perceiving the transition?
-0.9: Lowered, sir?
-1.1: You astonish me.
-2.0: Surely I would have fez the descent beneath me.
-1.3: Would you?
-4.7: Consider, the player is absorbed in his art,
-4.4: his mind fixed upon the score, his hands occupied upon the keys.
-3.9: If the entire floor beneath the instrument descended slowly,
-3.3: by counterweight, perhaps, or hydraulic piston,
-2.4: you might experience only a curious vibration,
-3.2: such as you described, a hum beneath the floorboards.
-0.8: Oh!
-1.3: Thumbs' words struck me
-1.4: with the force of revelation.
-2.7: The notion of an entire piano
-2.1: being swallowed by the earth seemed wild
-2.2: and yet the hollow echo of the boards
-1.0: lent it credence.
-1.6: My friend's eyes shone with excitement
-1.9: like a scientist on the brink of discovery.
-2.6: Watson, fetch that poker from the fireplace.
-2.1: We shall test these boards for weakness.
-1.2: I complied
-2.4: and together we prized up a length of flooring.
-0.8: Beneath lay darkness
-4.8: But as Holmes lowered the candle into the aperture, the flickering light revealed an astonishing sight.
-4.6: A shaft descending into the depths of the house, lined with wooden beams and fitted with ropes and pulleys.
-6.3: At the bottom, far below, we glimpsed the curved outline of what could only be a piano, resting silently in the gloom.
-2.3: Good heavens, there it is, the instrument itself.
-2.0: Merciful Providence, my piano.
-2.5: So much for vanishing into thin air.
-7.0: The trick, Watson, is as old as a stage, a trap door, ingeniously concealed,
-3.2: through which the entire pianoforte has been lowered.
-1.3: The hum.
-2.6: Penfield heard was the sound of machinery.
-1.9: The question is, why?
-3.2: With Holmes's guidance, we descended to the ground floor,
-2.9: where a locked door barred our way to the cellars.
-5.1: Mrs. Gaskell, though reluctant, produced a key muttering of nonsense and foolishness.
-3.7: Within, we found a cavernous space, its walls lined with coal and firewood,
-3.9: but in the centre stood a wooden platform connected to ropes, wheels and counterweights.
-6.2: On that platform, like some sacrificial idol, rested the pianoforte, unscathed but eerily silent.
-1.6: There you have it, Watson.
-5.9: a perfectly contrived stage elevator concealed within a humble boarding house.
-5.5: Such craftsmanship bespeaks not a common carpenter, but a mechanic of considerable skill.
-3.5: See the polish of the wheels, the precision of the grooves.
-2.5: This is the work of a master.
-4.0: But to what end? Why lower a piano into the cellars beneath its owner's nose?
-2.9: That, my dear fellow, is the heart of the mystery.
-2.6: Peft is the obvious explanation
-3.0: Yet the instrument remains here untouched
-1.5: Sabotage?
-0.7: Perhaps
-2.6: Or perhaps something more elaborate
-2.9: Something that concerns not the piano itself
-1.9: But the music it bears
-2.0: You bewilder me, sir
-2.1: Who would wish to sabotage my work?
-2.5: I am no celebrity, only a struggling composer
-5.1: And yet, Mr. Penfield
-5.4: Even a struggling composer may stumble upon a melody others desire to suppress.
-3.7: Tell me, your composition, does it borrow from any source,
-3.3: any folk song, any secret theme entrusted to you?
-3.1: None, sir. The music is wholly my own, though.
-2.1: Hmm. Though what? Hmm.
-3.3: There is one peculiarity. The central motif came to me in a dream.
-2.0: I awoke with it ringing in my ears,
-3.3: as though some unseen musician had played it to me in the night.
-4.1: I wrote it down at once, and it has since become the very soul of my concerto.
-2.7: Holmes's brows knitted, and he muttered half to himself,
-4.2: A melody in a dream, a piano swallowed by machinery,
-2.7: a brass fragment that does not belong.
-3.6: Watson, we are upon the edge of something curious indeed.
-3.8: Mark me, this affair reaches deeper than Bloomsbury.
-4.5: I must know who built this contrivance and for whose hand.
-1.4: Then you suspect a conspiracy?
-5.6: I suspect only that human ingenuity rarely expends itself without motive.
-4.8: Somewhere in London is a man with a red beard and a talent for hidden machinery.
-2.9: Find him, Watson, and we find our truth.
-5.7: Meanwhile, Mr. Penfield, I urge you to guard your score most carefully.
-6.5: For if your enemies cannot steal your piano, they may attempt to steal the song itself.
-5.5: At that moment, a distant bell tolled the hour, its mournfully clang echoing through the cellar like a warning.
-2.8: Holmes extinguished the candle and straightened to his full height.
-3.3: His face was grave, yet his eyes glittered with anticipation.
-2.9: Come, gentlemen, we have seen enough for tonight.
-3.0: Tomorrow we hunt the man with the red beard.
-4.4: Thus ended the first stage of our adventure.
-2.2: A piano found, yet the riddle deepened,
-2.4: a mystery solved, yet a greater enigma born.
-2.8: I could not then imagine how perilous our quest would become,
-2.8: nor how the song itself would draw us into a web of intrigue
-2.1: that reached far beyond the walls of Bloomsbury.
-2.3: When morning broke over Baker Street the following day,
-3.0: the fog had lifted, and Mazel, the air still hung heavy
-2.3: with the acrid smoke of a thousand chimneys.
-2.4: Holmes had risen before me, as was often his custom,
-4.4: and when I emerged from my room, I found him already at the table with maps, directories
-3.2: and his chemical apparatus scattered around him in chaotic order.
-2.3: He had exchanged his dressing gown for a tweed suit
-4.7: and the energy in his movements told me that his mind had raced far into the mystery during the night.
-3.3: Holmes, you look as though you have already solved the case before breakfast.
-1.4: Not solved, Watson.
-2.7: Merely sharpened the tools with which to cut.
-2.9: We are in pursuit of a red-bearded mechanic,
-7.2: a craftsman of no mean ability, who installed a trap capable of lowering an entire pianoforte
-7.5: into the bowels of a Broomsbury boarding-house. Such a man cannot be common. London swarms with
-5.6: tinkers and carpenters, but few who could accomplish such engineering in secrecy.
-5.4: Therefore he must be known in certain circles. And how do you propose to find him?
-4.7: By the oldest method of all, my dear fellow, inquiry,
-5.1: I have already dispatched young Wiggins and his Baker Street irregulars
-3.4: to gorm the workshops of Holborn and Clerkenwell.
-2.2: A red-beard Watson is a beacon.
-2.2: With luck, by noon we shall have a name.
-2.5: As if on cue, there came a tapping at the door,
-2.5: and in shuffle Wiggins, the street urchin,
-3.7: whose quick eyes and nimble feet had served us in many an adventure,
-3.0: He removed his cap and spoke with his usual bluntness.
-1.3: Beg pardon, Mr. Holmes.
-0.6: We found dine.
-3.3: Name, oh Ezekiel Trenchard, keeps a whisk shop off Leather Lane.
-2.6: Folks call him Red Zeke on account of the whiskers.
-1.2: Bids are contraptions.
-3.3: Stage rigs, hidden doors, trap mechanisms for them, theaters.
-2.9: Got a reputation for being clever, but not over-scrupulous.
-0.9: Excellent, Wiggins.
-3.2: You and your lads have earned your shillings handsomely.
-4.3: Here, take this coin and keep watch upon Mr. Trenchard's premises.
-2.0: Report to me, any visitor of note.
-3.2: Listen, we go at once to Leather Lane.
-2.9: Soon we were rattling through the crowded streets in a cab,
-1.2: home silent and intent.
-1.9: I armed with my revolver by long habit,
-1.8: though half convinced it would not be needed.
-2.1: Leather Lane proved a narrow thoroughfare
-2.7: cluttered with coast among us guards and shouting hawkers.
-1.7: At its far end we found the place,
-2.6: a grimy workshop with windows thick with soot,
-4.1: and above the door, a fading sign, E. Plenchard, Engineer of Mechanisms.
-5.8: Observe, Watson, the iron filings upon the sill, the heavy crates by the entrance.
-4.2: Business here is active, though the sign suggests disuse.
-2.7: Consumment in plain sight, as ever.
-2.8: We entered and were met with a curious sight.
-2.1: The interior resembled a magician's storeroom.
-3.8: Wheels, pulleys, counterweights, and elaborate frames crowded every surface.
-6.0: At the far bench, bending over a set of blueprints, stood a broad-shouldered man with a mane of flaming beard.
-2.3: He straightened, eyes narrowing at our intrusion.
-3.9: Who are ye and what's your business in Ezekiel Trenchard's shop?
-4.8: Sherlock Holmes, consulting detective, and this is my colleague, Dr. Watson.
-8.1: We come regarding a certain Ganoforte, lowered into a cellar by means of a trap you constructed in a Bloomsbury house.
-3.0: So, the trap worked, eh?
-1.5: Ha! I told him it would.
-2.0: Smooth as silk, down she goes.
-1.9: But what business is that of yours?
-2.4: The business of justice, Mr. Trenchard.
-3.0: You were hired by someone to create this contrivance.
-1.6: I must know who.
-1.3: Now, why should I tell you?
-1.9: My clients pay well for silence.
-3.6: Because your client intends more than theatrics.
-7.0: and you may find yourself accessory to a crime far darker than mere carpentry.
-1.8: Consider carefully, Mr. Trenchard.
-4.6: The law makes no distinction between the man who builds the pistol
-2.7: and the man who pulls the trigger.
-4.8: The mechanic's ruddy face paled somewhat, though his eyes still glittered with defiance.
-4.4: I was paid in sovereigns to build a stage lift, not to ask questions.
-1.8: But, well, I'll tell you this much.
-2.2: The man who hired me called himself Mr. Green.
-3.2: Thin fellow. Foreign accent. Eyes sharp as knives.
-2.5: He brought sketches. Knew what he wanted.
-2.5: Paid half in advance, half on completion.
-0.9: That's all I know.
-1.7: A foreign accent, you say?
-2.1: Could you identify his nationality?
-1.9: German, maybe. Or Austrian.
-1.9: Something from the continent, that's sure.
-2.2: Indeed. And this Mr. Green?
-3.0: did he mention why he required the piano to vanish?
-1.2: Not in so many words.
-1.5: Only said the music was dangerous,
-2.3: that it must be silenced before it was heard.
-2.5: I thought him cracked, but his money was sound.
-1.0: Dangerous music.
-1.8: Holmes exchanged a glance with me,
-1.7: his brows lifting in silent emphasis.
-1.1: Dangerous music!
-2.2: The phrase struck a chord of unease within me.
-3.5: Holmes, surely he does not mean that Mr. Penfield's composition holds some secret?
-11.9: It seems increasingly probable, Watson. Music may convey more than melody. Codes, signals, even mathematical formulae can be embedded within notes.
-3.0: Mr. Trenchard! Did Mr. Trenchard!
-3.5: Green, give any instruction beyond the trap's construction?
-7.6: Only this, that once the piano was lowered, it must remain below until he returned with men to fetch it away.
-3.3: I asked when that might be, but he only laughed and said,
-1.6: when the last note is played.
-1.4: A curious phrase indeed.
-1.7: Very well, Mr. Gaines.
-4.4: Trenchard, you have been frank, and I shall not press you further.
-1.0: But take warning.
-3.9: If harm comes of this scheme, your name will not be spared.
-0.6: Good day.
-3.0: With that, Owens turned upon his heel and strode into the street,
-2.0: leaving the mechanic to mutter among his gears.
-1.9: I hurried after him, bewildered.
-4.8: Holmes, what can it mean? Dangerous musics? Surely a tune is but a tune.
-2.8: Do not underestimate the subtle arts, Watson.
-5.7: Consider the ancients who believed music could stir armies or calm tempests.
-4.0: Consider the mathematician who may encode a cipher within notes.
-4.5: Suppose, mister, Penfield's melody, born in a dream, he says,
-3.1: contains a secret intended never to be revealed.
-4.7: But revealed by whom?
-3.4: That, my dear fellow, is what we must discover.
-2.3: Come, we return to Bigger Street.
-2.0: There is research to be done.
-3.7: Back at our lodgings, Holmes immersed himself in his volumes of arcane knowledge.
-3.5: He rifled through treatises on cryptography, histories of secret societies,
-2.5: and even monographs upon the psychology of music.
-2.7: All afternoon he pored over staves and scales,
-3.7: humming fragments of Penfield's score that the composer had left with us.
-3.1: At last, as twilight fell, he sprang up with a cry of triumph.
-2.8: Watson, it is as I suspected.
-1.8: The motif concedes a code.
-0.4: Look here.
-1.8: Take the first note of each bar.
-2.7: Convert its pitch to a letter by simple substitution.
-1.1: And what do you read?
-4.2: I bent over the paper, and slowly the letters resolved themselves into words.
-1.0: My heart gave a leap.
-1.3: Oh, the key lies in Vienna.
-2.0: Good heavens, Holmes, it is a message.
-4.0: Precisely. And not merely a message, but a directive.
-4.6: Someone has planted within Penfield's dream a melody
-4.6: which conceals the command to seek a key in Vienna.
-2.2: The question is, who and why?
-2.0: At that instant, a knock rattled the door.
-1.8: Mrs. Hudson entered, pale and trembling.
-3.1: Mr. Holmes, there's a gentleman below asking for you.
-5.8: says his name is Green. Will you see him? Holmes's eyes flashed. He reached for his violin,
-4.0: set it upon the table as though it were a weapon and whispered to me in urgent tones.
-4.6: The game quickens, Watson. Mr. Green has come to us of his own accord.
-5.1: Ready yourself. We may at last confront the mind behind the vanishing piano.
-5.2: The fire burned low in our Baker Street sitting room, casting long flickering shadows against
-6.4: the bookshelves and the framed Persian slipper on the mantle. Mrs. Hudson had scarcely finished
-4.3: announcing the visitor when the man himself entered, and I confess my blood chilled at the
-5.7: sight. He was tall, gaunt, with the pallor of one who lived more in lamplight than under the sun.
-4.1: He was trim-close, his hair slick-bat with continental precision, but it was his eyes
-6.1: that arrested me, icy-gray, piercing, restless, darting from Holmes to myself and back again
-1.7: with the vigilance of a predator.
-2.5: Herr Holmes, said he in a voice soft yet cutting,
-1.4: and Dr. Watson, ja?
-3.0: So the hounds have scented me sooner than I expected.
-2.8: Mr. Green, or should I say Herr Grun,
-1.8: Austrian, perhaps Prussian,
-1.4: certainly of the German tongue,
-3.8: you honour us by stepping into our den voluntarily.
-1.5: May I offer you a chair?
-1.7: Your courtesy is wasted, sir.
-1.1: I came not for tea,
-4.8: but to reclaim what is mine, the piano, and the melody that resided in it.
-2.0: You have interfered sufficiently.
-2.2: Yours? The piano belongs to Mr. Mr.
-4.0: Dild, Enfield, a humble composer who never sought entanglement with espionage.
-1.7: Tote dows it to being biny, this.
-2.8: Ah, poor Penfield, a vessel only, not the source.
-3.3: He dreamed the melody because it was planted in him.
-1.2: A modic suggestion, gentlemen.
-4.2: We of the continent have studied such arts deeply.
-4.5: In a moment between waking and sleep, we gave him the theme, never knowing if it would blossom.
-2.5: It did, and it contained more than music.
-4.5: A cipher encoding the phrase, the key lies in Vienna.
-2.4: We have already deciphered it, Herr Grun.
-2.8: But tell me, what key and why Vienna?
-1.7: You are clever, Holmes, but not omniscient.
-5.5: omniscient. The melody concealed the location of a document, an agreement signed secretly between
-5.4: two empires that could plunge Europe into chaos if revealed. The piano was to vanish until we
-6.6: might transport it safely abroad. But you, you have meddled. His voice rose and for a moment
-4.7: the mask of control slipped, revealing the fanatic beneath. Holmes, however, remained
-4.2: unruffled, tapping his long fingers together as though playing an invisible clavier.
-3.4: Your plan was ingenious, I grant you
-2.8: To hide a cipher within a tune
-2.8: Entrusted to a dreamer who believed it
-2.6: His own composition, admirable
-2.9: But you erred in one respect
-2.2: And that is?
-2.2: In thinking that London
-3.6: The city with eyes and ears in every alley
-4.6: Would allow a foreign agent to burrow unseen
-4.9: Your red-bearded accomplice betrayed you by his very uniqueness
-3.6: and your arrogance brought you to my doorstep.
-1.8: Groom's hand twitched toward his coat pocket,
-3.7: but quicker than thought Holmes had drawn the revolver he seldom carried,
-1.3: save at direst need.
-2.0: How do not, Herr Groom?
-2.3: My friend Watson also carries an arm,
-5.9: and unlike myself he has spent service years firing it in earnest.
-4.4: Track and indeed sir, I said firmly, though my heart pounded.
-0.7: Smiling thinly.
-2.4: So, you have me tracked, but what will you do, Holmes?
-0.9: Turn me to Skarnanyard?
-2.7: They will not grasp the significance of what I bear.
-1.8: The melody is still in my mind.
-4.4: The key remains hidden in Vienna, awaiting only the one who can read the notes.
-5.2: Your mind perhaps, but music may be copied, analysed, destroyed.
-7.0: The tomb lies also with me now, and I have no intention of allowing it into careless hands.
-8.0: As for you, Lestrade shall know what to do with an agent of espionage who traffics in stolen secrets.
-7.0: At that moment, heavy boots slattered upon the stairs, and Inspector Lestrade himself burst into the room, breathless but resolute.
-3.0: Horns, it seemed, had sent a telegram earlier in the day.
-5.3: Holmes, Watson, I came as quick as I could, and this, I take it, is our quarry.
-7.5: Indeed, Lestrade. Herr Grün, alias Mr. Green, foreign agent, mastermind of the vanishing piano.
-2.7: Hmm, he is yours. Hmm.
-4.1: Bitterly, so the curtain falls. But mark me, Holmes, the play is not ended.
-3.1: Vienna will yet sing, and when she does, Europe shall tremble.
-5.2: With iron restraint, Lestrade's men clapped irons upon the spy and bore him,
-0.9: struggling down the stairs.
-4.2: The echoes of his threats lingered in the room long after his footsteps had faded.
-2.2: The days that followed were filled with inquiry.
-4.3: The Foreign Office, apprised of the matter, hushed the affair with typical discretion,
-3.8: whispering only of continental intrigues and tanking Holmes in guarded phrases.
-3.9: Mr. Herm, Penfield the composer, was released from suspicion,
-4.9: though he vowed never again to trust a melody that arrived unbidden in his dreams.
-3.1: Horns, I said one evening, as we sat once more by our fire.
-2.5: I cannot shake the unease that blings to this case.
-2.5: A melody planted like a parasite in the mind,
-1.5: a piano swallowed by the earth,
-3.1: and a spy who claims that the fate of Europe rests upon a tune.
-1.5: It all seems scarcely credible.
-1.8: Yet credible it is, Watson.
-3.0: Men will go to astounding lengths for power.
-2.6: Today it is ink upon a treaty.
-3.2: Tomorrow, it may be a code hidden in music.
-2.4: The human mind is both lock and key,
-3.1: and there will always be those who seek to master it.
-0.8: But what of the message?
-1.1: The key lies in Vienna.
-2.7: Have we truly forestalled danger or only delayed it?
-2.7: We have struck a blow, not finished the war.
-2.6: Another agent may pursue the secret in Vienna,
-3.4: but Herr Grün's immediate scheme is ended.
-4.2: Our duty lies not in reshaping empires,
-4.2: but in defending the innocent who stumble, like Penfield,
-2.1: into the path of darker designs.
-1.8: I could not argue with this philosophy,
-1.6: though it left me with a gnawing sense
-3.1: that larger forces moved beyond the grasp of any detective.
-2.3: However brilliant, Holmes leaned back,
-2.5: his keen profile illuminated by the lamplight,
-1.6: and drew his violin from its case.
-6.4: Listen, Watson, here is the theme as Penfield dreamed it.
-3.5: He played the haunting string, notes rising like ghosts in the air.
-5.3: To my ears it was both beautiful and sorrowful, a whisper from some realm beyond reason.
-3.6: Yet as Holmes played, I fancied I heard beneath the melody another voice,
-2.5: the echo of groom's warning that Vienna would yet sing.
-2.4: When the final note faded, Holmes lowered the bow,
-3.4: though his eyes, half-closed, betrayed a fatigue deeper than physical.
-11.5: it is finished watson for now remember always every tune has its last note the trick is to know when it has truly ended
-3.3: And so, continued the affair of the song of the vanishing piano.
-4.9: A case unlike any other, where espionage, music and human imagination intertwined.
-3.7: To this day, whenever I hear the lonely strains of a violin in the night,
-2.9: I recall the vision of that piano sinking into the earth.
-3.5: The cry of a spy undone and the figure of Sherlock Holmes declaring,
-3.4: with his customary calm, that for him, everything was elementary.
+4.040: It is with a peculiar thrill that I commit to paper the strange circumstances
+2.110: surrounding what has, see,
+4.450: are made to be known in certain musical circles as the song of the vanishing piano.
+3.000: Few events in my long acquaintance with Mr. Sherlock Holmes
+3.710: demonstrated with such clarity his uncanny method of deduction,
+4.130: and few occasions showed more plainly how my own role as humble chronicler
+4.740: and fateful companion provided both contrast and completion to that singular intellect.
+3.540: The affair began upon one of those damp and sooty evenings in London
+3.160: when the fog seems to press against the windows of Baker Street
+2.890: like a half-conscious spirit demanding admittance.
+2.070: The gas lamps flickered in a haze
+2.860: and the sound of carriage wheels outside came muffled
+2.530: as if London itself were wrapped in cotton.
+2.850: Holmes had spent much of the day silent and restless,
+3.850: stretched upon the settee with his long fingers interlaced beneath his chin.
+3.290: A familiar sign that his mind was engaged upon some abstract speculation
+2.180: had been attempting to digest the medical journal.
+3.000: Though truthfully I had read the same page three times without comprehension,
+3.110: distracted by the intense stillness of my companion.
+4.590: My dear Holmes, you have been staring at that ceiling for the better part of the afternoon.
+5.940: I cannot but conclude that some case or perhaps the want of one has occupied your thoughts.
+6.440: Elementary Watson, I am, as you say, occupied, but by absence rather than presence.
+5.060: You will observe that the calling card tray upon our mantel is empty and misses.
+8.790: Hudson has twice informed us that no visitor has rung at our bell.
+5.770: For three days the stream of human problems has dried to a trickle.
+5.760: The city of London has, quite inconsiderately, ceased to be interesting.
+1.690: You astonish me, Holmes.
+5.170: Surely the metropolis of severed millions cannot fail to supply intrigue and rhyme even for a single evening.
+4.280: On the contrary, my dear fellow, it can.
+6.030: The criminal class is as subject to fatigue as any honest labourer.
+4.190: One may as well expect perpetual harvest as perpetual villainy.
+5.990: But mark me, when the pendulum ceases to swing, it but gathers force to strike again.
+4.630: I predict that before the night is out, Baker Street will not be so quiet.
+5.500: It was as if the great detective had summoned destiny with his words.
+3.800: For no sooner had he spoken than there came a sharp rap upon the door,
+3.870: followed by Mrs. Zondin Hudson's somewhat breathless voice.
+5.750: Mr. Holmes, sir, a gentleman to see you says it is most urgent.
+5.360: A moment later, into our sitting room stepped a tall and somewhat cadaverous man of middle years,
+2.760: dressed in a frock coat that had clearly seen better days,
+4.520: and carrying beneath his arm a folio of sheep music so swollen with loose pages
+3.370: that it threatened to scatter its contents upon a heart-thrug.
+4.380: His expression, pale and strained, betrayed an agitation not far from panic.
+2.630: His hair was unkempt, his boots poorly polished,
+5.140: yet his fingers were long, delicate and bore the unmistakable calluses of a musician.
+3.280: Mr. Sherlock Holmes, thank heaven I have found you.
+3.240: My name is Arthur Penfield, late of the Royal Academy of Music.
+5.120: I implore you, sir, to hear my case, but I am on the verge of ruin.
+2.960: You are most welcome, Mr. Penfield.
+1.320: Pray be seated.
+3.510: You will find the chair by the fire the most comfortable.
+3.170: Allow me to relieve you of your folio.
+6.550: Ah, I perceive it concerns a pianoforte composition, written in your own hand.
+3.050: You are correct, sir, though I marvel how you knew it.
+9.120: elementary the ink stains upon your right cuff match precisely the fresh notation on the uppermost
+7.020: leaf the nervous tremor in your left hand is not congenital but the result of recent over practice
+7.560: upon the keys and your manner of carrying the folio clutched not as an idle portfolio but as a
+4.080: Mother clutches a child, speaks of personal authorship.
+4.850: The poor man gazed at Holmes with wide eyes, as though confronted by a sorcerer.
+3.550: Then you will understand, sir, how desperate is my plight.
+7.370: I have written, nay, I had written, a composition intended for public premiere at St. James's Hall next week.
+2.630: It was to be my redemption, my masterwork.
+4.720: But last night, in the valley jamo where I lodged, the instrument upon which I composed,
+6.720: the pianoforte itself vanished utterly. Vanished, sir, as though the very air had swallowed it.
+5.150: Vanished? Surely you mean stolen, or removed by porters during your absence?
+5.650: Would that it was so simple, doctor, but I swear to you, and to Mr. Mr. Holmes,
+5.480: that the pianoforte disappeared whilst I sat before it. I had just completed the central
+6.260: motif of the second movement when, upon striking the keys, I heard no sound, nothing but silence.
+6.180: I looked down and the keyboard was gone. The lid, the frame, the sounding board all were gone.
+6.100: I sat with my hands upon empty air. Only the bench remained beneath me.
+6.680: Holmes, who had been listening with eyes half-closed, now leaned forward, every feature alert with interest.
+4.220: You say the piano vanished while you were in the act of playing it?
+7.950: You perceived no human agency, no movers, no trick of carpentry, no trap-door?
+5.270: None, sir. My lodgings are on the third floor of a boarding-house in Bloomsbury.
+8.630: The door was locked, the window shut, and yet the instrument, an upright pianoforte of German make, ceased to exist before my eyes.
+6.210: My dear Holmes, surely this is a delusion. Our visitor was overwrought, fatigued perhaps from labour at his art.
+4.240: I myself, in medical practice, have known patients who...
+4.150: Hush, Watson. Let us never mistake the improbable for the impossible.
+5.640: Our client's senses may have deceived him, but we must not permit our reason to do the same.
+0.780: Ah!
+4.880: Pay continue, Mr. Penfield. Did you at once search the chamber?
+5.530: Indeed I did, sir. I examined every corner, opened the wardrobe, even peered beneath the bed,
+2.780: as if a pianoforte might conceal itself there.
+2.620: Neighbours heard my outcry and came running.
+1.590: They too saw the room,
+3.220: bare save for the stool and the folio upon it.
+1.610: My landlady insists.
+1.580: I have gone mad.
+1.380: But I swear to you, mister.
+0.740: Mister!
+4.240: Holmes, the piano was there one instant and gone the next.
+3.240: And the sheet music you carry,
+4.140: this was composed upon that same vanished instrument.
+1.590: Yes, sir.
+2.490: Every note of it, without the instrument,
+3.250: I cannot refine the piece, nor can I rehearse.
+3.910: My reputation and my livelihood both depend upon the concert.
+3.390: Unless I recover the piano forte, or at the very least,
+3.400: solve the riddle of its disappearance, I am undone.
+5.060: Holmes rose and paced the room, his long strides carrying him from heart to window and back again.
+3.710: He rubbed his chin thoughtfully, then turned to me with a glint in his eye.
+4.350: Watson, you recall my remark, not ten minutes past,
+2.860: that Baker Street would not remain quiet tonight?
+2.780: The game, it seems, has begun.
+2.010: A vanishing piano, Watson.
+2.620: Have you ever heard of such a marvel?
+1.290: Never, Holmes.
+3.920: And I confess, I still struggle to believe it possible.
+5.760: That is because you rely upon probability rather than possibility.
+3.830: The improbable, my dear friend, happens daily.
+4.960: It is only the impossible that remains forever barred.
+4.590: Let us then ascertain whether Mr. Sin, whether Mr.
+4.850: Penfield's pianoforte is improbable or impossible.
+5.170: Mr. Penfield, you must take us to your lodgings at once.
+5.130: With all my heart, sir, I have prayed for nothing, so much as your assistance.
+2.850: But I warn you, the landlady is hostile.
+3.510: She believes me deranged and would prefer the matter hushed up.
+9.740: So much the better. Opposition sharpens the wits. Watson, your hat and coat. We go to Bloomsbury.
+20.260: ...........
+4.000: Penfield clutched his photo upon his lap as though it were life itself.
+5.000: I, for my part, could not dispel the image of a piano vanishing before the eyes of its player.
+4.000: The city seemed to close in around us, whispering of secrets hidden in shadow,
+4.000: as we drove towards the first act of a most singular mystery.
+5.000: The descent into the lower rooms of Mrs. Gaskill's boarding house was accomplished
+4.000: with much creaking of timbers and muttered protests from the landlady,
+3.000: who had reappeared upon hearing our footsteps.
+4.170: The candlelight trembled against wallpaper, already blistered with damp,
+3.380: and the air drew close with the odor of boiled cabbage and cold smoke.
+1.410: Hmm, Mr. Hmm.
+4.430: Hemphine followed like a man condemned, clutching his folio tightly against his dress,
+2.860: while Holmes moved ahead with swift, noiseless tread,
+3.030: pausing at every landing to examine the walls, the banisters,
+2.710: the very nails that held the carpet runner in place.
+3.390: Watson, observe the spacing of these boards.
+3.590: They are old oak, but recently disturbed.
+3.600: Note the faint discolouration along the edges.
+4.900: Something has been lifted here and replaced within the last month.
+2.720: Yes, Holmes, I see the difference in you,
+2.900: though I should have walked past without remarking it.
+1.440: Precisely.
+3.710: The criminal counts upon the public's blindness to detail.
+3.730: To the trained eye, however, each grain of wood is a witness.
+3.470: Now let us inquire of Mrs. Gaskell.
+2.560: If you're meaning the floor, sir,
+2.370: it was repaired a fortnight ago.
+4.110: My second-floor lodger complained of drafts.
+3.960: A carpenter from Holborn came to lay new planks.
+2.360: Hey, just so.
+2.910: And what was the name of this carpenter?
+1.470: I couldn't tell you.
+2.200: Some tall fellow with a red beard.
+3.710: I paid him in coin and thought no more about it.
+1.280: A pity.
+3.990: Yet red beards like pianos cannot vanish without trace.
+2.080: Watson, make a note of it
+5.140: Now, let us see what lies immediately beneath Mr. Penfew's chamber
+3.760: We entered the second floor room, which was at present unoccupied
+3.840: Its bed stripped bare, its furniture cloaked in dust sheets
+3.100: Holmes paced to the centre of the floor and tapped with his cane
+3.660: producing a hollow resonance unlike the solid tone one would expect
+2.440: He dropped to one knee, pressed his ear against the boards
+1.960: and then smiled in quiet satisfaction
+3.000: There, Watson, do you not hear it?
+6.180: A cavity beneath, large enough, I dare say, to swallow more than draughts, large enough,
+2.700: perhaps, for an entire piano forte.
+1.710: A hidden chamber?
+2.790: Then the piano may not have left the house at all.
+1.410: Exactly.
+7.150: Now, the question remains, by what mechanism was it lowered from above without Mr. Penfield
+1.940: perceiving the transition?
+1.640: Lowered, sir?
+1.460: You astonish me.
+2.610: Surely I would have fez the descent beneath me.
+1.690: Would you?
+2.100: ..
+4.900: Consider, the player is absorbed in his art,
+4.930: his mind fixed upon the score, his hands occupied upon the keys.
+4.170: If the entire floor beneath the instrument descended slowly,
+3.440: by counterweight, perhaps, or hydraulic piston,
+3.070: you might experience only a curious vibration,
+3.750: such as you described, a hum beneath the floorboards.
+0.760: Oh!
+2.160: ..
+1.320: Thumbs' words struck me
+1.540: with the force of revelation.
+2.800: The notion of an entire piano
+2.140: being swallowed by the earth seemed wild
+2.180: and yet the hollow echo of the boards
+1.160: lent it credence.
+1.720: My friend's eyes shone with excitement
+2.380: like a scientist on the brink of discovery.
+3.270: Watson, fetch that poker from the fireplace.
+2.880: We shall test these boards for weakness.
+1.750: I complied
+2.680: and together we prized up a length of flooring.
+1.100: Beneath lay darkness
+4.940: But as Holmes lowered the candle into the aperture, the flickering light revealed an astonishing sight.
+4.840: A shaft descending into the depths of the house, lined with wooden beams and fitted with ropes and pulleys.
+6.750: At the bottom, far below, we glimpsed the curved outline of what could only be a piano, resting silently in the gloom.
+3.160: Good heavens, there it is, the instrument itself.
+3.000: Merciful Providence, my piano.
+3.010: So much for vanishing into thin air.
+7.290: The trick, Watson, is as old as a stage, a trap door, ingeniously concealed,
+4.360: through which the entire pianoforte has been lowered.
+3.090: The hum.
+3.980: Penfield heard was the sound of machinery.
+2.300: The question is, why?
+3.000: ..
+3.180: With Holmes's guidance, we descended to the ground floor,
+3.020: where a locked door barred our way to the cellars.
+5.380: Mrs. Gaskell, though reluctant, produced a key muttering of nonsense and foolishness.
+4.040: Within, we found a cavernous space, its walls lined with coal and firewood,
+4.110: but in the centre stood a wooden platform connected to ropes, wheels and counterweights.
+6.620: On that platform, like some sacrificial idol, rested the pianoforte, unscathed but eerily silent.
+2.010: There you have it, Watson.
+6.390: a perfectly contrived stage elevator concealed within a humble boarding house.
+6.300: Such craftsmanship bespeaks not a common carpenter, but a mechanic of considerable skill.
+4.050: See the polish of the wheels, the precision of the grooves.
+3.270: This is the work of a master.
+4.880: But to what end? Why lower a piano into the cellars beneath its owner's nose?
+3.350: That, my dear fellow, is the heart of the mystery.
+2.580: Peft is the obvious explanation
+3.040: Yet the instrument remains here untouched
+1.910: Sabotage?
+1.150: Perhaps
+2.560: Or perhaps something more elaborate
+2.880: Something that concerns not the piano itself
+1.880: But the music it bears
+2.040: You bewilder me, sir
+2.370: Who would wish to sabotage my work?
+2.710: I am no celebrity, only a struggling composer
+5.060: And yet, Mr. Penfield
+5.860: Even a struggling composer may stumble upon a melody others desire to suppress.
+4.400: Tell me, your composition, does it borrow from any source,
+4.100: any folk song, any secret theme entrusted to you?
+4.150: None, sir. The music is wholly my own, though.
+2.950: Hmm. Though what? Hmm.
+3.910: There is one peculiarity. The central motif came to me in a dream.
+2.290: I awoke with it ringing in my ears,
+3.520: as though some unseen musician had played it to me in the night.
+4.600: I wrote it down at once, and it has since become the very soul of my concerto.
+3.230: Holmes's brows knitted, and he muttered half to himself,
+4.660: A melody in a dream, a piano swallowed by machinery,
+3.060: a brass fragment that does not belong.
+4.070: Watson, we are upon the edge of something curious indeed.
+4.080: Mark me, this affair reaches deeper than Bloomsbury.
+5.060: I must know who built this contrivance and for whose hand.
+2.390: Then you suspect a conspiracy?
+6.410: I suspect only that human ingenuity rarely expends itself without motive.
+5.370: Somewhere in London is a man with a red beard and a talent for hidden machinery.
+3.490: Find him, Watson, and we find our truth.
+5.980: Meanwhile, Mr. Penfield, I urge you to guard your score most carefully.
+7.130: For if your enemies cannot steal your piano, they may attempt to steal the song itself.
+6.230: At that moment, a distant bell tolled the hour, its mournfully clang echoing through the cellar like a warning.
+2.990: Holmes extinguished the candle and straightened to his full height.
+3.960: His face was grave, yet his eyes glittered with anticipation.
+3.680: Come, gentlemen, we have seen enough for tonight.
+3.190: Tomorrow we hunt the man with the red beard.
+4.640: Thus ended the first stage of our adventure.
+2.530: A piano found, yet the riddle deepened,
+2.640: a mystery solved, yet a greater enigma born.
+3.070: I could not then imagine how perilous our quest would become,
+2.980: nor how the song itself would draw us into a web of intrigue
+2.510: that reached far beyond the walls of Bloomsbury.
+2.810: When morning broke over Baker Street the following day,
+3.160: the fog had lifted, and Mazel, the air still hung heavy
+2.370: with the acrid smoke of a thousand chimneys.
+2.530: Holmes had risen before me, as was often his custom,
+4.380: and when I emerged from my room, I found him already at the table with maps, directories
+3.350: and his chemical apparatus scattered around him in chaotic order.
+2.450: He had exchanged his dressing gown for a tweed suit
+5.030: and the energy in his movements told me that his mind had raced far into the mystery during the night.
+4.140: Holmes, you look as though you have already solved the case before breakfast.
+2.100: Not solved, Watson.
+3.090: Merely sharpened the tools with which to cut.
+3.160: We are in pursuit of a red-bearded mechanic,
+7.220: a craftsman of no mean ability, who installed a trap capable of lowering an entire pianoforte
+7.520: into the bowels of a Broomsbury boarding-house. Such a man cannot be common. London swarms with
+5.850: tinkers and carpenters, but few who could accomplish such engineering in secrecy.
+5.670: Therefore he must be known in certain circles. And how do you propose to find him?
+4.980: By the oldest method of all, my dear fellow, inquiry,
+5.380: I have already dispatched young Wiggins and his Baker Street irregulars
+3.770: to gorm the workshops of Holborn and Clerkenwell.
+2.780: A red-beard Watson is a beacon.
+2.860: With luck, by noon we shall have a name.
+2.890: As if on cue, there came a tapping at the door,
+2.620: and in shuffle Wiggins, the street urchin,
+3.880: whose quick eyes and nimble feet had served us in many an adventure,
+3.450: He removed his cap and spoke with his usual bluntness.
+1.960: Beg pardon, Mr. Holmes.
+1.080: We found dine.
+3.800: Name, oh Ezekiel Trenchard, keeps a whisk shop off Leather Lane.
+3.140: Folks call him Red Zeke on account of the whiskers.
+1.620: Bids are contraptions.
+3.810: Stage rigs, hidden doors, trap mechanisms for them, theaters.
+3.610: Got a reputation for being clever, but not over-scrupulous.
+1.540: Excellent, Wiggins.
+3.430: You and your lads have earned your shillings handsomely.
+4.710: Here, take this coin and keep watch upon Mr. Trenchard's premises.
+2.520: Report to me, any visitor of note.
+3.720: Listen, we go at once to Leather Lane.
+3.390: Soon we were rattling through the crowded streets in a cab,
+1.470: home silent and intent.
+2.250: I armed with my revolver by long habit,
+2.130: though half convinced it would not be needed.
+2.230: Leather Lane proved a narrow thoroughfare
+2.920: cluttered with coast among us guards and shouting hawkers.
+1.940: At its far end we found the place,
+2.640: a grimy workshop with windows thick with soot,
+4.590: and above the door, a fading sign, E. Plenchard, Engineer of Mechanisms.
+6.570: Observe, Watson, the iron filings upon the sill, the heavy crates by the entrance.
+4.930: Business here is active, though the sign suggests disuse.
+3.480: Consumment in plain sight, as ever.
+3.450: We entered and were met with a curious sight.
+2.300: The interior resembled a magician's storeroom.
+3.960: Wheels, pulleys, counterweights, and elaborate frames crowded every surface.
+6.130: At the far bench, bending over a set of blueprints, stood a broad-shouldered man with a mane of flaming beard.
+2.800: He straightened, eyes narrowing at our intrusion.
+4.720: Who are ye and what's your business in Ezekiel Trenchard's shop?
+5.590: Sherlock Holmes, consulting detective, and this is my colleague, Dr. Watson.
+8.420: We come regarding a certain Ganoforte, lowered into a cellar by means of a trap you constructed in a Bloomsbury house.
+3.270: So, the trap worked, eh?
+2.100: Ha! I told him it would.
+2.530: Smooth as silk, down she goes.
+2.560: But what business is that of yours?
+3.030: The business of justice, Mr. Trenchard.
+3.380: You were hired by someone to create this contrivance.
+2.170: I must know who.
+1.950: Now, why should I tell you?
+2.630: My clients pay well for silence.
+4.060: Because your client intends more than theatrics.
+7.240: and you may find yourself accessory to a crime far darker than mere carpentry.
+2.170: Consider carefully, Mr. Trenchard.
+4.790: The law makes no distinction between the man who builds the pistol
+3.620: and the man who pulls the trigger.
+6.010: The mechanic's ruddy face paled somewhat, though his eyes still glittered with defiance.
+4.650: I was paid in sovereigns to build a stage lift, not to ask questions.
+1.910: But, well, I'll tell you this much.
+2.560: The man who hired me called himself Mr. Green.
+3.560: Thin fellow. Foreign accent. Eyes sharp as knives.
+2.880: He brought sketches. Knew what he wanted.
+2.950: Paid half in advance, half on completion.
+1.610: That's all I know.
+2.310: A foreign accent, you say?
+2.710: Could you identify his nationality?
+2.560: German, maybe. Or Austrian.
+2.530: Something from the continent, that's sure.
+2.580: Indeed. And this Mr. Green?
+3.480: did he mention why he required the piano to vanish?
+1.800: Not in so many words.
+1.810: Only said the music was dangerous,
+2.710: that it must be silenced before it was heard.
+3.020: I thought him cracked, but his money was sound.
+1.440: Dangerous music.
+0.670: Ha!
+1.990: Holmes exchanged a glance with me,
+2.170: his brows lifting in silent emphasis.
+1.550: Dangerous music!
+2.750: The phrase struck a chord of unease within me.
+3.830: Holmes, surely he does not mean that Mr. Penfield's composition holds some secret?
+12.180: It seems increasingly probable, Watson. Music may convey more than melody. Codes, signals, even mathematical formulae can be embedded within notes.
+3.820: Mr. Trenchard! Did Mr. Trenchard!
+4.480: Green, give any instruction beyond the trap's construction?
+8.060: Only this, that once the piano was lowered, it must remain below until he returned with men to fetch it away.
+3.470: I asked when that might be, but he only laughed and said,
+2.150: when the last note is played.
+2.130: A curious phrase indeed.
+2.410: Very well, Mr. Gaines.
+4.920: Trenchard, you have been frank, and I shall not press you further.
+1.420: But take warning.
+4.360: If harm comes of this scheme, your name will not be spared.
+1.320: Good day.
+3.550: With that, Owens turned upon his heel and strode into the street,
+2.130: leaving the mechanic to mutter among his gears.
+2.040: I hurried after him, bewildered.
+5.430: Holmes, what can it mean? Dangerous musics? Surely a tune is but a tune.
+3.570: Do not underestimate the subtle arts, Watson.
+6.330: Consider the ancients who believed music could stir armies or calm tempests.
+4.620: Consider the mathematician who may encode a cipher within notes.
+4.930: Suppose, mister, Penfield's melody, born in a dream, he says,
+3.320: contains a secret intended never to be revealed.
+5.120: But revealed by whom?
+4.140: That, my dear fellow, is what we must discover.
+2.830: Come, we return to Bigger Street.
+2.620: There is research to be done.
+4.240: Back at our lodgings, Holmes immersed himself in his volumes of arcane knowledge.
+3.810: He rifled through treatises on cryptography, histories of secret societies,
+2.640: and even monographs upon the psychology of music.
+2.660: All afternoon he pored over staves and scales,
+3.900: humming fragments of Penfield's score that the composer had left with us.
+3.760: At last, as twilight fell, he sprang up with a cry of triumph.
+3.450: Watson, it is as I suspected.
+2.160: The motif concedes a code.
+0.870: Look here.
+2.240: Take the first note of each bar.
+3.240: Convert its pitch to a letter by simple substitution.
+1.750: And what do you read?
+4.740: I bent over the paper, and slowly the letters resolved themselves into words.
+1.490: My heart gave a leap.
+1.620: Oh, the key lies in Vienna.
+2.480: Good heavens, Holmes, it is a message.
+5.220: Precisely. And not merely a message, but a directive.
+5.280: Someone has planted within Penfield's dream a melody
+4.780: which conceals the command to seek a key in Vienna.
+2.910: The question is, who and why?
+2.660: At that instant, a knock rattled the door.
+2.520: Mrs. Hudson entered, pale and trembling.
+3.610: Mr. Holmes, there's a gentleman below asking for you.
+6.010: says his name is Green. Will you see him? Holmes's eyes flashed. He reached for his violin,
+4.670: set it upon the table as though it were a weapon and whispered to me in urgent tones.
+5.300: The game quickens, Watson. Mr. Green has come to us of his own accord.
+5.780: Ready yourself. We may at last confront the mind behind the vanishing piano.
+5.660: The fire burned low in our Baker Street sitting room, casting long flickering shadows against
+6.360: the bookshelves and the framed Persian slipper on the mantle. Mrs. Hudson had scarcely finished
+4.300: announcing the visitor when the man himself entered, and I confess my blood chilled at the
+5.860: sight. He was tall, gaunt, with the pallor of one who lived more in lamplight than under the sun.
+4.200: He was trim-close, his hair slick-bat with continental precision, but it was his eyes
+6.080: that arrested me, icy-gray, piercing, restless, darting from Holmes to myself and back again
+2.180: with the vigilance of a predator.
+3.150: Herr Holmes, said he in a voice soft yet cutting,
+1.780: and Dr. Watson, ja?
+3.780: So the hounds have scented me sooner than I expected.
+3.600: Mr. Green, or should I say Herr Grun,
+2.220: Austrian, perhaps Prussian,
+1.910: certainly of the German tongue,
+4.490: you honour us by stepping into our den voluntarily.
+2.280: May I offer you a chair?
+2.440: Your courtesy is wasted, sir.
+1.350: I came not for tea,
+4.940: but to reclaim what is mine, the piano, and the melody that resided in it.
+2.490: You have interfered sufficiently.
+2.800: Yours? The piano belongs to Mr. Mr.
+4.330: Dild, Enfield, a humble composer who never sought entanglement with espionage.
+2.310: Tote dows it to being biny, this.
+3.480: Ah, poor Penfield, a vessel only, not the source.
+4.380: He dreamed the melody because it was planted in him.
+2.150: A modic suggestion, gentlemen.
+4.490: We of the continent have studied such arts deeply.
+4.990: In a moment between waking and sleep, we gave him the theme, never knowing if it would blossom.
+3.290: It did, and it contained more than music.
+5.350: A cipher encoding the phrase, the key lies in Vienna.
+3.060: We have already deciphered it, Herr Grun.
+3.620: But tell me, what key and why Vienna?
+2.200: You are clever, Holmes, but not omniscient.
+5.460: omniscient. The melody concealed the location of a document, an agreement signed secretly between
+5.380: two empires that could plunge Europe into chaos if revealed. The piano was to vanish until we
+6.640: might transport it safely abroad. But you, you have meddled. His voice rose and for a moment
+4.680: the mask of control slipped, revealing the fanatic beneath. Holmes, however, remained
+4.240: unruffled, tapping his long fingers together as though playing an invisible clavier.
+3.440: Your plan was ingenious, I grant you
+2.840: To hide a cipher within a tune
+2.840: Entrusted to a dreamer who believed it
+2.600: His own composition, admirable
+2.900: But you erred in one respect
+2.700: And that is?
+2.700: In thinking that London
+3.600: The city with eyes and ears in every alley
+4.560: Would allow a foreign agent to burrow unseen
+4.920: Your red-bearded accomplice betrayed you by his very uniqueness
+4.060: and your arrogance brought you to my doorstep.
+2.300: Groom's hand twitched toward his coat pocket,
+3.920: but quicker than thought Holmes had drawn the revolver he seldom carried,
+1.890: save at direst need.
+2.510: How do not, Herr Groom?
+2.680: My friend Watson also carries an arm,
+6.080: and unlike myself he has spent service years firing it in earnest.
+4.790: Track and indeed sir, I said firmly, though my heart pounded.
+1.470: Smiling thinly.
+2.800: So, you have me tracked, but what will you do, Holmes?
+1.160: Turn me to Skarnanyard?
+3.130: They will not grasp the significance of what I bear.
+2.200: The melody is still in my mind.
+5.110: The key remains hidden in Vienna, awaiting only the one who can read the notes.
+5.680: Your mind perhaps, but music may be copied, analysed, destroyed.
+7.500: The tomb lies also with me now, and I have no intention of allowing it into careless hands.
+9.000: As for you, Lestrade shall know what to do with an agent of espionage who traffics in stolen secrets.
+7.500: At that moment, heavy boots slattered upon the stairs, and Inspector Lestrade himself burst into the room, breathless but resolute.
+3.000: Horns, it seemed, had sent a telegram earlier in the day.
+5.740: Holmes, Watson, I came as quick as I could, and this, I take it, is our quarry.
+8.280: Indeed, Lestrade. Herr Grün, alias Mr. Green, foreign agent, mastermind of the vanishing piano.
+3.540: Hmm, he is yours. Hmm.
+5.050: Bitterly, so the curtain falls. But mark me, Holmes, the play is not ended.
+3.450: Vienna will yet sing, and when she does, Europe shall tremble.
+5.200: With iron restraint, Lestrade's men clapped irons upon the spy and bore him,
+1.070: struggling down the stairs.
+4.620: The echoes of his threats lingered in the room long after his footsteps had faded.
+2.700: The days that followed were filled with inquiry.
+4.610: The Foreign Office, apprised of the matter, hushed the affair with typical discretion,
+4.330: whispering only of continental intrigues and tanking Holmes in guarded phrases.
+4.230: Mr. Herm, Penfield the composer, was released from suspicion,
+5.270: though he vowed never again to trust a melody that arrived unbidden in his dreams.
+3.640: Horns, I said one evening, as we sat once more by our fire.
+2.690: I cannot shake the unease that blings to this case.
+2.700: A melody planted like a parasite in the mind,
+1.620: a piano swallowed by the earth,
+3.290: and a spy who claims that the fate of Europe rests upon a tune.
+2.040: It all seems scarcely credible.
+2.460: Yet credible it is, Watson.
+3.380: Men will go to astounding lengths for power.
+3.080: Today it is ink upon a treaty.
+3.770: Tomorrow, it may be a code hidden in music.
+2.820: The human mind is both lock and key,
+3.740: and there will always be those who seek to master it.
+1.470: But what of the message?
+1.370: The key lies in Vienna.
+3.090: Have we truly forestalled danger or only delayed it?
+3.370: We have struck a blow, not finished the war.
+2.920: Another agent may pursue the secret in Vienna,
+3.400: but Herr Grün's immediate scheme is ended.
+4.320: Our duty lies not in reshaping empires,
+4.520: but in defending the innocent who stumble, like Penfield,
+2.890: into the path of darker designs.
+2.540: I could not argue with this philosophy,
+1.730: though it left me with a gnawing sense
+3.200: that larger forces moved beyond the grasp of any detective.
+2.570: However brilliant, Holmes leaned back,
+2.810: his keen profile illuminated by the lamplight,
+1.740: and drew his violin from its case.
+6.770: Listen, Watson, here is the theme as Penfield dreamed it.
+3.890: He played the haunting string, notes rising like ghosts in the air.
+5.360: To my ears it was both beautiful and sorrowful, a whisper from some realm beyond reason.
+3.790: Yet as Holmes played, I fancied I heard beneath the melody another voice,
+3.000: the echo of groom's warning that Vienna would yet sing.
+2.920: When the final note faded, Holmes lowered the bow,
+3.880: though his eyes, half-closed, betrayed a fatigue deeper than physical.
+11.910: it is finished watson for now remember always every tune has its last note the trick is to know when it has truly ended
+3.490: And so, continued the affair of the song of the vanishing piano.
+5.220: A case unlike any other, where espionage, music and human imagination intertwined.
+3.960: To this day, whenever I hear the lonely strains of a violin in the night,
+3.170: I recall the vision of that piano sinking into the earth.
+3.880: The cry of a spy undone and the figure of Sherlock Holmes declaring,
+3.600: with his customary calm, that for him, everything was elementary.
+0.200: .

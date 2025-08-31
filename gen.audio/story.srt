@@ -1,160 +1,160 @@
 00:00:00,000 --> 00:00:04,040
 It is with a peculiar thrill that I commit to paper the strange circumstances
 
-00:00:04,040 --> 00:00:06,060
+00:00:04,040 --> 00:00:06,150
 surrounding what has, see,
 
-00:00:06,240 --> 00:00:10,400
+00:00:06,150 --> 00:00:10,600
 are made to be known in certain musical circles as the song of the vanishing piano.
 
-00:00:10,800 --> 00:00:13,599
+00:00:10,600 --> 00:00:13,599
 Few events in my long acquaintance with Mr. Sherlock Holmes
 
-00:00:13,599 --> 00:00:17,120
+00:00:13,599 --> 00:00:17,310
 demonstrated with such clarity his uncanny method of deduction,
 
-00:00:17,500 --> 00:00:21,440
+00:00:17,310 --> 00:00:21,440
 and few occasions showed more plainly how my own role as humble chronicler
 
-00:00:21,440 --> 00:00:26,019
+00:00:21,440 --> 00:00:26,179
 and fateful companion provided both contrast and completion to that singular intellect.
 
-00:00:26,339 --> 00:00:29,719
+00:00:26,179 --> 00:00:29,719
 The affair began upon one of those damp and sooty evenings in London
 
 00:00:29,719 --> 00:00:32,879
 when the fog seems to press against the windows of Baker Street
 
-00:00:32,879 --> 00:00:35,539
+00:00:32,879 --> 00:00:35,769
 like a half-conscious spirit demanding admittance.
 
-00:00:36,000 --> 00:00:37,840
+00:00:35,769 --> 00:00:37,840
 The gas lamps flickered in a haze
 
 00:00:37,840 --> 00:00:40,700
 and the sound of carriage wheels outside came muffled
 
-00:00:40,700 --> 00:00:43,100
+00:00:40,700 --> 00:00:43,230
 as if London itself were wrapped in cotton.
 
-00:00:43,359 --> 00:00:45,920
+00:00:43,230 --> 00:00:46,079
 Holmes had spent much of the day silent and restless,
 
-00:00:46,239 --> 00:00:49,840
+00:00:46,079 --> 00:00:49,929
 stretched upon the settee with his long fingers interlaced beneath his chin.
 
-00:00:50,019 --> 00:00:53,219
+00:00:49,929 --> 00:00:53,219
 A familiar sign that his mind was engaged upon some abstract speculation
 
-00:00:53,219 --> 00:00:55,280
+00:00:53,219 --> 00:00:55,399
 had been attempting to digest the medical journal.
 
-00:00:55,519 --> 00:00:58,399
+00:00:55,399 --> 00:00:58,399
 Though truthfully I had read the same page three times without comprehension,
 
-00:00:58,399 --> 00:01:01,079
+00:00:58,399 --> 00:01:01,509
 distracted by the intense stillness of my companion.
 
-00:01:01,939 --> 00:01:05,840
+00:01:01,509 --> 00:01:06,099
 My dear Holmes, you have been staring at that ceiling for the better part of the afternoon.
 
-00:01:06,359 --> 00:01:11,500
+00:01:06,099 --> 00:01:12,039
 I cannot but conclude that some case or perhaps the want of one has occupied your thoughts.
 
-00:01:12,579 --> 00:01:18,480
+00:01:12,039 --> 00:01:18,480
 Elementary Watson, I am, as you say, occupied, but by absence rather than presence.
 
 00:01:18,480 --> 00:01:23,539
 You will observe that the calling card tray upon our mantel is empty and misses.
 
-00:01:23,540 --> 00:01:31,980
+00:01:23,539 --> 00:01:32,329
 Hudson has twice informed us that no visitor has rung at our bell.
 
-00:01:32,680 --> 00:01:38,100
+00:01:32,329 --> 00:01:38,099
 For three days the stream of human problems has dried to a trickle.
 
-00:01:38,100 --> 00:01:43,380
+00:01:38,099 --> 00:01:43,859
 The city of London has, quite inconsiderately, ceased to be interesting.
 
-00:01:44,340 --> 00:01:45,360
+00:01:43,859 --> 00:01:45,549
 You astonish me, Holmes.
 
-00:01:45,740 --> 00:01:50,719
+00:01:45,549 --> 00:01:50,719
 Surely the metropolis of severed millions cannot fail to supply intrigue and rhyme even for a single evening.
 
-00:01:50,719 --> 00:01:54,700
+00:01:50,719 --> 00:01:54,999
 On the contrary, my dear fellow, it can.
 
-00:01:55,299 --> 00:02:00,799
+00:01:54,999 --> 00:02:01,029
 The criminal class is as subject to fatigue as any honest labourer.
 
-00:02:01,260 --> 00:02:05,039
+00:02:01,029 --> 00:02:05,219
 One may as well expect perpetual harvest as perpetual villainy.
 
-00:02:05,400 --> 00:02:11,020
+00:02:05,219 --> 00:02:11,209
 But mark me, when the pendulum ceases to swing, it but gathers force to strike again.
 
-00:02:11,400 --> 00:02:15,840
+00:02:11,209 --> 00:02:15,839
 I predict that before the night is out, Baker Street will not be so quiet.
 
-00:02:15,840 --> 00:02:21,159
+00:02:15,839 --> 00:02:21,339
 It was as if the great detective had summoned destiny with his words.
 
-00:02:21,520 --> 00:02:24,960
+00:02:21,339 --> 00:02:25,139
 For no sooner had he spoken than there came a sharp rap upon the door,
 
-00:02:25,319 --> 00:02:28,580
+00:02:25,139 --> 00:02:29,009
 followed by Mrs. Zondin Hudson's somewhat breathless voice.
 
-00:02:29,439 --> 00:02:34,319
+00:02:29,009 --> 00:02:34,759
 Mr. Holmes, sir, a gentleman to see you says it is most urgent.
 
-00:02:35,199 --> 00:02:39,920
+00:02:34,759 --> 00:02:40,120
 A moment later, into our sitting room stepped a tall and somewhat cadaverous man of middle years,
 
-00:02:40,319 --> 00:02:42,879
+00:02:40,120 --> 00:02:42,879
 dressed in a frock coat that had clearly seen better days,
 
 00:02:42,879 --> 00:02:47,400
 and carrying beneath his arm a folio of sheep music so swollen with loose pages
 
-00:02:47,400 --> 00:02:50,659
+00:02:47,400 --> 00:02:50,769
 that it threatened to scatter its contents upon a heart-thrug.
 
-00:02:50,879 --> 00:02:55,019
+00:02:50,769 --> 00:02:55,149
 His expression, pale and strained, betrayed an agitation not far from panic.
 
-00:02:55,280 --> 00:02:57,659
+00:02:55,149 --> 00:02:57,780
 His hair was unkempt, his boots poorly polished,
 
-00:02:57,900 --> 00:03:02,379
+00:02:57,780 --> 00:03:02,920
 yet his fingers were long, delicate and bore the unmistakable calluses of a musician.
 
-00:03:03,460 --> 00:03:06,000
+00:03:02,920 --> 00:03:06,199
 Mr. Sherlock Holmes, thank heaven I have found you.
 
-00:03:06,400 --> 00:03:09,439
+00:03:06,199 --> 00:03:09,439
 My name is Arthur Penfield, late of the Royal Academy of Music.
 
-00:03:09,439 --> 00:03:14,060
+00:03:09,439 --> 00:03:14,560
 I implore you, sir, to hear my case, but I am on the verge of ruin.
 
-00:03:15,060 --> 00:03:17,219
+00:03:14,560 --> 00:03:17,519
 You are most welcome, Mr. Penfield.
 
-00:03:17,819 --> 00:03:18,579
+00:03:17,519 --> 00:03:18,839
 Pray be seated.
 
-00:03:19,099 --> 00:03:22,060
+00:03:18,839 --> 00:03:22,349
 You will find the chair by the fire the most comfortable.
 
-00:03:22,639 --> 00:03:25,259
+00:03:22,349 --> 00:03:25,519
 Allow me to relieve you of your folio.
 
-00:03:25,780 --> 00:03:31,520
+00:03:25,519 --> 00:03:32,069
 Ah, I perceive it concerns a pianoforte composition, written in your own hand.
 
-00:03:32,620 --> 00:03:35,120
+00:03:32,069 --> 00:03:35,120
 You are correct, sir, though I marvel how you knew it.
 
 00:03:35,120 --> 00:03:44,240
@@ -166,188 +166,191 @@ leaf the nervous tremor in your left hand is not congenital but the result of re
 00:03:51,259 --> 00:03:58,819
 upon the keys and your manner of carrying the folio clutched not as an idle portfolio but as a
 
-00:03:58,819 --> 00:04:02,539
+00:03:58,819 --> 00:04:02,899
 Mother clutches a child, speaks of personal authorship.
 
-00:04:03,259 --> 00:04:07,379
+00:04:02,899 --> 00:04:07,750
 The poor man gazed at Holmes with wide eyes, as though confronted by a sorcerer.
 
-00:04:08,120 --> 00:04:11,299
+00:04:07,750 --> 00:04:11,299
 Then you will understand, sir, how desperate is my plight.
 
-00:04:11,299 --> 00:04:18,500
+00:04:11,299 --> 00:04:18,669
 I have written, nay, I had written, a composition intended for public premiere at St. James's Hall next week.
 
-00:04:18,839 --> 00:04:21,100
+00:04:18,669 --> 00:04:21,300
 It was to be my redemption, my masterwork.
 
-00:04:21,500 --> 00:04:26,019
+00:04:21,300 --> 00:04:26,019
 But last night, in the valley jamo where I lodged, the instrument upon which I composed,
 
-00:04:26,019 --> 00:04:32,379
+00:04:26,019 --> 00:04:32,740
 the pianoforte itself vanished utterly. Vanished, sir, as though the very air had swallowed it.
 
-00:04:33,099 --> 00:04:37,419
+00:04:32,740 --> 00:04:37,889
 Vanished? Surely you mean stolen, or removed by porters during your absence?
 
-00:04:38,359 --> 00:04:43,339
+00:04:37,889 --> 00:04:43,539
 Would that it was so simple, doctor, but I swear to you, and to Mr. Mr. Holmes,
 
-00:04:43,740 --> 00:04:49,019
+00:04:43,539 --> 00:04:49,019
 that the pianoforte disappeared whilst I sat before it. I had just completed the central
 
 00:04:49,019 --> 00:04:55,279
 motif of the second movement when, upon striking the keys, I heard no sound, nothing but silence.
 
-00:04:55,279 --> 00:05:01,279
+00:04:55,279 --> 00:05:01,459
 I looked down and the keyboard was gone. The lid, the frame, the sounding board all were gone.
 
-00:05:01,639 --> 00:05:07,139
+00:05:01,459 --> 00:05:07,559
 I sat with my hands upon empty air. Only the bench remained beneath me.
 
-00:05:07,979 --> 00:05:13,859
+00:05:07,559 --> 00:05:14,239
 Holmes, who had been listening with eyes half-closed, now leaned forward, every feature alert with interest.
 
-00:05:14,619 --> 00:05:18,459
+00:05:14,239 --> 00:05:18,459
 You say the piano vanished while you were in the act of playing it?
 
-00:05:18,459 --> 00:05:25,839
+00:05:18,459 --> 00:05:26,409
 You perceived no human agency, no movers, no trick of carpentry, no trap-door?
 
-00:05:26,979 --> 00:05:31,479
+00:05:26,409 --> 00:05:31,679
 None, sir. My lodgings are on the third floor of a boarding-house in Bloomsbury.
 
-00:05:31,879 --> 00:05:39,839
+00:05:31,679 --> 00:05:40,309
 The door was locked, the window shut, and yet the instrument, an upright pianoforte of German make, ceased to exist before my eyes.
 
-00:05:40,779 --> 00:05:46,519
+00:05:40,309 --> 00:05:46,519
 My dear Holmes, surely this is a delusion. Our visitor was overwrought, fatigued perhaps from labour at his art.
 
 00:05:46,519 --> 00:05:50,759
 I myself, in medical practice, have known patients who...
 
-00:05:50,759 --> 00:05:54,599
+00:05:50,759 --> 00:05:54,909
 Hush, Watson. Let us never mistake the improbable for the impossible.
 
-00:05:55,219 --> 00:06:00,240
+00:05:54,909 --> 00:06:00,549
 Our client's senses may have deceived him, but we must not permit our reason to do the same.
 
-00:06:00,859 --> 00:06:01,139
+00:06:00,549 --> 00:06:01,329
 Ah!
 
-00:06:01,519 --> 00:06:05,740
+00:06:01,329 --> 00:06:06,210
 Pay continue, Mr. Penfield. Did you at once search the chamber?
 
-00:06:06,680 --> 00:06:11,599
+00:06:06,210 --> 00:06:11,740
 Indeed I did, sir. I examined every corner, opened the wardrobe, even peered beneath the bed,
 
-00:06:11,879 --> 00:06:14,519
+00:06:11,740 --> 00:06:14,519
 as if a pianoforte might conceal itself there.
 
-00:06:14,519 --> 00:06:16,859
+00:06:14,519 --> 00:06:17,139
 Neighbours heard my outcry and came running.
 
-00:06:17,419 --> 00:06:18,500
+00:06:17,139 --> 00:06:18,730
 They too saw the room,
 
-00:06:18,959 --> 00:06:21,740
+00:06:18,730 --> 00:06:21,949
 bare save for the stool and the folio upon it.
 
-00:06:22,159 --> 00:06:23,319
+00:06:21,949 --> 00:06:23,559
 My landlady insists.
 
-00:06:23,799 --> 00:06:24,939
+00:06:23,559 --> 00:06:25,139
 I have gone mad.
 
-00:06:25,339 --> 00:06:26,379
+00:06:25,139 --> 00:06:26,519
 But I swear to you, mister.
 
-00:06:26,659 --> 00:06:26,979
+00:06:26,519 --> 00:06:27,259
 Mister!
 
-00:06:27,539 --> 00:06:31,000
+00:06:27,259 --> 00:06:31,500
 Holmes, the piano was there one instant and gone the next.
 
-00:06:32,000 --> 00:06:34,500
+00:06:31,500 --> 00:06:34,740
 And the sheet music you carry,
 
-00:06:34,979 --> 00:06:38,279
+00:06:34,740 --> 00:06:38,879
 this was composed upon that same vanished instrument.
 
-00:06:39,479 --> 00:06:40,219
+00:06:38,879 --> 00:06:40,469
 Yes, sir.
 
-00:06:40,719 --> 00:06:42,959
+00:06:40,469 --> 00:06:42,959
 Every note of it, without the instrument,
 
-00:06:42,959 --> 00:06:45,979
+00:06:42,959 --> 00:06:46,209
 I cannot refine the piece, nor can I rehearse.
 
-00:06:46,439 --> 00:06:49,919
+00:06:46,209 --> 00:06:50,120
 My reputation and my livelihood both depend upon the concert.
 
-00:06:50,319 --> 00:06:53,379
-Unless I recover the Piano Forte, or at the very least,
+00:06:50,120 --> 00:06:53,509
+Unless I recover the piano forte, or at the very least,
 
-00:06:53,639 --> 00:06:56,560
+00:06:53,509 --> 00:06:56,909
 solve the riddle of its disappearance, I am undone.
 
-00:06:57,259 --> 00:07:01,839
+00:06:56,909 --> 00:07:01,969
 Holmes rose and paced the room, his long strides carrying him from heart to window and back again.
 
-00:07:02,099 --> 00:07:05,299
+00:07:01,969 --> 00:07:05,679
 He rubbed his chin thoughtfully, then turned to me with a glint in his eye.
 
-00:07:06,060 --> 00:07:09,979
+00:07:05,679 --> 00:07:10,029
 Watson, you recall my remark, not ten minutes past,
 
-00:07:10,079 --> 00:07:12,819
+00:07:10,029 --> 00:07:12,889
 that Baker Street would not remain quiet tonight?
 
-00:07:12,959 --> 00:07:15,359
+00:07:12,889 --> 00:07:15,669
 The game, it seems, has begun.
 
-00:07:15,979 --> 00:07:17,459
+00:07:15,669 --> 00:07:17,679
 A vanishing piano, Watson.
 
-00:07:17,899 --> 00:07:19,919
+00:07:17,679 --> 00:07:20,299
 Have you ever heard of such a marvel?
 
-00:07:20,680 --> 00:07:21,439
+00:07:20,299 --> 00:07:21,589
 Never, Holmes.
 
-00:07:21,739 --> 00:07:25,079
+00:07:21,589 --> 00:07:25,509
 And I confess, I still struggle to believe it possible.
 
-00:07:25,939 --> 00:07:30,919
+00:07:25,509 --> 00:07:31,269
 That is because you rely upon probability rather than possibility.
 
-00:07:31,620 --> 00:07:35,099
+00:07:31,269 --> 00:07:35,099
 The improbable, my dear friend, happens daily.
 
 00:07:35,099 --> 00:07:40,060
 It is only the impossible that remains forever barred.
 
-00:07:40,060 --> 00:07:44,060
+00:07:40,060 --> 00:07:44,649
 Let us then ascertain whether Mr. Sin, whether Mr.
 
-00:07:45,240 --> 00:07:49,199
+00:07:44,649 --> 00:07:49,500
 Penfield's pianoforte is improbable or impossible.
 
-00:07:49,800 --> 00:07:54,079
+00:07:49,500 --> 00:07:54,669
 Mr. Penfield, you must take us to your lodgings at once.
 
-00:07:55,259 --> 00:07:59,560
+00:07:54,669 --> 00:07:59,800
 With all my heart, sir, I have prayed for nothing, so much as your assistance.
 
-00:08:00,040 --> 00:08:02,319
+00:07:59,800 --> 00:08:02,649
 But I warn you, the landlady is hostile.
 
-00:08:02,980 --> 00:08:06,160
+00:08:02,649 --> 00:08:06,160
 She believes me deranged and would prefer the matter hushed up.
 
 00:08:06,160 --> 00:08:15,900
 So much the better. Opposition sharpens the wits. Watson, your hat and coat. We go to Bloomsbury.
+
+00:08:15,900 --> 00:08:36,159
+...........
 
 00:08:36,159 --> 00:08:40,159
 Penfield clutched his photo upon his lap as though it were life itself.
@@ -370,91 +373,91 @@ with much creaking of timbers and muttered protests from the landlady,
 00:09:02,159 --> 00:09:05,159
 who had reappeared upon hearing our footsteps.
 
-00:09:05,159 --> 00:09:09,199
+00:09:05,159 --> 00:09:09,329
 The candlelight trembled against wallpaper, already blistered with damp,
 
-00:09:09,459 --> 00:09:12,620
+00:09:09,329 --> 00:09:12,710
 and the air drew close with the odor of boiled cabbage and cold smoke.
 
-00:09:12,799 --> 00:09:14,000
+00:09:12,710 --> 00:09:14,120
 Hmm, Mr. Hmm.
 
-00:09:14,240 --> 00:09:18,399
+00:09:14,120 --> 00:09:18,549
 Hemphine followed like a man condemned, clutching his folio tightly against his dress,
 
-00:09:18,699 --> 00:09:21,259
+00:09:18,549 --> 00:09:21,409
 while Holmes moved ahead with swift, noiseless tread,
 
-00:09:21,559 --> 00:09:24,360
+00:09:21,409 --> 00:09:24,440
 pausing at every landing to examine the walls, the banisters,
 
-00:09:24,519 --> 00:09:26,839
+00:09:24,440 --> 00:09:27,149
 the very nails that held the carpet runner in place.
 
-00:09:27,459 --> 00:09:30,339
+00:09:27,149 --> 00:09:30,539
 Watson, observe the spacing of these boards.
 
-00:09:30,740 --> 00:09:33,819
+00:09:30,539 --> 00:09:34,129
 They are old oak, but recently disturbed.
 
-00:09:34,440 --> 00:09:37,480
+00:09:34,129 --> 00:09:37,730
 Note the faint discolouration along the edges.
 
-00:09:37,980 --> 00:09:42,260
+00:09:37,730 --> 00:09:42,630
 Something has been lifted here and replaced within the last month.
 
-00:09:43,000 --> 00:09:45,200
+00:09:42,630 --> 00:09:45,350
 Yes, Holmes, I see the difference in you,
 
-00:09:45,500 --> 00:09:47,640
+00:09:45,350 --> 00:09:48,250
 though I should have walked past without remarking it.
 
-00:09:48,860 --> 00:09:49,420
+00:09:48,250 --> 00:09:49,690
 Precisely.
 
-00:09:49,960 --> 00:09:53,080
+00:09:49,690 --> 00:09:53,400
 The criminal counts upon the public's blindness to detail.
 
-00:09:53,720 --> 00:09:56,820
+00:09:53,400 --> 00:09:57,130
 To the trained eye, however, each grain of wood is a witness.
 
-00:09:57,440 --> 00:10:00,200
+00:09:57,130 --> 00:10:00,600
 Now let us inquire of Mrs. Gaskell.
 
-00:10:01,000 --> 00:10:03,160
+00:10:00,600 --> 00:10:03,160
 If you're meaning the floor, sir,
 
-00:10:03,159 --> 00:10:05,100
+00:10:03,160 --> 00:10:05,530
 it was repaired a fortnight ago.
 
-00:10:05,959 --> 00:10:09,480
+00:10:05,530 --> 00:10:09,640
 My second-floor lodger complained of drafts.
 
-00:10:09,799 --> 00:10:12,839
+00:10:09,640 --> 00:10:13,600
 A carpenter from Holborn came to lay new planks.
 
-00:10:14,360 --> 00:10:15,799
+00:10:13,600 --> 00:10:15,960
 Hey, just so.
 
-00:10:16,120 --> 00:10:18,480
+00:10:15,960 --> 00:10:18,870
 And what was the name of this carpenter?
 
-00:10:19,259 --> 00:10:20,219
+00:10:18,870 --> 00:10:20,340
 I couldn't tell you.
 
-00:10:20,459 --> 00:10:22,339
+00:10:20,340 --> 00:10:22,540
 Some tall fellow with a red beard.
 
-00:10:22,740 --> 00:10:25,779
+00:10:22,540 --> 00:10:26,250
 I paid him in coin and thought no more about it.
 
-00:10:26,719 --> 00:10:27,240
+00:10:26,250 --> 00:10:27,530
 A pity.
 
-00:10:27,819 --> 00:10:31,519
+00:10:27,530 --> 00:10:31,520
 Yet red beards like pianos cannot vanish without trace.
 
-00:10:31,519 --> 00:10:33,600
+00:10:31,520 --> 00:10:33,600
 Watson, make a note of it
 
 00:10:33,600 --> 00:10:38,740
@@ -466,346 +469,358 @@ We entered the second floor room, which was at present unoccupied
 00:10:42,500 --> 00:10:46,340
 Its bed stripped bare, its furniture cloaked in dust sheets
 
-00:10:46,340 --> 00:10:49,439
+00:10:46,340 --> 00:10:49,440
 Holmes paced to the centre of the floor and tapped with his cane
 
-00:10:49,439 --> 00:10:53,100
+00:10:49,440 --> 00:10:53,100
 producing a hollow resonance unlike the solid tone one would expect
 
-00:10:53,100 --> 00:10:55,539
+00:10:53,100 --> 00:10:55,540
 He dropped to one knee, pressed his ear against the boards
 
-00:10:55,539 --> 00:10:57,500
+00:10:55,540 --> 00:10:57,500
 and then smiled in quiet satisfaction
 
 00:10:57,500 --> 00:11:00,500
 There, Watson, do you not hear it?
 
-00:11:00,500 --> 00:11:06,600
+00:11:00,500 --> 00:11:06,680
 A cavity beneath, large enough, I dare say, to swallow more than draughts, large enough,
 
-00:11:06,740 --> 00:11:09,019
+00:11:06,680 --> 00:11:09,380
 perhaps, for an entire piano forte.
 
-00:11:09,740 --> 00:11:13,460
-A hidden chamber, then the piano may not have left the house at all.
+00:11:09,380 --> 00:11:11,090
+A hidden chamber?
 
-00:11:14,299 --> 00:11:14,860
+00:11:11,090 --> 00:11:13,880
+Then the piano may not have left the house at all.
+
+00:11:13,880 --> 00:11:15,290
 Exactly.
 
-00:11:15,720 --> 00:11:22,440
+00:11:15,290 --> 00:11:22,440
 Now, the question remains, by what mechanism was it lowered from above without Mr. Penfield
 
-00:11:22,440 --> 00:11:23,820
+00:11:22,440 --> 00:11:24,380
 perceiving the transition?
 
-00:11:24,940 --> 00:11:25,860
+00:11:24,380 --> 00:11:26,020
 Lowered, sir?
 
-00:11:26,179 --> 00:11:27,279
+00:11:26,020 --> 00:11:27,480
 You astonish me.
 
-00:11:27,679 --> 00:11:29,679
+00:11:27,480 --> 00:11:30,090
 Surely I would have fez the descent beneath me.
 
-00:11:30,500 --> 00:11:31,779
+00:11:30,090 --> 00:11:31,780
 Would you?
 
-00:11:33,879 --> 00:11:38,600
+00:11:31,780 --> 00:11:33,880
+..
+
+00:11:33,880 --> 00:11:38,780
 Consider, the player is absorbed in his art,
 
-00:11:38,960 --> 00:11:43,399
+00:11:38,780 --> 00:11:43,710
 his mind fixed upon the score, his hands occupied upon the keys.
 
-00:11:44,019 --> 00:11:47,879
+00:11:43,710 --> 00:11:47,880
 If the entire floor beneath the instrument descended slowly,
 
-00:11:47,879 --> 00:11:51,159
+00:11:47,880 --> 00:11:51,320
 by counterweight, perhaps, or hydraulic piston,
 
-00:11:51,480 --> 00:11:53,879
+00:11:51,320 --> 00:11:54,390
 you might experience only a curious vibration,
 
-00:11:54,899 --> 00:11:58,139
+00:11:54,390 --> 00:11:58,140
 such as you described, a hum beneath the floorboards.
 
-00:11:58,139 --> 00:11:58,899
+00:11:58,140 --> 00:11:58,900
 Oh!
 
-00:12:01,059 --> 00:12:02,379
+00:11:58,900 --> 00:12:01,060
+..
+
+00:12:01,060 --> 00:12:02,380
 Thumbs' words struck me
 
-00:12:02,379 --> 00:12:03,819
+00:12:02,380 --> 00:12:03,920
 with the force of revelation.
 
-00:12:04,019 --> 00:12:06,720
+00:12:03,920 --> 00:12:06,720
 The notion of an entire piano
 
 00:12:06,720 --> 00:12:08,860
 being swallowed by the earth seemed wild
 
-00:12:08,860 --> 00:12:11,039
+00:12:08,860 --> 00:12:11,040
 and yet the hollow echo of the boards
 
-00:12:11,039 --> 00:12:12,059
+00:12:11,040 --> 00:12:12,200
 lent it credence.
 
-00:12:12,340 --> 00:12:13,919
+00:12:12,200 --> 00:12:13,920
 My friend's eyes shone with excitement
 
-00:12:13,919 --> 00:12:15,840
+00:12:13,920 --> 00:12:16,300
 like a scientist on the brink of discovery.
 
-00:12:16,759 --> 00:12:19,319
+00:12:16,300 --> 00:12:19,570
 Watson, fetch that poker from the fireplace.
 
-00:12:19,819 --> 00:12:21,899
+00:12:19,570 --> 00:12:22,450
 We shall test these boards for weakness.
 
-00:12:23,000 --> 00:12:24,200
+00:12:22,450 --> 00:12:24,200
 I complied
 
-00:12:24,200 --> 00:12:26,580
+00:12:24,200 --> 00:12:26,880
 and together we prized up a length of flooring.
 
-00:12:27,179 --> 00:12:27,980
+00:12:26,880 --> 00:12:27,980
 Beneath lay darkness
 
-00:12:27,980 --> 00:12:32,820
+00:12:27,980 --> 00:12:32,920
 But as Holmes lowered the candle into the aperture, the flickering light revealed an astonishing sight.
 
-00:12:33,019 --> 00:12:37,659
+00:12:32,920 --> 00:12:37,760
 A shaft descending into the depths of the house, lined with wooden beams and fitted with ropes and pulleys.
 
-00:12:37,860 --> 00:12:44,120
+00:12:37,760 --> 00:12:44,510
 At the bottom, far below, we glimpsed the curved outline of what could only be a piano, resting silently in the gloom.
 
-00:12:44,899 --> 00:12:47,159
+00:12:44,510 --> 00:12:47,670
 Good heavens, there it is, the instrument itself.
 
-00:12:48,180 --> 00:12:50,180
+00:12:47,670 --> 00:12:50,670
 Merciful Providence, my piano.
 
-00:12:51,159 --> 00:12:53,680
+00:12:50,670 --> 00:12:53,680
 So much for vanishing into thin air.
 
-00:12:53,679 --> 00:13:00,659
+00:12:53,680 --> 00:13:00,970
 The trick, Watson, is as old as a stage, a trap door, ingeniously concealed,
 
-00:13:01,279 --> 00:13:04,479
+00:13:00,970 --> 00:13:05,330
 through which the entire pianoforte has been lowered.
 
-00:13:06,179 --> 00:13:07,459
+00:13:05,330 --> 00:13:08,420
 The hum.
 
-00:13:09,379 --> 00:13:12,000
+00:13:08,420 --> 00:13:12,400
 Penfield heard was the sound of machinery.
 
-00:13:12,799 --> 00:13:14,699
+00:13:12,400 --> 00:13:14,700
 The question is, why?
 
-00:13:17,699 --> 00:13:20,879
+00:13:14,700 --> 00:13:17,700
+..
+
+00:13:17,700 --> 00:13:20,880
 With Holmes's guidance, we descended to the ground floor,
 
-00:13:20,879 --> 00:13:23,759
+00:13:20,880 --> 00:13:23,900
 where a locked door barred our way to the cellars.
 
-00:13:24,039 --> 00:13:29,100
+00:13:23,900 --> 00:13:29,280
 Mrs. Gaskell, though reluctant, produced a key muttering of nonsense and foolishness.
 
-00:13:29,460 --> 00:13:33,200
+00:13:29,280 --> 00:13:33,320
 Within, we found a cavernous space, its walls lined with coal and firewood,
 
-00:13:33,439 --> 00:13:37,340
+00:13:33,320 --> 00:13:37,430
 but in the centre stood a wooden platform connected to ropes, wheels and counterweights.
 
-00:13:37,519 --> 00:13:43,679
+00:13:37,430 --> 00:13:44,050
 On that platform, like some sacrificial idol, rested the pianoforte, unscathed but eerily silent.
 
-00:13:44,419 --> 00:13:46,059
+00:13:44,050 --> 00:13:46,060
 There you have it, Watson.
 
-00:13:46,059 --> 00:13:51,979
+00:13:46,060 --> 00:13:52,450
 a perfectly contrived stage elevator concealed within a humble boarding house.
 
-00:13:52,919 --> 00:13:58,399
+00:13:52,450 --> 00:13:58,750
 Such craftsmanship bespeaks not a common carpenter, but a mechanic of considerable skill.
 
-00:13:59,099 --> 00:14:02,559
+00:13:58,750 --> 00:14:02,800
 See the polish of the wheels, the precision of the grooves.
 
-00:14:03,039 --> 00:14:05,559
+00:14:02,800 --> 00:14:06,070
 This is the work of a master.
 
-00:14:06,579 --> 00:14:10,539
+00:14:06,070 --> 00:14:10,950
 But to what end? Why lower a piano into the cellars beneath its owner's nose?
 
-00:14:11,359 --> 00:14:14,299
+00:14:10,950 --> 00:14:14,300
 That, my dear fellow, is the heart of the mystery.
 
-00:14:14,299 --> 00:14:16,879
+00:14:14,300 --> 00:14:16,880
 Peft is the obvious explanation
 
-00:14:16,879 --> 00:14:19,919
+00:14:16,880 --> 00:14:19,920
 Yet the instrument remains here untouched
 
-00:14:19,919 --> 00:14:21,399
+00:14:19,920 --> 00:14:21,830
 Sabotage?
 
-00:14:22,259 --> 00:14:22,979
+00:14:21,830 --> 00:14:22,980
 Perhaps
 
-00:14:22,979 --> 00:14:25,539
+00:14:22,980 --> 00:14:25,540
 Or perhaps something more elaborate
 
-00:14:25,539 --> 00:14:28,419
+00:14:25,540 --> 00:14:28,420
 Something that concerns not the piano itself
 
-00:14:28,419 --> 00:14:30,299
+00:14:28,420 --> 00:14:30,300
 But the music it bears
 
-00:14:30,299 --> 00:14:32,339
+00:14:30,300 --> 00:14:32,340
 You bewilder me, sir
 
-00:14:32,339 --> 00:14:34,459
+00:14:32,340 --> 00:14:34,710
 Who would wish to sabotage my work?
 
-00:14:34,959 --> 00:14:37,419
+00:14:34,710 --> 00:14:37,420
 I am no celebrity, only a struggling composer
 
-00:14:37,419 --> 00:14:42,479
+00:14:37,420 --> 00:14:42,480
 And yet, Mr. Penfield
 
-00:14:42,480 --> 00:14:47,860
+00:14:42,480 --> 00:14:48,340
 Even a struggling composer may stumble upon a melody others desire to suppress.
 
-00:14:48,820 --> 00:14:52,539
+00:14:48,340 --> 00:14:52,740
 Tell me, your composition, does it borrow from any source,
 
-00:14:52,940 --> 00:14:56,259
+00:14:52,740 --> 00:14:56,840
 any folk song, any secret theme entrusted to you?
 
-00:14:57,420 --> 00:15:00,519
+00:14:56,840 --> 00:15:00,990
 None, sir. The music is wholly my own, though.
 
-00:15:01,460 --> 00:15:03,539
+00:15:00,990 --> 00:15:03,940
 Hmm. Though what? Hmm.
 
-00:15:04,340 --> 00:15:07,600
+00:15:03,940 --> 00:15:07,850
 There is one peculiarity. The central motif came to me in a dream.
 
-00:15:08,100 --> 00:15:10,139
+00:15:07,850 --> 00:15:10,139
 I awoke with it ringing in my ears,
 
-00:15:10,139 --> 00:15:13,460
+00:15:10,139 --> 00:15:13,660
 as though some unseen musician had played it to me in the night.
 
-00:15:13,860 --> 00:15:17,939
+00:15:13,660 --> 00:15:18,259
 I wrote it down at once, and it has since become the very soul of my concerto.
 
-00:15:18,580 --> 00:15:21,279
+00:15:18,259 --> 00:15:21,490
 Holmes's brows knitted, and he muttered half to himself,
 
-00:15:21,699 --> 00:15:25,939
+00:15:21,490 --> 00:15:26,149
 A melody in a dream, a piano swallowed by machinery,
 
-00:15:26,360 --> 00:15:29,039
+00:15:26,149 --> 00:15:29,210
 a brass fragment that does not belong.
 
-00:15:29,379 --> 00:15:33,019
+00:15:29,210 --> 00:15:33,279
 Watson, we are upon the edge of something curious indeed.
 
-00:15:33,539 --> 00:15:37,360
+00:15:33,279 --> 00:15:37,360
 Mark me, this affair reaches deeper than Bloomsbury.
 
-00:15:37,360 --> 00:15:41,879
+00:15:37,360 --> 00:15:42,420
 I must know who built this contrivance and for whose hand.
 
-00:15:42,960 --> 00:15:44,320
+00:15:42,420 --> 00:15:44,810
 Then you suspect a conspiracy?
 
-00:15:45,300 --> 00:15:50,899
+00:15:44,810 --> 00:15:51,220
 I suspect only that human ingenuity rarely expends itself without motive.
 
-00:15:51,539 --> 00:15:56,300
+00:15:51,220 --> 00:15:56,590
 Somewhere in London is a man with a red beard and a talent for hidden machinery.
 
-00:15:56,879 --> 00:15:59,800
+00:15:56,590 --> 00:16:00,080
 Find him, Watson, and we find our truth.
 
-00:16:00,360 --> 00:16:06,060
+00:16:00,080 --> 00:16:06,060
 Meanwhile, Mr. Penfield, I urge you to guard your score most carefully.
 
-00:16:06,059 --> 00:16:12,599
+00:16:06,060 --> 00:16:13,190
 For if your enemies cannot steal your piano, they may attempt to steal the song itself.
 
-00:16:13,779 --> 00:16:19,299
+00:16:13,190 --> 00:16:19,420
 At that moment, a distant bell tolled the hour, its mournfully clang echoing through the cellar like a warning.
 
-00:16:19,539 --> 00:16:22,299
+00:16:19,420 --> 00:16:22,410
 Holmes extinguished the candle and straightened to his full height.
 
-00:16:22,519 --> 00:16:25,799
+00:16:22,410 --> 00:16:26,370
 His face was grave, yet his eyes glittered with anticipation.
 
-00:16:26,939 --> 00:16:29,819
+00:16:26,370 --> 00:16:30,050
 Come, gentlemen, we have seen enough for tonight.
 
-00:16:30,279 --> 00:16:33,239
+00:16:30,050 --> 00:16:33,240
 Tomorrow we hunt the man with the red beard.
 
-00:16:33,240 --> 00:16:37,680
+00:16:33,240 --> 00:16:37,880
 Thus ended the first stage of our adventure.
 
-00:16:38,080 --> 00:16:40,320
+00:16:37,880 --> 00:16:40,410
 A piano found, yet the riddle deepened,
 
-00:16:40,500 --> 00:16:42,919
+00:16:40,410 --> 00:16:43,049
 a mystery solved, yet a greater enigma born.
 
-00:16:43,180 --> 00:16:45,940
+00:16:43,049 --> 00:16:46,120
 I could not then imagine how perilous our quest would become,
 
-00:16:46,299 --> 00:16:49,100
+00:16:46,120 --> 00:16:49,100
 nor how the song itself would draw us into a web of intrigue
 
-00:16:49,100 --> 00:16:51,240
+00:16:49,100 --> 00:16:51,610
 that reached far beyond the walls of Bloomsbury.
 
-00:16:51,980 --> 00:16:54,299
+00:16:51,610 --> 00:16:54,419
 When morning broke over Baker Street the following day,
 
-00:16:54,539 --> 00:16:57,580
+00:16:54,419 --> 00:16:57,580
 the fog had lifted, and Mazel, the air still hung heavy
 
-00:16:57,580 --> 00:16:59,840
+00:16:57,580 --> 00:16:59,950
 with the acrid smoke of a thousand chimneys.
 
-00:17:00,060 --> 00:17:02,480
+00:16:59,950 --> 00:17:02,480
 Holmes had risen before me, as was often his custom,
 
 00:17:02,480 --> 00:17:06,860
 and when I emerged from my room, I found him already at the table with maps, directories
 
-00:17:06,860 --> 00:17:10,079
+00:17:06,860 --> 00:17:10,210
 and his chemical apparatus scattered around him in chaotic order.
 
-00:17:10,339 --> 00:17:12,660
+00:17:10,210 --> 00:17:12,660
 He had exchanged his dressing gown for a tweed suit
 
-00:17:12,660 --> 00:17:17,319
+00:17:12,660 --> 00:17:17,690
 and the energy in his movements told me that his mind had raced far into the mystery during the night.
 
-00:17:18,059 --> 00:17:21,339
+00:17:17,690 --> 00:17:21,829
 Holmes, you look as though you have already solved the case before breakfast.
 
-00:17:22,319 --> 00:17:23,720
+00:17:21,829 --> 00:17:23,930
 Not solved, Watson.
 
-00:17:24,140 --> 00:17:26,799
+00:17:23,930 --> 00:17:27,019
 Merely sharpened the tools with which to cut.
 
-00:17:27,240 --> 00:17:30,180
+00:17:27,019 --> 00:17:30,180
 We are in pursuit of a red-bearded mechanic,
 
 00:17:30,180 --> 00:17:37,400
@@ -814,762 +829,768 @@ a craftsman of no mean ability, who installed a trap capable of lowering an enti
 00:17:37,400 --> 00:17:44,920
 into the bowels of a Broomsbury boarding-house. Such a man cannot be common. London swarms with
 
-00:17:44,920 --> 00:17:50,519
+00:17:44,920 --> 00:17:50,769
 tinkers and carpenters, but few who could accomplish such engineering in secrecy.
 
-00:17:51,019 --> 00:17:56,440
+00:17:50,769 --> 00:17:56,440
 Therefore he must be known in certain circles. And how do you propose to find him?
 
-00:17:56,440 --> 00:18:01,120
+00:17:56,440 --> 00:18:01,420
 By the oldest method of all, my dear fellow, inquiry,
 
-00:18:01,720 --> 00:18:06,799
+00:18:01,420 --> 00:18:06,799
 I have already dispatched young Wiggins and his Baker Street irregulars
 
-00:18:06,799 --> 00:18:10,240
+00:18:06,799 --> 00:18:10,570
 to gorm the workshops of Holborn and Clerkenwell.
 
-00:18:10,900 --> 00:18:13,080
+00:18:10,570 --> 00:18:13,350
 A red-beard Watson is a beacon.
 
-00:18:13,620 --> 00:18:15,799
+00:18:13,350 --> 00:18:16,210
 With luck, by noon we shall have a name.
 
-00:18:16,620 --> 00:18:19,100
+00:18:16,210 --> 00:18:19,100
 As if on cue, there came a tapping at the door,
 
-00:18:19,100 --> 00:18:21,580
+00:18:19,100 --> 00:18:21,720
 and in shuffle Wiggins, the street urchin,
 
-00:18:21,860 --> 00:18:25,600
+00:18:21,720 --> 00:18:25,600
 whose quick eyes and nimble feet had served us in many an adventure,
 
-00:18:25,599 --> 00:18:28,639
+00:18:25,600 --> 00:18:29,050
 He removed his cap and spoke with his usual bluntness.
 
-00:18:29,459 --> 00:18:30,719
+00:18:29,050 --> 00:18:31,010
 Beg pardon, Mr. Holmes.
 
-00:18:31,299 --> 00:18:31,919
+00:18:31,010 --> 00:18:32,090
 We found dine.
 
-00:18:32,259 --> 00:18:35,579
+00:18:32,090 --> 00:18:35,890
 Name, oh Ezekiel Trenchard, keeps a whisk shop off Leather Lane.
 
-00:18:36,199 --> 00:18:38,839
+00:18:35,890 --> 00:18:39,030
 Folks call him Red Zeke on account of the whiskers.
 
-00:18:39,219 --> 00:18:40,439
+00:18:39,030 --> 00:18:40,650
 Bids are contraptions.
 
-00:18:40,859 --> 00:18:44,199
+00:18:40,650 --> 00:18:44,460
 Stage rigs, hidden doors, trap mechanisms for them, theaters.
 
-00:18:44,719 --> 00:18:47,659
+00:18:44,460 --> 00:18:48,070
 Got a reputation for being clever, but not over-scrupulous.
 
-00:18:48,480 --> 00:18:49,359
+00:18:48,070 --> 00:18:49,610
 Excellent, Wiggins.
 
-00:18:49,859 --> 00:18:53,039
+00:18:49,610 --> 00:18:53,040
 You and your lads have earned your shillings handsomely.
 
-00:18:53,039 --> 00:18:57,379
+00:18:53,040 --> 00:18:57,750
 Here, take this coin and keep watch upon Mr. Trenchard's premises.
 
-00:18:58,119 --> 00:19:00,119
+00:18:57,750 --> 00:19:00,270
 Report to me, any visitor of note.
 
-00:19:00,420 --> 00:19:03,599
+00:19:00,270 --> 00:19:03,990
 Listen, we go at once to Leather Lane.
 
-00:19:04,379 --> 00:19:07,279
+00:19:03,990 --> 00:19:07,380
 Soon we were rattling through the crowded streets in a cab,
 
-00:19:07,480 --> 00:19:08,680
+00:19:07,380 --> 00:19:08,850
 home silent and intent.
 
-00:19:09,019 --> 00:19:10,940
+00:19:08,850 --> 00:19:11,100
 I armed with my revolver by long habit,
 
-00:19:11,259 --> 00:19:13,079
+00:19:11,100 --> 00:19:13,230
 though half convinced it would not be needed.
 
-00:19:13,379 --> 00:19:15,460
+00:19:13,230 --> 00:19:15,460
 Leather Lane proved a narrow thoroughfare
 
-00:19:15,460 --> 00:19:18,139
+00:19:15,460 --> 00:19:18,380
 cluttered with coast among us guards and shouting hawkers.
 
-00:19:18,619 --> 00:19:20,319
+00:19:18,380 --> 00:19:20,320
 At its far end we found the place,
 
-00:19:20,319 --> 00:19:22,879
+00:19:20,320 --> 00:19:22,960
 a grimy workshop with windows thick with soot,
 
-00:19:23,039 --> 00:19:27,180
+00:19:22,960 --> 00:19:27,550
 and above the door, a fading sign, E. Plenchard, Engineer of Mechanisms.
 
-00:19:27,920 --> 00:19:33,700
+00:19:27,550 --> 00:19:34,120
 Observe, Watson, the iron filings upon the sill, the heavy crates by the entrance.
 
-00:19:34,539 --> 00:19:38,779
+00:19:34,120 --> 00:19:39,050
 Business here is active, though the sign suggests disuse.
 
-00:19:39,319 --> 00:19:42,000
+00:19:39,050 --> 00:19:42,530
 Consumment in plain sight, as ever.
 
-00:19:43,059 --> 00:19:45,899
+00:19:42,530 --> 00:19:45,980
 We entered and were met with a curious sight.
 
-00:19:46,059 --> 00:19:48,159
+00:19:45,980 --> 00:19:48,280
 The interior resembled a magician's storeroom.
 
-00:19:48,399 --> 00:19:52,240
+00:19:48,280 --> 00:19:52,240
 Wheels, pulleys, counterweights, and elaborate frames crowded every surface.
 
-00:19:52,240 --> 00:19:58,279
+00:19:52,240 --> 00:19:58,370
 At the far bench, bending over a set of blueprints, stood a broad-shouldered man with a mane of flaming beard.
 
-00:19:58,460 --> 00:20:00,740
+00:19:58,370 --> 00:20:01,170
 He straightened, eyes narrowing at our intrusion.
 
-00:20:01,599 --> 00:20:05,480
+00:20:01,170 --> 00:20:05,890
 Who are ye and what's your business in Ezekiel Trenchard's shop?
 
-00:20:06,299 --> 00:20:11,140
+00:20:05,890 --> 00:20:11,480
 Sherlock Holmes, consulting detective, and this is my colleague, Dr. Watson.
 
-00:20:11,819 --> 00:20:19,900
+00:20:11,480 --> 00:20:19,900
 We come regarding a certain Ganoforte, lowered into a cellar by means of a trap you constructed in a Bloomsbury house.
 
-00:20:19,900 --> 00:20:22,880
+00:20:19,900 --> 00:20:23,170
 So, the trap worked, eh?
 
-00:20:23,460 --> 00:20:25,000
+00:20:23,170 --> 00:20:25,270
 Ha! I told him it would.
 
-00:20:25,540 --> 00:20:27,560
+00:20:25,270 --> 00:20:27,800
 Smooth as silk, down she goes.
 
-00:20:28,040 --> 00:20:29,900
+00:20:27,800 --> 00:20:30,360
 But what business is that of yours?
 
-00:20:30,820 --> 00:20:33,180
+00:20:30,360 --> 00:20:33,390
 The business of justice, Mr. Trenchard.
 
-00:20:33,600 --> 00:20:36,600
+00:20:33,390 --> 00:20:36,770
 You were hired by someone to create this contrivance.
 
-00:20:36,940 --> 00:20:38,500
+00:20:36,770 --> 00:20:38,940
 I must know who.
 
-00:20:39,380 --> 00:20:40,680
+00:20:38,940 --> 00:20:40,890
 Now, why should I tell you?
 
-00:20:41,100 --> 00:20:43,019
+00:20:40,890 --> 00:20:43,520
 My clients pay well for silence.
 
-00:20:44,019 --> 00:20:47,580
+00:20:43,520 --> 00:20:47,580
 Because your client intends more than theatrics.
 
-00:20:47,579 --> 00:20:54,599
+00:20:47,580 --> 00:20:54,820
 and you may find yourself accessory to a crime far darker than mere carpentry.
 
-00:20:55,039 --> 00:20:56,799
+00:20:54,820 --> 00:20:56,990
 Consider carefully, Mr. Trenchard.
 
-00:20:57,179 --> 00:21:01,779
+00:20:56,990 --> 00:21:01,780
 The law makes no distinction between the man who builds the pistol
 
-00:21:01,779 --> 00:21:04,480
+00:21:01,780 --> 00:21:05,400
 and the man who pulls the trigger.
 
-00:21:06,319 --> 00:21:11,139
+00:21:05,400 --> 00:21:11,410
 The mechanic's ruddy face paled somewhat, though his eyes still glittered with defiance.
 
-00:21:11,679 --> 00:21:16,059
+00:21:11,410 --> 00:21:16,060
 I was paid in sovereigns to build a stage lift, not to ask questions.
 
-00:21:16,059 --> 00:21:17,819
+00:21:16,060 --> 00:21:17,970
 But, well, I'll tell you this much.
 
-00:21:18,119 --> 00:21:20,319
+00:21:17,970 --> 00:21:20,530
 The man who hired me called himself Mr. Green.
 
-00:21:20,740 --> 00:21:23,919
+00:21:20,530 --> 00:21:24,090
 Thin fellow. Foreign accent. Eyes sharp as knives.
 
-00:21:24,259 --> 00:21:26,720
+00:21:24,090 --> 00:21:26,970
 He brought sketches. Knew what he wanted.
 
-00:21:27,220 --> 00:21:29,679
+00:21:26,970 --> 00:21:29,920
 Paid half in advance, half on completion.
 
-00:21:30,159 --> 00:21:31,099
+00:21:29,920 --> 00:21:31,530
 That's all I know.
 
-00:21:31,960 --> 00:21:33,659
+00:21:31,530 --> 00:21:33,840
 A foreign accent, you say?
 
-00:21:34,019 --> 00:21:36,119
+00:21:33,840 --> 00:21:36,550
 Could you identify his nationality?
 
-00:21:36,980 --> 00:21:38,859
+00:21:36,550 --> 00:21:39,110
 German, maybe. Or Austrian.
 
-00:21:39,359 --> 00:21:41,259
+00:21:39,110 --> 00:21:41,640
 Something from the continent, that's sure.
 
-00:21:42,019 --> 00:21:44,220
+00:21:41,640 --> 00:21:44,220
 Indeed. And this Mr. Green?
 
-00:21:44,220 --> 00:21:47,220
+00:21:44,220 --> 00:21:47,700
 did he mention why he required the piano to vanish?
 
-00:21:48,180 --> 00:21:49,339
+00:21:47,700 --> 00:21:49,500
 Not in so many words.
 
-00:21:49,660 --> 00:21:51,180
+00:21:49,500 --> 00:21:51,310
 Only said the music was dangerous,
 
-00:21:51,440 --> 00:21:53,759
+00:21:51,310 --> 00:21:54,020
 that it must be silenced before it was heard.
 
-00:21:54,279 --> 00:21:56,779
+00:21:54,020 --> 00:21:57,040
 I thought him cracked, but his money was sound.
 
-00:21:57,299 --> 00:21:58,279
+00:21:57,040 --> 00:21:58,480
 Dangerous music.
 
-00:21:59,200 --> 00:22:01,019
+00:21:58,480 --> 00:21:59,150
+Ha!
+
+00:21:59,150 --> 00:22:01,140
 Holmes exchanged a glance with me,
 
-00:22:01,259 --> 00:22:03,000
+00:22:01,140 --> 00:22:03,310
 his brows lifting in silent emphasis.
 
-00:22:03,620 --> 00:22:04,680
+00:22:03,310 --> 00:22:04,860
 Dangerous music!
 
-00:22:05,039 --> 00:22:07,279
+00:22:04,860 --> 00:22:07,610
 The phrase struck a chord of unease within me.
 
-00:22:07,940 --> 00:22:11,440
+00:22:07,610 --> 00:22:11,440
 Holmes, surely he does not mean that Mr. Penfield's composition holds some secret?
 
-00:22:11,440 --> 00:22:23,299
+00:22:11,440 --> 00:22:23,620
 It seems increasingly probable, Watson. Music may convey more than melody. Codes, signals, even mathematical formulae can be embedded within notes.
 
-00:22:23,940 --> 00:22:26,960
+00:22:23,620 --> 00:22:27,440
 Mr. Trenchard! Did Mr. Trenchard!
 
-00:22:27,920 --> 00:22:31,460
+00:22:27,440 --> 00:22:31,920
 Green, give any instruction beyond the trap's construction?
 
-00:22:32,380 --> 00:22:39,980
+00:22:31,920 --> 00:22:39,980
 Only this, that once the piano was lowered, it must remain below until he returned with men to fetch it away.
 
-00:22:39,980 --> 00:22:43,240
+00:22:39,980 --> 00:22:43,450
 I asked when that might be, but he only laughed and said,
 
-00:22:43,660 --> 00:22:45,240
+00:22:43,450 --> 00:22:45,600
 when the last note is played.
 
-00:22:45,960 --> 00:22:47,380
+00:22:45,600 --> 00:22:47,730
 A curious phrase indeed.
 
-00:22:48,079 --> 00:22:49,799
+00:22:47,730 --> 00:22:50,140
 Very well, Mr. Gaines.
 
-00:22:50,480 --> 00:22:54,839
+00:22:50,140 --> 00:22:55,060
 Trenchard, you have been frank, and I shall not press you further.
 
-00:22:55,279 --> 00:22:56,259
+00:22:55,060 --> 00:22:56,480
 But take warning.
 
-00:22:56,700 --> 00:23:00,559
+00:22:56,480 --> 00:23:00,840
 If harm comes of this scheme, your name will not be spared.
 
-00:23:01,120 --> 00:23:01,720
+00:23:00,840 --> 00:23:02,160
 Good day.
 
-00:23:02,599 --> 00:23:05,599
+00:23:02,160 --> 00:23:05,710
 With that, Owens turned upon his heel and strode into the street,
 
-00:23:05,819 --> 00:23:07,839
+00:23:05,710 --> 00:23:07,840
 leaving the mechanic to mutter among his gears.
 
-00:23:07,839 --> 00:23:09,779
+00:23:07,840 --> 00:23:09,880
 I hurried after him, bewildered.
 
-00:23:09,980 --> 00:23:14,819
+00:23:09,880 --> 00:23:15,310
 Holmes, what can it mean? Dangerous musics? Surely a tune is but a tune.
 
-00:23:15,799 --> 00:23:18,559
+00:23:15,310 --> 00:23:18,880
 Do not underestimate the subtle arts, Watson.
 
-00:23:19,200 --> 00:23:24,880
+00:23:18,880 --> 00:23:25,210
 Consider the ancients who believed music could stir armies or calm tempests.
 
-00:23:25,539 --> 00:23:29,579
+00:23:25,210 --> 00:23:29,830
 Consider the mathematician who may encode a cipher within notes.
 
-00:23:30,079 --> 00:23:34,559
+00:23:29,830 --> 00:23:34,760
 Suppose, mister, Penfield's melody, born in a dream, he says,
 
-00:23:34,960 --> 00:23:38,079
+00:23:34,760 --> 00:23:38,080
 contains a secret intended never to be revealed.
 
-00:23:38,079 --> 00:23:42,799
+00:23:38,080 --> 00:23:43,200
 But revealed by whom?
 
-00:23:43,599 --> 00:23:47,019
+00:23:43,200 --> 00:23:47,340
 That, my dear fellow, is what we must discover.
 
-00:23:47,659 --> 00:23:49,919
+00:23:47,340 --> 00:23:50,170
 Come, we return to Bigger Street.
 
-00:23:50,419 --> 00:23:52,419
+00:23:50,170 --> 00:23:52,790
 There is research to be done.
 
-00:23:53,159 --> 00:23:56,839
+00:23:52,790 --> 00:23:57,030
 Back at our lodgings, Holmes immersed himself in his volumes of arcane knowledge.
 
-00:23:57,220 --> 00:24:00,720
+00:23:57,030 --> 00:24:00,840
 He rifled through treatises on cryptography, histories of secret societies,
 
-00:24:00,960 --> 00:24:03,480
+00:24:00,840 --> 00:24:03,480
 and even monographs upon the psychology of music.
 
-00:24:03,480 --> 00:24:06,139
+00:24:03,480 --> 00:24:06,140
 All afternoon he pored over staves and scales,
 
-00:24:06,140 --> 00:24:09,820
+00:24:06,140 --> 00:24:10,040
 humming fragments of Penfield's score that the composer had left with us.
 
-00:24:10,259 --> 00:24:13,380
+00:24:10,040 --> 00:24:13,800
 At last, as twilight fell, he sprang up with a cry of triumph.
 
-00:24:14,220 --> 00:24:17,060
+00:24:13,800 --> 00:24:17,250
 Watson, it is as I suspected.
 
-00:24:17,440 --> 00:24:19,200
+00:24:17,250 --> 00:24:19,410
 The motif concedes a code.
 
-00:24:19,620 --> 00:24:20,060
+00:24:19,410 --> 00:24:20,280
 Look here.
 
-00:24:20,500 --> 00:24:22,300
+00:24:20,280 --> 00:24:22,520
 Take the first note of each bar.
 
-00:24:22,740 --> 00:24:25,480
+00:24:22,520 --> 00:24:25,760
 Convert its pitch to a letter by simple substitution.
 
-00:24:26,040 --> 00:24:27,100
+00:24:25,760 --> 00:24:27,510
 And what do you read?
 
-00:24:27,920 --> 00:24:32,100
+00:24:27,510 --> 00:24:32,250
 I bent over the paper, and slowly the letters resolved themselves into words.
 
-00:24:32,400 --> 00:24:33,420
+00:24:32,250 --> 00:24:33,740
 My heart gave a leap.
 
-00:24:34,060 --> 00:24:35,360
+00:24:33,740 --> 00:24:35,360
 Oh, the key lies in Vienna.
 
-00:24:35,359 --> 00:24:37,359
+00:24:35,360 --> 00:24:37,840
 Good heavens, Holmes, it is a message.
 
-00:24:38,319 --> 00:24:42,339
+00:24:37,840 --> 00:24:43,060
 Precisely. And not merely a message, but a directive.
 
-00:24:43,779 --> 00:24:48,339
+00:24:43,060 --> 00:24:48,340
 Someone has planted within Penfield's dream a melody
 
-00:24:48,339 --> 00:24:52,899
+00:24:48,340 --> 00:24:53,120
 which conceals the command to seek a key in Vienna.
 
-00:24:53,339 --> 00:24:55,559
+00:24:53,120 --> 00:24:56,030
 The question is, who and why?
 
-00:24:56,500 --> 00:24:58,500
+00:24:56,030 --> 00:24:58,690
 At that instant, a knock rattled the door.
 
-00:24:58,879 --> 00:25:00,659
+00:24:58,690 --> 00:25:01,210
 Mrs. Hudson entered, pale and trembling.
 
-00:25:01,759 --> 00:25:04,819
+00:25:01,210 --> 00:25:04,820
 Mr. Holmes, there's a gentleman below asking for you.
 
-00:25:04,819 --> 00:25:10,639
+00:25:04,820 --> 00:25:10,830
 says his name is Green. Will you see him? Holmes's eyes flashed. He reached for his violin,
 
-00:25:11,019 --> 00:25:15,059
+00:25:10,830 --> 00:25:15,500
 set it upon the table as though it were a weapon and whispered to me in urgent tones.
 
-00:25:15,939 --> 00:25:20,559
+00:25:15,500 --> 00:25:20,800
 The game quickens, Watson. Mr. Green has come to us of his own accord.
 
-00:25:21,039 --> 00:25:26,159
+00:25:20,800 --> 00:25:26,580
 Ready yourself. We may at last confront the mind behind the vanishing piano.
 
-00:25:27,000 --> 00:25:32,240
+00:25:26,580 --> 00:25:32,240
 The fire burned low in our Baker Street sitting room, casting long flickering shadows against
 
-00:25:32,240 --> 00:25:38,599
+00:25:32,240 --> 00:25:38,600
 the bookshelves and the framed Persian slipper on the mantle. Mrs. Hudson had scarcely finished
 
-00:25:38,599 --> 00:25:42,900
+00:25:38,600 --> 00:25:42,900
 announcing the visitor when the man himself entered, and I confess my blood chilled at the
 
-00:25:42,900 --> 00:25:48,640
+00:25:42,900 --> 00:25:48,760
 sight. He was tall, gaunt, with the pallor of one who lived more in lamplight than under the sun.
 
-00:25:48,880 --> 00:25:52,960
+00:25:48,760 --> 00:25:52,960
 He was trim-close, his hair slick-bat with continental precision, but it was his eyes
 
-00:25:52,960 --> 00:25:59,039
+00:25:52,960 --> 00:25:59,040
 that arrested me, icy-gray, piercing, restless, darting from Holmes to myself and back again
 
-00:25:59,039 --> 00:26:00,759
+00:25:59,040 --> 00:26:01,220
 with the vigilance of a predator.
 
-00:26:01,680 --> 00:26:04,220
+00:26:01,220 --> 00:26:04,370
 Herr Holmes, said he in a voice soft yet cutting,
 
-00:26:04,519 --> 00:26:05,940
+00:26:04,370 --> 00:26:06,150
 and Dr. Watson, ja?
 
-00:26:06,359 --> 00:26:09,379
+00:26:06,150 --> 00:26:09,930
 So the hounds have scented me sooner than I expected.
 
-00:26:10,480 --> 00:26:13,279
+00:26:09,930 --> 00:26:13,530
 Mr. Green, or should I say Herr Grun,
 
-00:26:13,779 --> 00:26:15,539
+00:26:13,530 --> 00:26:15,750
 Austrian, perhaps Prussian,
 
-00:26:15,960 --> 00:26:17,319
+00:26:15,750 --> 00:26:17,660
 certainly of the German tongue,
 
-00:26:18,000 --> 00:26:21,839
+00:26:17,660 --> 00:26:22,150
 you honour us by stepping into our den voluntarily.
 
-00:26:22,460 --> 00:26:23,940
+00:26:22,150 --> 00:26:24,430
 May I offer you a chair?
 
-00:26:24,920 --> 00:26:26,599
+00:26:24,430 --> 00:26:26,870
 Your courtesy is wasted, sir.
 
-00:26:27,139 --> 00:26:28,220
+00:26:26,870 --> 00:26:28,220
 I came not for tea,
 
-00:26:28,220 --> 00:26:33,039
+00:26:28,220 --> 00:26:33,160
 but to reclaim what is mine, the piano, and the melody that resided in it.
 
-00:26:33,279 --> 00:26:35,240
+00:26:33,160 --> 00:26:35,650
 You have interfered sufficiently.
 
-00:26:36,059 --> 00:26:38,299
+00:26:35,650 --> 00:26:38,450
 Yours? The piano belongs to Mr. Mr.
 
-00:26:38,600 --> 00:26:42,600
+00:26:38,450 --> 00:26:42,780
 Dild, Enfield, a humble composer who never sought entanglement with espionage.
 
-00:26:42,960 --> 00:26:44,640
+00:26:42,780 --> 00:26:45,090
 Tote dows it to being biny, this.
 
-00:26:45,539 --> 00:26:48,380
+00:26:45,090 --> 00:26:48,570
 Ah, poor Penfield, a vessel only, not the source.
 
-00:26:48,759 --> 00:26:52,019
+00:26:48,570 --> 00:26:52,950
 He dreamed the melody because it was planted in him.
 
-00:26:53,880 --> 00:26:55,100
+00:26:52,950 --> 00:26:55,100
 A modic suggestion, gentlemen.
 
-00:26:55,099 --> 00:26:59,299
+00:26:55,100 --> 00:26:59,590
 We of the continent have studied such arts deeply.
 
-00:26:59,879 --> 00:27:04,339
+00:26:59,590 --> 00:27:04,580
 In a moment between waking and sleep, we gave him the theme, never knowing if it would blossom.
 
-00:27:04,819 --> 00:27:07,359
+00:27:04,580 --> 00:27:07,870
 It did, and it contained more than music.
 
-00:27:08,379 --> 00:27:12,919
+00:27:07,870 --> 00:27:13,220
 A cipher encoding the phrase, the key lies in Vienna.
 
-00:27:13,519 --> 00:27:15,959
+00:27:13,220 --> 00:27:16,280
 We have already deciphered it, Herr Grun.
 
-00:27:16,599 --> 00:27:19,359
+00:27:16,280 --> 00:27:19,900
 But tell me, what key and why Vienna?
 
-00:27:20,439 --> 00:27:22,099
+00:27:19,900 --> 00:27:22,100
 You are clever, Holmes, but not omniscient.
 
-00:27:22,099 --> 00:27:27,559
+00:27:22,100 --> 00:27:27,560
 omniscient. The melody concealed the location of a document, an agreement signed secretly between
 
-00:27:27,559 --> 00:27:32,939
+00:27:27,560 --> 00:27:32,940
 two empires that could plunge Europe into chaos if revealed. The piano was to vanish until we
 
-00:27:32,939 --> 00:27:39,579
+00:27:32,940 --> 00:27:39,580
 might transport it safely abroad. But you, you have meddled. His voice rose and for a moment
 
-00:27:39,579 --> 00:27:44,259
+00:27:39,580 --> 00:27:44,260
 the mask of control slipped, revealing the fanatic beneath. Holmes, however, remained
 
-00:27:44,259 --> 00:27:48,500
+00:27:44,260 --> 00:27:48,500
 unruffled, tapping his long fingers together as though playing an invisible clavier.
 
 00:27:48,500 --> 00:27:51,940
 Your plan was ingenious, I grant you
 
-00:27:51,940 --> 00:27:54,779
+00:27:51,940 --> 00:27:54,780
 To hide a cipher within a tune
 
-00:27:54,779 --> 00:27:57,619
+00:27:54,780 --> 00:27:57,620
 Entrusted to a dreamer who believed it
 
-00:27:57,619 --> 00:28:00,220
+00:27:57,620 --> 00:28:00,220
 His own composition, admirable
 
-00:28:00,220 --> 00:28:03,119
+00:28:00,220 --> 00:28:03,120
 But you erred in one respect
 
-00:28:03,119 --> 00:28:05,359
+00:28:03,120 --> 00:28:05,820
 And that is?
 
-00:28:06,279 --> 00:28:08,519
+00:28:05,820 --> 00:28:08,520
 In thinking that London
 
-00:28:08,519 --> 00:28:12,119
+00:28:08,520 --> 00:28:12,120
 The city with eyes and ears in every alley
 
-00:28:12,119 --> 00:28:16,680
+00:28:12,120 --> 00:28:16,680
 Would allow a foreign agent to burrow unseen
 
 00:28:16,680 --> 00:28:21,600
 Your red-bearded accomplice betrayed you by his very uniqueness
 
-00:28:21,600 --> 00:28:25,180
+00:28:21,600 --> 00:28:25,660
 and your arrogance brought you to my doorstep.
 
-00:28:26,140 --> 00:28:27,960
+00:28:25,660 --> 00:28:27,960
 Groom's hand twitched toward his coat pocket,
 
-00:28:27,960 --> 00:28:31,660
+00:28:27,960 --> 00:28:31,880
 but quicker than thought Holmes had drawn the revolver he seldom carried,
 
-00:28:32,100 --> 00:28:33,400
+00:28:31,880 --> 00:28:33,770
 save at direst need.
 
-00:28:34,140 --> 00:28:36,100
+00:28:33,770 --> 00:28:36,280
 How do not, Herr Groom?
 
-00:28:36,460 --> 00:28:38,799
+00:28:36,280 --> 00:28:38,960
 My friend Watson also carries an arm,
 
-00:28:39,120 --> 00:28:45,039
+00:28:38,960 --> 00:28:45,040
 and unlike myself he has spent service years firing it in earnest.
 
-00:28:45,039 --> 00:28:49,420
+00:28:45,040 --> 00:28:49,830
 Track and indeed sir, I said firmly, though my heart pounded.
 
-00:28:50,240 --> 00:28:50,960
+00:28:49,830 --> 00:28:51,300
 Smiling thinly.
 
-00:28:51,639 --> 00:28:54,019
+00:28:51,300 --> 00:28:54,100
 So, you have me tracked, but what will you do, Holmes?
 
-00:28:54,180 --> 00:28:55,079
+00:28:54,100 --> 00:28:55,260
 Turn me to Skarnanyard?
 
-00:28:55,440 --> 00:28:58,180
+00:28:55,260 --> 00:28:58,390
 They will not grasp the significance of what I bear.
 
-00:28:58,599 --> 00:29:00,359
+00:28:58,390 --> 00:29:00,590
 The melody is still in my mind.
 
-00:29:00,819 --> 00:29:05,220
+00:29:00,590 --> 00:29:05,700
 The key remains hidden in Vienna, awaiting only the one who can read the notes.
 
-00:29:06,180 --> 00:29:11,379
+00:29:05,700 --> 00:29:11,380
 Your mind perhaps, but music may be copied, analysed, destroyed.
 
-00:29:11,380 --> 00:29:18,380
+00:29:11,380 --> 00:29:18,880
 The tomb lies also with me now, and I have no intention of allowing it into careless hands.
 
-00:29:19,380 --> 00:29:27,380
+00:29:18,880 --> 00:29:27,880
 As for you, Lestrade shall know what to do with an agent of espionage who traffics in stolen secrets.
 
-00:29:28,380 --> 00:29:35,380
+00:29:27,880 --> 00:29:35,380
 At that moment, heavy boots slattered upon the stairs, and Inspector Lestrade himself burst into the room, breathless but resolute.
 
 00:29:35,380 --> 00:29:38,380
 Horns, it seemed, had sent a telegram earlier in the day.
 
-00:29:38,380 --> 00:29:43,660
+00:29:38,380 --> 00:29:44,120
 Holmes, Watson, I came as quick as I could, and this, I take it, is our quarry.
 
-00:29:44,580 --> 00:29:52,060
+00:29:44,120 --> 00:29:52,400
 Indeed, Lestrade. Herr Grün, alias Mr. Green, foreign agent, mastermind of the vanishing piano.
 
-00:29:52,740 --> 00:29:55,400
+00:29:52,400 --> 00:29:55,940
 Hmm, he is yours. Hmm.
 
-00:29:56,480 --> 00:30:00,620
+00:29:55,940 --> 00:30:00,990
 Bitterly, so the curtain falls. But mark me, Holmes, the play is not ended.
 
-00:30:01,360 --> 00:30:04,440
+00:30:00,990 --> 00:30:04,440
 Vienna will yet sing, and when she does, Europe shall tremble.
 
 00:30:04,440 --> 00:30:09,640
 With iron restraint, Lestrade's men clapped irons upon the spy and bore him,
 
-00:30:09,740 --> 00:30:10,680
+00:30:09,640 --> 00:30:10,710
 struggling down the stairs.
 
-00:30:10,940 --> 00:30:15,100
+00:30:10,710 --> 00:30:15,330
 The echoes of his threats lingered in the room long after his footsteps had faded.
 
-00:30:15,759 --> 00:30:17,980
+00:30:15,330 --> 00:30:18,030
 The days that followed were filled with inquiry.
 
-00:30:18,279 --> 00:30:22,539
+00:30:18,030 --> 00:30:22,640
 The Foreign Office, apprised of the matter, hushed the affair with typical discretion,
 
-00:30:22,940 --> 00:30:26,740
+00:30:22,640 --> 00:30:26,970
 whispering only of continental intrigues and tanking Holmes in guarded phrases.
 
-00:30:27,400 --> 00:30:31,299
+00:30:26,970 --> 00:30:31,200
 Mr. Herm, Penfield the composer, was released from suspicion,
 
-00:30:31,299 --> 00:30:36,200
+00:30:31,200 --> 00:30:36,470
 though he vowed never again to trust a melody that arrived unbidden in his dreams.
 
-00:30:36,940 --> 00:30:40,079
+00:30:36,470 --> 00:30:40,110
 Horns, I said one evening, as we sat once more by our fire.
 
-00:30:40,339 --> 00:30:42,799
+00:30:40,110 --> 00:30:42,800
 I cannot shake the unease that blings to this case.
 
-00:30:43,000 --> 00:30:45,460
+00:30:42,800 --> 00:30:45,500
 A melody planted like a parasite in the mind,
 
-00:30:45,740 --> 00:30:47,220
+00:30:45,500 --> 00:30:47,120
 a piano swallowed by the earth,
 
-00:30:47,319 --> 00:30:50,460
+00:30:47,120 --> 00:30:50,410
 and a spy who claims that the fate of Europe rests upon a tune.
 
-00:30:50,759 --> 00:30:52,220
+00:30:50,410 --> 00:30:52,450
 It all seems scarcely credible.
 
-00:30:53,079 --> 00:30:54,879
+00:30:52,450 --> 00:30:54,910
 Yet credible it is, Watson.
 
-00:30:55,339 --> 00:30:58,339
+00:30:54,910 --> 00:30:58,290
 Men will go to astounding lengths for power.
 
-00:30:58,639 --> 00:31:01,220
+00:30:58,290 --> 00:31:01,370
 Today it is ink upon a treaty.
 
-00:31:01,919 --> 00:31:05,099
+00:31:01,370 --> 00:31:05,140
 Tomorrow, it may be a code hidden in music.
 
-00:31:05,579 --> 00:31:08,019
+00:31:05,140 --> 00:31:07,960
 The human mind is both lock and key,
 
-00:31:08,299 --> 00:31:11,419
+00:31:07,960 --> 00:31:11,700
 and there will always be those who seek to master it.
 
-00:31:12,379 --> 00:31:13,220
+00:31:11,700 --> 00:31:13,170
 But what of the message?
 
-00:31:13,519 --> 00:31:14,599
+00:31:13,170 --> 00:31:14,540
 The key lies in Vienna.
 
-00:31:14,879 --> 00:31:17,539
+00:31:14,540 --> 00:31:17,630
 Have we truly forestalled danger or only delayed it?
 
-00:31:18,119 --> 00:31:20,839
+00:31:17,630 --> 00:31:21,000
 We have struck a blow, not finished the war.
 
-00:31:21,559 --> 00:31:24,119
+00:31:21,000 --> 00:31:23,920
 Another agent may pursue the secret in Vienna,
 
-00:31:24,119 --> 00:31:27,519
+00:31:23,920 --> 00:31:27,320
 but Herr Grün's immediate scheme is ended.
 
-00:31:27,519 --> 00:31:31,700
+00:31:27,320 --> 00:31:31,640
 Our duty lies not in reshaping empires,
 
-00:31:31,980 --> 00:31:36,180
+00:31:31,640 --> 00:31:36,160
 but in defending the innocent who stumble, like Penfield,
 
-00:31:36,539 --> 00:31:38,660
+00:31:36,160 --> 00:31:39,050
 into the path of darker designs.
 
-00:31:39,839 --> 00:31:41,619
+00:31:39,050 --> 00:31:41,590
 I could not argue with this philosophy,
 
-00:31:41,960 --> 00:31:43,519
+00:31:41,590 --> 00:31:43,320
 though it left me with a gnawing sense
 
-00:31:43,519 --> 00:31:46,579
+00:31:43,320 --> 00:31:46,520
 that larger forces moved beyond the grasp of any detective.
 
-00:31:46,859 --> 00:31:49,160
+00:31:46,520 --> 00:31:49,090
 However brilliant, Holmes leaned back,
 
-00:31:49,420 --> 00:31:51,940
+00:31:49,090 --> 00:31:51,900
 his keen profile illuminated by the lamplight,
 
-00:31:52,259 --> 00:31:53,839
+00:31:51,900 --> 00:31:53,640
 and drew his violin from its case.
 
-00:31:53,839 --> 00:32:00,259
+00:31:53,640 --> 00:32:00,410
 Listen, Watson, here is the theme as Penfield dreamed it.
 
-00:32:00,959 --> 00:32:04,439
+00:32:00,410 --> 00:32:04,300
 He played the haunting string, notes rising like ghosts in the air.
 
-00:32:04,559 --> 00:32:09,859
+00:32:04,300 --> 00:32:09,660
 To my ears it was both beautiful and sorrowful, a whisper from some realm beyond reason.
 
-00:32:09,859 --> 00:32:13,500
+00:32:09,660 --> 00:32:13,450
 Yet as Holmes played, I fancied I heard beneath the melody another voice,
 
-00:32:13,799 --> 00:32:16,259
+00:32:13,450 --> 00:32:16,450
 the echo of groom's warning that Vienna would yet sing.
 
-00:32:17,039 --> 00:32:19,439
+00:32:16,450 --> 00:32:19,370
 When the final note faded, Holmes lowered the bow,
 
-00:32:19,699 --> 00:32:23,059
+00:32:19,370 --> 00:32:23,250
 though his eyes, half-closed, betrayed a fatigue deeper than physical.
 
-00:32:23,839 --> 00:32:35,359
+00:32:23,250 --> 00:32:35,160
 it is finished watson for now remember always every tune has its last note the trick is to know when it has truly ended
 
-00:32:35,359 --> 00:32:38,639
+00:32:35,160 --> 00:32:38,650
 And so, continued the affair of the song of the vanishing piano.
 
-00:32:39,059 --> 00:32:43,959
+00:32:38,650 --> 00:32:43,870
 A case unlike any other, where espionage, music and human imagination intertwined.
 
-00:32:44,179 --> 00:32:47,919
+00:32:43,870 --> 00:32:47,830
 To this day, whenever I hear the lonely strains of a violin in the night,
 
-00:32:48,139 --> 00:32:51,039
+00:32:47,830 --> 00:32:51,000
 I recall the vision of that piano sinking into the earth.
 
-00:32:51,359 --> 00:32:54,899
+00:32:51,000 --> 00:32:54,880
 The cry of a spy undone and the figure of Sherlock Holmes declaring,
 
-00:32:55,259 --> 00:32:58,679
+00:32:54,880 --> 00:32:58,480
 with his customary calm, that for him, everything was elementary.
+
+00:32:58,480 --> 00:32:58,680
+.
 
