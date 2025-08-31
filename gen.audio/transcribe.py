@@ -34,7 +34,7 @@ def generate_files(segments, srt_file, text_file, timeline_file):
     for segment in segments:
         duration = segment["end"] - segment["start"]
         text = re.sub(r'\s+', ' ', segment["text"].strip())
-        timeline_content += f"{duration:.1f}: {text}\n"
+        timeline_content += f"{duration}: {text}\n"
     
     # Write files
     with open(srt_file, 'w', encoding='utf-8') as f:
