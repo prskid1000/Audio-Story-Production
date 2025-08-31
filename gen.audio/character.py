@@ -2,6 +2,7 @@ import os
 import shutil
 import re
 import glob
+import time
 
 LANGUAGE = "en"
 REGION = "in"
@@ -155,38 +156,76 @@ class CharacterManager:
             for char in unassigned_chars:
                 # Check if character name has gender prefix
                 if char.lower().startswith('male_'):
-                    # Auto-assign male voice
+                    # Auto-assign male voice - avoid reusing already assigned voices
                     used_male_voices = [v for v in updated_character_voices.values() if v in self.male_voices]
-                    male_voice_index = len(used_male_voices) % len(self.male_voices)
-                    voice = self.male_voices[male_voice_index]
-                    updated_character_voices[char] = voice
-                    print(f"Auto-assigned male voice '{voice}' to '{char}' (male_ prefix detected)")
+                    available_male_voices = [v for v in self.male_voices if v not in used_male_voices]
+                    
+                    if available_male_voices:
+                        voice = available_male_voices[0]  # Use first available voice
+                        updated_character_voices[char] = voice
+                        print(f"Auto-assigned male voice '{voice}' to '{char}' (male_ prefix detected)")
+                    else:
+                        print(f"Warning: No available male voices left for '{char}'. All male voices are already assigned.")
+                        # Fallback to cycling through voices
+                        male_voice_index = len(used_male_voices) % len(self.male_voices)
+                        voice = self.male_voices[male_voice_index]
+                        updated_character_voices[char] = voice
+                        print(f"Fallback: Reused male voice '{voice}' for '{char}'")
+                        
                 elif char.lower().startswith('female_'):
-                    # Auto-assign female voice
+                    # Auto-assign female voice - avoid reusing already assigned voices
                     used_female_voices = [v for v in updated_character_voices.values() if v in self.female_voices]
-                    female_voice_index = len(used_female_voices) % len(self.female_voices)
-                    voice = self.female_voices[female_voice_index]
-                    updated_character_voices[char] = voice
-                    print(f"Auto-assigned female voice '{voice}' to '{char}' (female_ prefix detected)")
+                    available_female_voices = [v for v in self.female_voices if v not in used_female_voices]
+                    
+                    if available_female_voices:
+                        voice = available_female_voices[0]  # Use first available voice
+                        updated_character_voices[char] = voice
+                        print(f"Auto-assigned female voice '{voice}' to '{char}' (female_ prefix detected)")
+                    else:
+                        print(f"Warning: No available female voices left for '{char}'. All female voices are already assigned.")
+                        # Fallback to cycling through voices
+                        female_voice_index = len(used_female_voices) % len(self.female_voices)
+                        voice = self.female_voices[female_voice_index]
+                        updated_character_voices[char] = voice
+                        print(f"Fallback: Reused female voice '{voice}' for '{char}'")
+                        
                 else:
                     # Ask for gender if no prefix found
                     while True:
                         gender = input(f"\nIs '{char}' male or female? (m/f): ").lower().strip()
                         if gender in ['m', 'male']:
-                            # Assign a male voice (cycle through available voices)
+                            # Assign a male voice - avoid reusing already assigned voices
                             used_male_voices = [v for v in updated_character_voices.values() if v in self.male_voices]
-                            male_voice_index = len(used_male_voices) % len(self.male_voices)
-                            voice = self.male_voices[male_voice_index]
-                            updated_character_voices[char] = voice
-                            print(f"Assigned male voice '{voice}' to '{char}'")
+                            available_male_voices = [v for v in self.male_voices if v not in used_male_voices]
+                            
+                            if available_male_voices:
+                                voice = available_male_voices[0]  # Use first available voice
+                                updated_character_voices[char] = voice
+                                print(f"Assigned male voice '{voice}' to '{char}'")
+                            else:
+                                print(f"Warning: No available male voices left for '{char}'. All male voices are already assigned.")
+                                # Fallback to cycling through voices
+                                male_voice_index = len(used_male_voices) % len(self.male_voices)
+                                voice = self.male_voices[male_voice_index]
+                                updated_character_voices[char] = voice
+                                print(f"Fallback: Reused male voice '{voice}' for '{char}'")
                             break
                         elif gender in ['f', 'female']:
-                            # Assign a female voice (cycle through available voices)
+                            # Assign a female voice - avoid reusing already assigned voices
                             used_female_voices = [v for v in updated_character_voices.values() if v in self.female_voices]
-                            female_voice_index = len(used_female_voices) % len(self.female_voices)
-                            voice = self.female_voices[female_voice_index]
-                            updated_character_voices[char] = voice
-                            print(f"Assigned female voice '{voice}' to '{char}'")
+                            available_female_voices = [v for v in self.female_voices if v not in used_female_voices]
+                            
+                            if available_female_voices:
+                                voice = available_female_voices[0]  # Use first available voice
+                                updated_character_voices[char] = voice
+                                print(f"Assigned female voice '{voice}' to '{char}'")
+                            else:
+                                print(f"Warning: No available female voices left for '{char}'. All female voices are already assigned.")
+                                # Fallback to cycling through voices
+                                female_voice_index = len(used_female_voices) % len(self.female_voices)
+                                voice = self.female_voices[female_voice_index]
+                                updated_character_voices[char] = voice
+                                print(f"Fallback: Reused female voice '{voice}' for '{char}'")
                             break
                         else:
                             print("Please enter 'm' for male or 'f' for female.")
@@ -206,9 +245,6 @@ class CharacterManager:
                 self.character_voices.update(updated_character_voices)
                 print("Voice assignment confirmed!")
                 
-                # Print character-voice mappings to file
-                self.print_character_voices_to_file(updated_character_voices)
-                
                 # Update the character alias map file
                 self.update_character_alias_map_file(updated_character_voices)
                 
@@ -218,24 +254,6 @@ class CharacterManager:
                 exit(0)
             else:
                 print("Please enter 'y' for yes or 'n' for no.")
-    
-    def print_character_voices_to_file(self, character_voices_dict):
-        """Print character-voice mappings to a file in character=voice format"""
-        filename = "character_voice_mapping.txt"
-        
-        try:
-            with open(filename, 'w') as f:
-                f.write("# Character Voice Mapping\n")
-                f.write("# Format: character=voice\n\n")
-                
-                for character, voice in character_voices_dict.items():
-                    f.write(f"{character}={voice}\n")
-            
-            print(f"Character-voice mappings saved to: {filename}")
-            print("Format: character=voice")
-            
-        except Exception as e:
-            print(f"Error saving character-voice mappings to file: {e}")
     
     def update_character_alias_map_file(self, character_voices_dict):
         """Update the character alias map file with current character-voice mappings"""
@@ -303,10 +321,14 @@ def read_story_from_file(filename="story.txt"):
             return None
 
 if __name__ == "__main__":
+    start_time = time.time()
+    
     # Show available regions and languages
+    setup_start = time.time()
     character_manager = CharacterManager()
     available_regions = character_manager.get_available_regions()
     available_languages = character_manager.get_available_languages()
+    setup_time = time.time() - setup_start
     
     print("=== VOICE REGION AND LANGUAGE SELECTION ===")
     print(f"Available regions: {', '.join(available_regions)}")
@@ -347,10 +369,29 @@ if __name__ == "__main__":
             else:
                 print("Please enter 'y' for yes or 'n' for no.")
 
+    # Read and process story
+    story_read_start = time.time()
     story_text = read_story_from_file()
+    story_read_time = time.time() - story_read_start
     
     if story_text is None:
         print("Exiting due to story file error.")
         exit(1)
     
+    # Time the character preprocessing
+    preprocessing_start = time.time()
     character_manager.preprocess_story(story_text)
+    preprocessing_time = time.time() - preprocessing_start
+    
+    end_time = time.time()
+    total_time = end_time - start_time
+    
+    # Print detailed timing information
+    print("\n" + "=" * 50)
+    print("⏱️  TIMING SUMMARY")
+    print("=" * 50)
+    print(f"⚙️  Setup time: {setup_time:.2f} seconds")
+    print(f"📖 Story reading time: {story_read_time:.2f} seconds")
+    print(f"👥 Character preprocessing time: {preprocessing_time:.2f} seconds")
+    print(f"⏱️  Total execution time: {total_time:.2f} seconds ({total_time/60:.2f} minutes)")
+    print("=" * 50)

@@ -3,159 +3,229 @@ import requests
 import time
 import os
 from pydub import AudioSegment
-import base64
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import threading
 
 class DirectTimelineProcessor:
     def __init__(self, comfyui_url="http://127.0.0.1:8188/", max_workers=3):
         self.comfyui_url = comfyui_url
         self.output_folder = "../ComfyUI/output/audio/sfx"
-        self.final_output = "sfx.wav"
         self.max_workers = max_workers
-        self.lock = threading.Lock()
-        
-        # Create output folder if it doesn't exist
         os.makedirs(self.output_folder, exist_ok=True)
-        
-        # Clear the output folder
         self.clear_output_folder()
         
-        # Clear the final output file if it exists
-        if os.path.exists(self.final_output):
-            os.remove(self.final_output)
-            print(f"Removed existing final output: {self.final_output}")
-        
     def parse_timeline(self, timeline_text):
-        """Parse the timeline text into structured data"""
+        """Parse timeline and combine silence entries"""
         timeline_entries = []
-        
-        # Split by lines and process each entry
-        lines = timeline_text.strip().split('\n')
-        for line in lines:
+        for line in timeline_text.strip().split('\n'):
             if ':' in line:
-                # Extract duration and description
                 parts = line.split(':', 1)
                 if len(parts) == 2:
+                    seconds = float(parts[0].strip())
                     description = parts[1].strip()
-                    
-                    # Convert duration string to seconds
-                    seconds = self.duration_to_seconds(parts[0].strip())
-                    
-                    timeline_entries.append({
-                        'seconds': seconds,
-                        'description': description
-                    })
+                    timeline_entries.append({'seconds': seconds, 'description': description})
         
+        return self.combine_consecutive_silence(timeline_entries)
+    
+    def combine_consecutive_silence(self, timeline_entries):
+        """Combine consecutive silence entries"""
+        if not timeline_entries:
+            return timeline_entries
+        
+        combined_entries = []
+        current_silence_duration = 0
+        
+        for i, entry in enumerate(timeline_entries):
+            if self.is_silence_entry(entry['description']):
+                current_silence_duration += entry['seconds']
+            else:
+                if current_silence_duration > 0:
+                    combined_entries.append({
+                        'seconds': current_silence_duration,
+                        'description': f"Silence"
+                    })
+                    current_silence_duration = 0
+                combined_entries.append(entry)
+        
+        if current_silence_duration > 0:
+            combined_entries.append({
+                'seconds': current_silence_duration,
+                'description': f"Silence"
+            })
+        
+        print(f"🔇 Combined {len(timeline_entries)} entries to {len(combined_entries)} entries")
+        return combined_entries
+    
+    def parse_timeline_preserve_order(self, timeline_text):
+        """Parse timeline and preserve exact order without combining silences"""
+        timeline_entries = []
+        for line in timeline_text.strip().split('\n'):
+            if ':' in line:
+                parts = line.split(':', 1)
+                if len(parts) == 2:
+                    seconds = float(parts[0].strip())
+                    description = parts[1].strip()
+                    timeline_entries.append({'seconds': seconds, 'description': description})
+        
+        print(f"📋 Parsed {len(timeline_entries)} entries preserving original order")
         return timeline_entries
     
-    def clear_output_folder(self):
-        """Clear all files from the output folder"""
-        print(f"Clearing output folder: {self.output_folder}")
-        try:
-            if os.path.exists(self.output_folder):
-                for file in os.listdir(self.output_folder):
-                    file_path = os.path.join(self.output_folder, file)
-                    if os.path.isfile(file_path):
-                        os.remove(file_path)
-                        print(f"Removed: {file}")
-                print("Output folder cleared successfully")
-            else:
-                print("Output folder does not exist, creating it")
-        except Exception as e:
-            print(f"Error clearing output folder: {e}")
+    def save_combined_timeline(self, timeline_entries, filename="sfx.txt"):
+        """Save combined timeline back to file"""
+        with open(filename, 'w', encoding='utf-8') as f:
+            for entry in timeline_entries:
+                f.write(f"{entry['seconds']}: {entry['description']}\n")
+        print(f"💾 Saved {len(timeline_entries)} entries to {filename}")
     
-    def duration_to_seconds(self, duration_str):
-        """Convert duration string (e.g., '10', '15', '25') to seconds"""
+    def clear_output_folder(self):
+        """Clear output folder"""
+        if os.path.exists(self.output_folder):
+            for file in os.listdir(self.output_folder):
+                os.remove(os.path.join(self.output_folder, file))
+    
+    def clear_silence_files(self):
+        """Clear silence files from output folder"""
+        if os.path.exists(self.output_folder):
+            for file in os.listdir(self.output_folder):
+                if file.startswith("sfx_") and file.endswith(".flac"):
+                    try:
+                        os.remove(os.path.join(self.output_folder, file))
+                    except Exception as e:
+                        print(f"Warning: Could not remove {file}: {e}")
+    
+    def clear_all_sfx_files(self):
+        """Clear all SFX-related files"""
+        print("🧹 Clearing all SFX files...")
+        
+        # Clear output folder
+        if os.path.exists(self.output_folder):
+            for file in os.listdir(self.output_folder):
+                try:
+                    os.remove(os.path.join(self.output_folder, file))
+                    print(f"Removed: {file}")
+                except Exception as e:
+                    print(f"Warning: Could not remove {file}: {e}")
+        
+        # Clear any SFX output files in current directory
+        for file in os.listdir('.'):
+            if file == 'sfx.wav':
+                try:
+                    os.remove(file)
+                    print(f"Removed: {file}")
+                except Exception as e:
+                    print(f"Warning: Could not remove {file}: {e}")
+        
+        # Clear any order details files
+        for file in os.listdir('.'):
+            if file.startswith('sfx_order_details') and file.endswith('.txt'):
+                try:
+                    os.remove(file)
+                    print(f"Removed: {file}")
+                except Exception as e:
+                    print(f"Warning: Could not remove {file}: {e}")
+                
+        print("✅ All SFX files cleared!")
+    
+    def __del__(self):
+        """Cleanup when object is destroyed"""
         try:
-            # Handle both integer and float strings, convert to int
-            return float(duration_str)
-        except ValueError:
-            print(f"Failed to convert duration '{duration_str}' to number")
-            return 0
+            # Clean up any temporary files if needed
+            pass
+        except:
+            pass
     
     def load_sfx_workflow(self):
-        """Load the SFX workflow from JSON"""
+        """Load SFX workflow from JSON"""
         with open('sfx.json', 'r') as f:
             return json.load(f)
     
     def find_node_by_type(self, workflow, node_type):
-        """Find a node by its type"""
+        """Find node by type"""
         for node_id, node in workflow.items():
             if node.get('class_type') == node_type:
                 return node
         return None
     
-    def update_workflow_text(self, workflow, text_prompt):
-        """Update the text prompt in the workflow"""
-        # Find the CLIPTextEncode node and update its text
+    def update_workflow(self, workflow, text_prompt, duration, filename):
+        """Update workflow parameters"""
+        # Update text
         node = self.find_node_by_type(workflow, 'CLIPTextEncode')
         if node:
             node['inputs']['text'] = text_prompt
-        return workflow
-    
-    def update_workflow_duration(self, workflow, duration):
-        """Update the duration in the workflow"""
-        # Find the EmptyLatentAudio node and update its duration
+        
+        # Update duration
         node = self.find_node_by_type(workflow, 'EmptyLatentAudio')
         if node:
             node['inputs']['seconds'] = duration
-        return workflow
-    
-    def update_workflow_filename(self, workflow, filename):
-        """Update the filename in the SaveAudio node"""
-        # Find the SaveAudio node and update its filename
+        
+        # Update filename
         node = self.find_node_by_type(workflow, 'SaveAudio')
         if node:
             node['inputs']['filename_prefix'] = f"audio/sfx/{filename}"
+        
         return workflow
     
+    def is_silence_entry(self, description):
+        """Check if an entry is a silence entry"""
+        description_lower = description.lower().strip()
+        return (description_lower == 'silence' or 
+                description_lower.startswith('silence') or 
+                description_lower.endswith('silence') or 
+                'silence' in description_lower.split())
+    
+    def generate_silence_audio(self, duration, filename):
+        """Generate silence audio directly using pydub"""
+        try:
+            # Create silence audio segment with standard audio format
+            # 44.1kHz, 16-bit, mono to match typical ComfyUI output
+            silence = AudioSegment.silent(duration=int(duration * 1000))  # pydub uses milliseconds
+            silence = silence.set_frame_rate(44100).set_channels(1)
+            
+            # Save to the same output folder as ComfyUI files in FLAC format
+            silence_path = os.path.join(self.output_folder, f"{filename}.flac")
+            silence.export(silence_path, format="flac", parameters=["-ac", "1", "-ar", "44100"])
+            
+            print(f"🔇 Generated silence: {duration}s")
+            return silence_path
+            
+        except Exception as e:
+            print(f"Error generating silence for {duration}s: {e}")
+            return None
+    
     def generate_single_sfx(self, entry_data):
-        """Generate a single SFX audio file"""
+        """Generate single SFX audio file"""
         i, entry = entry_data
-        
-        # Get duration from entry
         duration = entry['seconds']
-        print(f"Duration from entry: {duration} (type: {type(duration)})")
-        
-        # Skip entries with 0 duration
         if duration <= 0:
-            print(f"Skipping entry with duration <= 0: {duration}")
             return None
         
-        # Create filename with duration info
-        filename = f"sfx_{i:03d}_{entry['seconds']}"
+        # Create filename with order information for proper merging
+        entry_type = "silence" if self.is_silence_entry(entry['description']) else "sfx"
+        filename = f"sfx_{i:03d}_{entry_type}_{entry['seconds']}"
         
+        # Check if this is a silence entry
+        if self.is_silence_entry(entry['description']):
+            silence_path = self.generate_silence_audio(duration, filename)
+            if silence_path:
+                return {
+                    'file': silence_path,
+                    'order_index': i,  # Keep track of original order
+                    'duration': duration,
+                    'description': entry['description']
+                }
+            return None
+        
+        # For non-silence entries, use ComfyUI
         try:
-            print(f"Generating: {entry['description']} (duration: {duration}s)")
+            print(f"Generating: {entry['description']} ({duration}s)")
             
-            # Load and update workflow
             workflow = self.load_sfx_workflow()
-            workflow = self.update_workflow_text(workflow, entry['description'])
-            workflow = self.update_workflow_duration(workflow, duration)
-            workflow = self.update_workflow_filename(workflow, filename)
+            workflow = self.update_workflow(workflow, entry['description'], duration, filename)
             
-            # Send workflow to ComfyUI
-            print(f"Sending workflow to ComfyUI...")
-            try:
-                response = requests.post(f"{self.comfyui_url}prompt", json={"prompt": workflow}, timeout=30)
-                print(f"Response status: {response.status_code}")
-                
-                if response.status_code != 200:
-                    print(f"ComfyUI response: {response.text}")
-                    raise Exception(f"Failed to send workflow: {response.text}")
-                
-                response_json = response.json()
-                print(f"Response JSON: {response_json}")
-                prompt_id = response_json["prompt_id"]
-                print(f"Workflow sent successfully, prompt_id: {prompt_id}")
-                
-            except requests.exceptions.Timeout:
-                print("Timeout while sending workflow to ComfyUI")
-                raise Exception("Timeout while sending workflow to ComfyUI")
-            except Exception as e:
-                print(f"Error sending workflow: {e}")
-                raise
+            response = requests.post(f"{self.comfyui_url}prompt", json={"prompt": workflow}, timeout=30)
+            if response.status_code != 200:
+                raise Exception(f"Failed to send workflow: {response.text}")
+            
+            prompt_id = response.json()["prompt_id"]
             
             # Wait for completion
             while True:
@@ -165,43 +235,22 @@ class DirectTimelineProcessor:
                     if prompt_id in history_data:
                         status = history_data[prompt_id].get('status', {})
                         if status.get('exec_info', {}).get('queue_remaining', 0) == 0:
-                            # Check if there are outputs
                             outputs = history_data[prompt_id].get('outputs', {})
                             for node_id, node_output in outputs.items():
                                 if 'audio' in node_output:
-                                    for audio_file in node_output['audio']:
-                                        # The file is already saved in the ComfyUI output folder
-                                        # Look for it in the expected location
-                                        # Wait a bit longer for the file to be written
-                                        time.sleep(3)
-                                        
-                                        # Try to find the file with the correct pattern
-                                        # Look for files that start with our filename and end with .flac
-                                        print(f"Looking for files starting with '{filename}' in {self.output_folder}")
-                                        files_in_folder = os.listdir(self.output_folder)
-                                        print(f"Files in folder: {files_in_folder}")
-                                        
-                                        # Look for files that start with our base filename and end with .flac
-                                        # ComfyUI adds duration info like "_00001_" to the filename
-                                        matching_files = []
-                                        for file in files_in_folder:
-                                            if file.startswith(filename) and file.endswith('.flac'):
-                                                matching_files.append(file)
-                                        
-                                        if matching_files:
-                                            # Sort by modification time and get the most recent
-                                            matching_files.sort(key=lambda x: os.path.getmtime(os.path.join(self.output_folder, x)), reverse=True)
-                                            most_recent_file = matching_files[0]
-                                            found_path = os.path.join(self.output_folder, most_recent_file)
-                                            print(f"Found generated file: {found_path}")
-                                            return {
-                                                'file': found_path,
-                                                'start_time': entry['seconds'],
-                                                'duration': duration,
-                                                'description': entry['description']
-                                            }
-                                        
-                                        print(f"No files found starting with '{filename}'")
+                                    time.sleep(3)
+                                    files_in_folder = os.listdir(self.output_folder)
+                                    matching_files = [f for f in files_in_folder if f.startswith(filename) and f.endswith('.flac')]
+                                    
+                                    if matching_files:
+                                        matching_files.sort(key=lambda x: os.path.getmtime(os.path.join(self.output_folder, x)), reverse=True)
+                                        found_path = os.path.join(self.output_folder, matching_files[0])
+                                        return {
+                                            'file': found_path,
+                                            'order_index': i,  # Keep track of original order
+                                            'duration': duration,
+                                            'description': entry['description']
+                                        }
                             break
                 time.sleep(5)
             
@@ -211,23 +260,19 @@ class DirectTimelineProcessor:
             print(f"Error generating audio for '{entry['description']}': {e}")
             return None
     
-
-    
     def generate_all_sfx_batch(self, timeline_entries):
         """Generate all SFX audio files using batch processing"""
         generated_files = []
+        batch_data = [(i, entry) for i, entry in enumerate(timeline_entries)]
         
-        # Prepare data for batch processing
-        batch_data = []
-        for i, entry in enumerate(timeline_entries):
-            batch_data.append((i, entry))
+        # Count silence vs non-silence entries
+        silence_count = sum(1 for _, entry in batch_data if self.is_silence_entry(entry['description']))
+        sfx_count = len(batch_data) - silence_count
         
-        # Process in batches using ThreadPoolExecutor
+        print(f"📊 Processing {len(batch_data)} entries: {silence_count} silence, {sfx_count} SFX")
+        
         with ThreadPoolExecutor(max_workers=self.max_workers) as executor:
-            # Submit all tasks
             future_to_entry = {executor.submit(self.generate_single_sfx, data): data for data in batch_data}
-            
-            # Collect results as they complete
             for future in as_completed(future_to_entry):
                 result = future.result()
                 if result:
@@ -237,49 +282,74 @@ class DirectTimelineProcessor:
     
     def concatenate_audio_files(self, generated_files):
         """Concatenate all generated audio files into final audio"""
-        print("Concatenating audio files...")
-        
-        # Sort files by start time
-        generated_files.sort(key=lambda x: x['start_time'])
-        
-        # Load and concatenate audio files
+        print("🔗 Concatenating audio files in order...")
+        # Sort by order_index to maintain the exact order from sfx.txt
+        generated_files.sort(key=lambda x: x['order_index'])
         final_audio = AudioSegment.empty()
+        
+        current_time = 0.0
         
         for file_info in generated_files:
             try:
-                # Handle both FLAC and WAV files
-                if file_info['file'].endswith('.flac'):
-                    audio_segment = AudioSegment.from_file(file_info['file'], format="flac")
-                else:
-                    audio_segment = AudioSegment.from_wav(file_info['file'])
+                # All files are now in FLAC format
+                audio_segment = AudioSegment.from_file(file_info['file'], format="flac")
                 final_audio = final_audio + audio_segment
-                print(f"Added: {file_info['file']} ({file_info['description']})")
+                
+                print(f"➕ [{file_info['order_index']:2d}] {current_time:6.1f}s - {current_time + file_info['duration']:6.1f}s: {file_info['description']} ({file_info['duration']}s)")
+                current_time += file_info['duration']
+                
             except Exception as e:
-                print(f"Error loading {file_info['file']}: {e}")
+                print(f"❌ Error loading {file_info['file']}: {e}")
                 continue
         
-        # Export final audio
-        final_audio.export(self.final_output, format="wav")
-        print(f"Final audio saved as: {self.final_output}")
+        # Always save as sfx.wav
+        final_audio.export("sfx.wav", format="wav")
+        print(f"🎵 Final audio saved as: sfx.wav")
+        print(f"📊 Total duration: {current_time:.1f} seconds")
         
-        return self.final_output
+        return "sfx.wav"
+    
+
     
     def process_timeline(self, timeline_text):
         """Main processing function"""
-        print("Processing timeline...")
+        if not timeline_text or not timeline_text.strip():
+            raise Exception("Empty or invalid timeline text provided")
         
-        # Parse timeline
+        print("🔄 Step 1: Merging consecutive silences and updating sfx.txt...")
+        
+        # First, combine consecutive silences and save to file
         timeline_entries = self.parse_timeline(timeline_text)
-        print(f"Parsed {len(timeline_entries)} timeline entries")
+        if not timeline_entries:
+            raise Exception("No valid timeline entries found")
         
+        self.save_combined_timeline(timeline_entries)
+        
+        print("📋 Step 2: Reloading updated timeline for processing...")
+        # Reload the updated file
+        updated_timeline = read_timeline_from_file("sfx.txt")
+        if updated_timeline is None:
+            raise Exception("Failed to reload updated timeline file")
+        
+        # Parse the updated timeline
+        updated_entries = self.parse_timeline_preserve_order(updated_timeline)
+        if not updated_entries:
+            raise Exception("No entries found in updated timeline")
+        
+        print(f"📊 Processing {len(updated_entries)} entries from updated timeline")
+        
+        print("🎵 Step 3: Generating audio files...")
         # Generate all SFX files using batch processing
-        generated_files = self.generate_all_sfx_batch(timeline_entries)
-        print(f"Generated {len(generated_files)} audio files")
+        generated_files = self.generate_all_sfx_batch(updated_entries)
+        if not generated_files:
+            raise Exception("No audio files were generated successfully")
         
+        print(f"✅ Generated {len(generated_files)} audio files")
+        
+        print("🔗 Step 4: Combining files in order...")
         # Concatenate into final audio
         final_audio = self.concatenate_audio_files(generated_files)
-        
-        print("Processing complete!")
+        print("🎉 Processing complete!")
         return final_audio
 
 def read_timeline_from_file(filename="sfx.txt"):
@@ -289,24 +359,35 @@ def read_timeline_from_file(filename="sfx.txt"):
             return f.read()
     except FileNotFoundError:
         print(f"Error: Timeline file '{filename}' not found.")
-        print("Please create a sfx.txt file with your timeline data in the format:")
-        print("10: Description of first sound (10 seconds duration)")
-        print("15: Description of second sound (15 seconds duration)")
-        print("25: Description of third sound (25 seconds duration)")
         return None
     except Exception as e:
         print(f"Error reading timeline file: {e}")
         return None
 
 if __name__ == "__main__":
-    # Read timeline data from file
-    timeline_text = read_timeline_from_file()
+    import sys
     
+    # Check if user wants to clear files
+    if len(sys.argv) > 1 and sys.argv[1] == "--clear":
+        processor = DirectTimelineProcessor(max_workers=3)
+        processor.clear_all_sfx_files()
+        exit(0)
+    
+    start_time = time.time()
+    
+    timeline_text = read_timeline_from_file()
     if timeline_text is None:
         print("Exiting due to timeline file error.")
         exit(1)
     
-    # Create processor and run
+    print("🚀 Starting SFX generation with optimized silence handling...")
     processor = DirectTimelineProcessor(max_workers=3)
-    final_audio = processor.process_timeline(timeline_text)
-    print(f"Final audio file: {final_audio}")
+    
+    try:
+        final_audio = processor.process_timeline(timeline_text)
+        print(f"✅ Final audio file: {final_audio}")
+        print(f"⏱️  Total execution time: {time.time() - start_time:.2f} seconds")
+    except Exception as e:
+        print(f"❌ Error during processing: {e}")
+        print("💡 Make sure ComfyUI is running at http://127.0.0.1:8188/ for SFX generation")
+        print("🔇 Silence segments will still be generated locally")

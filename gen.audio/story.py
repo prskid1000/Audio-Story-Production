@@ -165,8 +165,12 @@ def read_story_from_file(filename="story.txt"):
         return None
 
 if __name__ == "__main__":
+    start_time = time.time()
+    
     # Read story data from file
+    file_read_start = time.time()
     story_text = read_story_from_file()
+    file_read_time = time.time() - file_read_start
     
     if story_text is None:
         print("Exiting due to story file error.")
@@ -174,10 +178,26 @@ if __name__ == "__main__":
     
     # Create processor and run
     processor = StoryProcessor()
+    
+    # Time the story processing
+    processing_start = time.time()
     final_audio = processor.process_story(story_text)
+    processing_time = time.time() - processing_start
     
     if final_audio:
         print(f"Final audio file: {final_audio}")
     else:
         print("Failed to generate story audio")
         exit(1)
+    
+    end_time = time.time()
+    total_time = end_time - start_time
+    
+    # Print detailed timing information
+    print("\n" + "=" * 50)
+    print("⏱️  TIMING SUMMARY")
+    print("=" * 50)
+    print(f"📖 File reading time: {file_read_time:.2f} seconds")
+    print(f"🎵 Story processing time: {processing_time:.2f} seconds")
+    print(f"⏱️  Total execution time: {total_time:.2f} seconds ({total_time/60:.2f} minutes)")
+    print("=" * 50)

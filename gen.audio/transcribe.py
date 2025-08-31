@@ -1,107 +1,57 @@
 import os
-import json
-from pathlib import Path
 import re
 import whisper
+import time
 
-# Configuration
-SIMILARITY_THRESHOLD = 0.8  # 80% word similarity threshold for merging
+def format_timestamp(seconds):
+    """Convert seconds to SRT timestamp format (HH:MM:SS,mmm)"""
+    hours = int(seconds // 3600)
+    minutes = int((seconds % 3600) // 60)
+    secs = int(seconds % 60)
+    millisecs = int((seconds % 1) * 1000)
+    return f"{hours:02d}:{minutes:02d}:{secs:02d},{millisecs:03d}"
 
-def merge_adjacent_same_words(segments):
-    """
-    Merge adjacent timestamp entries that contain similar words to reduce repetition
+def generate_files(segments, srt_file, text_file, timeline_file):
+    """Generate SRT, text, and timeline files from segments"""
     
-    Args:
-        segments (list): List of segments from Whisper result
-        
-    Returns:
-        list: Merged segments with adjacent similar words combined
-    """
-    if not segments:
-        return segments
+    # Generate SRT content
+    srt_content = ""
+    for i, segment in enumerate(segments, 1):
+        start_time = format_timestamp(segment["start"])
+        end_time = format_timestamp(segment["end"])
+        text = re.sub(r'\s+', ' ', segment["text"].strip())
+        srt_content += f"{start_time} --> {end_time}\n{text}\n\n"
     
-    def get_word_frequency(text):
-        """Get word frequency map from text"""
-        words = re.findall(r'\b\w+\b', text.lower())
-        word_freq = {}
-        for word in words:
-            word_freq[word] = word_freq.get(word, 0) + 1
-        return word_freq
+    # Generate text content
+    text_content = ""
+    for segment in segments:
+        text = re.sub(r'\s+', ' ', segment["text"].strip())
+        text_content += text + " "
+    text_content = text_content.strip()
     
-    def calculate_similarity(freq1, freq2):
-        """Calculate similarity between two word frequency maps"""
-        if not freq1 or not freq2:
-            return 0.0
-        
-        # Calculate total word counts for each segment
-        total_words1 = sum(freq1.values())
-        total_words2 = sum(freq2.values())
-        
-        # Determine which is larger and which is smaller
-        if total_words1 >= total_words2:
-            larger_freq = freq1
-            smaller_freq = freq2
-        else:
-            larger_freq = freq2
-            smaller_freq = freq1
-        
-        # Store larger segment as array of words
-        larger_words = []
-        for word, count in larger_freq.items():
-            larger_words.extend([word] * count)
-        
-        # Search for all words of larger in map of smaller
-        found_words = 0
-        for word in larger_words:
-            if word in smaller_freq and smaller_freq[word] > 0:
-                found_words += 1
-                smaller_freq[word] -= 1  # Decrease count as we use it
-        
-        # Calculate similarity as percentage of larger segment found in smaller
-        similarity = found_words / len(larger_words) if larger_words else 0.0
-        
-        return similarity
+    # Generate timeline content
+    timeline_content = ""
+    for segment in segments:
+        duration = segment["end"] - segment["start"]
+        text = re.sub(r'\s+', ' ', segment["text"].strip())
+        timeline_content += f"{duration:.1f}: {text}\n"
     
-    merged_segments = []
-    current_segment = segments[0].copy()
+    # Write files
+    with open(srt_file, 'w', encoding='utf-8') as f:
+        f.write(srt_content)
     
-    for i in range(1, len(segments)):
-        next_segment = segments[i]
-        
-        # Get word frequency maps
-        current_freq = get_word_frequency(current_segment["text"])
-        next_freq = get_word_frequency(next_segment["text"])
-        
-        # Calculate similarity
-        similarity = calculate_similarity(current_freq, next_freq)
-        
-        # Check if similarity meets threshold
-        if similarity >= SIMILARITY_THRESHOLD:
-            # Merge the segments by extending the end time
-            old_end = current_segment["end"]
-            current_segment["end"] = next_segment["end"]
-            print(f"✅ MERGED ({similarity:.1%} similar): '{current_segment['text'].strip()}' - Extended time from {format_timestamp(old_end)} to {format_timestamp(current_segment['end'])}")
-            continue
-        else:
-            # Different text, add current segment to results and start new one
-            merged_segments.append(current_segment)
-            current_segment = next_segment.copy()
+    with open(text_file, 'w', encoding='utf-8') as f:
+        f.write(text_content)
     
-    # Add the last segment
-    merged_segments.append(current_segment)
+    with open(timeline_file, 'w', encoding='utf-8') as f:
+        f.write(timeline_content)
     
-    print(f"📊 Merging complete: {len(segments)} → {len(merged_segments)} entries")
-    return merged_segments
+    print(f"SRT file saved to: {srt_file}")
+    print(f"Text file saved to: {text_file}")
+    print(f"Timeline file saved to: {timeline_file}")
 
-def transcribe_audio_to_srt(audio_path, output_path, model_name="base"):
-    """
-    Transcribe audio file to SRT format using OpenAI Whisper
-    
-    Args:
-        audio_path (str): Path to the audio file
-        output_path (str): Path to save the SRT file
-        model_name (str): Whisper model size (tiny, base, small, medium, large)
-    """
+def transcribe_audio(audio_path, srt_file, text_file, timeline_file, model_name="large"):
+    """Transcribe audio and generate all output files"""
     try:
         print(f"Loading Whisper model: {model_name}")
         model = whisper.load_model(model_name)
@@ -110,123 +60,35 @@ def transcribe_audio_to_srt(audio_path, output_path, model_name="base"):
         result = model.transcribe(
             audio_path, 
             verbose=True,
-            temperature=0.0,  # Deterministic, no creativity
-            compression_ratio_threshold=1.0,  # Lower threshold to catch more repetition
-            logprob_threshold=-0.5,  # Higher confidence threshold
-            condition_on_previous_text=False,  # Don't use previous text to avoid repetition
+            temperature=0.0,
+            compression_ratio_threshold=1.0,
+            logprob_threshold=-0.5,
+            condition_on_previous_text=False,
             word_timestamps=False
         )
         
-        # Merge adjacent same words before generating SRT
-        merged_segments = merge_adjacent_same_words(result["segments"])
+        print(f"Original segments: {len(result['segments'])}")
         
-        print(f"Original segments: {len(result['segments'])}, Merged segments: {len(merged_segments)}")
-        
-        # Generate SRT content from merged segments
-        srt_content = generate_srt_from_segments(merged_segments)
-        
-        # Write to output file
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(srt_content)
-        
-        print(f"SRT file saved to: {output_path}")
+        # Generate all files
+        generate_files(result["segments"], srt_file, text_file, timeline_file)
         return True
         
     except Exception as e:
         print(f"Error during transcription: {str(e)}")
         return False
 
-def generate_srt_from_segments(segments):
-    """
-    Convert Whisper segments to SRT format
-    
-    Args:
-        segments (list): List of segments from Whisper result
-        
-    Returns:
-        str: SRT formatted content
-    """
-    srt_content = ""
-    
-    for i, segment in enumerate(segments, 1):
-        start_time = format_timestamp(segment["start"])
-        end_time = format_timestamp(segment["end"])
-        text = segment["text"].strip()
-        
-        # Clean up text (remove extra spaces, normalize)
-        text = re.sub(r'\s+', ' ', text)
-        
-        srt_content += f"{start_time} --> {end_time}\n"
-        srt_content += f"{text}\n\n"
-    
-    return srt_content
 
-def format_timestamp(seconds):
-    """
-    Convert seconds to SRT timestamp format (HH:MM:SS,mmm)
-    
-    Args:
-        seconds (float): Time in seconds
-        
-    Returns:
-        str: Formatted timestamp
-    """
-    hours = int(seconds // 3600)
-    minutes = int((seconds % 3600) // 60)
-    secs = int(seconds % 60)
-    millisecs = int((seconds % 1) * 1000)
-    
-    return f"{hours:02d}:{minutes:02d}:{secs:02d},{millisecs:03d}"
-
-def extract_text_from_srt(srt_path, output_path):
-    """
-    Extract plain text from SRT file for SFX generation
-    
-    Args:
-        srt_path (str): Path to the SRT file
-        output_path (str): Path to save the plain text
-    """
-    try:
-        with open(srt_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-        
-        # Extract text lines (skip timestamp and subtitle number lines)
-        lines = content.split('\n')
-        text_lines = []
-        
-        for line in lines:
-            line = line.strip()
-            # Skip empty lines, subtitle numbers, and timestamp lines
-            if (line and 
-                not line.isdigit() and 
-                not '-->' in line and 
-                not re.match(r'^\d{2}:\d{2}:\d{2},\d{3}$', line)):
-                text_lines.append(line)
-        
-        # Join text lines
-        full_text = ' '.join(text_lines)
-        
-        # Write to output file
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(full_text)
-        
-        print(f"Plain text extracted and saved to: {output_path}")
-        return True
-        
-    except Exception as e:
-        print(f"Error extracting text from SRT: {str(e)}")
-        return False
 
 def main():
-    """
-    Main function to transcribe story.wav and generate sfx.txt
-    """
-    # File paths
+    """Main function to transcribe story.wav and generate three output files"""
+    start_time = time.time()
+    
     audio_file = "story.wav"
     srt_file = "story.srt"
-    sfx_text_file = "story.str.txt"
+    text_file = "story.str.txt"
+    timeline_file = "timeline.txt"
+    original_text_file = "story.txt"
     
-    # Check if audio file exists
     if not os.path.exists(audio_file):
         print(f"Error: Audio file '{audio_file}' not found!")
         return
@@ -234,24 +96,32 @@ def main():
     print("Starting audio transcription with OpenAI Whisper...")
     print("=" * 50)
     
-    # Step 1: Transcribe audio to SRT
-    success = transcribe_audio_to_srt(audio_file, srt_file, model_name="large")
+    # Time the transcription process
+    transcription_start = time.time()
+    success = transcribe_audio(audio_file, srt_file, text_file, timeline_file)
+    transcription_time = time.time() - transcription_start
     
     if success:
         print("\nTranscription completed successfully!")
+        print(f"\n✅ Process completed! Files generated:")
+        print(f"  • {srt_file} (Original SRT format)")
+        print(f"  • {text_file} (Plain text format)")
+        print(f"  • {timeline_file} (Duration computed format)")
         
-        # Step 2: Extract plain text for SFX generation
-        print("\nExtracting plain text for SFX generation...")
-        extract_success = extract_text_from_srt(srt_file, sfx_text_file)
-        
-        if extract_success:
-            print(f"\n✅ Process completed! Files generated:")
-            print(f"  • {srt_file}")
-            print(f"  • {sfx_text_file}")
-        else:
-            print("\nError extracting text from SRT file!")
+        print(f"\n💡 To analyze transcription quality, run: python similarity.py")
     else:
         print("\nTranscription failed!")
+    
+    end_time = time.time()
+    total_time = end_time - start_time
+    
+    # Print detailed timing information
+    print("\n" + "=" * 50)
+    print("⏱️  TIMING SUMMARY")
+    print("=" * 50)
+    print(f"📝 Transcription time: {transcription_time:.2f} seconds")
+    print(f"⏱️  Total execution time: {total_time:.2f} seconds ({total_time/60:.2f} minutes)")
+    print("=" * 50)
 
 if __name__ == "__main__":
     main()
