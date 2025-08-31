@@ -412,20 +412,10 @@ def main():
             print("📋 Summary:")
             if combined_score >= 0.9:
                 print("🎯 EXCELLENT - Your transcription is very accurate!")
-            elif combined_score >= 0.8:
+            elif combined_score >= 0.74:
                 print("✅ GOOD - Your transcription captures most content well")
-            elif combined_score >= 0.6:
-                print("⚠️  FAIR - Your transcription has some issues but is understandable")
             else:
                 print("❌ POOR - Your transcription needs significant improvement")
-            
-            # Quick interpretation guide
-            print(f"\n📖 Quick Guide:")
-            print("   • 0.9+ = Excellent: Almost perfect transcription")
-            print("   • 0.8-0.9 = Good: Most content captured accurately")
-            print("   • 0.6-0.8 = Fair: Understandable but has issues")
-            print("   • <0.6 = Poor: Needs significant improvement")
-            print("   • Higher scores = Better transcription quality")
             
             end_time = time.time()
             print(f"\n⏱️  Analysis completed in {end_time - start_time:.3f} seconds")
