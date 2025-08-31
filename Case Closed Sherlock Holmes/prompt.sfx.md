@@ -6,7 +6,7 @@ CONTENT: Either Sound Prompt for x.xxxxx seconds or Silence for x.xxxxx seconds
 
 FORMAT:
 
-x.xxxxx (duration in s): Silence
+x.xxxxx (duration in s, where x >= 1.00000s): Silence
 x.xxxxx: Sound Prompt that include sound description, loudness, timbre, pitch, sonance, frequency within 12 words. 
 x.xxxxx: Silence
 
@@ -16,6 +16,6 @@ RULES:
 - Duration of each Sound must corresponds to comparable actual duration in real life.
 - Each Sound/Silence timing must corresponds to timing of action/event in the given transcription.
 - Do not add any speech/vocal expression related Sound.
-- Add background atmospheric effects where needed.
+- Add Background Atmospheric Sound(Faint/Soft/Gentle) Effects where needed.
 
 OUTPUT: Single txt file containing duration-sound lines
