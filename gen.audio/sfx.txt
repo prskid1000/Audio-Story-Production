@@ -1,41 +1,56 @@
-25.0: Silence
-3.4: Soft gas lamp flickering ambient low hum
-3.2: Wind pressing window panes soft whoosh
-2.7: Rain pattering window glass light droplets
-1.8: Silence
-2.9: Carriage wheels distant muffled cobblestone rolling
-2.4: Silence
-2.6: Settee creaking wood gentle shifting weight
-6.800000000000001: Silence
-2.1: Page rustling paper soft whisper sound
-79.3: Silence
-3.4: Sharp door knocking wood three raps
-8.2: Silence
-4.7: Footsteps wooden stairs creaking ascending heavy
-2.6: Silence
-4.5: Papers rustling folio thick bundle shuffling
-89.9: Silence
-6.4: Piano keys silent no sound void
-92.7: Silence
-2.3: Outcry neighbors running footsteps multiple urgent
-32.2: Silence
-4.6: Hat coat rustling fabric movement quick
-94.1: Silence
-4.0: Candlelight flickering wax dripping soft sizzle
-16.3: Silence
-2.9: Floorboards creaking old oak wood groaning
-63.599999999999994: Silence
-3.1: Cane tapping hollow resonance beneath boards
-83.19999999999997: Silence
-4.8: Stage elevator machinery ropes pulleys mechanical
-36.900000000000006: Silence
-2.9: Key turning lock metal clicking mechanism
-150.4: Silence
-5.5: Bell tolling distant church mournful clang
-147.4: Silence
-2.9: Carriage wheels distant muffled cobblestone rolling
-540.6: Silence
-7.0: Footsteps wooden stairs heavy boots ascending
-122.09999999999995: Silence
-6.4: Violin strings haunting melody notes fading
-53.9: Silence
+26.18: Silence
+3.54: Soft rain pattering on windows, distant London street ambience
+3.16: Muffled fog pressing against glass panes, low atmospheric hum
+2.89: Silence
+2.07: Flickering gas lamp flames crackling softly
+2.86: Muffled horse carriage wheels rolling on cobblestone streets
+12.52: Silence
+2.18: Paper pages rustling gently
+85.94: Silence
+3.8: Sharp knocking on wooden door
+9.62: Silence
+5.36: Heavy footsteps ascending creaking wooden stairs
+2.76: Silence
+4.52: Papers rustling and shuffling in folio
+249.51: Silence
+5.06: Footsteps pacing across wooden floorboards
+73.93: Silence
+20.26: Horse carriage wheels rolling, harness jingling, London street sounds
+17.0: Silence
+5.0: Heavy footsteps on creaking wooden stairs
+4.0: Old timber groaning and settling
+104.18: Silence
+3.1: Walking stick tapping on wooden floorboards
+3.66: Hollow wooden knocking sounds echoing
+91.1: Silence
+2.68: Wood creaking and splintering as boards pry apart
+50.82: Silence
+3.18: Footsteps descending wooden stairs
+3.02: Metal key turning in heavy lock
+169.29: Silence
+6.23: Distant church bell tolling mournfully
+43.06: Silence
+4.38: Papers rustling, glass apparatus clinking softly
+69.35: Silence
+2.89: Light tapping on door
+33.94: Silence
+4.71: Coins jingling in hand
+6.24: Silence
+3.39: Horse hooves clattering on cobblestones, carriage wheels rolling
+234.78: Silence
+3.55: Footsteps on street pavement
+51.32: Silence
+3.81: Pages turning and paper rustling
+55.19: Silence
+2.66: Sharp knocking on door
+269.19: Silence
+7.5: Heavy boots stomping up stairs rapidly
+29.06: Silence
+5.2: Metal handcuffs clicking, chains rattling
+1.07: Silence
+4.62: Footsteps descending stairs, fading away
+98.31: Silence
+6.77: Soft violin strings playing haunting melody
+47.42: Silence
+3.17: Distant violin strings echoing softly at night
+7.68: Silence
