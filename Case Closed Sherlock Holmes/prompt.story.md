@@ -14,11 +14,11 @@ CONTENT:
 
  - Consulting Detective Sherlock Holmes Story \[Victorian Drama] -> Sherlock Holmes and "The Song of Vanishing Piano".
 
- - Use narrator(Doctor John Watson himself is narrator) for atmosphere, and other detailing.
+ - Use the narrator(Doctor John Watson himself is the narrator) for atmosphere and other detailing. 
 
- - Watson, always learning how to do deduction from holmes, and his loyal only assistant and roommate.
+ - Watson, always learning how to do deduction from Holmes, and his loyal assistant and roommate. 
 
- - Holmes, for him "everything is elementary" and "uses theory of deduction" to solve cases.
+ - Holmes, for him, "everything is elementary" and "uses theory of deduction" to solve cases. 
 
 
 
