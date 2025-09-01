@@ -310,58 +310,43 @@ OUTPUT: JSON with entries array containing objects with index, seconds, and soun
         all_sfx_entries = []
         
         for i, chunk in enumerate(chunks):
+            chunk_start_time = time.time()
             print(f"\n📦 Processing chunk {i+1}/{len(chunks)} ({len(chunk)} entries)")
             
             # Create prompt for this chunk
             prompt = self.create_prompt_for_chunk(chunk)
             
-            # Retry logic for API calls and validation
-            max_retries = 3
-            chunk_processed = False
-            
-            for attempt in range(max_retries):
-                try:
-                    if attempt > 0:
-                        print(f"🔄 Retry attempt {attempt + 1}/{max_retries} for chunk {i+1}")
-                        time.sleep(2)  # Wait a bit before retrying
-                    
-                    # Call LM Studio API
-                    response = self.call_lm_studio_api(prompt, expected_count=len(chunk))
-                    
-                    # Parse SFX response
-                    sfx_entries = self.parse_sfx_response(response)
-                    
-                    # Validate the response
-                    if not self.validate_sfx_entries(chunk, sfx_entries):
-                        print(f"❌ Validation failed for chunk {i+1} (attempt {attempt + 1})")
-                        if attempt == max_retries - 1:
-                            print(f"❌ All {max_retries} attempts failed for chunk {i+1}")
-                            return False
+            try:
+                # Call LM Studio API
+                response = self.call_lm_studio_api(prompt, expected_count=len(chunk))
+                
+                # Parse SFX response
+                sfx_entries = self.parse_sfx_response(response)
+                
+                # Validate the response
+                if not self.validate_sfx_entries(chunk, sfx_entries):
+                    print(f"❌ Validation failed for chunk {i+1}")
+                    return False
+                
+                # Add to all entries
+                all_sfx_entries.extend(sfx_entries)
+                
+                # Live preview for this chunk in duration:text format
+                print("📝 Chunk output (duration:text):", flush=True)
+                for seg in sfx_entries:
+                    try:
+                        print(f"{seg['seconds']}: {seg['sound_or_silence_description']}", flush=True)
+                    except Exception:
                         continue
-                    
-                    # Add to all entries
-                    all_sfx_entries.extend(sfx_entries)
-                    
-                    # Live preview for this chunk in duration:text format
-                    print("📝 Chunk output (duration:text):", flush=True)
-                    for seg in sfx_entries:
-                        try:
-                            print(f"{seg['seconds']}: {seg['sound_or_silence_description']}", flush=True)
-                        except Exception:
-                            continue
 
-                    print(f"✅ Chunk {i+1} processed successfully")
-                    chunk_processed = True
-                    break
-                    
-                except Exception as e:
-                    print(f"❌ Error processing chunk {i+1} (attempt {attempt + 1}): {str(e)}")
-                    if attempt == max_retries - 1:
-                        print(f"❌ All {max_retries} attempts failed for chunk {i+1}")
-                        return False
-            
-            if not chunk_processed:
-                print(f"❌ Failed to process chunk {i+1} after {max_retries} attempts")
+                chunk_end_time = time.time()
+                chunk_duration = chunk_end_time - chunk_start_time
+                print(f"✅ Chunk {i+1} processed successfully in {chunk_duration:.2f} seconds")
+                
+            except Exception as e:
+                chunk_end_time = time.time()
+                chunk_duration = chunk_end_time - chunk_start_time
+                print(f"❌ Error processing chunk {i+1}: {str(e)} (took {chunk_duration:.2f} seconds)")
                 return False
             
             # Small delay between API calls
