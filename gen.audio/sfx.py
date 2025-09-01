@@ -311,6 +311,55 @@ class DirectTimelineProcessor:
     
 
     
+    def calculate_total_duration(self, timeline_entries):
+        """Calculate total duration from timeline entries"""
+        total_duration = sum(entry['seconds'] for entry in timeline_entries)
+        return round(total_duration, 3)
+    
+    def display_timeline_summary(self, timeline_entries):
+        """Display timeline summary with duration breakdown"""
+        print("\n" + "="*60)
+        print("📋 TIMELINE SUMMARY")
+        print("="*60)
+        
+        total_duration = self.calculate_total_duration(timeline_entries)
+        silence_count = sum(1 for entry in timeline_entries if self.is_silence_entry(entry['description']))
+        sfx_count = len(timeline_entries) - silence_count
+        
+        print(f"📊 Total Entries: {len(timeline_entries)}")
+        print(f"🎵 SFX Segments: {sfx_count}")
+        print(f"🔇 Silence Segments: {silence_count}")
+        print(f"⏱️  Total Duration: {total_duration:.3f} seconds ({total_duration/60:.2f} minutes)")
+        
+        print("\n📝 Timeline Breakdown:")
+        print("-" * 60)
+        current_time = 0.0
+        for i, entry in enumerate(timeline_entries):
+            entry_type = "🔇 SILENCE" if self.is_silence_entry(entry['description']) else "🎵 SFX"
+            print(f"[{i+1:2d}] {current_time:6.3f}s - {current_time + entry['seconds']:6.3f}s | {entry_type} | {entry['description']}")
+            current_time += entry['seconds']
+        
+        print("="*60)
+        return total_duration
+    
+    def get_user_confirmation(self, total_duration):
+        """Get user confirmation to proceed with processing"""
+        print(f"\n⚠️  This will generate audio with a total duration of {total_duration:.3f} seconds ({total_duration/60:.2f} minutes)")
+        print("Do you want to proceed? (y/n): ", end="")
+        
+        while True:
+            try:
+                response = input().strip().lower()
+                if response in ['y', 'yes', '']:
+                    return True
+                elif response in ['n', 'no']:
+                    return False
+                else:
+                    print("Please enter 'y' for yes or 'n' for no: ", end="")
+            except KeyboardInterrupt:
+                print("\n❌ Processing cancelled by user")
+                return False
+    
     def process_timeline(self, timeline_text):
         """Main processing function"""
         if not timeline_text or not timeline_text.strip():
@@ -336,7 +385,14 @@ class DirectTimelineProcessor:
         if not updated_entries:
             raise Exception("No entries found in updated timeline")
         
-        print(f"📊 Processing {len(updated_entries)} entries from updated timeline")
+        # Display timeline summary and get user confirmation
+        total_duration = self.display_timeline_summary(updated_entries)
+        
+        if not self.get_user_confirmation(total_duration):
+            print("❌ Processing cancelled by user")
+            return None
+        
+        print(f"\n📊 Processing {len(updated_entries)} entries from updated timeline")
         
         print("🎵 Step 3: Generating audio files...")
         # Generate all SFX files using batch processing
@@ -385,8 +441,11 @@ if __name__ == "__main__":
     
     try:
         final_audio = processor.process_timeline(timeline_text)
-        print(f"✅ Final audio file: {final_audio}")
-        print(f"⏱️  Total execution time: {time.time() - start_time:.3f} seconds")
+        if final_audio:
+            print(f"✅ Final audio file: {final_audio}")
+            print(f"⏱️  Total execution time: {time.time() - start_time:.3f} seconds")
+        else:
+            print("❌ Processing was cancelled by user")
     except Exception as e:
         print(f"❌ Error during processing: {e}")
         print("💡 Make sure ComfyUI is running at http://127.0.0.1:8188/ for SFX generation")

@@ -1,21 +1,33 @@
-TASK: Analyse the duration-transcription content, and output duration-Sound content, to generate Sound prompt for stable audio
+TASK: Analyse the duration-transcription content, and output duration-Sound/Silence content, to generate a Sound prompt for stable audio
 
-LENGTH: Double Check and Match, Total duration of Sound + Silence = Total duration of transcript in duration-transcription file
 
-CONTENT: Either Sound Prompt for x.xxxxx seconds or Silence for x.xxxxx seconds
-
-FORMAT:
-
-x.xxxxx (duration in s, where x >= 1.00000s): Silence
-x.xxxxx: Sound Prompt that include sound description, loudness, timbre, pitch, sonance, frequency within 12 words. 
-x.xxxxx: Silence
 
 RULES:
 
-- Always split a single duration-transcription line multiple(at least 3) duration-Sound lines.
-- Duration of each Sound must corresponds to comparable actual duration in real life.
-- Each Sound/Silence timing must corresponds to timing of action/event in the given transcription.
-- Do not add any speech/vocal expression related Sound.
-- Add Background Atmospheric Sound(Faint/Soft/Gentle) Effects where needed.
 
-OUTPUT: Single txt file containing duration-sound lines
+
+* Total duration of Sound + Silence must be EQUAL to the Total duration of the original transcription.
+* Always split each transcription line into multiple Sound/Silence lines.
+* Duration of each Sound must correspond to a comparable actual/natural duration of action/event in real life, but must be x >= 1.00000s.
+* Each Sound/Silence timing must precisely fit the transcription timeline.
+* Always Prefer Silence over Sound.
+* Do not add any speech/vocal expression-related Sound.
+
+
+
+FORMAT:
+
+
+
+x.xxxxx (duration in s, where x >= 1.00000s): Silence
+
+x.xxxxx: Sound description with loudness, timbre, pitch, sonance, frequency within 12 words.
+
+x.xxxxx: Silence
+
+
+
+
+
+OUTPUT: Single txt file containing duration-sound lines
+
