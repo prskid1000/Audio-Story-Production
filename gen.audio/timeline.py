@@ -6,7 +6,7 @@ import re
 from typing import List, Dict, Any
 
 class TimelineSFXGenerator:
-    def __init__(self, lm_studio_url="http://localhost:1234/v1", chunk_size=64, model="qwen/qwen3-14b", use_json_schema=True):
+    def __init__(self, lm_studio_url="http://localhost:1234/v1", chunk_size=16, model="qwen/qwen3-14b", use_json_schema=True):
         self.lm_studio_url = lm_studio_url
         self.chunk_size = chunk_size
         self.output_file = "sfx.txt"
@@ -61,36 +61,12 @@ class TimelineSFXGenerator:
         """Create the prompt for LM Studio API"""
         # Build the content section
         content_lines = []
-        seconds_only = []
         for entry in chunk:
             content_lines.append(f"{entry['seconds']}: {entry['description']}")
-            seconds_only.append(entry['seconds'])
         
         content = "\n".join(content_lines)
-        seconds_json = json.dumps(seconds_only)
         
-        prompt = f"""CONTENT:
-
-{content}
-
-TASK: You are generating sound prompts for the Stable Audio Model. Convert each line into one or more natural sound-silence segments.
-
-CONSTRAINTS:
-- Context: Analyze the entire CONTENT first; make each segment serve the narrative.
-- Relevance: Include only sounds that clarify context or key cues; omit trivial/incidental noise.
-- Alignment: Keep each line's audio inside its time window; start the main cue at t=0; never move audio across lines.
-- Sources: Use only sounds grounded in the objects/actions in CONTENT; invent nothing.
-- No voice: No speech or lyrics; only environment/object sounds.
-- Descriptions: Each sound_or_silence_description (or "Silence") is 12 words or fewer, concrete, present tense; include key qualities when helpful (pitch, timbre, frequency, resonance).
-- Timing: For line i, segment seconds must sum to SECONDS[i].
-- Padding: If shorter than SECONDS[i], use "Silence" to reach time. Only extend with a specific, context-grounded continuous sound when explicitly present in CONTENT.
-- Segments: Use the fewest natural segments; keep durations realistic; transitions should feel natural.
-- Output: JSON only (no markdown, code blocks, or extra text).
-
-SECONDS (ordered): {seconds_json}
-
-OUTPUT: JSON object with
-- entries: [ {{ "index": integer (0-based), "seconds": number, "sound_or_silence_description": string }} ]"""
+        prompt = f"""CONTENT:{content}"""
         
         return prompt
 
@@ -140,13 +116,16 @@ OUTPUT: JSON object with
                     {
                         "role": "system",
                         "content": (
-                            "You are a precise SFX timeline generator. "
-                            "Return only a strict JSON object matching the schema. "
-                            "Favor ear-friendly, non-harsh sounds; avoid piercing, shrill, or distorted noise. "
-                            "Use concrete, specific sources and actions with 1–2 acoustic qualities (e.g., material, timbre, pitch). "
-                            "Never use vague or generic labels like ambient, whoosh, rumble, background noise, music, SFX, effects, or various sounds. "
-                            "If a specific, context-grounded sound is unclear, output 'Silence'. "
-                            "No extra text."
+                            "You are an SFX generator for the Stable Audio Model. Convert each timeline line into exactly one sound or silence line.\n\n"
+                            "RULES:\n"
+                            "- Each input line produces exactly one output line of same duration\n"
+                            "- Use only sounds grounded in the content; invent nothing\n"
+                            "- No speech, lyrics, or vocal sounds\n"
+                            "- Keep descriptions under 12 words, concrete and present tense\n"
+                            "- If no clear sound is present, use 'Silence'\n"
+                            "- Avoid vague terms like 'ambient', 'whoosh', 'rumble', 'background noise'\n"
+                            "- Return only JSON matching the schema\n\n"
+                            "OUTPUT: JSON with entries array containing objects with index, seconds, and sound_or_silence_description"
                         )
                     },
                     {
@@ -260,29 +239,39 @@ OUTPUT: JSON object with
         return sfx_entries
     
     def validate_sfx_entries(self, original_entries: List[Dict[str, Any]], sfx_entries: List[Dict[str, Any]]) -> bool:
-        """Validate segmented SFX entries against original per-line durations"""
+        """Validate that each input line produces exactly one output segment"""
         if not sfx_entries:
             print("❌ No SFX entries returned")
             return False
+        
         n = len(original_entries)
-        sums = {i: 0.0 for i in range(n)}
-        for seg in sfx_entries:
+        
+        # Check that we have exactly one segment per input line
+        if len(sfx_entries) != n:
+            print(f"❌ Segment count mismatch: expected {n} segments, got {len(sfx_entries)}")
+            return False
+        
+        # Validate each segment
+        for i, seg in enumerate(sfx_entries):
             idx = seg.get('index')
             sec = seg.get('seconds')
+            
             if idx is None or idx < 0 or idx >= n:
                 print(f"❌ Invalid index in segment: {seg}")
                 return False
             if sec is None or sec < 0:
                 print(f"❌ Invalid seconds in segment: {seg}")
                 return False
-            sums[idx] += sec
-        for i, orig in enumerate(original_entries):
-            if abs(sums[i] - orig['seconds']) > 0.02:
-                print(f"❌ Line {i} duration mismatch: expected {orig['seconds']:.3f}s, got {sums[i]:.3f}s")
+            
+            # Check that duration matches the original
+            orig_seconds = original_entries[idx]['seconds']
+            if abs(sec - orig_seconds) > 0.02:
+                print(f"❌ Line {idx} duration mismatch: expected {orig_seconds:.3f}s, got {sec:.3f}s")
                 return False
+        
         total_original = sum(e['seconds'] for e in original_entries)
         total_sfx = sum(seg['seconds'] for seg in sfx_entries)
-        print(f"✅ Validation passed: {len(sfx_entries)} segments, {total_sfx:.3f}s total (expected {total_original:.3f}s)")
+        print(f"✅ Validation passed: {len(sfx_entries)} segments (1:1 mapping), {total_sfx:.3f}s total")
         return True
     
     def save_sfx_to_file(self, all_sfx_entries: List[Dict[str, Any]]) -> None:
