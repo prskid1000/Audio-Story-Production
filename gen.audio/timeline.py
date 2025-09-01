@@ -76,17 +76,19 @@ class TimelineSFXGenerator:
 TASK: Convert each line into one or more natural SFX segments.
 
 CONSTRAINTS:
-- Alignment: All audio for line i stays within its time span. The primary cue starts at t=0 of that span. Do not shift across lines.
-- For each line i, segment seconds must sum to SECONDS[i] exactly.
-- If the cue is shorter, pad the remainder with fitting ambience or "Silence" to fill exactly SECONDS[i].
-- Use the fewest natural segments; keep action durations realistic.
-- Relevance: Add only sounds that aid storytelling or clarify cues. Replace trivial/incidental noises even if their objects are present with plausible alternatives; do not fill every possible sound.
-- Source discipline: Only use sounds of objects/entities present in CONTENT. Do not invent new sources.
-- Prominence: Sounds explicitly mentioned in CONTENT are foreground (loud, distinct, clear). Sounds only implied by present objects are background (faint, muffled, low).
-- No speech or lyrics; environment/object sounds only.
-- Each sound_or_silence_description (may be "Silence") is ≤ 12 words, concrete, present-tense; include salient qualities when helpful (pitch, timbre, frequency, resonance).
-- Use the {self.chunk_size}-line context to choose plausible ambience; Prefer "Silence" over other ambience.
-- Output JSON only (no markdown or extra text).
+- Alignment: Keep each line's audio inside its time window. Start the main cue at t=0. Do not move audio to other lines.
+- Timing: For line i, segment seconds must total SECONDS[i].
+- Padding: If the cue is shorter, fill the rest with fitting ambience or "Silence" to reach SECONDS[i].
+- Segments: Use as few natural segments as possible; keep durations realistic.
+- Relevance: Add only sounds that help the story or clarify cues. Skip trivial/incidental noises; do not fill every gap.
+- Sources: Use only sounds from objects/entities in CONTENT. Do not invent new ones.
+- Prominence: Mentioned sounds are foreground (loud, clear). Implied sounds are background (soft, muffled, low).
+- No voice: No speech or lyrics; only environment/object sounds.
+- Comfort: Avoid shrill, piercing, screeching, buzzy, metallic scraping, distorted/clipping, or tinnitus-like sounds. Prefer soft, warm timbres, smooth transitions, and moderate levels.
+- Descriptions: Each sound_or_silence_description (can be "Silence") is 12 words or fewer, concrete, present tense; include key qualities when helpful (pitch, timbre, frequency, resonance).
+- Specificity: Avoid vague/generic or mood-only terms (e.g., "ambient noise", "whoosh", "rumble", "music", "background noise", "SFX", "effect", "various sounds"). Always name the concrete source and action; include 1–2 acoustic qualities. If unsure or off-context, use "Silence".
+- Context: Use the {self.chunk_size}-line context to choose "Silence" over other ambience.
+- Output: JSON only (no markdown or extra text).
 
 SECONDS (ordered): {seconds_json}
 
@@ -143,6 +145,10 @@ OUTPUT: JSON object with
                         "content": (
                             "You are a precise SFX timeline generator. "
                             "Return only a strict JSON object matching the schema. "
+                            "Favor ear-friendly, non-harsh sounds; avoid piercing, shrill, or distorted noise. "
+                            "Use concrete, specific sources and actions with 1–2 acoustic qualities (e.g., material, timbre, pitch). "
+                            "Never use vague or generic labels like ambient, whoosh, rumble, background noise, music, SFX, effects, or various sounds. "
+                            "If a specific, context-grounded sound is unclear, output 'Silence'. "
                             "No extra text."
                         )
                     },
