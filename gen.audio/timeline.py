@@ -6,7 +6,7 @@ import re
 from typing import List, Dict, Any
 
 class TimelineSFXGenerator:
-    def __init__(self, lm_studio_url="http://localhost:1234/v1", chunk_size=12, model="qwen/qwen3-14b", use_json_schema=True):
+    def __init__(self, lm_studio_url="http://localhost:1234/v1", chunk_size=64, model="qwen/qwen3-14b", use_json_schema=True):
         self.lm_studio_url = lm_studio_url
         self.chunk_size = chunk_size
         self.output_file = "sfx.txt"
@@ -73,22 +73,19 @@ class TimelineSFXGenerator:
 
 {content}
 
-TASK: Convert each line into one or more natural SFX segments.
+TASK: You are generating sound prompts for the Stable Audio Model. Convert each line into one or more natural sound-silence segments.
 
 CONSTRAINTS:
-- Alignment: Keep each line's audio inside its time window. Start the main cue at t=0. Do not move audio to other lines.
-- Timing: For line i, segment seconds must total SECONDS[i].
-- Padding: If the cue is shorter, fill the rest with fitting ambience or "Silence" to reach SECONDS[i].
-- Segments: Use as few natural segments as possible; keep durations realistic.
-- Relevance: Add only sounds that help the story or clarify cues. Skip trivial/incidental noises; do not fill every gap.
-- Sources: Use only sounds from objects/entities in CONTENT. Do not invent new ones.
-- Prominence: Mentioned sounds are foreground (loud, clear). Implied sounds are background (soft, muffled, low).
+- Context: Analyze the entire CONTENT first; make each segment serve the narrative.
+- Relevance: Include only sounds that clarify context or key cues; omit trivial/incidental noise.
+- Alignment: Keep each line's audio inside its time window; start the main cue at t=0; never move audio across lines.
+- Sources: Use only sounds grounded in the objects/actions in CONTENT; invent nothing.
 - No voice: No speech or lyrics; only environment/object sounds.
-- Comfort: Avoid shrill, piercing, screeching, buzzy, metallic scraping, distorted/clipping, or tinnitus-like sounds. Prefer soft, warm timbres, smooth transitions, and moderate levels.
-- Descriptions: Each sound_or_silence_description (can be "Silence") is 12 words or fewer, concrete, present tense; include key qualities when helpful (pitch, timbre, frequency, resonance).
-- Specificity: Avoid vague/generic or mood-only terms (e.g., "ambient noise", "whoosh", "rumble", "music", "background noise", "SFX", "effect", "various sounds"). Always name the concrete source and action; include 1–2 acoustic qualities. If unsure or off-context, use "Silence".
-- Context: Use the {self.chunk_size}-line context to choose "Silence" over other ambience.
-- Output: JSON only (no markdown or extra text).
+- Descriptions: Each sound_or_silence_description (or "Silence") is 12 words or fewer, concrete, present tense; include key qualities when helpful (pitch, timbre, frequency, resonance).
+- Timing: For line i, segment seconds must sum to SECONDS[i].
+- Padding: If shorter than SECONDS[i], use "Silence" to reach time. Only extend with a specific, context-grounded continuous sound when explicitly present in CONTENT.
+- Segments: Use the fewest natural segments; keep durations realistic; transitions should feel natural.
+- Output: JSON only (no markdown, code blocks, or extra text).
 
 SECONDS (ordered): {seconds_json}
 

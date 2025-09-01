@@ -1,334 +1,150 @@
-1.8: Gentle winter wind, soft atmospheric background, low frequency hum
-1.2: Silence
-1.2: Subtle fireplace crackling, warm ambient tone, medium pitch flames
-1.0: Silence
-1.44: Footsteps on wooden stairs, distinct creaking boards, moderate volume
-1.2: Silence
-0.98: Door opening slowly, wooden hinges creaking, soft mechanical sound
-1.26: Silence
-1.47: Paper rustling gently, soft crinkling texture, light handling sounds
-1.0: Silence
-1.24: Chair settling, wooden furniture groaning softly, low pitch creaks
-1.26: Silence
-1.11: Pipe lighting, brief flame flicker, soft tobacco ignition sound
-1.0: Silence
-1.47: Gentle snow falling against windows, soft tapping, delicate impacts
-1.2: Silence
-1.26: Clock ticking steadily, precise mechanical rhythm, medium frequency beats
-1.0: Silence
-1.55: Coat fabric rustling, soft textile movement, gentle swishing sounds
-1.2: Silence
-1.3: Fire logs shifting, soft wood settling, warm crackling adjustments
-1.0: Silence
-1.49: Street sounds faint, distant London atmosphere, muffled urban background
-1.2: Silence
-1.24: Gloves being removed, leather stretching softly, quiet fabric handling
-1.0: Silence
-1.33: Hat being placed down, soft impact on mantle surface
-1.14: Silence
-2.3: Gentle room ambiance, subtle air movement, warm interior atmosphere
-1.0: Silence
-1.5: Object being lifted delicately, soft handling, gentle movement sound
-1.0: Silence
-1.59: Fingers examining texture, soft rubbing, tactile exploration sounds
-1.2: Silence
-1.62: Fabric being stretched, soft material tension, gentle strain sounds
-1.0: Silence
-1.46: Book pages turning, soft paper rustling, quiet literary sounds
-1.2: Silence
-1.37: Pen scratching on paper, light writing sounds, soft ink strokes
-1.0: Silence
-1.71: Fire popping softly, occasional wood sparks, gentle combustion sounds
-1.2: Silence
-0.78: Brief laugh, soft human expression, warm chuckling tone
-1.2: Silence
-1.42: Footsteps approaching door, wooden floor creaking, steady pace
-1.0: Silence
-1.66: Door handle turning, metal clicking softly, mechanical engagement sound
-1.2: Silence
-1.47: Heavy object being carried, muffled burden, steady transport sound
-1.0: Silence
-1.17: Paper being unwrapped, crinkling material, soft unveiling sounds
-1.2: Silence
-1.06: Small case opening, hinge clicking, delicate mechanism sound
-1.0: Silence
-1.1: Leather case creaking, soft material flexing, gentle opening sound
-1.2: Silence
-1.16: Object being revealed, soft unveiling, gentle presentation sound
-1.0: Silence
-1.13: Gasp of surprise, sharp intake, sudden realization sound
-1.2: Silence
-1.3: Jewel catching light, crystalline glinting, bright reflective sound
-1.0: Silence
-0.65: Sharp exclamation, brief vocal burst, surprised expression
-1.2: Silence
-1.3: Window being approached, footsteps on floor, movement toward light
-1.0: Silence
-1.12: Sunlight refracting, bright prismatic effect, crystalline brilliance sound
-1.2: Silence
-1.86: Multiple light reflections, dancing sparkles, jewel facets gleaming
-1.0: Silence
-1.31: Paper rustling urgently, excited handling, quick movement sounds
-1.2: Silence
-1.31: Chair creaking as someone rises, wooden joints groaning, sudden movement
-1.0: Silence
-1.38: Footsteps pacing, wooden floor rhythmic impacts, deliberate walking
-1.2: Silence
-1.33: Jewel being handled carefully, delicate object manipulation, precious stone
-1.0: Silence
-1.39: Person standing abruptly, chair pushing back, sudden motion sound
-1.2: Silence
-1.38: Coat being donned quickly, fabric rustling, urgent dressing sounds
-1.0: Silence
-1.51: Door opening decisively, wooden hinges swinging, confident movement
-1.2: Silence
-1.93: Footsteps descending stairs rapidly, wooden steps creaking, hurried descent
-1.0: Silence
-1.97: Street door opening to cold air, wind rushing in, winter atmosphere
-1.2: Silence
-2.27: Footsteps on snow-covered pavement, crunching impacts, winter walking
-1.0: Silence
-0.54: Brief pause in movement, momentary stillness, hesitation sound
-1.2: Silence
-2.33: Continued footsteps through snow, rhythmic crunching, steady winter progress
-1.0: Silence
-1.5: Building door opening, entrance sound, transitioning from street
-1.2: Silence
-1.33: Warm interior ambiance, fire crackling, cozy pub atmosphere
-1.0: Silence
-0.45: Ale being poured, liquid flowing, tavern serving sound
-1.2: Silence
-1.17: Tavern chatter background, muffled conversations, social pub atmosphere
-1.2: Silence
-1.38: Footsteps on tavern floor, wooden boards, confident approach
-1.0: Silence
-1.31: Bar surface being tapped, wooden counter, attention-getting sound
-1.2: Silence
-1.23: Glass being set down, liquid container, soft impact
-1.0: Silence
-1.98: Multiple conversations overlapping, busy tavern ambiance, social background
-1.2: Silence
-1.3: Door opening and closing, tavern exit, transition sound
-1.0: Silence
-2.6: Footsteps on snowy street again, winter walking, return journey
-1.2: Silence
-2.17: Street sounds distant, London atmosphere, urban winter background
-1.0: Silence
-1.2: Building entrance, door opening, returning inside
-1.2: Silence
-1.75: Paper being handled, document preparation, writing materials
-1.0: Silence
-1.23: Pen on paper, writing sounds, inscription being made
-1.2: Silence
-1.78: Fire crackling steadily, warm room atmosphere, comfortable interior
-1.0: Silence
-1.46: Time passing quietly, peaceful waiting, ambient room sounds
-1.2: Silence
-1.55: Clock chiming softly, time marker, gentle bell tones
-1.0: Silence
-1.61: Evening settling, quiet atmospheric change, day ending ambiance
-1.2: Silence
-1.55: Lamp being lit, flame ignition, warm light sound
-1.0: Silence
-1.83: Footsteps on stairs approaching, wooden steps, visitor ascending
-1.2: Silence
-1.07: Timid doorbell ring, soft chiming, hesitant visitor sound
-1.0: Silence
-0.71: Chair being pushed back quickly, sudden movement, alert response
-1.2: Silence
-1.8: Multiple footsteps, people moving, gathering in room
-1.0: Silence
-1.22: Door opening carefully, slow entrance, cautious movement
-1.2: Silence
-1.37: Coat being removed, fabric rustling, guest preparing
-1.0: Silence
-0.58: Brief throat clearing, polite attention sound, preparation to speak
-1.2: Silence
-1.25: Chair being offered, furniture moving, hospitality sounds
-1.0: Silence
-1.27: Person settling into chair, weight distribution, seating sounds
-1.2: Silence
-1.31: Object being retrieved, hat handling, item presentation
-1.0: Silence
-1.97: Gentle explanation sounds, soft discussion atmosphere, polite exchange
-1.2: Silence
-1.24: Paper rustling, document handling, administrative sounds
-1.0: Silence
-1.32: Person rising from chair, furniture movement, departure preparation
-1.2: Silence
-1.22: Footsteps departing, wooden floor, guest leaving
-1.2: Silence
-1.1: Door closing gently, polite farewell, soft closure
-1.0: Silence
-1.08: Coat rustling again, preparation for departure, fabric movement
-1.2: Silence
-1.12: Street door opening, cold air entering, winter night
-1.0: Silence
-2.13: Footsteps on frosty pavement, winter walking, night journey
-1.2: Silence
-1.18: Wind picking up, winter atmosphere intensifying, cold gusts
-1.0: Silence
-1.44: Market sounds fading in, distant commerce, approaching destination
-1.2: Silence
-1.51: Multiple voices, market chatter, busy commercial atmosphere
-1.0: Silence
-1.22: Footsteps on cobblestones, harder surface, market approach
-1.2: Silence
-1.37: Poultry sounds faint, birds clucking softly, market stall atmosphere
-1.0: Silence
-1.25: Stall activity, goods being arranged, vendor preparation sounds
-1.2: Silence
-1.03: Person approaching stall, footsteps on market ground, customer arrival
-1.0: Silence
-1.32: Heavy breathing, exertion sounds, person working physically
-1.2: Silence
-1.12: Market tools being used, implements handling, trade activity
-1.0: Silence
-1.41: Coins jingling softly, monetary transaction, payment sounds
-1.2: Silence
-1.14: Money being pocketed, coins settling, transaction completion
-1.2: Silence
-1.39: Market departure, footsteps leaving, moving away from stall
-1.0: Silence
-1.13: Street transition, changing acoustic, leaving market area
-1.2: Silence
-2.57: Cab wheels on cobblestones, horse hooves, carriage journey beginning
-1.2: Silence
-1.08: Carriage door opening, vehicle entry, transportation sound
-1.0: Silence
-3.89: Steady carriage movement, rhythmic wheels, extended journey through city
-1.2: Silence
-1.34: Carriage slowing, wheels decelerating, approaching destination
-1.0: Silence
-1.01: Carriage door opening, exit sound, arrival at location
-1.2: Silence
-2.08: Footsteps on different surface, approach to building, destination reached
-1.0: Silence
-1.34: House door knocking, wooden impacts, seeking entry
-1.2: Silence
-1.01: Door opening slightly, cautious response, resident answering
-1.0: Silence
-1.34: Brief exchange at door, muffled conversation, outdoor discussion
-1.2: Silence
-1.01: Door closing again, entrance denied, return to street
-1.0: Silence
-2.09: Return journey footsteps, disappointed retreat, walking back
-1.2: Silence
-1.25: Street sounds resuming, urban atmosphere, continued investigation
-1.0: Silence
-1.42: Building entry, familiar door opening, returning home
-1.2: Silence
-1.23: Footsteps on stairs, ascending to residence, homeward movement
-1.0: Silence
-1.41: Door to sitting room, comfortable return, domestic entry
-1.2: Silence
-1.37: Footsteps of agitated person, nervous pacing, anxious movement
-1.0: Silence
-1.01: Sharp intake of breath, surprise sound, sudden realization
-1.2: Silence
-1.73: Person moving restlessly, chair shifting, emotional agitation
-1.0: Silence
-1.62: Heavy breathing, distressed person, emotional tension sound
-1.2: Silence
-1.56: Hands trembling, nervous fidgeting, anxiety manifestation
-1.0: Silence
-1.68: Chair being sat in heavily, collapsing into seat, exhausted movement
-1.2: Silence
-1.01: Brief sob, emotional release, human distress sound
-1.0: Silence
-1.51: Fire crackling continues, room atmosphere, background warmth
-1.2: Silence
-1.44: Person composing themselves, settling down, emotional control
-1.0: Silence
-2.01: Quiet breathing, calming down, tension reducing gradually
-1.2: Silence
-1.23: Slight movement, person adjusting, getting comfortable
-1.0: Silence
-1.95: Peaceful room ambiance, settled atmosphere, quiet comfort
-1.2: Silence
-1.19: Person shifting uncomfortably, nervous energy, restless movement
-1.2: Silence
-1.07: Deep sigh, emotional release, weary exhalation
-1.0: Silence
-2.16: Quiet confession atmosphere, intimate discussion setting, serious tone
-1.2: Silence
-1.09: Hand gesture, movement in air, explanatory motion
-1.0: Silence
-1.32: Person leaning forward, chair creaking, engaged posture
-1.2: Silence
-1.08: Brief pause in movement, contemplative stillness, thinking moment
-1.0: Silence
-1.61: Continued nervous energy, fidgeting sounds, anxiety persisting
-1.2: Silence
-1.46: Fire popping occasionally, room ambiance, comfortable background
-1.0: Silence
-1.09: Person standing suddenly, chair moving, abrupt action
-1.2: Silence
-1.82: Pacing footsteps, nervous walking, agitated movement pattern
-1.0: Silence
-1.18: Hands wringing together, nervous gesture, anxiety manifestation
-1.2: Silence
-0.51: Brief emotional outburst, distressed sound, human anguish
-1.2: Silence
-1.38: Person sitting down again, furniture movement, settling back
-1.0: Silence
-1.84: Quiet sobbing, muffled crying, emotional breakdown
-1.2: Silence
-1.56: Gradual calming, breathing steadying, emotional recovery beginning
-1.0: Silence
-1.27: Fire crackling steadily, peaceful room atmosphere, comforting background
-1.2: Silence
-1.79: Person composing themselves, settling into calm, emotional stabilization
-1.0: Silence
-1.87: Chair creaking as person rises, decisive movement, resolution forming
-1.2: Silence
-1.56: Footsteps moving purposefully, determined walking, action beginning
-1.0: Silence
-1.74: Door handle being grasped, decisive action, departure preparation
-1.2: Silence
-1.85: Door opening with finality, departure sound, leaving behind
-1.0: Silence
-1.79: Footsteps fading on stairs, descending rapidly, urgent exit
-1.2: Silence
-1.5: Street door opening, cold air rushing, escape to winter
-1.0: Silence
-2.25: Running footsteps on pavement, desperate flight, escaping sounds
-1.2: Silence
-1.83: Footsteps fading into distance, person disappearing, sound diminishing
-1.0: Silence
-2.3: Quiet street atmosphere returning, peaceful winter night, stillness resuming
-1.2: Silence
-2.14: Gentle wind through trees, soft atmospheric sound, night ambiance
-1.0: Silence
-1.91: Fire continuing to crackle, warm room maintained, comfort persisting
-1.2: Silence
-3.17: Peaceful evening settling, quiet contemplation atmosphere, serene conclusion
-1.0: Silence
-1.6: Coat being removed slowly, fabric rustling, settling in
-1.2: Silence
-1.59: Chair being drawn closer, furniture movement, getting comfortable
-1.0: Silence
-1.51: Pipe being prepared, tobacco handling, evening ritual
-1.2: Silence
-1.33: Match striking, flame ignition, lighting ceremony
-1.0: Silence
-2.16: Gentle puffing sounds, pipe smoking, relaxation beginning
-1.2: Silence
-1.48: Pages being turned, book opening, reading preparation
-1.0: Silence
-1.5: Fire settling, logs adjusting, warm continuation
-1.2: Silence
-1.07: Clock chiming distance, time passing, evening progression
+23.78: Silence
+3.78: Faint snowfall settling on cobblestones, soft crunch underfoot
+3.12: Low fog rolling over lamplight, muffled street sounds
+65.9: Silence
+6.73: Soft rustle of old paper pages turning with dry friction and faint crackling
+4.85: Dull thud of a heavy book closing with slightly warped cover
+3.66: Muffled slap of felt fabric against wooden surface with slight bounce
+4.97: Silence
+4.61: Faint clatter of metal object falling on stone floor with soft rebound
+5.86: Low hum of distant conversation in background, muffled through thick walls
+7.86: Soft brush of fabric against leather with slight squeak from worn brim
+9.19: Crinkle of aged paper lining rubbing against coarse fabric with dry friction
+4.37: Faint creak of wooden chair shifting under weight, then settling
+2.34: Silence
+6.2: Soft rustle of fabric being smoothed with deliberate, hesitant motions
+4.12: Muffled tap of fingers against worn leather surface with slight echo
+6.97: Silence
+4.27: Leather hat loop creaking softly, faint rustle of fabric
+3.76: Silence
+3.75: Faint brim brushing against surface, soft friction of aged fabric
+3.02: Subtle hair oil scent, faint slickness on fingertips
+3.33: Clothes folding sound, soft crease of fabric being smoothed
+3.13: Stale oil: muted, low-pitched dryness on fabric
+2.45: Silence
+7.22: Distant muffled voices, faint clatter of household items
+125.32: Silence
+3.38: Glass refracting winter sunlight, shards of light scattering across room
+5.56: Silence
+3.23: Soft rustle of paper being unfolded, faint crackle of newsprint
+10.53: Silence
+4.3: Faint clinking of glass, low hum of resonance
+3.94: Silence
+8.16: Soft honk of goose, feathers rustling near fireplace
+125.13: Silence
+5.79: Clothing fabric rustling, soft and brief
+6.13: Gemstone clinking against ceramic surface, sharp but muffled
+98.39: Silence
+2.98: A goose's crop being filled with grain; soft rustle of feathers, low grumble of digestion
+2.14: Silence
+2.98: A man's footsteps on cobbled street; distant laughter echoing faintly
+2.52: Silence
+1.72: Soft chuckle; faint clink of glassware in background
+1.38: Silence
+1.57: Fabric brushing against skin; zipper sliding down coat
+3.22: Silence
+1.55: Snow crunching underfoot; distant wind rustling trees
+4.57: Silence
+2.56: A clock's ticking; soft rustle of paper pages turning
+9.48: Silence
+3.23: heavy greatcoat fabric rustling, low resonance
+7.9: Silence
+3.12: firelight crackling, warm timbre
+51.54: Silence
+4.48: Snow crunching underfoot, faint crackle of distant fire
+3.59: Silence
+6.25: Paper rustling, soft thud of inkwell on desk
+28.2: Silence
+5.67: Paper rustling, quiet tearing of newspaper
+6.98: Silence
+4.88: Doorbell chime, soft and muffled
+2.13: Wooden chair creaking, sudden shift of weight
+5.4: Fishhook tugging gently on line, water ripple
+3.66: Cloth fabric rustling, heavy footsteps on wooden floor
+341.02: Silence
+3.28: Soft rustle of fabric as Holmes smiles, faint creak of chair
+1.74: Silence
+3.13: Faint honk of goose, distant rustle of paper
+3.17: Crinkle of newspaper pages turning, soft thud of book closing
+3.8: Distant clink of hotel key ring, muffled echo in hallway
+4.23: Soft click of hotel door handle, faint hum of elevator
+2.15: Faint sniffing noise, soft rustle of fabric
+2.4: Silence
+3.96: Low murmur of conversation, faint clink of glass
+2.45: Soft footstep on wooden floor, distant whisper of wind
+18.17: Silence
+3.24: Snow swirling around a horse-drawn cab, soft swish of snowflakes against the carriage roof
+13.12: Silence
+5.25: A man's heavy breathing, low and labored, muffled by a handkerchief
+50.88: Silence
+5.08: Crunch of goose bones underfoot, low-pitched, muffled
+21.07: Silence
+2.04: Soft, low-frequency tremor from a body staggering
+10.22: Silence
+7.17: Distant, muffled sound of a net being pulled tight, low resonance
+47.43: Silence
+1.88: Chair creaking gently as someone sits down, low wooden resonance
+5.28: Fire crackling softly in a hearth, embers popping occasionally, warm ambient warmth
+1.93: Silence
+1.48: Chair fabric rustle as someone collapses into it, soft fabric shift
+2.17: Fabric of chair creaking under weight, muffled by hands pressed against face
+41.24: Silence
+1.64: Soft rustle of fabric as a hand moves to pocket an object
+8.61: Silence
+4.52: Distant muffled clanging of metal bars, low and resonant
 4.87: Silence
-1.61: Wind outside windows, winter night sounds, atmospheric background
-1.0: Silence
-1.78: Snow tapping gently on glass, delicate winter percussion
-1.2: Silence
-2.34: City sounds very distant, London night atmosphere, urban quietude
-1.0: Silence
-1.9: Fire burning lower, gentle crackling, evening winding down
-1.2: Silence
-2.25: Comfortable evening silence, peaceful conclusion, restful atmosphere
-1.0: Silence
-3.11: Final peaceful ambiance, winter night settling, story ending
-15.49: Silence
+3.28: Furtive scraping of fingers against a surface, hesitant and quiet
+3.84: Silence
+2.72: geese honking, low-pitched, distant
+1.74: Silence
+4.32: bird's crop opening, soft fabric tearing
+14.84: Silence
+4.62: tag snapping, plastic on fabric
+8.47: Silence
+2.36: geese honking, high-pitched, frantic
+7.26: Silence
+1.86: Soft, muffled sobs echoing in a small room
+1.51: Silence
+2.01: Faint rustling of fabric as hands wring repeatedly
+1.83: Low, trembling voice murmuring in a distant corner
+1.74: Silence
+1.84: Soft clinking of a pendant against fabric
+1.38: Silence
+3.4: Muffled sobbing fading into distant footsteps approaching
+1.56: Silence
+4.01: Distant, soft rustling of fabric and faint echoing of a sigh
+9.29: Silence
+6.14: Distant prison clanging, low resonance, muffled
+6.54: Silence
+6.76: Distant prison clanging, low resonance, muffled
+11.0: Silence
+5.64: Distant fire crackle, low rumble of wind through trees
+2.93: Silence
+2.75: Soft wooden creaks, muffled footsteps on stone floor
+4.81: Fire crackle, faint sobbing breaths, occasional twig snap underfoot
+3.89: Silence
+3.58: Fire crackle, distant church bell chime
+3.37: Silence
+2.21: Soft fabric rustle, faint metallic clink of glass
+2.47: Fire crackle, low wooden creaks
+39.19: Silence
+5.86: Soft, muffled sobbing from a man in distress
+136.02: Silence
+4.78: Fabric rustling as dressing gown is cast aside; soft padding of a wool coat being pulled on
+8.96: Silence
+6.22: Wooden chair creaking slightly as someone sits down; low, distant crackling of a fire
+23.78: Silence
+1.91: Soft rustle of paper being unfolded; faint echo in a small room
+3.66: Lampshade adjusting as light shifts across a table; subtle click of a match struck
+5.01: Silence
+4.93: Wooden floorboards creaking underfoot; distant, muffled laughter
+3.61: Page turning in a book; soft rustle of paper
+4.04: Silence
+2.18: Glass clinking as a tumbler is set down; faint hiss of steam from a teakettle
+12.56: Silence
+3.07: Church bell chimes, deep resonant tones, mellow timbre
+4.38: Silence
+3.57: Frosted glass panes, faint creak of wooden carriage wheels on snow, distant foghorn hum
+5.0: Fire crackling, embers popping, soft glow of gas lamps through frosted glass
+3.45: Jewel clinking on wooden table, soft thud as it's placed into a leather case
+149.11: Silence
