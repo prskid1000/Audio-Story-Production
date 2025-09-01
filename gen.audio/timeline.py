@@ -115,18 +115,17 @@ class TimelineSFXGenerator:
                 "messages": [
                     {
                         "role": "system",
-                        "content": (
-                            "You are an SFX generator for the Stable Audio Model. Convert each timeline line into exactly one sound or silence line.\n\n"
-                            "RULES:\n"
-                            "- Each input line produces exactly one output line of same duration\n"
-                            "- Use only sounds grounded in the content; invent nothing\n"
-                            "- No speech, lyrics, or vocal sounds\n"
-                            "- Keep descriptions under 12 words, concrete and present tense\n"
-                            "- If no clear sound is present, use 'Silence'\n"
-                            "- Avoid vague terms like 'ambient', 'whoosh', 'rumble', 'background noise'\n"
-                            "- Return only JSON matching the schema\n\n"
-                            "OUTPUT: JSON with entries array containing objects with index, seconds, and sound_or_silence_description"
-                        )
+                        "content": 
+"""You are an SFX(Sound or Silence) generator for Sound Generating AI Models.
+
+RULES:
+- Each transcript line produces exactly one Sound or one Silence line of exact same duration. Sum of all the durations should be exactly the same as the duration of the transcript line.
+- Keep descriptions under 12 words, concrete, specific, unambiguous, descriptive(pitch, amplitude, timbre, sonance, frequency, etc.) and present tense.
+- If no clear Sound related words or an important Action/Object that is producing sound is present in the transcript line, use 'Silence'; invent nothing yourself.
+- No speech, lyrics, music, or vocal sounds. May include sounds like atmosphere/ambience deduced from the transcript line.
+- Return only JSON matching the schema.
+
+OUTPUT: JSON with entries array containing objects with index, seconds, and sound_or_silence_description"""
                     },
                     {
                         "role": "user",
@@ -316,38 +315,58 @@ class TimelineSFXGenerator:
             # Create prompt for this chunk
             prompt = self.create_prompt_for_chunk(chunk)
             
-            # Call LM Studio API
-            try:
-                response = self.call_lm_studio_api(prompt, expected_count=len(chunk))
-                
-                # Parse SFX response
-                sfx_entries = self.parse_sfx_response(response)
-                
-                # Validate the response
-                if not self.validate_sfx_entries(chunk, sfx_entries):
-                    print(f"❌ Validation failed for chunk {i+1}")
-                    return False
-                
-                # Add to all entries
-                all_sfx_entries.extend(sfx_entries)
-                
-                # Live preview for this chunk in duration:text format
-                print("📝 Chunk output (duration:text):", flush=True)
-                for seg in sfx_entries:
-                    try:
-                        print(f"{seg['seconds']}: {seg['sound_or_silence_description']}", flush=True)
-                    except Exception:
-                        continue
-
-                print(f"✅ Chunk {i+1} processed successfully")
-                
-                # Small delay between API calls
-                if i < len(chunks) - 1:
-                    time.sleep(1)
+            # Retry logic for API calls and validation
+            max_retries = 3
+            chunk_processed = False
+            
+            for attempt in range(max_retries):
+                try:
+                    if attempt > 0:
+                        print(f"🔄 Retry attempt {attempt + 1}/{max_retries} for chunk {i+1}")
+                        time.sleep(2)  # Wait a bit before retrying
                     
-            except Exception as e:
-                print(f"❌ Error processing chunk {i+1}: {str(e)}")
+                    # Call LM Studio API
+                    response = self.call_lm_studio_api(prompt, expected_count=len(chunk))
+                    
+                    # Parse SFX response
+                    sfx_entries = self.parse_sfx_response(response)
+                    
+                    # Validate the response
+                    if not self.validate_sfx_entries(chunk, sfx_entries):
+                        print(f"❌ Validation failed for chunk {i+1} (attempt {attempt + 1})")
+                        if attempt == max_retries - 1:
+                            print(f"❌ All {max_retries} attempts failed for chunk {i+1}")
+                            return False
+                        continue
+                    
+                    # Add to all entries
+                    all_sfx_entries.extend(sfx_entries)
+                    
+                    # Live preview for this chunk in duration:text format
+                    print("📝 Chunk output (duration:text):", flush=True)
+                    for seg in sfx_entries:
+                        try:
+                            print(f"{seg['seconds']}: {seg['sound_or_silence_description']}", flush=True)
+                        except Exception:
+                            continue
+
+                    print(f"✅ Chunk {i+1} processed successfully")
+                    chunk_processed = True
+                    break
+                    
+                except Exception as e:
+                    print(f"❌ Error processing chunk {i+1} (attempt {attempt + 1}): {str(e)}")
+                    if attempt == max_retries - 1:
+                        print(f"❌ All {max_retries} attempts failed for chunk {i+1}")
+                        return False
+            
+            if not chunk_processed:
+                print(f"❌ Failed to process chunk {i+1} after {max_retries} attempts")
                 return False
+            
+            # Small delay between API calls
+            if i < len(chunks) - 1:
+                time.sleep(1)
         
         # Save all SFX entries to file
         try:
