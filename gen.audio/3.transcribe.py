@@ -225,7 +225,7 @@ def main():
     """Main function to transcribe story.wav and generate three output files"""
     start_time = time.time()
     
-    audio_file = "story.wav"
+    audio_file = "output/story.wav"
     srt_file = "story.srt"
     text_file = "story.str.txt"
     timeline_file = "timeline.txt"

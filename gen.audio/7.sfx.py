@@ -105,14 +105,16 @@ class DirectTimelineProcessor:
                 except Exception as e:
                     print(f"Warning: Could not remove {file}: {e}")
         
-        # Clear any SFX output files in current directory
-        for file in os.listdir('.'):
-            if file == 'sfx.wav':
-                try:
-                    os.remove(file)
-                    print(f"Removed: {file}")
-                except Exception as e:
-                    print(f"Warning: Could not remove {file}: {e}")
+        # Clear any SFX output files in output directory
+        output_dir = 'output'
+        if os.path.exists(output_dir):
+            for file in os.listdir(output_dir):
+                if file == 'sfx.wav':
+                    try:
+                        os.remove(os.path.join(output_dir, file))
+                        print(f"Removed: {os.path.join(output_dir, file)}")
+                    except Exception as e:
+                        print(f"Warning: Could not remove {file}: {e}")
         
         # Clear any order details files
         for file in os.listdir('.'):
@@ -135,7 +137,7 @@ class DirectTimelineProcessor:
     
     def load_sfx_workflow(self):
         """Load SFX workflow from JSON"""
-        with open('sfx.json', 'r') as f:
+        with open('workflow/sfx.json', 'r') as f:
             return json.load(f)
     
     def find_node_by_type(self, workflow, node_type):
@@ -302,12 +304,12 @@ class DirectTimelineProcessor:
                 print(f"❌ Error loading {file_info['file']}: {e}")
                 continue
         
-        # Always save as sfx.wav
-        final_audio.export("sfx.wav", format="wav")
-        print(f"🎵 Final audio saved as: sfx.wav")
+        # Always save as sfx.wav in output folder
+        final_audio.export("output/sfx.wav", format="wav")
+        print(f"🎵 Final audio saved as: output/sfx.wav")
         print(f"📊 Total duration: {current_time:.3f} seconds")
         
-        return "sfx.wav"
+        return "output/sfx.wav"
     
 
     

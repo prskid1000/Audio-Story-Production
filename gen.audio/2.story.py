@@ -5,14 +5,13 @@ import os
 import shutil
 import re
 from pathlib import Path
-from character import CharacterManager
 from pydub import AudioSegment
 
 class StoryProcessor:
     def __init__(self, comfyui_url="http://127.0.0.1:8188/"):
         self.comfyui_url = comfyui_url
         self.output_folder = "../ComfyUI/output/audio"
-        self.final_output = "story.wav"
+        self.final_output = "output/story.wav"
         
         # Clear the final output file if it exists
         if os.path.exists(self.final_output):
@@ -21,7 +20,7 @@ class StoryProcessor:
     
     def load_story_workflow(self):
         """Load the story workflow from JSON"""
-        with open('story.json', 'r') as f:
+        with open('workflow/story.json', 'r') as f:
             return json.load(f)
     
     def find_node_by_type(self, workflow, node_type):
