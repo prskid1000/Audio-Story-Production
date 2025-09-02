@@ -33,7 +33,7 @@ def handle_initial_gap(segment, continuous_segments, current_time):
         return current_time
     
     initial_gap = segment["start"]
-    if initial_gap < 2.0:  # Extend first segment
+    if initial_gap <= 1.0:  # Extend first segment
         segment["start"] -= initial_gap
         print(f"Adjusted first segment start by -{initial_gap:.3f}s to fill initial gap")
         return current_time
@@ -53,8 +53,8 @@ def handle_segment_gap(segment, previous_segment, continuous_segments, current_t
     if gap <= 0.1:
         return current_time
     
-    if gap < 2.0:  # Extend adjacent segments
-        extension = gap / 2.0
+    if gap <= 1.0:  # Extend adjacent segments
+        extension = gap / 1.0
         if continuous_segments:
             continuous_segments[-1]["end"] += extension
             current_time += extension
