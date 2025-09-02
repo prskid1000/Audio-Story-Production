@@ -15,10 +15,10 @@ def format_timestamp(seconds):
 def get_silence_text(duration):
     """
     Generate silence text with dots based on duration.
-    Add 1 dot for every 2 seconds of silence.
+    Add 1 dot for every 1 second of silence for clean readability.
     """
-    # Calculate number of dots: 1 dot per 2 seconds, minimum 1 dot
-    num_dots = max(1, math.ceil(duration / 2.0))
+    # Calculate number of dots: 1 dot per second, minimum 1 dot
+    num_dots = max(1, math.ceil(duration))
     
     # Build the silence text using a for loop
     silence_text = ""
@@ -27,117 +27,88 @@ def get_silence_text(duration):
     
     return silence_text
 
-def handle_initial_gap(segment, continuous_segments, current_time):
-    """Handle gap before the first segment"""
-    if segment["start"] <= 0.1:
-        return current_time
-    
-    initial_gap = segment["start"]
-    if initial_gap <= 1.0:  # Extend first segment
-        segment["start"] -= initial_gap
-        print(f"Adjusted first segment start by -{initial_gap:.3f}s to fill initial gap")
-        return current_time
-    else:  # Add silence
-        silence_text = get_silence_text(initial_gap)
-        continuous_segments.append({
-            "start": current_time,
-            "end": current_time + initial_gap,
-            "text": silence_text
-        })
-        print(f"Added initial silence: {initial_gap:.3f}s ({silence_text})")
-        return current_time + initial_gap
 
-def handle_segment_gap(segment, previous_segment, continuous_segments, current_time):
-    """Handle gap between segments"""
-    gap = segment["start"] - previous_segment["end"]
-    if gap <= 0.1:
-        return current_time
-    
-    if gap <= 1.0:  # Extend adjacent segments
-        extension = gap / 1.0
-        if continuous_segments:
-            continuous_segments[-1]["end"] += extension
-            current_time += extension
-            print(f"Extended previous segment by {extension:.3f}s to fill gap")
-        
-        segment["start"] -= extension
-        print(f"Adjusted current segment start by -{extension:.3f}s")
-        return current_time
-    else:  # Add silence
-        silence_text = get_silence_text(gap)
-        continuous_segments.append({
-            "start": current_time,
-            "end": current_time + gap,
-            "text": silence_text
-        })
-        print(f"Added silence gap: {gap:.3f}s at {previous_segment['end']:.3f}s ({silence_text})")
-        return current_time + gap
-
-def add_segment(segment, continuous_segments, current_time):
-    """Add a segment to the continuous timeline"""
-    segment_duration = segment["end"] - segment["start"]
-    continuous_segments.append({
-        "start": current_time,
-        "end": current_time + segment_duration,
-        "text": segment["text"]
-    })
-    return current_time + segment_duration
-
-def add_final_silence(continuous_segments, current_time, target_duration):
-    """Add final silence to reach target duration"""
-    final_silence = target_duration - current_time
-    if final_silence > 0.1:
-        silence_text = get_silence_text(final_silence)
-        continuous_segments.append({
-            "start": current_time,
-            "end": target_duration,
-            "text": silence_text
-        })
-        print(f"Added final silence: {final_silence:.3f}s ({silence_text})")
-
-
-
-def post_process_segments(segments, target_duration=1978.68):
+def post_process_segments(segments, audio_file_path):
     """
     Post-process segments to make timeline continuous by adding silent segments.
-    Creates a continuous timeline with [SILENCE] markers for gaps.
-    For gaps less than 2s, extends adjacent segments to make them continuous.
+    Creates a continuous timeline while preserving original segment timing.
+    Only silence gaps are inserted, segments keep their original start/end times.
     """
     if not segments:
         return segments
     
-    # Calculate current total duration
-    current_duration = segments[-1]["end"] - segments[0]["start"]
+    # Always get actual audio file duration
+    import wave
+    with wave.open(audio_file_path, 'rb') as w:
+        frames = w.getnframes()
+        rate = w.getframerate()
+        target_duration = frames / float(rate)
+    
+    print(f"Using actual audio file duration as target: {target_duration:.6f}s")
+    
+    # Calculate current total duration from segments
+    current_duration = segments[-1]["end"]
     missing_duration = target_duration - current_duration
     
-    print(f"Current duration: {current_duration:.3f}s")
-    print(f"Target duration: {target_duration:.3f}s")
-    print(f"Missing duration: {missing_duration:.3f}s")
-    
-    if missing_duration <= 0:
-        print("No missing duration to add")
-        return segments
+    print(f"Current duration: {current_duration:.6f}s")
+    print(f"Target duration: {target_duration:.6f}s")
+    print(f"Missing duration: {missing_duration:.6f}s")
     
     # Create new continuous timeline
     continuous_segments = []
-    current_time = 0.0
     
+    # First, handle initial gap if first segment doesn't start at 0
+    if segments[0]["start"] > 0.000001:  # Microsecond precision (1 μs)
+        initial_gap = segments[0]["start"]
+        silence_text = get_silence_text(initial_gap)
+        continuous_segments.append({
+            "start": 0.0,
+            "end": initial_gap,
+            "text": silence_text
+        })
+        print(f"Added initial silence: {initial_gap:.6f}s ({silence_text})")
+    
+    # Process all segments and fill gaps
     for i, segment in enumerate(segments):
-        # Handle gaps before segments
-        if i == 0:
-            current_time = handle_initial_gap(segment, continuous_segments, current_time)
-        else:
-            current_time = handle_segment_gap(segment, segments[i-1], continuous_segments, current_time)
+        # Handle gap between this segment and previous
+        if i > 0:
+            gap = segment["start"] - segments[i-1]["end"]
+            if gap > 0.000001:  # Microsecond precision (1 μs)
+                if gap <= 1.0:  # Small gap: extend adjacent segments
+                    extension = gap / 2.0
+                    continuous_segments[-1]["end"] += extension
+                    segment["start"] -= extension
+                    print(f"Extended segments to fill {gap:.6f}s gap")
+                else:  # Large gap: add silence segment
+                    silence_text = get_silence_text(gap)
+                    continuous_segments.append({
+                        "start": segments[i-1]["end"],  # Original end time of previous segment
+                        "end": segment["start"],        # Original start time of current segment
+                        "text": silence_text
+                    })
+                    print(f"Added silence gap: {gap:.6f}s ({silence_text})")
         
-        # Add the actual segment
-        current_time = add_segment(segment, continuous_segments, current_time)
+        # Add the actual segment with ORIGINAL timing (preserves audio sync)
+        continuous_segments.append({
+            "start": segment["start"],  # Keep original start time
+            "end": segment["end"],      # Keep original end time
+            "text": segment["text"]
+        })
     
-    # Add final silence if needed
-    add_final_silence(continuous_segments, current_time, target_duration)
+    # Add final silence to reach target duration
+    final_silence = target_duration - segments[-1]["end"]
+    if final_silence > 0.000001:  # Microsecond precision (1 μs)
+        silence_text = get_silence_text(final_silence)
+        continuous_segments.append({
+            "start": segments[-1]["end"],  # Original end time of last segment
+            "end": target_duration,
+            "text": silence_text
+        })
+        print(f"Added final silence: {final_silence:.6f}s ({silence_text})")
     
     # Verify final duration
-    final_duration = continuous_segments[-1]["end"] - continuous_segments[0]["start"]
-    print(f"Final continuous duration: {final_duration:.3f}s")
+    final_duration = continuous_segments[-1]["end"]
+    print(f"Final continuous duration: {final_duration:.6f}s")
     print(f"Total segments (including silence): {len(continuous_segments)}")
     
     return continuous_segments
@@ -169,7 +140,7 @@ def generate_files(segments, srt_file, text_file, timeline_file):
         duration = segment["end"] - segment["start"]
         total_duration += duration
         text = re.sub(r'\s+', ' ', segment["text"].strip())
-        timeline_content += f"{duration:.3f}: {text}\n"
+        timeline_content += f"{duration:.6f}: {text}\n"
     
     # Write files
     with open(srt_file, 'w', encoding='utf-8') as f:
@@ -201,7 +172,7 @@ def transcribe_audio(audio_path, srt_file, text_file, timeline_file, model_name=
             compression_ratio_threshold=1.0,
             logprob_threshold=-0.5,
             condition_on_previous_text=False,
-            no_speech_threshold=0.1
+            no_speech_threshold=0.01
         )
         
         segment_count = len(result['segments'])
@@ -209,7 +180,7 @@ def transcribe_audio(audio_path, srt_file, text_file, timeline_file, model_name=
         
         # Post-process segments to make timeline continuous
         print("\nPost-processing segments...")
-        processed_segments = post_process_segments(result["segments"])
+        processed_segments = post_process_segments(result["segments"], audio_file_path=audio_path)
         
         # Generate all files
         total_duration = generate_files(processed_segments, srt_file, text_file, timeline_file)
