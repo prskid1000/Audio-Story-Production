@@ -120,6 +120,7 @@ RULES:
 - Keep descriptions under 12 words, concrete, specific, unambiguous, descriptive(pitch, amplitude, timbre, sonance, frequency, etc.) and present tense.
 - If no clear Sound related words or an important Action/Object that is producing or can produce sound is present in the transcript line, use 'Silence'; invent nothing yourself.
 - No speech, lyrics, music, or vocal sounds. May include sounds like atmosphere/ambience deduced from the transcript line.
+- You must output only sound experiences, ignore all other sensory experiences like visual, touch, smell, taste, etc.
 - Return only JSON matching the schema.
 
 OUTPUT: JSON with entries array containing objects with index, seconds, and sound_or_silence_description"""
