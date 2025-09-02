@@ -1,163 +1,197 @@
-[male_narrator] It is an oft-forgotten truth that the most singular of my friend’s adventures did not always arrive upon his desk by telegram or through some noble client at the door. Frequently they entered our lives by the oddest of chances, like trifles dropped in the gutter which to ordinary eyes would seem beneath consideration. It was one such trifle, in the form of a goose and an old hat, that ushered in the affair of the Blue Carbuncle.
-[male_narrator] The morning was bitterly cold. Snow lay upon the streets of London, and the fog of December clung to the lamps like a shroud. I had determined, after a quiet breakfast at my Kensington lodging, to call upon my old companion and wish him the compliments of the season. I confess, too, that I had a desire to see what strange humour possessed him, for when Sherlock Holmes passed his time in idleness, he was a sore trial to himself and to his friends.
-[male_narrator] Arriving at Baker Street, I found him, as so often before, lounging in his dressing-gown, with a pipe curling blue smoke above his head and eyes fixed in contemplative absorption upon some object of study. But what object! Not the lens and retort of chemistry, nor the revolver which he cleaned with military precision, but a broken old hat, weather-stained and battered beyond polite use. Beside it, most curiously, lay a large Christmas goose upon a tray.
-[male_watson] “My dear Holmes,” said I, placing my gloves upon the mantel, “what mischief is this? I had thought to find you deep in monograph or experiment, yet you sit gazing at a hat as though it were the crown of England!”
-[male_holmes] “Not mischief, Watson—knowledge,” replied he, lifting the object with a delicate forefinger. “To your unpractised eye it is but an old felt hat. To mine, it is a record of its owner’s character, habits, fortune, and misfortune. Every crease tells a story, every stain is a word upon a page. It is, if you like, a novel written in felt.”
-[male_watson] I laughed. “Come, Holmes, you cannot pretend you can deduce more than that some poor fellow has lost both supper and headgear upon a frosty night!”
-[male_holmes] “On the contrary,” he said, with that quiet confidence I had come to know so well. “This hat is full of suggestion. Observe the size, Watson—large, very large. Its owner is a man of considerable brain. And yet see the discoloured lining, the frayed edges. He has fallen on evil days, though once of good station. There is dust here, but no polish. He does not brush it as once he did, yet he tries to maintain appearances. A moral man, striving against adversity.”
-[male_watson] “Really, Holmes, this is too much! You speak as though you had lived a year with the fellow.”
-[male_holmes] “It is elementary. Note again: the hat has a loop for securing a strap, but the strap is missing. Careless. Yet the brim is not torn, so he is not a man of violence. There are the faintest traces of hair oil—he has tried to dress respectably for some occasion, though not lately, for the oil is stale. His wife no longer attends to him, else she would keep him better groomed. Hence, domestic separation. From all this, I picture a once-prosperous man fallen into hard times, self-respecting still, but slackening under misfortune.”
-[male_watson] “Holmes, you astound me. If all this be true, the man is half revealed to us already! But what of the goose? Surely that cannot speak.”
-[male_holmes] “The goose speaks less clearly, but speaks nonetheless,” Holmes said, touching its breast. “It was fattened in the country and sent up to town for the holiday. Our friend Peterson, the commissioner, acquired both bird and hat last night when some roughs set upon the fellow in Tottenham Court Road. The man defended himself, dropped his goose, lost his hat, and fled. Peterson, being honest, brought both here.”
-[male_watson] “Very commendable of him. Yet hardly the stuff of an investigation worthy of your talents.”
-[male_holmes] Holmes leaned back, pipe smoke wreathed about his sharp profile. “My dear Watson, you miss the sport! Here we have a fragment of a life, and from it we may reconstruct the whole. Even if the case leads us no further than the kitchen, it will amuse my powers of deduction.”
-[male_narrator] He chuckled, and I could not but join in his humour, though I felt that my friend was wasting himself upon trifles. Still, I had learnt never to doubt his instinct, for more than once had an apparently trivial circumstance unfolded into the gravest of crimes.
-[male_narrator] We were yet speaking when the door opened and Peterson himself appeared—a stout, honest fellow, his face aglow with excitement. He carried under his arm the very goose which had lain upon the tray, but now gutted and plucked.
-[male_peterson] “Beg pardon, Mr. Holmes, but look here, sir! When my wife was cleaning the goose for roasting, she found this inside the crop.”
-[male_narrator] From his pocket he drew a small leather case, and from the case a glittering stone of such deep blue that it seemed to hold the light of heaven within its facets. Even I, no expert in gems, could not mistake its worth. Holmes uttered a cry of satisfaction, and held the jewel up to the window where the winter sunlight broke it into a thousand fires.
-[male_holmes] “By the Lord, Peterson! You have stumbled upon the adventure of the season. This is the Blue Carbuncle itself!”
-[male_watson] “The Blue Carbuncle?” I exclaimed. “Surely not the very gem which was stolen from the Countess of Morcar’s hotel suite last week? It was in every paper!”
-[male_holmes] “The same, Watson. The most precious stone in Europe, valued at more than two thousand pounds. A gem with a history written in blood and lust. And now, mirabile dictu, it turns up inside the crop of a Christmas goose left upon my hearth!”
-[male_peterson] “What are we to do, sir? It is no trifle to hold such a treasure.”
-[male_holmes] “Do, my good fellow? We shall restore it to its rightful owner. But the question—the delicious question—is how it passed from a lady’s jewel-case into the stomach of your goose. That is the chain of reasoning which we must now unravel.”
-[male_watson] “Holmes,” said I, “at last I see the worth of your hat and goose. This promises to be a case indeed.”
-[male_holmes] Holmes’s eyes gleamed. “Yes, Watson, a case worthy of our best efforts. The adventure of the Blue Carbuncle has begun.”
-[male_narrator] And so, from a frosty street fight, a broken hat, and an ordinary goose, there opened before us a tale as strange as any in the chronicles of Baker Street.
-[male_narrator] The sight of that remarkable stone glittering upon Holmes’s palm changed the whole complexion of the affair. What had seemed a trivial curiosity—the battered hat, the abandoned goose—was suddenly revealed as the key to a crime which had shaken all of London. I confess my heart quickened. For though I am a man of medicine, not prone to superstition, it felt as though Fate herself had placed the Blue Carbuncle in our very rooms, demanding explanation.
-[male_narrator] Holmes rose from his chair with the air of a general setting troops upon the march. He paced before the fire, the jewel still twinkling between finger and thumb, while Peterson stood dumbfounded.
-[male_holmes] “Peterson, you have acted with admirable honesty. You will take this stone at once to Scotland Yard, and hand it over with a statement of how it came into your possession. But stay—you shall first leave the goose. It is no longer of service to me, and your family shall enjoy it for supper. As for the hat, I shall keep it for the present.”
-[male_peterson] “Very good, sir. But what of the man who dropped them? Ought we not to advertise?”
-[male_holmes] “Patience, my good fellow. We shall trace the true owner soon enough. Leave that part to me.”
-[male_narrator] Peterson bowed and withdrew, clutching the goose, his expression a mixture of bewilderment and pride. When the door had closed, Holmes tossed the gem lightly into the air and caught it again with the dexterity of a juggler.
-[male_holmes] “There lies our problem, Watson. How did the Blue Carbuncle find its way from the Countess of Morcar’s jewel-case into the throat of a Christmas goose? It was stolen, you recall, from her hotel suite at the Cosmopolitan. A plumber named John Horner was arrested on suspicion, for he had been working in the room. But the case against him is weak, resting chiefly on the word of the Countess’s maid. The gem was not found in his possession. He lies now in gaol, protesting innocence.”
-[male_watson] “Then the matter is not so settled as the papers would have us believe?”
-[male_holmes] “Far from it. Horner is an ill-starred creature, with a record for petty theft, yet I cannot believe he engineered so daring a robbery. No, Watson, the truth is subtler, as always. We must follow the trail of the goose. For, mark you, the bird is not a common fowl, but one brought specially from a club—the Alpha Inn, to be precise. Peterson’s man heard the fellow who lost it say so during the scuffle.”
-[male_watson] “The Alpha Inn! Then by tracing the supply of geese to that establishment, we may reach the mysterious owner?”
-[male_holmes] “Precisely. You see the game, Watson. From the Alpha we trace the supplier, from the supplier the breeder, until at last we reach the source. And somewhere along that path we shall meet the man who placed a priceless stone into the crop of a Christmas goose. That, my dear friend, is a man I intend to know.”
-[male_narrator] I could not restrain a laugh of admiration at the audacity of the plan. Holmes, with his usual energy, donned his coat and muffler.
-[male_watson] “Holmes, surely you do not mean to set forth immediately? The streets are thick with snow, and you have not yet breakfasted.”
-[male_holmes] “My breakfast can wait. Adventure is the best stimulant. Come, Watson, your company is essential. I have always said you are the whetstone upon which I sharpen my deductions.”
-[male_narrator] Flattered, I wrapped myself in my own heavy greatcoat, and we sallied forth into the biting wind.
-[male_narrator] The Alpha Inn stood in Bloomsbury, a respectable public-house frequented by tradesmen and clerks. Within, it was warm with firelight and the smell of ale. Behind the bar stood a portly landlord, who regarded Holmes with surprise as he strode in with his usual directness.
-[male_holmes] “You supply geese to your members at this season?”
-[male_landlord] “That’s right, sir. Each man may take his bird for Christmas.”
-[male_holmes] “Excellent. Could you oblige me by telling me to whom this particular goose belonged?”
-[male_landlord] “Well now, that would be Mr. Henry Baker. Tall gentleman, thin, red nose, wore a tattered hat. He took his goose, but from what I hear, lost it in a scuffle outside. A shame, too.”
-[male_holmes] “Indeed? And do you have Mr. Baker’s address?”
-[male_landlord] “I’m afraid not. He’s but a casual member. But he’ll be back, no doubt, for his ale. Why do you ask?”
-[male_holmes] “Merely to restore his property. Thank you, my good sir. You have rendered me a service.”
-[male_narrator] Back upon the snowy street, Holmes’s eyes gleamed with triumph.
-[male_holmes] “You perceive, Watson, we now hold the thread. The hat, the goose, the landlord’s description—all point to one Henry Baker. We must advertise his discovery in the evening papers. Should he present himself, we shall test the truth of my deductions.”
-[male_watson] “But if he be innocent, Holmes, what danger to him in coming forward?”
-[male_holmes] “None whatever. If guilty, he will never appear. That, too, will tell us much. Either way, we advance.”
-[male_narrator] Thus resolved, we returned to Baker Street, where Holmes composed a notice for the evening editions, offering that the finder of a lost goose and hat might recover them by applying to 221B.
-[male_narrator] The day passed in anxious expectation. I confess I spent the hours in speculation, turning over Holmes’s deductions in my mind. Evening fell, lamps were lit, and at last a timid ring echoed upon the stair. Holmes sprang to his feet.
-[male_holmes] “Our fish bites, Watson! Let us see what manner of man Henry Baker may be.”
-[male_narrator] In shuffled a tall, thin fellow, his nose red from drink, his clothes threadbare yet respectable. He bowed with nervous dignity.
-[male_baker] “Good evening, gentlemen. I believe you have advertised concerning a goose and a hat? I am the unfortunate owner.”
-[male_holmes] “Pray be seated, Mr. Baker. Here is your hat, somewhat the worse for its adventures. And as for the goose, I regret to say it has already been consumed.”
-[male_baker] “Eaten, sir? Then what remains for me?”
-[male_holmes] “Fear not. We are men of honour. Permit me to offer you another bird of equal weight and quality.”
-[male_baker] “Why, sir, you overwhelm me. I thank you most sincerely.”
-[male_holmes] “One question only: did you purchase the goose yourself?”
-[male_baker] “No, sir. It was given through the Alpha Inn. Each year they distribute geese among members, and this was mine. Beyond that, I know nothing.”
-[male_holmes] “I see. Then you are satisfied?”
-[male_baker] “Entirely. You have been most generous.”
-[male_narrator] With another bow, the poor fellow departed, bearing his replacement goose under his arm. Holmes watched him go with an expression of keen amusement.
-[male_watson] “Then he is innocent?”
-[male_holmes] “Clearly. He knew nothing of the jewel. His gratitude was genuine. The carbuncle passed through his hands by accident. Our task now is to trace it further back—to the supplier of the Alpha’s geese.”
-[male_narrator] Holmes consulted his notes, then seized hat and coat once more.
-[male_holmes] “Come, Watson. The chase grows hot. We must find this supplier, or the Blue Carbuncle may vanish once more into the shadows of London.”
-[male_narrator] And so, into the frosty night we plunged again, little knowing that the path of the goose would lead us deeper into the dens of crime than either of us expected.
-[male_narrator] If Part One of this adventure was remarkable for its trifling beginnings, and Part Two for its sudden leap into significance, then Part Three may be said to contain the very marrow of pursuit. For here we followed the trail of the goose, step by step, through the labyrinthine commerce of London, until we came face to face with the heart of the riddle.
-[male_narrator] After dismissing poor Henry Baker, Holmes wasted no time. His eyes glittered with that peculiar excitement which I had seen only when the game was afoot. He took down his notebook, scribbled the name of the Alpha Inn’s supplier, and declared our next port of call.
-[male_holmes] “The Alpha Inn received their geese from one Breckinridge, a poulterer in Covent Garden. A man of brusque manner but extensive trade. If the birds did not originate with him, he can direct us further. Come, Watson, there is not an hour to be lost.”
-[male_watson] “Holmes, you drive us like sleuth-hounds. But do you truly expect a poulterer to recall the source of a single goose amidst so many?”
-[male_holmes] “You forget, my dear fellow, that this is not any goose but one of a particular batch, fattened for the holiday trade. In such cases the chain of custody is short and distinct. It is a matter of following the thread backward until it reaches the spindle.”
-[male_narrator] We set off at once, and soon the rattle of hansom wheels carried us into the heart of Covent Garden. The market was alive with cries of traders, the smell of straw and poultry, and the chatter of buyers haggling beneath the flickering gas lamps. Amidst the din stood Breckinridge’s stall, piled high with birds and game, the man himself a red-faced fellow with sleeves rolled high.
-[male_holmes] “Good evening, Mr. Breckinridge. I understand you supplied geese to the Alpha Inn.”
-[male_breckinridge] “That’s right, sir. What of it? If it’s a complaint about the quality, you’ll find none better in the market.”
-[male_holmes] “No complaint, but curiosity. Could you inform me from whom you purchased those geese?”
-[male_breckinridge] “Now look here, sir. That’s my business. Do you take me for a gossiping old woman? I sell to whom I please, and from whom I please, and I’ll not be pestered by busybodies.”
-[male_watson] “Come, my good man, it is of no consequence to you. My friend only wishes to trace a bird to its source.”
-[male_breckinridge] “Then he may trace it elsewhere, for I’ll not tell him a word. I’ve had enough of inquisitive fellows sniffing about my geese all day. First a tall chap in a flat cap, now you two. What’s in those birds, eh? Gold sovereigns?”
-[male_holmes] “Something of greater value, perhaps,” said Holmes softly.
-[male_narrator] But Breckinridge folded his arms obstinately, and no amount of persuasion would loosen his tongue. Holmes regarded him with a twinkle, then suddenly proposed a wager on the weight of one of the birds. The poulterer, whose pride was touched, entered eagerly into the bet. Holmes lost intentionally, paying the man a sovereign. This act mollified him considerably.
-[male_holmes] “Now, Breckinridge,” said Holmes, pocketing his empty purse, “I have been fairly beaten, and I hold no grudge. But tell me: who has been asking you questions about those geese?”
-[male_breckinridge] “A rough fellow, name of Ryder. Works at the Hotel Cosmopolitan. He came prying about not two hours ago, wanting to know who bought a certain bird. When I wouldn’t say, he grew hot under the collar. That’s all I know, and enough too.”
-[male_holmes] “Ryder, you say? Excellent. And these geese—where did you obtain them originally?”
-[male_breckinridge] “From a dealer named Mrs. Oakshott, down by Brixton. She rears birds, and I take her stock every year.”
-[male_holmes] “You have been most helpful, Mr. Breckinridge. I thank you for your candour.”
-[male_narrator] We withdrew, Holmes smiling at my bewildered expression.
-[male_watson] “Holmes, who is this Ryder? And what interest can a hotel commissionaire have in geese?”
-[male_holmes] “My dear Watson, you forget your newspapers. Ryder is head attendant at the Cosmopolitan—the very hotel where the Blue Carbuncle was stolen! If he is sniffing after geese, I should wager a month’s pension he knows more of the jewel than he has yet confessed.”
-[male_watson] “Then we are closing upon our quarry?”
-[male_holmes] “Step by step. From the Alpha to Breckinridge, from Breckinridge to Oakshott, from Oakshott to Ryder. The line tightens like a snare. Come, Watson, we must see this Mrs. Oakshott at once.”
-[male_narrator] It was a long, cold drive to Brixton, the snow whirling about our cab like a host of phantom riders. When at last we reached the humble dwelling of Mrs. Oakshott, we found the shutters closed and no one within save a maid who informed us that her mistress was absent. Disappointed, Holmes left a note, and we turned back toward Baker Street.
-[male_narrator] We had scarcely arrived, however, when our landlady ushered in a man whose agitation was plain. He was tall, sharp-featured, with restless eyes and trembling hands. Holmes glanced at me, and I saw the spark of recognition leap in his face.
-[male_holmes] “Ah, Mr. Ryder, I believe? You come upon business connected with a goose?”
-[male_ryder] “Yes, sir—yes indeed. I heard you had advertised concerning one. I—I wished to inquire—”
-[male_holmes] “Compose yourself, sir. Be seated. You are head attendant at the Cosmopolitan, I think?”
-[male_ryder] “That’s right, sir.”
-[male_holmes] “And your interest in geese is not entirely professional?”
-[male_ryder] “I—well, it was my sister who bred the birds—Mrs. Oakshott of Brixton. One of them, a fine white goose, came into your hands by chance. I would be most obliged if you could return it to me, for it was not mine to give.”
-[male_holmes] “Alas, my dear Ryder, that goose has already been eaten.”
-[male_ryder] “Eaten? Then all is lost!”
-[male_narrator] His cry was so full of despair that I started from my chair. Holmes, however, remained composed, his eyes fixed like steel upon the trembling man.
-[male_holmes] “Not all, Ryder. The stone you placed within it is safe.”
-[male_narrator] At these words the man leapt from his seat, his face blanched to the colour of ashes, and he staggered as though struck.
-[male_ryder] “The stone—? You know, then—you have it?”
-[male_holmes] “Yes, the Blue Carbuncle is recovered. The only question is—what am I to do with you, James Ryder?”
-[male_narrator] And so the net drew tight, and the mystery of goose and jewel stood revealed in terrible clarity.
-[male_narrator] The trembling figure of James Ryder stood before us, his lips quivering, his gaze darting from Holmes’s calm face to mine as though searching for mercy. The secret of the Blue Carbuncle had been dragged from its hiding-place at last, and we were now to hear the tale of villainy that had so strangely intersected with a Christmas goose.
-[male_holmes] “Compose yourself, Ryder,” Holmes said, with quiet authority. “You are in the presence of friends, if you choose to act wisely. But conceal nothing, for I know too much already.”
-[male_ryder] “You—you know everything, sir?” he stammered.
-[male_holmes] “Enough to hang you, if I chose to hand you over. But it is my practice to hear a man’s own account before judgment. Sit down there, upon the chair by the fire, and tell us truly how the Blue Carbuncle came into your possession.”
-[male_narrator] Ryder collapsed into the chair, burying his face in his hands. His shoulders shook as if he would weep. At length he spoke, in a broken voice.
-[male_ryder] “It was greed, sir, nothing but greed. I had long been tempted by the stone, hearing it was worth thousands. Catherine Cusack, the maid to the Countess, whispered to me that the jewel lay in her mistress’s jewel-case, and that the Countess was careless of her keys. We formed a wicked plan. I was to steal it, and together we would profit. I swear to you, sir, I had never done a thing so bold before.”
-[male_holmes] “Yet you did it, Ryder. Tell us how.”
-[male_ryder] “On the night of the robbery, Horner the plumber was sent to repair the grate in the Countess’s room. Catherine and I contrived it so that suspicion should fall upon him. While he worked, I slipped into the chamber on some pretence, opened the case, and pocketed the stone. Then I raised a cry, Catherine supported me, and the poor fellow was accused. Oh, sir, I never thought it would go so far as prison for him!”
-[male_watson] “You miserable wretch,” I exclaimed. “The man lies now in gaol, his character ruined, all through your villainy!”
-[male_holmes] “Peace, Watson. Let him tell the whole. And what then, Ryder?”
-[male_ryder] “I had the stone, but I feared the police would search me. I knew not where to hide it. In my terror I fled to my sister’s house—Mrs. Oakshott in Brixton. She breeds geese for the market. An idea struck me—mad, desperate! I forced open the crop of one fine bird and thrust the stone inside. I thought to recover it later, when suspicion had abated.”
-[male_holmes] “And thus the goose became the hiding-place of a gem worth a kingdom. Ingenious—yet foolish. Continue.”
-[male_ryder] “I marked the bird with a small tag, so I should know it again. But alas! In the confusion of sending them to Breckinridge’s stall, my goose was mixed with the rest. I begged him, prayed him, threatened him to tell me where it went. He refused. And now—you say it has been eaten—”
-[male_holmes] “Eaten, yes. But not before its secret was discovered. Your clever stratagem betrayed you, Ryder.”
-[male_narrator] At this the man broke into sobs, wringing his hands like a child.
-[male_ryder] “Oh, sir, have pity on me! If I go to prison, it will be my ruin. I shall never hold up my head again. My father would die of shame. Spare me this once, and I swear on my soul I shall never err again!”
-[male_narrator] I confess my own heart softened at the pitiful sight. Here was no hardened criminal, but a weak man driven by temptation, now crumbling beneath its weight. Yet justice, I felt, must be served.
-[male_watson] “Holmes, surely this man deserves the law. What of poor Horner, languishing in gaol?”
-[male_holmes] “Ah, Watson, there you touch the kernel of the matter,” said Holmes gravely. “It is one thing to pity a trembling coward, but another to let an innocent man suffer in his place. Ryder, do you realise that by your falsehood another man stands upon the brink of ruin?”
-[male_ryder] “I know, sir, I know! I shall go to the police, confess all—only do not drag me there like a thief in the night. Give me a chance to make it right!”
-[male_holmes] “Would you indeed confess, if I left you free? Or would you slink away and let Horner rot while you sought safety abroad?”
-[male_ryder] “No, sir! By Heaven, I swear I would confess!”
-[male_narrator] Holmes regarded him long, his face inscrutable. The only sound was the crackle of the fire and Ryder’s stifled sobs. At last Holmes turned to me.
-[male_holmes] “What say you, Watson? Shall we hand him to the law, or trust to his conscience?”
-[male_watson] I hesitated, torn between indignation and pity. “Holmes, he is weak rather than wicked. Yet if we let him go, justice is mocked. Still—I cannot bring myself to demand the gaol for him. Perhaps mercy may do more than punishment in such a case.”
-[male_narrator] Holmes nodded slowly.
-[male_holmes] “So be it. Ryder, you are free. The stone is restored. I shall see that Horner’s case is reconsidered, and the truth revealed in such a manner as to exonerate him without dragging your name before the world. But mark me well—if ever you stray again, I shall not lift a finger to save you.”
-[male_ryder] “Oh, sir, you are an angel! I shall mend my ways—I shall indeed!”
-[male_narrator] With a cry half of gratitude, half of terror, the man fled from the room, leaving us in silence.
-[male_watson] “Holmes, do you think it wise to let him go? What if he offends again?”
-[male_holmes] “I think not, Watson. That trembling creature is not made for a life of crime. Prison would harden him, but freedom may reform him. Besides—” he smiled faintly—“Christmas is a season of forgiveness.”
-[male_narrator] I gazed at him with admiration, as I had done so often before. For all his cold reason, Sherlock Holmes possessed a heart not untouched by human kindness. And so, while the snow still lay upon London’s streets, the adventure of the Blue Carbuncle drew toward its end, leaving me with thoughts upon crime, justice, and mercy which no medical textbook could ever have taught.
-[male_narrator] Thus ended the most curious of cases, brought to us not by client or constable, but by the chance abandonment of a goose and a battered old hat. As Ryder’s footsteps faded upon the stairs, silence fell over the sitting-room of Baker Street. The fire burned low, and the shadows flickered across Holmes’s thoughtful face. I sat opposite him, turning the matter over in my mind.
-[male_watson] “Holmes,” said I at last, “you astonish me. I had thought your duty was always to the law, yet you have let a criminal slip through your fingers.”
-[male_holmes] “Not always to the law, Watson,” he replied, knocking the ash from his pipe. “The law is a blunt instrument, and sometimes justice lies in a gentler hand. Ryder is not a hardened villain but a weak man who stumbled. To send him to gaol would serve neither society nor his soul. He will never forget the terror of this night.”
-[male_watson] “But what of John Horner, the plumber? Will he remain accused?”
-[male_holmes] “I shall see to it that the charge collapses. Without Ryder’s testimony, the case against him cannot stand. The Countess will regain her stone, and the innocent man will go free. That is enough.”
-[male_watson] “Yet the Countess herself will never know how near she came to losing her jewel forever.”
-[male_holmes] “The great public seldom does know how close it comes to disaster, Watson. Our task is not to trumpet our victories but to ensure that truth is served, whether in silence or acclaim.”
-[male_narrator] He rose and stretched, casting aside his dressing-gown for a warmer coat.
-[male_holmes] “Now, my dear fellow, I believe we have earned a glass of hot punch and perhaps a pipe before bed. Let us not allow the affairs of rogues to spoil the remainder of Christmas.”
-[male_narrator] We sat together then, speaking of lighter things, though my mind still lingered upon the strange chain of events which had brought the Blue Carbuncle to our hearth.
-[male_narrator] A scuffle in the street—an honest commissioner—a goose, no more than a bird for roasting—and yet within its breast lay a stone for which men would lie, steal, and ruin their lives. Such, I reflected, is the caprice of fortune, that treasures and tragedies may lie hidden in the most humble of places.
-[male_narrator] Holmes, perceiving my thoughts, smiled across the lamplight.
-[male_holmes] “You see, Watson, why I say there is no such thing as a trifle. Every incident, however small, may be the starting-point of truth. The world is full of sermons in stones and stories in hats and geese, if one only learns to read them.”
-[male_narrator] “You are right, Holmes,” I replied. “Once again you have shown me how the extraordinary hides within the ordinary. I shall never look upon a Christmas goose in quite the same way.”
-[male_holmes] “Nor upon a blue carbuncle, I trust,” he said with a chuckle.
-[male_narrator] Outside, the bells of London chimed the hour. Beyond the frosted panes, the city lay hushed beneath its cloak of snow, carriages muffled, lamps glowing like faint stars in the fog. Within, the fire burned bright, and the strange jewel gleamed once more upon the table before being consigned to the safekeeping of Scotland Yard.
-[male_narrator] Thus was concluded the Adventure of the Blue Carbuncle. It remains in my memory not for the brilliance of Holmes’s deductions—though they were, as ever, remarkable—nor even for the oddity of a priceless stone hidden within a Christmas goose. No, it endures because of the lesson my friend imparted that night: that mercy can be as just as punishment, and that even the keenest of reasoners may temper logic with compassion.
-[male_narrator] In all the years I have known Sherlock Holmes, I have seldom seen him more human than when he dismissed James Ryder with nothing but a warning. And though I protested, in my heart I knew he had chosen the better course.
-[male_narrator] For the season was Christmas, and if ever there was a time when forgiveness should prevail over vengeance, it was then.
-[male_narrator] So ends my account of this singular case, which began in laughter over a battered old hat, and ended with a glittering stone, a trembling thief, and the quiet triumph of mercy in the heart of Sherlock Holmes.
+[male_narrator] It was in the late autumn of 1888 that one of the most singular cases in the long annals of my association with Sherlock Holmes first presented itself. The days had grown short, and the fog of London lay upon the city like a burial shroud. I recall clearly the dim yellow of the gas lamps struggling feebly through the haze, the constant clatter of hansom cabs upon wet cobblestones, and the peculiar air of dread which hung upon us all, though none could say precisely why.
+[male_narrator] At Baker Street, however, the mood was different. Our sitting-room was warmed by a bright coal fire, the familiar scent of pipe smoke thick in the air, and my companion lay sprawled upon the settee, his long thin frame stretched at ease, while his keen grey eyes remained anything but idle. He was studying a slip of paper with such intensity that I wondered if it might combust beneath his gaze.
+[male_watson] "You have been upon that same scrap for nearly an hour, Holmes. What intelligence does it contain that should so rivet you?"
+[male_holmes] "Merely a request for aid, my dear Watson. A request clothed in vagueness, which makes it all the more interesting. The letter purports to come from a certain Colonel Sir Reginald Stanhope, recently returned from colonial service in India. He writes of a family seat in Devonshire, and of a curse said to dwell upon the waterfall near his estate."
+[male_watson] "A curse, Holmes? Surely you cannot lend credence to such superstition."
+[male_holmes] "Superstition is but the refuge of those who have not yet perceived the chain of cause and effect. I do not for an instant accept the existence of curses. Yet I observe with interest the effect of such beliefs upon the human mind, and the human conduct that springs therefrom. Remember, Watson, it is not the legend that kills—it is the man who acts under the influence of the legend."
+[male_narrator] I could not help but smile, for I had heard such pronouncements from him often, and each time they struck me with renewed force. Holmes, it seemed, had a way of stripping away the fog of imagination to reveal the cold bones of reality beneath. Yet as I gazed upon him in that moment, I confess that a shiver passed along my spine. For there was in his voice a certain undertone, as though he sensed already that in this case there would be danger aplenty.
+[male_watson] "And what action do you propose we take?"
+[male_holmes] "Why, we go to Devonshire, of course. The Colonel requests our presence with urgency. His letter bears signs of haste—the ink blot here, the irregular strokes there. He is a man of disciplined habits, no doubt, yet this letter reveals agitation. Something has already occurred which has shaken him from composure."
+[male_watson] "You read all that from a blot of ink?"
+[male_holmes] "From the blot, and from the tremor in the line, and from the very choice of words, my dear fellow. It is all elementary."
+[male_narrator] Thus it was settled. By the following morning we had packed our cases, and with little delay were on the train bound for the west. The journey was long and dreary, the rain streaking upon the carriage windows, while I occupied myself with my medical notes and Holmes with his pipe and silence. Yet I could not shake from my mind the phrase which he had read aloud from the Colonel’s letter—"The curse of the waterfall has claimed another."
+[male_narrator] At Exeter station we were met by the Colonel himself, a tall, spare man of military bearing, with silvered hair and a face deeply lined by both sun and worry. His handshake was firm, yet his eyes betrayed an unrest that no discipline could entirely conceal.
+[male_stanhope] "Mr. Sherlock Holmes, and Dr. Watson—I cannot tell you what a relief it is to see you. You come at a most desperate hour."
+[male_holmes] "We lose no time, Colonel. Tell us, has another death indeed occurred, as your letter implied?"
+[male_stanhope] "Aye. My own steward, Samuel Price. Two nights ago he was found lifeless at the foot of the great waterfall that lies within our estate. And what chills my blood, sir, is that he is the third—three men in as many months, each claimed in the selfsame fashion."
+[male_watson] "You suggest they fell?"
+[male_stanhope] "Some say fell, some say jumped, and the villagers whisper that they were drawn, dragged by a force unseen. They call it the curse of the Stanhope Waterfall. I cannot abide such talk, but I cannot deny the deaths either."
+[male_holmes] "You are wise to reject superstition, Colonel. Yet you are also wise to summon me. We shall look upon this waterfall, and upon the bodies if possible. For the dead, no less than the living, may yield up their secrets to an inquiring eye."
+[male_narrator] The Colonel nodded gravely, and soon we were seated within his carriage, the horses drawing us through the winding Devonshire lanes. The landscape grew wilder as we advanced—great tors of granite rising against the darkening sky, and a moor that stretched desolate and silent save for the wind. At last we came in sight of Stanhope Hall, a vast grey edifice standing grim against the encroaching night, and beyond it, through the mist, I glimpsed the white roar of tumbling water.
+[male_narrator] That night, after a hurried supper in the echoing dining-hall, we were conducted to our chambers. I confess that fatigue weighed heavily upon me, but not so upon Holmes. Long after the household had retired, I found him at the window of our shared room, his silhouette stark against the moonlight, gazing out toward the waterfall.
+[male_watson] "Holmes, will you never sleep? The hour grows late."
+[male_holmes] "Sleep, Watson, is for those who have not a mystery roaring in their ears. Do you not hear it? The voice of that waterfall? Nature herself thundering like an orator, proclaiming some dreadful truth which man has not yet deciphered."
+[male_watson] "To me it is but water tumbling over rocks."
+[male_holmes] "And therein lies the difference between us, my dear fellow. To you, the sound is but sound. To me, it is the overture to a drama. Come the morrow, we shall attend the stage and watch the play unfold."
+[male_narrator] With that, he turned from the window, his keen eyes alight with anticipation, and I knew that whatever dark force haunted this place, Sherlock Holmes had already cast his lot against it.
+[male_narrator] The following day dawned with a sky of iron. Colonel Stanhope led us to the falls, a mile’s walk across sodden fields and into a narrow gorge where the land seemed to close about us like a pair of jaws. There, through the mist and spray, the waterfall revealed itself in its awful grandeur—thundering down from a height of sixty feet into a cauldron of foam below. The very ground trembled with its power.
+[male_watson] "By heavens, Holmes! To stumble upon these rocks would be certain death."
+[male_holmes] "Just so, Watson. And yet, note the path. Though perilous, it is still a path. One does not tumble here by chance, but rather by design—or compulsion."
+[male_narrator] Holmes crouched upon the wet stones, his gaze flitting from mark to mark with an intensity that left me bewildered. He plucked up a broken branch, sniffed it, cast it aside, then examined a scuff upon the rock-face with his lens.
+[male_holmes] "Observe, Watson, the print of a boot. The heel is square, the tread heavy—a laborer’s boot, consistent with that of a steward. Yet see here—another mark overlaying it, a finer sole, narrow, likely that of a lady. And here—the drag of a cane or walking stick. Curious—most curious."
+[male_watson] "You astonish me, Holmes. Are you suggesting that another was with him?"
+[male_holmes] "I suggest nothing. I merely observe. But the conclusion, when it comes, will brook no doubt."
+[male_narrator] At that instant, a sharp cry rang out from behind us. We turned to behold a young woman, pale and trembling, who had approached unobserved. She was clad in a simple gown, her hair disordered, her eyes wide with fear.
+[female_mary] "You must not go nearer! The falls are cursed! Do not tempt fate as the others did!"
+[male_stanhope] "Mary! What are you doing here? Return to the Hall at once!"
+[female_mary] "I cannot, Father. I cannot rest while the curse remains. Each night I dream of it, and each day I feel its pull. Mr. Holmes, you must save us—you must!"
+[male_narrator] Holmes bowed with grave courtesy, yet his eyes shone with that peculiar gleam I had come to recognize—the gleam of discovery hovering just beyond his reach.
+[male_holmes] "Miss Stanhope, I assure you, I shall leave no stone unturned. But I must beg you to tell me all you know. The safety of others may depend upon it."
+[male_narrator] And so, by the thundering roar of the cursed waterfall, the tale began to unravel.
+[male_narrator] The strange apparition of young Miss Mary Stanhope, trembling by the torrent, haunted my thoughts throughout that day. We returned with her and the Colonel to the Hall, the mist closing behind us like the curtain of some grim theatre. Holmes, however, appeared invigorated rather than troubled. I recognized that eager light in his eye which always betokened that he scented a clue.
+[male_watson] "Holmes, what do you make of the girl’s terror? Is she merely afflicted with the common superstition of these parts, or do you suspect she knows more than she dares reveal?"
+[male_holmes] "A very pertinent question, Watson. Observe her manner: agitation genuine, yet her words chosen with curious restraint. She fears the waterfall, but also fears something more immediate. Did you note how her glance shifted toward her father before she spoke?"
+[male_watson] "Indeed, I did. Yet surely you would not suggest that the Colonel himself—"
+[male_holmes] "I suggest nothing as yet. But I record every gesture, every hesitation. One never knows which trifle may illuminate the whole."
+[male_narrator] That evening, after supper, Holmes and I took a stroll through the village which lay a short distance from the Hall. The air was heavy with smoke from peat fires, and the narrow lanes echoed with the gossip of rustic folk who regarded us with a mixture of suspicion and hope. The tale of the waterfall had evidently cast a pall over the community.
+[male_watson] "The people stare at us as though we carried the cure to their plague."
+[male_holmes] "So we may, in a sense. Fear spreads like contagion, and nothing will allay it but reason. Come—let us enter this inn. I perceive from the sign that it is ‘The King’s Arms,’ and such a place is the crucible of village rumor."
+[male_narrator] Within, we found a low-ceilinged chamber, warm with firelight and loud with the murmur of voices. The landlord, a stout man with ruddy cheeks, eyed us with curiosity as we ordered ale and seated ourselves at a corner table. It was not long before a knot of villagers approached, emboldened perhaps by the drink or by our London attire.
+[male_farmer] "Beg pardon, sirs, but you’re from the Hall, ain’t you? Strangers come for the curse, we reckoned."
+[male_holmes] "We come at the invitation of Colonel Stanhope to inquire into the deaths at the waterfall. You call it a curse—pray, tell me why."
+[male_farmer] "’Cause it’s been that way since old Sir William’s day, sir. Long ago, afore the Colonel’s time, Sir William wronged a gypsy woman, drove her from the land with cruel words. She set her spell upon the falls, swore that any man who drew water there would find death. First it was cattle, then shepherds, and now—God help us—it’s back again."
+[male_watson] "Surely you cannot credit such a tale in this century?"
+[male_woman_villager] "Beggin’ your pardon, Doctor, but we’ve seen too many bodies fetched from the pool below. My own brother swore he heard voices in the spray, callin’ him by name. He scarce slept after, till he was found gone."
+[male_holmes] "Voices, you say? Most interesting. And tell me—have these deaths occurred at any particular hour?"
+[male_farmer] "Always at night, sir. Dark of the moon, mostly. Folk say the falls glow then, like silver fire."
+[male_narrator] Holmes’s eyes glittered, though he masked it quickly by sipping his ale.
+[male_holmes] "Gentlemen, madam, I thank you for your candor. Rest assured, I mean to examine every feature of this so-called curse. And I give you my solemn word—if it is the work of mortal hands, those hands shall be uncovered."
+[male_narrator] A murmur of approval and relief ran through the company, though some crossed themselves furtively, as though to ward against meddling with forces unseen. Holmes, however, rose abruptly and beckoned me to follow.
+[male_watson] "You depart so soon? We might have learned more."
+[male_holmes] "We have learned precisely enough. The legend of the gypsy, the voices in the spray, the glow of the water—all fragments of a mosaic which begins to take form. Come, Watson, the night is fine for observation."
+[male_narrator] We quitted the inn and made our way back along the dark lanes to the gorge. The roar of the waterfall greeted us like the growl of some monstrous beast. The moon had risen, casting a pale glow upon the spray, which indeed shimmered with a spectral light.
+[male_watson] "By Jove, Holmes! It does glow—see how the mist catches the moonlight, as though it were silver flames."
+[male_holmes] "A beautiful optical effect, no doubt aided by certain minerals in the rock. Yet beauty often conceals danger. Look there—do you see, upon the far side, a faint glimmer, as of a lantern quickly extinguished?"
+[male_watson] "I see nothing—wait, yes! A flicker only. Someone lurks yonder?"
+[male_holmes] "Indeed. We are not the only night-watchers here. Remain silent, Watson, and crouch low."
+[male_narrator] We hid behind a boulder, scarcely daring to breathe. Minutes passed, and then we perceived a figure moving upon the opposite bank. It paused, lifted something that caught the moonlight—a rod, perhaps, or a length of metal—and seemed to place it into the torrent itself. Then, as suddenly as it had appeared, the figure melted into the darkness.
+[male_watson] "What devilry is this? Holmes, did you see?"
+[male_holmes] "I saw enough to confirm my suspicion. Come, Watson, we must examine that spot at first light. For now, it would be folly to attempt the crossing in darkness."
+[male_narrator] I hardly slept that night, my mind restless with images of spectral lights and shadowy figures by the roaring falls. But Holmes seemed content, stretched upon his bed with the faintest of smiles, as though he had glimpsed already the outline of truth.
+[male_narrator] At dawn we returned to the gorge, and with the Colonel’s permission, descended to the place where the mysterious figure had stood. There Holmes bent with his lens and gave a cry of satisfaction.
+[male_holmes] "See here, Watson! The imprint of boots—not the rough soles of a peasant, but well-made leather, narrow at the toe. And here—scraps of wire, recently cut. The fellow was at work, not in worship."
+[male_watson] "At work—upon what?"
+[male_holmes] "That is the question. But note how these wires lead into the torrent itself. They vanish beneath the spray. Someone has contrived a mechanism in connection with the falls, Watson, and I mean to discover its purpose."
+[male_narrator] Even as he spoke, a voice hailed us from the ridge above. It was Miss Mary, pale with alarm.
+[female_mary] "Mr. Holmes! Father begs your presence at once. There has been another—another death!"
+[male_watson] "Another? Good heavens, who now?"
+[female_mary] "Mr. James Trevor, the curate’s son. He was found at dawn—dashed upon the rocks, just as the others!"
+[male_narrator] Holmes’s jaw set like iron.
+[male_holmes] "Watson, the pace quickens. The hand behind these tragedies grows bolder. We must move with equal speed, lest more lives be claimed."
+[male_narrator] And so, with the roar of the waterfall at our backs and the cries of the villagers rising in dread, we hastened once more toward the Hall, knowing that the heart of the mystery was at last within our grasp.
+[male_narrator] The news of young James Trevor’s death spread through the village like fire through dry brush. By the time Holmes and I reached the Hall, a grim crowd had already gathered about the stables where the body had been laid. Faces pale with horror peered at us, and whispers followed in our wake as though we bore the judgement of fate itself.
+[male_watson] "The poor lad—hardly twenty. To be cut down in such a fashion is monstrous."
+[male_holmes] "Monstrous, yes—but not mysterious, at least not in the supernatural sense. Come, Watson, let us view the body. The dead, as I often remind you, are eloquent witnesses."
+[male_narrator] Within the stable, the curate himself stood bowed with grief, his hands trembling over the form of his son, which lay upon a makeshift bier. Holmes removed his hat solemnly and bent over the body, his keen eyes missing no detail.
+[male_watson] "The skull is fractured—he must have struck the rocks below the falls."
+[male_holmes] "Indeed. But see here—the bruising upon the wrists, the abrasions along the arms. These are not the injuries of a fall alone. No, Watson, this youth struggled against some restraint before he met his end."
+[male_watson] "You mean he was—forced?"
+[male_holmes] "Precisely. He was seized, bound perhaps, and then hurled into the torrent. This was no accident, nor curse, but deliberate murder."
+[male_narrator] A murmur of horror rose among those present. Colonel Stanhope’s face darkened as though with storm.
+[male_stanhope] "Then the fiend walks among us still. Tell me, Mr. Holmes, who is guilty of this outrage? My household shall not rest until justice is done."
+[male_holmes] "Patience, Colonel. The truth hides, but it cannot hide long. We must ask not only who had the strength to commit this act, but who had cause, and who possessed knowledge of the waterfall’s secret paths."
+[male_narrator] Holmes turned his gaze upon the assembled servants—footmen, maids, and grooms—each shrinking back from his piercing eyes. Then he addressed them in a voice as calm as it was commanding.
+[male_holmes] "If any among you knows aught that may bear upon these deaths, speak now. Silence is complicity, and complicity may in the end prove fatal."
+[male_narrator] None spoke, though I detected unease in more than one countenance. At last Holmes straightened, replaced his hat, and motioned me away.
+[male_watson] "You think one of them is complicit?"
+[male_holmes] "I think fear seals many mouths, Watson. But I also think that the heart of this riddle lies not in whispered superstition, but in tangible contrivance. We must return to the falls at once."
+[male_narrator] Once more we braved the gorge, the spray drenching us like rain. Holmes descended with fearless agility, his eyes scanning every inch of the cliff. At a ledge near the water’s edge, he gave a cry of triumph.
+[male_holmes] "Watson, see here—iron rods driven into the rock, concealed by moss and spray. And attached—look!—fine wires trailing into the torrent. This is no natural feature, but an apparatus contrived by human ingenuity."
+[male_watson] "But for what purpose? Surely no man could work machinery beneath such a torrent."
+[male_holmes] "On the contrary, the water itself is the machinery. Observe—these rods, when connected by wire, might serve to channel electricity or to create a resonance. The roar of the falls may be used to mask some artificial sound. Recall the villagers’ tales of voices—"
+[male_watson] "You suggest those voices were produced—engineered?"
+[male_holmes] "Exactly. Imagine a horn or tube concealed in the rocks, conducting sound from some hidden operator. A clever trick to instill terror in simple minds. And terror, my dear Watson, is a potent weapon."
+[male_narrator] I confess I shuddered at the thought. To turn the very power of nature into an instrument of deception was a devilry worthy of the keenest malice.
+[male_watson] "But who would contrive such a scheme? And why?"
+[male_holmes] "That is the next link in the chain. But mark my words—the motive is not phantoms, but property, power, or passion. Always the same three, Watson."
+[male_narrator] As we clambered back to the path, a figure emerged from the trees. It was Miss Mary once more, her face pale, her hands clasped tightly together.
+[female_mary] "Mr. Holmes—Dr. Watson—I beg you, cease your investigations. Already too many have died. If you persist, I fear you too shall be taken."
+[male_holmes] "Miss Stanhope, your concern does you credit. Yet your words betray knowledge beyond mere fear. You know something—confess it."
+[female_mary] "No—I—only that the falls bring doom. I cannot explain more."
+[male_holmes] "Cannot, or will not? Very well, I shall not press you now. But understand this: truth concealed breeds only further tragedy. Consider carefully where your silence may lead."
+[male_narrator] She turned away, tears glimmering in her eyes, and hurried back toward the Hall. Holmes watched her with narrowed gaze.
+[male_watson] "She knows more than she admits, Holmes."
+[male_holmes] "Undoubtedly. She is caught in a net of loyalty and fear. The question is—loyalty to whom? To her father? To another?"
+[male_narrator] That evening Holmes requested permission of Colonel Stanhope to examine the family archives. We were conducted to a gloomy chamber lined with ancient ledgers, parchments, and maps. Holmes set to work with his customary vigor, turning page after page with feverish haste.
+[male_holmes] "Aha! Here, Watson—an old survey of the estate. Note this passage: ‘Subterranean channel connecting the upper stream to the grotto beneath the falls.’ Do you see? There exists a cavern hidden within the cascade itself."
+[male_watson] "A cavern? Then a man might lurk there unseen, and produce the very voices of which the villagers speak."
+[male_holmes] "Precisely. And more—he might even contrive to drag his victims into the torrent, unseen by those above. The perfect lair for a phantom."
+[male_narrator] At that moment a footstep echoed in the corridor beyond. Holmes closed the ledger sharply and motioned me to silence. We waited—only to hear the soft retreat of someone who had paused at the door.
+[male_watson] "Someone was listening!"
+[male_holmes] "Yes—and that someone now knows we are upon the scent. The game quickens, Watson."
+[male_narrator] And quicken it did. For scarcely had we retired to our chamber when a cry rang out from below, followed by the crash of breaking glass. We rushed down to find the library in disarray, the window shattered, and the ledgers we had been studying scattered upon the floor. A lantern lay overturned, its flame narrowly extinguished before it could ignite the papers.
+[male_watson] "An attempt to destroy the evidence!"
+[male_holmes] "More than that—it was meant as a warning. The enemy grows desperate, Watson. But he reveals himself by his very fear."
+[male_narrator] We spent the remainder of that night in uneasy vigil. Holmes paced the floor like a caged panther, his mind working furiously. At last, toward dawn, he halted before me, his eyes alight with the fire of resolution.
+[male_holmes] "Watson, the curtain rises upon the final act. I must inspect the cavern beneath the falls, and I must do so this very night. But it is perilous in the extreme—I shall require your steady hand and your revolver."
+[male_watson] "You may rely upon both, Holmes. Where you go, I go."
+[male_holmes] "I knew I might count upon you, my dear fellow. Then steel yourself, for tonight we enter the very jaws of the so-called curse. And let us see if man’s deceit may withstand the gaze of reason."
+[male_narrator] Thus, with the roar of the waterfall echoing ever in our ears, we prepared ourselves for the descent into darkness.
+[male_narrator] That night the storm broke over Devonshire with a violence seldom seen. The wind rattled shutters and tore at the trees, while the thunder of the falls seemed doubled by the heavens themselves. Yet it was on that wild night that Holmes chose to penetrate the cavern hidden beneath the torrent.
+[male_narrator] Armed with lanterns, ropes, and my revolver, we set out at midnight from the Hall. Colonel Stanhope would have detained us, but Holmes merely bowed and assured him that the honor of his house depended upon swift action. Miss Mary wept silently at the stairhead as we departed, and I confess her pale face haunted me as we strode across the fields.
+[male_watson] "Holmes, do you truly think it wise to attempt this descent in such weather? The torrent will be swollen to madness."
+[male_holmes] "Precisely why we must attempt it tonight, Watson. Our adversary will assume no man dares such a venture in this storm. Secrecy is our ally. Courage, my friend—the truth lies within that roar."
+[male_narrator] Reaching the gorge, we found the waterfall a white fury, its spray lashing us like whips. Holmes tied a stout rope about his waist and secured it to a tree, then handed me the second length.
+[male_holmes] "Follow close, Watson. Keep the lantern high, and whatever happens, do not lose your footing. The path is narrow but sound."
+[male_narrator] Inch by inch we crept along the slippery ledge, the abyss yawning below. At length Holmes pointed to a dark cleft half-hidden by the falling water. With a cry he plunged forward, drawing me after, and in an instant we were within a cavern, the roar of the cascade forming a thunderous curtain at the entrance.
+[male_watson] "By heavens, Holmes—what a place! This grotto might house an army unseen."
+[male_holmes] "And perhaps it has housed one man, which is enough. Look about you, Watson—observe."
+[male_narrator] The lantern light revealed a chamber carved by nature, yet altered by human hand. Iron rods were fixed in the rock, supporting lengths of wire and tubing. At one side lay a crude apparatus of bellows, pipes, and a speaking trumpet, all cunningly arranged to project sound through the waterfall itself.
+[male_watson] "Then it is true—the voices of the falls were but trickery!"
+[male_holmes] "Ingenious trickery, designed to play upon superstition. Observe also these chains and manacles fixed to the wall—tools of coercion. Our murderer lured or dragged his victims here, bound them, and then cast them into the torrent."
+[male_watson] "Fiendish! But to what end?"
+[male_holmes] "Patience, Watson. Motive must soon declare itself. Yet I suspect it lies in the inheritance of the Stanhope estate. Someone profits by the deaths."
+[male_narrator] Even as he spoke, a faint sound reached us above the roar—a scrape of stone, a breath. Holmes extinguished the lantern with a swift motion, plunging us into darkness. We crouched in silence. Presently, a figure entered the cavern from a hidden side passage, bearing a lantern of his own.
+[male_narrator] In its glow we beheld a face twisted with malice—the face of Colonel Stanhope’s steward, Samuel Price, whom we had been told was the first victim.
+[male_watson] "Holmes! He lives!"
+[male_holmes] "Hush, Watson."
+[male_narrator] The man moved to the apparatus, adjusted the tubes, and then spoke into the trumpet. A ghastly wailing issued forth, magnified by the falls, echoing like the voices of the dead.
+[male_steward_price] "Another soul for the torrent! Another offering to the curse!"
+[male_narrator] At this Holmes sprang forward, striking the lantern from the fellow’s hand and seizing him by the collar. I rushed to his aid, and together we bore the struggling wretch to the ground.
+[male_holmes] "So, Samuel Price, the ghost returns to life. Your masquerade is at an end."
+[male_steward_price] "Curse you, Holmes! You meddling devil!"
+[male_holmes] "Spare your curses. Explain rather how you contrived your false death."
+[male_steward_price] "I left my coat and boots at the falls, let the villagers think I’d been taken. Then I had freedom to work unseen. They all feared the curse too much to search closely."
+[male_holmes] "Clever. But your purpose?"
+[male_steward_price] "Purpose? Ha! The Colonel’s estate—lands rich in tin and copper. He would not exploit them, but I knew their worth. With each death the villagers’ terror grew, and soon even Stanhope himself would have fled. The Hall would fall into ruin, the land into my hands—mine!"
+[male_watson] "You madman! You murdered innocents for gain!"
+[male_steward_price] "They were nothing—peasants, a clerk, the curate’s boy. I needed their deaths to keep the legend alive."
+[male_holmes] "And so you cloaked greed in superstition. But you overreached, Price. Had you not slain the boy, suspicion might never have turned upon the living steward."
+[male_narrator] Holmes bound the fellow swiftly with the very chains he had prepared for his victims. We dragged him to the entrance, where the storm had somewhat abated, and by dawn delivered him into the hands of Colonel Stanhope and the village constable.
+[male_stanhope] "Price! My own steward, the man I trusted above all! To think such villainy lurked beneath my roof—"
+[male_holmes] "Do not reproach yourself, Colonel. The most venomous snake often wears the smoothest skin. Yet the truth is laid bare at last."
+[female_mary] "Mr. Holmes—you have freed us! The curse is broken!"
+[male_holmes] "Nay, Miss Stanhope—the curse never was. Only man’s deception, now unmasked. Remember well, superstition is but the veil by which the wicked hide their craft."
+[male_narrator] The villagers rejoiced as though a plague had been lifted. Yet I could not forget the faces of those poor souls whose lives had been sacrificed to Price’s greed. Holmes, however, remained calm, smoking his pipe as we journeyed back toward London.
+[male_watson] "You astonish me, Holmes. From the first, you suspected mortal hands rather than spectral. Yet how could you be certain?"
+[male_holmes] "Because, my dear Watson, nature is consistent. Water falls, rocks endure, winds blow—but when men die by identical means, time after time, then man, not nature, is at work. To assume otherwise is to abandon reason."
+[male_watson] "And the voices, the glow, the supposed curse—all contrived?"
+[male_holmes] "Elementary optical and acoustic effects, Watson, heightened by cunning contrivances. A lantern placed cunningly here, a tube concealed there. Enough to deceive the ignorant, but not, I trust, a student of deduction."
+[male_narrator] Thus ended the mystery of the Cursed Waterfall. Yet though the apparatus was dismantled and the murderer brought to justice, the roar of those falls haunts me still. And whenever I recall the silver spray shining in the moonlight, I see again the tall figure of my friend, striding fearless into peril, armed with nothing but his reason—and conquering even the darkest superstition with the light of truth.
+[male_narrator] It was with immense relief that I found myself once more in the comfort of our lodgings at 221B Baker Street. The crackling of the fire, the rattle of hansom cabs upon Baker Street below, and the aromatic haze of Holmes’s tobacco combined to assure me that the world had resumed its proper order. Yet my thoughts lingered upon Devonshire, upon the roaring torrent and the shadowy cavern where death had so long held dominion.
+[male_narrator] Holmes sat opposite me, stretched languidly in his chair, his eyes half-closed, his long fingers steepled together. One might have thought him the very picture of indolence, were it not for the faint glimmer of amusement that played upon his lips. I knew that expression well. It signified that my friend awaited my inevitable questions, as a schoolmaster awaits the pupil’s stumbling recitation.
+[male_watson] "Holmes, I confess myself bewildered still. You saw through the deception from the first, while I and indeed the entire countryside remained convinced of supernatural agency. Tell me, how did you so quickly discard the idea of a curse?"
+[male_holmes] "Because, Watson, curses are the province of the imagination, not of fact. I reason thus: either the waterfall is in itself an agent of death, in which case the accidents would be random and varied, or else some intelligence directs the deaths, in which case they will be uniform and purposeful. The three victims perished in identical fashion—struck upon the rocks below. Therefore the agency was human."
+[male_watson] "Yet surely the glowing spray, the voices, the tales of villagers—these were convincing enough to any rational mind."
+[male_holmes] "Convincing to any mind that relies upon impression rather than analysis. Consider: moonlight upon spray will always produce spectral effects. As for voices, we have long known the capacity of tubes and trumpets to project sound. Recall my remark about the ink blot in the Colonel’s letter—the agitation of a man of discipline. That agitation spoke of mortal terror, not of fanciful curse. Once you have eliminated the impossible, Watson, whatever remains, however improbable, must be the truth."
+[male_watson] "Then the steward, Price, was your suspect from the first?"
+[male_holmes] "Not my suspect, but my hypothesis. The fact that his death was unconfirmed—that no body had been recovered—at once roused my suspicion. Villagers are prone to hysteria, and a coat and boots upon the rocks sufficed to convince them. Yet absence of evidence is not evidence of death. Thus I reserved judgement until the cavern revealed itself."
+[male_narrator] I could not but admire the clarity with which he expounded these matters. Yet there lingered in me a question that touched not on logic but on humanity.
+[male_watson] "Holmes, do you feel no outrage at the cruelty of the man? Those poor souls, lured to death for greed—does not such wickedness stir you to anger?"
+[male_holmes] "Anger clouds judgement, Watson. I prefer cold detachment. Price is but one more specimen for the cabinet of human folly. His avarice, his cunning, his exploitation of superstition—all instructive, all lamentably predictable. If his crimes excite me at all, it is only as material for study. The law will punish him. My concern is merely to ensure that the facts are clear."
+[male_watson] "And yet Mary Stanhope—"
+[male_holmes] "Ah, yes. A sensitive soul, torn between loyalty and suspicion. She guessed more than she admitted. But her silence was born of filial duty, not guilt. I trust she will recover her peace now that the shadow has lifted from her father’s house."
+[male_narrator] I pondered his words in silence. To me, the case was filled with human tragedy and pathos; to Holmes, it was but a demonstration of principles. Yet perhaps it was this very detachment that allowed him to pierce the veil of deceit when others faltered.
+[male_watson] "One lesson I draw from this, Holmes, is how perilous superstition can be. Honest men and women, driven by fear of a phantom, allowed themselves to be blinded to the truth."
+[male_holmes] "Exactly so. Superstition is but the abdication of reason. A cunning rogue has but to whisper of a curse, and men will see ghosts where there are only shadows, hear voices where there is only wind, and yield their judgement into another’s hands. You, Watson, as a medical man, must combat such weakness as surely as I combat crime. Science is the antidote to fear."
+[male_narrator] He rose and paced the room, his dressing gown flowing about him like a scholar’s robe, his voice animated now with that peculiar energy which seized him whenever a case had reached its conclusion.
+[male_holmes] "Observe the progression, Watson. First, the legend of the gypsy woman—a fertile soil. Into this soil Price sowed terror by feigning his own death. Next, he contrived voices by means of tubes, and spectral light by lantern and moon. Then, emboldened, he struck down those who strayed near the falls, thus strengthening the illusion of supernatural vengeance. It is the very anatomy of fraud: legend, illusion, and murder, each feeding upon the last."
+[male_watson] "And yet, but for your intervention, he might have succeeded. The Colonel might have abandoned his estate, and Price seized his mineral riches."
+[male_holmes] "True. But fraud always contains the seed of its own destruction. Price grew reckless, and in slaying the curate’s son, he provoked inquiry from outside. Thus crime ever defeats itself in the end."
+[male_narrator] I sat long into the night after Holmes had retired, reflecting upon the strange adventure we had shared. In the roar of the waterfall I seemed still to hear the cries of the victims, yet mingled with them was the calm voice of Holmes, dissecting illusion with scalpel-like precision.
+[male_narrator] And I thought to myself that if ever posterity should know of these adventures, it must know not only the triumphs of reason, but also the shadows of human passion against which reason contends. For though Holmes was right to dismiss the curse as fiction, the fear it inspired was no less real, and in that fear lay tragedy.
+[male_narrator] Thus I set pen to paper to record the case of the Cursed Waterfall, hoping that it may stand as both a warning and a lesson: a warning against the dangers of credulity, and a lesson in the power of clear deduction.
+[male_watson] "Holmes," I murmured at last, as sleep stole over me, "it is indeed as you say—everything is elementary, when once you show the chain. But for me, the world will always hold mysteries, so long as men are moved by terror and by greed."
+[male_holmes] "Then, Watson," came his voice from the shadows, "the world shall never lack for work for you and me."
+[male_narrator] And with that, the fire sank low, the city outside hummed on, and another chapter closed in the chronicles of Sherlock Holmes.
+

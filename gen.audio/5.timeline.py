@@ -8,7 +8,7 @@ from typing import List, Dict, Any
 class TimelineSFXGenerator:
     def __init__(self, lm_studio_url="http://localhost:1234/v1", model="qwen/qwen3-14b", use_json_schema=True):
         self.lm_studio_url = lm_studio_url
-        self.output_file = "sfx.txt"
+        self.output_file = "timing.txt"
         self.model = model
         self.use_json_schema = use_json_schema
         

@@ -1,150 +1,83 @@
-23.78: Silence
-3.78: Faint snowfall settling on cobblestones, soft crunch underfoot
-3.12: Low fog rolling over lamplight, muffled street sounds
-65.9: Silence
-6.73: Soft rustle of old paper pages turning with dry friction and faint crackling
-4.85: Dull thud of a heavy book closing with slightly warped cover
-3.66: Muffled slap of felt fabric against wooden surface with slight bounce
-4.97: Silence
-4.61: Faint clatter of metal object falling on stone floor with soft rebound
-5.86: Low hum of distant conversation in background, muffled through thick walls
-7.86: Soft brush of fabric against leather with slight squeak from worn brim
-9.19: Crinkle of aged paper lining rubbing against coarse fabric with dry friction
-4.37: Faint creak of wooden chair shifting under weight, then settling
-2.34: Silence
-6.2: Soft rustle of fabric being smoothed with deliberate, hesitant motions
-4.12: Muffled tap of fingers against worn leather surface with slight echo
-6.97: Silence
-4.27: Leather hat loop creaking softly, faint rustle of fabric
-3.76: Silence
-3.75: Faint brim brushing against surface, soft friction of aged fabric
-3.02: Subtle hair oil scent, faint slickness on fingertips
-3.33: Clothes folding sound, soft crease of fabric being smoothed
-3.13: Stale oil: muted, low-pitched dryness on fabric
-2.45: Silence
-7.22: Distant muffled voices, faint clatter of household items
-125.32: Silence
-3.38: Glass refracting winter sunlight, shards of light scattering across room
-5.56: Silence
-3.23: Soft rustle of paper being unfolded, faint crackle of newsprint
-10.53: Silence
-4.3: Faint clinking of glass, low hum of resonance
-3.94: Silence
-8.16: Soft honk of goose, feathers rustling near fireplace
-125.13: Silence
-5.79: Clothing fabric rustling, soft and brief
-6.13: Gemstone clinking against ceramic surface, sharp but muffled
-98.39: Silence
-2.98: A goose's crop being filled with grain; soft rustle of feathers, low grumble of digestion
-2.14: Silence
-2.98: A man's footsteps on cobbled street; distant laughter echoing faintly
-2.52: Silence
-1.72: Soft chuckle; faint clink of glassware in background
-1.38: Silence
-1.57: Fabric brushing against skin; zipper sliding down coat
-3.22: Silence
-1.55: Snow crunching underfoot; distant wind rustling trees
-4.57: Silence
-2.56: A clock's ticking; soft rustle of paper pages turning
-9.48: Silence
-3.23: heavy greatcoat fabric rustling, low resonance
-7.9: Silence
-3.12: firelight crackling, warm timbre
-51.54: Silence
-4.48: Snow crunching underfoot, faint crackle of distant fire
-3.59: Silence
-6.25: Paper rustling, soft thud of inkwell on desk
-28.2: Silence
-5.67: Paper rustling, quiet tearing of newspaper
-6.98: Silence
-4.88: Doorbell chime, soft and muffled
-2.13: Wooden chair creaking, sudden shift of weight
-5.4: Fishhook tugging gently on line, water ripple
-3.66: Cloth fabric rustling, heavy footsteps on wooden floor
-341.02: Silence
-3.28: Soft rustle of fabric as Holmes smiles, faint creak of chair
-1.74: Silence
-3.13: Faint honk of goose, distant rustle of paper
-3.17: Crinkle of newspaper pages turning, soft thud of book closing
-3.8: Distant clink of hotel key ring, muffled echo in hallway
-4.23: Soft click of hotel door handle, faint hum of elevator
-2.15: Faint sniffing noise, soft rustle of fabric
-2.4: Silence
-3.96: Low murmur of conversation, faint clink of glass
-2.45: Soft footstep on wooden floor, distant whisper of wind
-18.17: Silence
-3.24: Snow swirling around a horse-drawn cab, soft swish of snowflakes against the carriage roof
-13.12: Silence
-5.25: A man's heavy breathing, low and labored, muffled by a handkerchief
-50.88: Silence
-5.08: Crunch of goose bones underfoot, low-pitched, muffled
-21.07: Silence
-2.04: Soft, low-frequency tremor from a body staggering
-10.22: Silence
-7.17: Distant, muffled sound of a net being pulled tight, low resonance
-47.43: Silence
-1.88: Chair creaking gently as someone sits down, low wooden resonance
-5.28: Fire crackling softly in a hearth, embers popping occasionally, warm ambient warmth
-1.93: Silence
-1.48: Chair fabric rustle as someone collapses into it, soft fabric shift
-2.17: Fabric of chair creaking under weight, muffled by hands pressed against face
-41.24: Silence
-1.64: Soft rustle of fabric as a hand moves to pocket an object
-8.61: Silence
-4.52: Distant muffled clanging of metal bars, low and resonant
-4.87: Silence
-3.28: Furtive scraping of fingers against a surface, hesitant and quiet
-3.84: Silence
-2.72: geese honking, low-pitched, distant
-1.74: Silence
-4.32: bird's crop opening, soft fabric tearing
-14.84: Silence
-4.62: tag snapping, plastic on fabric
-8.47: Silence
-2.36: geese honking, high-pitched, frantic
-7.26: Silence
-1.86: Soft, muffled sobs echoing in a small room
-1.51: Silence
-2.01: Faint rustling of fabric as hands wring repeatedly
-1.83: Low, trembling voice murmuring in a distant corner
-1.74: Silence
-1.84: Soft clinking of a pendant against fabric
-1.38: Silence
-3.4: Muffled sobbing fading into distant footsteps approaching
-1.56: Silence
-4.01: Distant, soft rustling of fabric and faint echoing of a sigh
-9.29: Silence
-6.14: Distant prison clanging, low resonance, muffled
-6.54: Silence
-6.76: Distant prison clanging, low resonance, muffled
-11.0: Silence
-5.64: Distant fire crackle, low rumble of wind through trees
-2.93: Silence
-2.75: Soft wooden creaks, muffled footsteps on stone floor
-4.81: Fire crackle, faint sobbing breaths, occasional twig snap underfoot
-3.89: Silence
-3.58: Fire crackle, distant church bell chime
-3.37: Silence
-2.21: Soft fabric rustle, faint metallic clink of glass
-2.47: Fire crackle, low wooden creaks
-39.19: Silence
-5.86: Soft, muffled sobbing from a man in distress
-136.02: Silence
-4.78: Fabric rustling as dressing gown is cast aside; soft padding of a wool coat being pulled on
-8.96: Silence
-6.22: Wooden chair creaking slightly as someone sits down; low, distant crackling of a fire
-23.78: Silence
-1.91: Soft rustle of paper being unfolded; faint echo in a small room
-3.66: Lampshade adjusting as light shifts across a table; subtle click of a match struck
-5.01: Silence
-4.93: Wooden floorboards creaking underfoot; distant, muffled laughter
-3.61: Page turning in a book; soft rustle of paper
-4.04: Silence
-2.18: Glass clinking as a tumbler is set down; faint hiss of steam from a teakettle
-12.56: Silence
-3.07: Church bell chimes, deep resonant tones, mellow timbre
-4.38: Silence
-3.57: Frosted glass panes, faint creak of wooden carriage wheels on snow, distant foghorn hum
-5.0: Fire crackling, embers popping, soft glow of gas lamps through frosted glass
-3.45: Jewel clinking on wooden table, soft thud as it's placed into a leather case
-149.11: Silence
+17.96: Silence
+3.42: Constant clatter of high-pitched, sharp metallic sounds on uneven, damp stone surfaces.
+7.94: Silence
+2.4: Crackling wood fire, low rumble, embers pop, warm ambiance
+115.0: Silence
+1.94: Continuous high-pitched pitter-patter of rain against glass, faint echoes of thunder in distance.
+60.08: Silence
+2.06: Low-frequency rumble, deep and ominous, building in intensity
+30.06: Silence
+2.46: Hooves clopping on gravel, soft rustle of horseman's coat, distant birdsong.
+14.24: Silence
+3.84: Distant rushing water, high-pitched, turbulent, echoing
+27.74: Silence
+2.88: Deep, resonant thunderclap with low-frequency rumble and sharp crack, echoing through the atmosphere.
+4.58: Silence
+1.94: Water cascading over smooth stones, gentle flow, low-frequency rumble.
+33.64: Silence
+15.24: Thunderous waterfall roar, low rumble, high-pitched cascading water, echoing in canyon
+42.904: Silence
+2.5: A wooden cane dragging slowly across uneven stone pavement.
+56.296: Silence
+3.26: Thunderous waterfall roar, deep and resonant, echoing through canyon.
+65.28: Silence
+2.02: Low-frequency rumble of distant peat fire, crackling and hissing
+3.0: low-pitched, muffled murmurs, faint laughter, distant clinking of glasses
+25.82: Silence
+5.14: Low ceiling chamber, warm firelight, murmuring voices
+120.8: Silence
+5.0: Roaring waterfall, low rumble with high-pitched cascading water, loud amplitude, echoing in canyon.
+71.08: Silence
+2.16: Waterfall roar, low-frequency rumble, high-pitched cascading water
+78.56: Silence
+5.96: Distant waterfall roar, low rumble, high-pitched cascading water, moderate amplitude
+17.66: Silence
+3.2: low-pitched whispers, faint and eerie, echoing in a tense atmosphere
+28.91: Silence
+1.2: Crunching, sharp, high-pitched, brittle, 8000Hz, sudden, short
+9.79: Silence
+2.6: Strained breathing, muffled grunts, fabric rustling
+5.08: Silence
+1.9: Water rushing violently, high-pitched splash, loud impact
+4.44: Silence
+1.92: low, murmuring voices, rising in pitch and volume
+70.694: Silence
+5.0: Spray splashing, distant water rush, sharp cry
+39.126: Silence
+5.64: Continuous low-frequency rumble, high amplitude, reverberating through canyon walls.
+6.084: Silence
+3.5: Low-frequency resonance hums through stone, echoing with metallic overtones.
+143.616: Silence
+3.08: A sharp, hollow wooden footstep echo in a long corridor.
+16.4: Silence
+3.42: A sharp, high-pitched cry echoes through the air, followed by a loud, explosive crash as the gas tank shatters.
+3.2: Shattered glass shards clatter on stone floor, high-pitched ringing decay.
+62.3: Silence
+5.86: Continuous low-pitched rumble, high amplitude, reverberating echoes
+4.16: Distant thunder rumble, low frequency, deep timbre, increasing amplitude
+2.32: High-pitched whistling wind, low-frequency rumble, branches creaking, leaves rustling violently
+3.06: Deep, rolling thunder rumble, low frequency, distant, reverberating
+36.52: Silence
+3.04: Deep, resonant bass rumble with low-frequency vibrations
+5.44: Continuous high-pitched rushing water, splashes and sprays with sharp impact.
+10.42: Silence
+2.2: Narrow path echoes distant footsteps and rustling leaves.
+12.6: Silence
+3.16: Thunderous, low-frequency roar; intense amplitude, reverberating water timbre.
+58.385: Silence
+2.5: Faint scraping stone, low amplitude, rough timbre, 1-2 Hz frequency variation.
+23.875: Silence
+5.36: High-pitched, mournful wail, reverberating through cavernous space, decaying in amplitude
+6.687: Silence
+2.3: Metallic clang of lantern hitting stone, fabric rustle as Holmes grabs collar
+77.853: Silence
+1.6: Distant thunder rumble, low frequency, muffled
+80.908: Silence
+3.5: low-frequency rumble, faint echoes
+39.852: Silence
+5.66: Crackling firewood, low amplitude, warm timbre, occasional pops.
+256.26: Silence
+3.8: Low-pitched, sustained wind howl with intermittent gusts.
+83.88: Silence
+4.94: Distant waterfall roar, low rumble with high-pitched cascading water
+65.18: Silence

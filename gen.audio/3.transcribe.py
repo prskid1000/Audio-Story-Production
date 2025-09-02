@@ -259,7 +259,7 @@ def main():
         print(f"  • Total audio duration: {total_duration:.3f} seconds ({minutes}m {seconds:.3f}s)")
         print(f"  • Number of segments: {segment_count}")
         
-        print(f"\n💡 To analyze transcription quality, run: python similarity.py")
+        print(f"\n💡 To analyze transcription quality, run: python quality.py")
     else:
         print("\nTranscription failed!")
     

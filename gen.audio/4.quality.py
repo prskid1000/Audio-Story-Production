@@ -336,12 +336,10 @@ def get_similarity_quality(score):
 
 def explain_similarity_score(score):
     """Get easy-to-understand explanation of similarity score"""
-    if score >= 0.9:
+    if score >= 0.8:
         return "🎯 Almost perfect! The transcription captures almost everything correctly."
-    elif score >= 0.8:
+    elif score >= 0.7:
         return "✅ Very good! Most words and meaning are preserved accurately."
-    elif score >= 0.6:
-        return "⚠️  Fair quality. Some words may be missing or different, but main meaning is clear."
     else:
         return "❌ Poor quality. Many words are different or missing, making it hard to understand."
 
@@ -381,12 +379,7 @@ def main():
             print("=" * 50)
             
             # Combined score with explanation
-            combined_score = result['combined_score']
-            quality = get_similarity_quality(combined_score)
-            explanation = explain_similarity_score(combined_score)
-            print(f"🎯 Combined Similarity Score: {combined_score:.3f} ({quality})")
-            print(f"💡 {explanation}")
-            print()
+
             
             # Individual scores with explanations
             print("📈 Individual Algorithm Scores:")
@@ -409,13 +402,12 @@ def main():
             print()
             
             # Quality assessment (now redundant since we have explanation above)
-            print("📋 Summary:")
-            if combined_score >= 0.9:
-                print("🎯 EXCELLENT - Your transcription is very accurate!")
-            elif combined_score >= 0.74:
-                print("✅ GOOD - Your transcription captures most content well")
-            else:
-                print("❌ POOR - Your transcription needs significant improvement")
+            combined_score = result['combined_score']
+            quality = get_similarity_quality(combined_score)
+            explanation = explain_similarity_score(combined_score)
+            print(f"🎯 Combined Similarity Score: {combined_score:.3f} ({quality})")
+            print(f"💡 {explanation}")
+            print()
             
             end_time = time.time()
             print(f"\n⏱️  Analysis completed in {end_time - start_time:.3f} seconds")
