@@ -172,7 +172,6 @@ def transcribe_audio(audio_path, srt_file, text_file, timeline_file, model_name=
             compression_ratio_threshold=1.0,
             logprob_threshold=-0.5,
             condition_on_previous_text=False,
-            no_speech_threshold=0.01
         )
         
         segment_count = len(result['segments'])
