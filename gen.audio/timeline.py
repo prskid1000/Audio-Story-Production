@@ -118,7 +118,7 @@ class TimelineSFXGenerator:
 RULES:
 - Each transcript line produces exactly one Sound or one Silence line of exact same duration. Sum of all the durations should be exactly the same as the duration of the transcript line.
 - Keep descriptions under 12 words, concrete, specific, unambiguous, descriptive(pitch, amplitude, timbre, sonance, frequency, etc.) and present tense.
-- If no clear Sound related words or an important Action/Object that is producing sound is present in the transcript line, use 'Silence'; invent nothing yourself.
+- If no clear Sound related words or an important Action/Object that is producing or can produce sound is present in the transcript line, use 'Silence'; invent nothing yourself.
 - No speech, lyrics, music, or vocal sounds. May include sounds like atmosphere/ambience deduced from the transcript line.
 - Return only JSON matching the schema.
 
