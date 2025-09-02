@@ -107,9 +107,6 @@ class TimelineSFXGenerator:
                 "Content-Type": "application/json"
             }
             
-            # Use Qwen soft switch to disable reasoning
-            prompt_no_think = f"{prompt}\n/no_think"
-
             payload = {
                 "model": self.model,
                 "messages": [
@@ -129,11 +126,11 @@ OUTPUT: JSON with entries array containing objects with index, seconds, and soun
                     },
                     {
                         "role": "user",
-                        "content": prompt_no_think
+                        "content": f"{prompt}\n/no_think"
                     }
                 ],
-                "temperature": 0.7,
-                "max_tokens": 2048,
+                "temperature": 0.2,
+                "max_tokens": 4096,
                 "stream": False
             }
 
