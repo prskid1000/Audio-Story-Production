@@ -62,7 +62,7 @@ class TimelineSFXGenerator:
         # Build the content section
         content_lines = []
         for entry in chunk:
-            content_lines.append(f"{entry['seconds']}: {entry['description']}")
+            content_lines.append(f"{entry['seconds']} seconds: {entry['description']}")
         
         content = "\n".join(content_lines)
         
@@ -116,14 +116,13 @@ class TimelineSFXGenerator:
 """You are an SFX(Sound or Silence) generator for Sound Generating AI Models.
 
 RULES:
-- Each transcript line produces exactly one Sound or one Silence line of exact same duration. Sum of all the durations should be exactly the same as the duration of the transcript line.
 - Keep descriptions under 12 words, concrete, specific, unambiguous, descriptive(pitch, amplitude, timbre, sonance, frequency, etc.) and present tense.
 - If no clear Sound related words or an important Action/Object that is producing or can produce sound is present in the transcript line, use 'Silence'; invent nothing yourself.
-- No speech, lyrics, music, or vocal sounds. May include sounds like atmosphere/ambience deduced from the transcript line.
-- You must output only sound experiences, ignore all other sensory experiences like visual, touch, smell, taste, etc.
+- No speech, lyrics, music, or vocal sounds allowed;use "Silence". May generate sounds(Diegetic/Non-diegetic) like atmosphere/ambience/background/noise/foley deduced from the transcript line.
+- You must output only sound descriptions, any other sensory descriptions like visual, touch, smell, taste, etc. are not allowed;use "Silence".
 - Return only JSON matching the schema.
 
-OUTPUT: JSON with entries array containing objects with index, seconds, and sound_or_silence_description"""
+OUTPUT: JSON with entries array containing objects with index, seconds, and sound_or_silence_description, with array length equal to the number of lines in the CONTENT"""
                     },
                     {
                         "role": "user",
