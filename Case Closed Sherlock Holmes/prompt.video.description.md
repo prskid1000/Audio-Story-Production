@@ -1,4 +1,4 @@
-TASK: Analyse the Caption .svb file to generate video description and chapters in below format for youtube channel
+TASK: Analyse the SRT file to generate video description and chapters in below format for youtube channel
 
 
 
