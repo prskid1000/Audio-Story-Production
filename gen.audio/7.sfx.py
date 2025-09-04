@@ -69,7 +69,7 @@ class DirectTimelineProcessor:
         print(f"📋 Parsed {len(timeline_entries)} entries preserving original order")
         return timeline_entries
     
-    def save_combined_timeline(self, timeline_entries, filename="sfx.txt"):
+    def save_combined_timeline(self, timeline_entries, filename="1.4.sfx.txt"):
         """Save combined timeline back to file"""
         with open(filename, 'w', encoding='utf-8') as f:
             for entry in timeline_entries:
@@ -378,7 +378,7 @@ class DirectTimelineProcessor:
         
         print("📋 Step 2: Reloading updated timeline for processing...")
         # Reload the updated file
-        updated_timeline = read_timeline_from_file("sfx.txt")
+        updated_timeline = read_timeline_from_file("1.4.sfx.txt")
         if updated_timeline is None:
             raise Exception("Failed to reload updated timeline file")
         
@@ -410,7 +410,7 @@ class DirectTimelineProcessor:
         print("🎉 Processing complete!")
         return final_audio
 
-def read_timeline_from_file(filename="sfx.txt"):
+def read_timeline_from_file(filename="1.4.sfx.txt"):
     """Read timeline data from a text file"""
     try:
         with open(filename, 'r', encoding='utf-8') as f:

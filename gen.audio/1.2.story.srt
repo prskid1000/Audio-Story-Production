@@ -1,0 +1,2127 @@
+00:00:00,000 --> 00:00:03,830
+It has always been my custom, in these quiet years of practice and retirement,
+
+00:00:03,830 --> 00:00:06,379
+to set down some of the more remarkable adventures
+
+00:00:06,379 --> 00:00:10,570
+in which I had the privilege to take part with my friend Sherlock Holmes.
+
+00:00:10,570 --> 00:00:14,080
+Among them, there is none which I recall with a sharper thrill of memory
+
+00:00:14,080 --> 00:00:19,039
+than that singular case which Holmes himself was later to describe as the Speckled Band.
+
+00:00:19,039 --> 00:00:20,080
+..
+
+00:00:20,080 --> 00:00:23,019
+Though many years have passed since those strange events occurred,
+
+00:00:23,019 --> 00:00:25,879
+the impression of terror upon the young lady who sought our aid
+
+00:00:25,879 --> 00:00:29,719
+and the grim figure of her violent stepfather remained etched upon my recollection
+
+00:00:29,719 --> 00:00:32,670
+as though the affair had only transpired yesterday.
+
+00:00:32,670 --> 00:00:34,939
+The reader will remember that in those days,
+
+00:00:34,939 --> 00:00:36,799
+I had resumed medical practice
+
+00:00:36,799 --> 00:00:39,299
+and I was not residing permanently at Baker Street.
+
+00:00:39,299 --> 00:00:42,179
+Yet my companionship with Holmes remained undiminished
+
+00:00:42,179 --> 00:00:45,179
+and I was frequently summoned either by letter or telegram
+
+00:00:45,179 --> 00:00:48,859
+whenever he believed that my presence might contribute in any way to his work
+
+00:00:48,859 --> 00:00:51,299
+or at the very least to his spirits.
+
+00:00:51,299 --> 00:00:54,189
+It was then, in the early days of April,
+
+00:00:54,189 --> 00:00:56,159
+upon a morning to yoke and drizzle and mist
+
+00:00:56,159 --> 00:00:59,659
+that I found myself once more beneath the familiar roof of our lodgings
+
+00:00:59,659 --> 00:01:02,140
+at 221B Baker Street.
+
+00:01:02,140 --> 00:01:04,120
+Holmes had risen earlier than usual,
+
+00:01:04,120 --> 00:01:05,900
+for I discovered him pacing the room,
+
+00:01:05,900 --> 00:01:07,109
+his lean figure bent,
+
+00:01:07,109 --> 00:01:09,500
+his eyes gleaming with the restless energy
+
+00:01:09,500 --> 00:01:12,870
+that ever betokened the approach of a new investigation.
+
+00:01:12,870 --> 00:01:15,819
+He had already flung himself into his chair by the fire
+
+00:01:15,819 --> 00:01:17,409
+when the bell downstairs rang,
+
+00:01:17,409 --> 00:01:18,400
+and a moment later,
+
+00:01:18,400 --> 00:01:20,449
+Mrs. Zecker! Mrs. Zecker!
+
+00:01:20,449 --> 00:01:22,640
+Hudson ushered in a young lady.
+
+00:01:22,640 --> 00:01:24,020
+Her appearance haggard,
+
+00:01:24,020 --> 00:01:25,469
+her step quick and uncertain,
+
+00:01:25,469 --> 00:01:27,099
+as though she had travelled far
+
+00:01:27,099 --> 00:01:29,019
+and borne a heavy burden upon her spirit.
+
+00:01:29,019 --> 00:01:33,479
+Good heavens, Holmes, I exclaimed softly, rising to my feet.
+
+00:01:33,479 --> 00:01:36,859
+The poor woman looks as though she has not slept for nights.
+
+00:01:36,859 --> 00:01:42,810
+Indeed, Watson, said Holmes, his eyes narrowing with that hawk-like expression.
+
+00:01:42,810 --> 00:01:45,189
+I knew so well.
+
+00:01:45,189 --> 00:01:51,819
+And notice the trembling of her hands, the hurried breathing, and the bruise upon her wrist.
+
+00:01:51,819 --> 00:01:54,429
+This is no ordinary visitor.
+
+00:01:54,429 --> 00:01:57,000
+Allow her a seat near the fire.
+
+00:01:57,000 --> 00:02:02,819
+The lady, clad in black and heavily veiled, sank into the armchair which Holmes indicated.
+
+00:02:02,819 --> 00:02:05,009
+For a moment she struggled to speak.
+
+00:02:05,009 --> 00:02:08,480
+Then her composure broke and she pressed her hand to her throat.
+
+00:02:08,480 --> 00:02:12,529
+Mr. Holmes, she said at last, her voice low yet urgent,
+
+00:02:12,529 --> 00:02:15,000
+I can bear this suspense no longer.
+
+00:02:15,000 --> 00:02:16,699
+..
+
+00:02:16,699 --> 00:02:20,919
+If ever you have shown compassion for a helpless woman,
+
+00:02:20,919 --> 00:02:22,680
+you will listen to me now.
+
+00:02:22,680 --> 00:02:26,969
+For I am in mortal peril and unless you advise me what to do,
+
+00:02:26,969 --> 00:02:29,219
+I may not live to see another day.
+
+00:02:29,219 --> 00:02:32,040
+I lean forward, deeply concerned.
+
+00:02:32,040 --> 00:02:33,819
+You may speak freely, madam.
+
+00:02:33,819 --> 00:02:36,550
+You are among friends who will help you.
+
+00:02:36,550 --> 00:02:39,259
+Ah, Oum's inclined his head and,
+
+00:02:39,259 --> 00:02:43,939
+Pray, compose yourself and tell us, in your own words,
+
+00:02:43,939 --> 00:02:47,819
+exactly what brings you here at this early hour.
+
+00:02:47,819 --> 00:02:50,139
+Every detail is important.
+
+00:02:50,139 --> 00:02:52,580
+The young lady pushed back her veil,
+
+00:02:52,580 --> 00:02:55,080
+revealing a pained face, tinned from anxiety,
+
+00:02:55,080 --> 00:02:57,170
+yet still bearing traces of beauty.
+
+00:02:57,170 --> 00:02:58,760
+Her dark eyes were hollow
+
+00:02:58,760 --> 00:03:01,660
+and in them shone the unmistakable light of fear.
+
+00:03:01,660 --> 00:03:02,760
+..
+
+00:03:02,760 --> 00:03:05,390
+My name is Helen Stoner.
+
+00:03:05,390 --> 00:03:07,590
+I reside with my stepfather,
+
+00:03:07,590 --> 00:03:12,639
+Dr. Grimsby Roylott of Stoke Moran in Surrey.
+
+00:03:12,639 --> 00:03:13,180
+Oh!
+
+00:03:13,180 --> 00:03:18,480
+......
+
+00:03:18,480 --> 00:03:20,370
+My twin sister, Julia,
+
+00:03:20,370 --> 00:03:22,900
+died under the strangest circumstances
+
+00:03:22,900 --> 00:03:24,020
+nearly two years ago
+
+00:03:24,020 --> 00:03:28,150
+and now I myself am threatened with the same fate.
+
+00:03:28,150 --> 00:03:31,350
+That is why I have come to you, Mr. Holmes.
+
+00:03:31,350 --> 00:03:36,610
+For last night I was forced to sleep in the very chamber where she perished.
+
+00:03:36,610 --> 00:03:40,480
+Holmes sat upright, his long fingers steepled beneath his chin.
+
+00:03:40,480 --> 00:03:44,280
+Now days, and his keen grey eyes fixed upon her face
+
+00:03:44,280 --> 00:03:48,330
+with an intensity that seemed to draw forth the truth from her lips.
+
+00:03:48,330 --> 00:03:51,920
+Your story is of the utmost gravity, Miss Stoner.
+
+00:03:51,919 --> 00:03:54,560
+We shall examine it carefully.
+
+00:03:54,560 --> 00:04:00,680
+But first, permit me to make some observations which may appear trivial.
+
+00:04:00,680 --> 00:04:06,060
+You came here by train this morning, I think, and then by dog-cart from the station?
+
+00:04:06,060 --> 00:04:06,539
+Oh!
+
+00:04:06,539 --> 00:04:07,639
+..
+
+00:04:07,639 --> 00:04:10,479
+Her eyes widened in astonishment.
+
+00:04:10,479 --> 00:04:12,769
+That is exactly so, sir.
+
+00:04:12,769 --> 00:04:15,189
+But how could you possibly know?
+
+00:04:15,189 --> 00:04:17,409
+Holmes smiled faintly.
+
+00:04:17,409 --> 00:04:18,879
+It is elementary.
+
+00:04:18,879 --> 00:04:36,759
+your left sleeve bears the fresh mark of a ticket punch and the gravel upon your boots is peculiar to the lane from leatherhead station as for the dog-cart the splashes upon your skirt are too high for mere walking these trifles are sufficient
+
+00:04:36,759 --> 00:04:38,740
+I shook my head with admiration.
+
+00:04:38,740 --> 00:04:41,819
+Holmes, your methods never cease to amaze me.
+
+00:04:41,819 --> 00:04:45,490
+Miss Stoner regarded Holmes with a look that mingled relief with awe,
+
+00:04:45,490 --> 00:04:47,719
+as though she already placed her life in his hands.
+
+00:04:47,719 --> 00:04:49,099
+..
+
+00:04:49,099 --> 00:04:53,439
+Then you will understand, sir, that I come to you in desperation.
+
+00:04:53,439 --> 00:04:59,519
+My sister Julia, God rest her soul, was but thirty years of age when she died.
+
+00:04:59,519 --> 00:05:01,300
+..
+
+00:05:01,300 --> 00:05:05,279
+The circumstances of her death have haunted me ever since.
+
+00:05:05,279 --> 00:05:11,929
+And now, with my own marriage approaching, I have reason to believe that I too am marked for destruction.
+
+00:05:11,929 --> 00:05:16,569
+Your marriage, you say? Then the timing of this danger is surely no accident.
+
+00:05:16,569 --> 00:05:22,559
+Indeed, Watson, Holmes replied gravely. But let us not anticipate.
+
+00:05:22,559 --> 00:05:31,559
+Miss Stoner, begin at the beginning. Tell us about your family, your home, and this Dr. Shaw, Roylott, of whom you spoke.
+
+00:05:31,560 --> 00:05:35,950
+She clasped her hands tightly in her lap, gathering her courage,
+
+00:05:35,950 --> 00:05:40,460
+and then began to recount her tale, which I listened to with mounting uneasiness.
+
+00:05:40,460 --> 00:05:47,800
+My stepfather is the last surviving descendant of the once wealthy royal hordes of Stoke Moran.
+
+00:05:47,800 --> 00:05:53,259
+The family was long notorious for their violence and hot temper.
+
+00:05:53,259 --> 00:05:57,789
+The estate has dwindled and my stepfather, after practising medicine in India,
+
+00:05:57,789 --> 00:05:59,620
+returned to England many years ago.
+
+00:05:59,620 --> 00:06:07,149
+He married my mother, a widow with some fortune, when my sister Julia and I were mere children.
+
+00:06:07,149 --> 00:06:13,379
+But alas, my mother was killed in a railway accident eight years ago, leaving us in his sole care.
+
+00:06:13,379 --> 00:06:16,800
+....
+
+00:06:16,800 --> 00:06:23,629
+Holmes's brows knit as she continued and he noted down particulars in his pocketbook with quick strokes of his pencil.
+
+00:06:23,629 --> 00:06:29,470
+My stepfather has lived ever since in gloomy seclusion at Stoke Moran.
+
+00:06:29,470 --> 00:06:33,840
+He has few friends, if any, and his temper is terrible.
+
+00:06:33,840 --> 00:06:36,500
+He has been known to beat the native servants
+
+00:06:36,500 --> 00:06:41,269
+and more than once has been in trouble with the law for violent assaults.
+
+00:06:41,269 --> 00:06:44,060
+He allows gypsies to camp upon our grounds
+
+00:06:44,060 --> 00:06:47,560
+and keeps strange creatures, cheetahs and baboons,
+
+00:06:47,560 --> 00:06:49,970
+that wander freely about the estate.
+
+00:06:49,970 --> 00:06:54,600
+A most unusual household, I murmured, and dangerous by the sound of it.
+
+00:06:54,600 --> 00:06:56,529
+Proceed, Miss Stoner.
+
+00:06:56,529 --> 00:06:59,550
+Holmes urged his voice calm but intent.
+
+00:06:59,550 --> 00:07:01,459
+Tell us of your sister's death.
+
+00:07:01,459 --> 00:07:02,560
+..
+
+00:07:02,560 --> 00:07:05,080
+It was an early spring, nearly two years ago.
+
+00:07:05,080 --> 00:07:07,680
+My sister Julia announced her engagement,
+
+00:07:07,680 --> 00:07:10,300
+and arrangements were being made for her marriage.
+
+00:07:10,300 --> 00:07:14,079
+Then, one night, she was seized with sudden terror.
+
+00:07:14,079 --> 00:07:16,000
+I shall never forget it.
+
+00:07:16,000 --> 00:07:19,960
+She came to my chamber, her face white with dread,
+
+00:07:19,960 --> 00:07:23,420
+and told me she had heard a low whistle in the dead of night,
+
+00:07:23,420 --> 00:07:25,960
+and afterwards a metallic clang.
+
+00:07:25,960 --> 00:07:27,980
+I tried to reassure her,
+
+00:07:27,980 --> 00:07:31,100
+but she was trembling so that I feared for her reason.
+
+00:07:31,100 --> 00:07:35,660
+.....
+
+00:07:35,660 --> 00:07:39,970
+Miss Stoner paused, her breath quickening as she recalled the dreadful events.
+
+00:07:39,970 --> 00:07:42,740
+Holmes leaned forward, every muscle alert.
+
+00:07:42,740 --> 00:07:46,680
+On that fatal night, she retired to her room as usual.
+
+00:07:46,680 --> 00:07:51,639
+About midnight, I heard a piercing scream and I rushed out.
+
+00:07:51,639 --> 00:07:56,360
+There was the sound of her door unlocking and she staggered into the corridor.
+
+00:07:56,360 --> 00:07:59,110
+Her features were convulsed with pain.
+
+00:07:59,110 --> 00:08:04,230
+She fell to the ground, writhing, and in a choking voice she gasped out the words,
+
+00:08:04,230 --> 00:08:05,750
+The speckle band!
+
+00:08:05,750 --> 00:08:09,779
+Then she sank into unconsciousness and died within moments.
+
+00:08:09,779 --> 00:08:13,120
+But yeah, I could not restrain my exclamation.
+
+00:08:13,120 --> 00:08:16,389
+What a terrible tragedy! And those were her final words?
+
+00:08:16,389 --> 00:08:22,429
+Yes, the doctors could find no poison in her system and the coroner's verdict was inconclusive.
+
+00:08:22,429 --> 00:08:25,759
+But I have lived ever since in fear of that mystery.
+
+00:08:25,759 --> 00:08:28,889
+Giliosi? My meek.
+
+00:08:28,889 --> 00:08:35,059
+And last night, said Holmes, you yourself were compelled to occupy the same room?
+
+00:08:35,059 --> 00:08:36,500
+..
+
+00:08:36,500 --> 00:08:41,360
+Yes, Mr. Holmes, repair the being carried out on the wing where I usually sleep.
+
+00:08:41,360 --> 00:08:46,449
+My stepfather insisted that I move temporarily into Julia's old chamber.
+
+00:08:46,449 --> 00:08:53,939
+Imagine my terror when, as I lay awake, I heard again that same low whistle that she described.
+
+00:08:53,940 --> 00:08:58,680
+I could bear it no longer and I fled here to you at dawn.
+
+00:08:58,680 --> 00:08:59,860
+..
+
+00:08:59,860 --> 00:09:03,550
+As she concluded her narrative, her whole frame trembled with agitation.
+
+00:09:03,550 --> 00:09:06,490
+Holmes rose and paced the room, his brow furrowed in thought.
+
+00:09:06,490 --> 00:09:10,640
+For some minutes he did not speak and only the crackling of the fire disturbed the silence.
+
+00:09:10,640 --> 00:09:12,780
+Then he turned abruptly to her.
+
+00:09:12,780 --> 00:09:16,360
+Miss Stoner, you have done wisely to come to me.
+
+00:09:16,360 --> 00:09:25,350
+There are features in your story which make it one of the most extraordinary cases I have ever encountered.
+
+00:09:25,350 --> 00:09:30,169
+Rest assured I shall undertake your defense with all the energy at my command.
+
+00:09:30,169 --> 00:09:36,080
+Watson and I shall visit Stoke Moran today to investigate matters for ourselves.
+
+00:09:36,080 --> 00:09:37,440
+..
+
+00:09:37,440 --> 00:09:40,120
+You may rely on us, Miss Stoner, I said earnestly.
+
+00:09:40,120 --> 00:09:42,730
+We shall do all in our power to protect you.
+
+00:09:42,730 --> 00:09:45,320
+God bless you both.
+
+00:09:45,320 --> 00:09:46,360
+..
+
+00:09:46,360 --> 00:09:49,620
+She whispered, tears descending in her eyes.
+
+00:09:49,620 --> 00:09:53,279
+For I feel that my very life hangs by a thread.
+
+00:09:53,279 --> 00:09:56,830
+Thus ended her account, leaving us both profoundly stirred.
+
+00:09:56,830 --> 00:09:59,049
+Little did I suspect that before the day was done,
+
+00:09:59,049 --> 00:10:03,080
+we should stand face to face with a mystery darker than any we had yet encountered.
+
+00:10:03,080 --> 00:10:05,630
+When Miss Helen Stoner had finished her account,
+
+00:10:05,630 --> 00:10:07,720
+silence reigned in our sitting room for a time.
+
+00:10:07,720 --> 00:10:09,099
+Holmes stood by the window,
+
+00:10:09,099 --> 00:10:11,940
+his thin form silhouetted against the grey morning light,
+
+00:10:11,940 --> 00:10:15,060
+the smoke of his pipe wreathing about his head like a veil.
+
+00:10:15,059 --> 00:10:18,220
+His gaze was fixed upon the drifting fog in Baker Street.
+
+00:10:18,220 --> 00:10:24,730
+Yet I knew that within his mind the machinery of reason was already turning with astonishing rapidity.
+
+00:10:24,730 --> 00:10:26,899
+Holmes, I ventured at last.
+
+00:10:26,899 --> 00:10:30,439
+This is surely one of the most singular cases we have yet encountered.
+
+00:10:30,439 --> 00:10:35,159
+The death of Miss Stoner's sister, the mysterious whistle, the strange last words.
+
+00:10:35,159 --> 00:10:37,659
+What possible explanation can there be?
+
+00:10:37,659 --> 00:10:40,779
+He turned shockingly, his eyes alight.
+
+00:10:40,779 --> 00:10:44,219
+There, Watson, lies the fascination of the affair.
+
+00:10:44,220 --> 00:10:50,269
+It is precisely because the explanation is not obvious that it appeals to me.
+
+00:10:50,269 --> 00:10:57,740
+A whistle in the dead of night, a metallic clang, a dying reference to a speckled band.
+
+00:10:57,740 --> 00:11:04,750
+Each piece may seem inexplicable alone, but together they must form a chain.
+
+00:11:04,750 --> 00:11:08,850
+And chains, as you know, may be traced link by link.
+
+00:11:08,850 --> 00:11:12,950
+Miss Stoner, who had been sitting with her hands clasped tightly in her lap,
+
+00:11:12,950 --> 00:11:16,069
+looked from one to the other of us with desperate anxiety.
+
+00:11:16,069 --> 00:11:19,320
+You give me hope, Mr. Holmes, for until this moment,
+
+00:11:19,320 --> 00:11:25,049
+I have lived under a shadow so dark that I believed myself lost.
+
+00:11:25,049 --> 00:11:28,019
+Tell me, do you think I am in immediate danger?
+
+00:11:28,019 --> 00:11:29,060
+..
+
+00:11:29,060 --> 00:11:36,620
+Your stepfather, Dr. Roylott, has insisted that you occupy your sister's old chamber.
+
+00:11:36,620 --> 00:11:40,960
+That fact alone suggests a sinister purpose.
+
+00:11:40,960 --> 00:11:45,430
+Yes, Miss Stoner, you are in peril, but be reassured.
+
+00:11:45,430 --> 00:11:47,450
+We shall act swiftly.
+
+00:11:47,450 --> 00:11:49,210
+You will return home now.
+
+00:11:49,210 --> 00:11:55,069
+Continue your ordinary habits and, above all, show no suspicion that you have sought advice.
+
+00:11:55,069 --> 00:11:59,139
+Tonight, Dr. Watson and I shall come to Stoke Moran.
+
+00:11:59,139 --> 00:12:01,559
+I could not conceal my eagerness.
+
+00:12:01,559 --> 00:12:05,120
+Owns you mean that we shall examine the very room in which Julia Stoner died?
+
+00:12:05,120 --> 00:12:07,320
+precisely Watson
+
+00:12:07,320 --> 00:12:09,440
+there lies the key to the riddle
+
+00:12:09,440 --> 00:12:12,360
+until I have seen it with my own eyes
+
+00:12:12,360 --> 00:12:14,799
+I shall not hazard a theory
+
+00:12:14,799 --> 00:12:17,039
+the swooner rose
+
+00:12:17,039 --> 00:12:18,159
+visibly relieved
+
+00:12:18,159 --> 00:12:19,759
+that her burden was now shared
+
+00:12:19,759 --> 00:12:21,700
+yet her fear had not wholly left her
+
+00:12:21,700 --> 00:12:23,179
+and she clutched Holmes's hand
+
+00:12:23,179 --> 00:12:25,000
+with a grip that betrayed her agitation
+
+00:12:25,000 --> 00:12:28,100
+I shall obey you implicitly Mr. Holmes
+
+00:12:28,100 --> 00:12:30,000
+and tonight then you will come
+
+00:12:30,000 --> 00:12:31,659
+without fail
+
+00:12:31,659 --> 00:12:34,200
+Watson and I shall follow at dusk
+
+00:12:34,200 --> 00:12:50,800
+until then have courage she drew her veil once more over her pale features and departed leaving the room charged with a tense expectancy concomity or shambland holmes your manner is grave do you truly think her life in such imminent danger
+
+00:12:50,799 --> 00:12:56,879
+He seated himself once more, his long fingers tapping thoughtfully upon the arm of his chair.
+
+00:12:56,879 --> 00:13:02,889
+Consider, Watson, a young woman dies suddenly on the eve of marriage,
+
+00:13:02,889 --> 00:13:06,399
+leaving only the cryptic words, the speckled band.
+
+00:13:06,399 --> 00:13:10,259
+....
+
+00:13:10,259 --> 00:13:16,839
+Two years later, her twin sister, similarly betrothed, is compelled to occupy the same chamber
+
+00:13:16,839 --> 00:13:19,579
+and already hears the same warning signal.
+
+00:13:19,580 --> 00:13:22,740
+The parallel is too exact to be coincidence
+
+00:13:22,740 --> 00:13:29,180
+Yes, I fear we are dealing with a cunning and dangerous adversary
+
+00:13:29,180 --> 00:13:32,620
+At that instant, the bell rang violently below
+
+00:13:32,620 --> 00:13:36,160
+And footsteps were heard ascending the stair with a heavy tread
+
+00:13:36,160 --> 00:13:40,379
+Mrs. Hudson's timid knock preceded the entrance of a tall, massive man
+
+00:13:40,379 --> 00:13:44,320
+Who burst into our sitting room with an energy that shook the door upon its hinges
+
+00:13:44,320 --> 00:13:48,400
+He was a formidable figure, his face large and swarthy
+
+00:13:48,399 --> 00:13:54,860
+his eyes yellow and cruel, his clothing coarse, though of rich material, a hunting crop protruded
+
+00:13:54,860 --> 00:14:01,200
+from his hand, and his whole appearance bespoke strength and ferocity. Holmes regarded him coolly.
+
+00:14:01,200 --> 00:14:09,240
+Pray be seated, Dr. Grimesby Roylott. The intruder did not sit, but glared at us with a savage
+
+00:14:09,240 --> 00:14:15,840
+intensity. To you are Sherlock Holmes, he growled, his voice harsh and guttural, and you, I take it,
+
+00:14:15,840 --> 00:14:20,580
+our Dr. Cotterill. Watson, my step-daughter had been here. What has she been saying to you?
+
+00:14:20,580 --> 00:14:26,660
+That, replied Holmes evenly, is a matter between myself and my client.
+
+00:14:26,660 --> 00:14:27,720
+..
+
+00:14:27,720 --> 00:14:31,390
+He advanced the step, shaking his heavy stick. I am a dangerous man to cross, Mr. Holmes.
+
+00:14:31,390 --> 00:14:34,529
+I have not hesitated to use violence before, and I shall not hesitate again.
+
+00:14:34,529 --> 00:14:40,890
+Nay! My family is an old one, and my will is law upon my estate. Do not meddle with my affairs,
+
+00:14:40,890 --> 00:14:44,800
+or you may find it an ill day for you. I rose in indignation.
+
+00:14:44,799 --> 00:14:50,409
+Sir, this is monstrous. Lam Su, you have no right to threaten us in our own chambers.
+
+00:14:50,409 --> 00:14:53,599
+Holmes, however, remained perfectly composed.
+
+00:14:53,599 --> 00:14:58,579
+His pale smile, so calm and sardonic, seemed to enrage our visitor still further.
+
+00:14:58,579 --> 00:15:03,539
+Your temper, Dr. Roylott, is well known to the magistrates of Surrey.
+
+00:15:03,539 --> 00:15:08,730
+Yes, you have served time for assault, if I am not mistaken.
+
+00:15:08,730 --> 00:15:12,139
+Do not imagine that intimidation will turn me from my duty.
+
+00:15:12,139 --> 00:15:17,220
+I have but one concern, the welfare of your stepdaughter.
+
+00:15:17,220 --> 00:15:19,100
+..
+
+00:15:19,100 --> 00:15:24,009
+The doctor's huge hands clenched until the veins stood out upon his skin.
+
+00:15:24,009 --> 00:15:27,599
+He bent forward until his face was but inches from Holmes's.
+
+00:15:27,599 --> 00:15:31,349
+Take care, Mr. Holmes. You are meddling with powers you do not comprehend.
+
+00:15:31,349 --> 00:15:36,190
+With that, he swung his hunting crop through the air and, to our astonishment,
+
+00:15:36,190 --> 00:15:38,409
+brought it crashing down upon the fireplace poker.
+
+00:15:38,409 --> 00:15:41,039
+The metal rod bent almost double beneath the blow.
+
+00:15:41,039 --> 00:15:48,200
+With a triumphant snarl, he strode from the room, slamming the door behind him with such violence that the windows rattle in their frames.
+
+00:15:48,200 --> 00:15:51,200
+I hurried to the poker and stared at the twisted iron.
+
+00:15:51,200 --> 00:15:56,500
+Holmes, the man has the strength of a giant. You cannot hope to oppose such brute force.
+
+00:15:56,500 --> 00:16:04,539
+Holmes smiled faintly and, without apparent effort, bent the poker back into its original shape.
+
+00:16:04,539 --> 00:16:07,919
+Watson, violence is no substitute for intellect.
+
+00:16:07,919 --> 00:16:12,429
+We shall oppose him, not with strength, but with reason.
+
+00:16:12,429 --> 00:16:17,559
+And reason, my dear friend, will always triumph.
+
+00:16:17,559 --> 00:16:20,129
+His quiet confidence reassured me.
+
+00:16:20,129 --> 00:16:25,730
+Jack, sir, yet I could not suppress a shudder at the thought of the villainous figure we had just encountered.
+
+00:16:25,730 --> 00:16:32,009
+It is fortunate for us that Roylott has shown his hand so plainly, Holmes continued.
+
+00:16:32,009 --> 00:16:36,379
+His very violence betrays his guilty conscience.
+
+00:16:36,379 --> 00:16:44,289
+He knows that Miss Stoner has spoken to me, and he fears exposure, all the more reason for us to act at once.
+
+00:16:44,289 --> 00:16:45,519
+Then we go today?
+
+00:16:45,519 --> 00:16:46,860
+..
+
+00:16:46,860 --> 00:16:47,840
+Yes, Watson.
+
+00:16:47,840 --> 00:16:48,919
+..
+
+00:16:48,919 --> 00:16:55,750
+This afternoon we shall take the train to Leatherhead, and from there Hyra convains to Stoke Moran.
+
+00:16:55,750 --> 00:16:59,639
+There we shall examine the room where Julia Stoner met her death.
+
+00:16:59,639 --> 00:17:05,940
+That room will tell us more than all the threats of Grimesby Roylott.
+
+00:17:05,940 --> 00:17:09,110
+With that, Horns fell into one of his characteristic silences,
+
+00:17:09,110 --> 00:17:12,650
+his eyes half closed, half his spite between his lips,
+
+00:17:12,650 --> 00:17:14,890
+as though he were detached from the world around him.
+
+00:17:14,890 --> 00:17:17,559
+Yet, I knew that beneath that quiet exterior,
+
+00:17:17,559 --> 00:17:20,370
+his brain was wheeling together the fragments of evidence,
+
+00:17:20,370 --> 00:17:22,250
+forging from them a pattern which I,
+
+00:17:22,250 --> 00:17:24,840
+with all my medical training and practical common sense,
+
+00:17:24,840 --> 00:17:26,370
+could not yet perceive.
+
+00:17:26,370 --> 00:17:28,460
+Thus it was that, later that day,
+
+00:17:28,460 --> 00:17:30,500
+we set forth, together on the path
+
+00:17:30,500 --> 00:17:32,060
+that would lead us to Stoke Moran
+
+00:17:32,060 --> 00:17:34,840
+and to the revelation of one of the strangest
+
+00:17:34,839 --> 00:17:38,529
+and most dreadful secrets it has ever been my lot to witness.
+
+00:17:38,529 --> 00:17:41,740
+The afternoon found Holmes and myself seated side by side
+
+00:17:41,740 --> 00:17:44,099
+in a railway carriage bound for Ladakhia.
+
+00:17:44,099 --> 00:17:49,519
+The day was grey, with a damp mist hanging yo over the fields of Surrey.
+
+00:17:49,519 --> 00:17:53,519
+Holmes, wrapped in his long Inverness cloak, leaned back with closed eyes.
+
+00:17:53,519 --> 00:17:55,449
+The very picture of repose.
+
+00:17:55,449 --> 00:17:59,319
+And yet from the quick tapping of his fingers upon his knee,
+
+00:17:59,319 --> 00:18:02,579
+I perceived that his mind was in restless motion.
+
+00:18:02,579 --> 00:18:04,439
+Holmes, I said at last.
+
+00:18:04,440 --> 00:18:07,460
+You have formed some theory already, I am sure of it.
+
+00:18:07,460 --> 00:18:11,550
+The story of Miss Stoner, the violence of her stepfather, surely it points to something?
+
+00:18:11,550 --> 00:18:16,210
+His eyes opened and he gave me a quick smile.
+
+00:18:16,210 --> 00:18:21,090
+A theory, Watson, yes, but one that still lacks foundation.
+
+00:18:21,090 --> 00:18:27,009
+To theorize before one has all the evidence is a capital mistake.
+
+00:18:27,009 --> 00:18:31,159
+I have suspicions, certainly, but suspicion is not proof.
+
+00:18:31,159 --> 00:18:34,309
+Proof must be gathered at Stoke Moran.
+
+00:18:34,309 --> 00:18:37,480
+Until then, I withhold judgment.
+
+00:18:37,480 --> 00:18:41,329
+And yet, I persisted, you speak of Miss Stoner being in grave peril.
+
+00:18:41,329 --> 00:18:44,400
+You must have some notion of what form that peril takes.
+
+00:18:44,400 --> 00:18:48,369
+He leaned forward, his expression suddenly serious.
+
+00:18:48,369 --> 00:18:50,320
+Think, Watson.
+
+00:18:50,320 --> 00:18:54,170
+The late Julia Stoner spoke of a speckled band.
+
+00:18:54,170 --> 00:18:57,500
+The words are vague, but they suggest something visible.
+
+00:18:57,500 --> 00:18:58,759
+..
+
+00:18:58,759 --> 00:19:02,259
+Add to this the nightly whistle, the metallic clang,
+
+00:19:02,259 --> 00:19:05,820
+and the fact that no poison was detected in her body,
+
+00:19:05,820 --> 00:19:10,619
+clearly we are dealing with a subtle and unusual method of murder.
+
+00:19:10,619 --> 00:19:14,309
+Only by examining her room shall we know the truth.
+
+00:19:14,309 --> 00:19:14,859
+Hark!
+
+00:19:14,859 --> 00:19:16,500
+..
+
+00:19:16,500 --> 00:19:20,159
+He said no more, and we journeyed the remainder of the way in silence.
+
+00:19:20,159 --> 00:19:22,789
+Presently we arrived at the licking station of Leatherhead,
+
+00:19:22,789 --> 00:19:27,699
+where we engaged a dog cart and drove through winding lanes bordered by budding hedgerows.
+
+00:19:27,699 --> 00:19:31,299
+The country was quiet, yet there hung about it a sense of desolation,
+
+00:19:31,299 --> 00:19:35,379
+as though nature herself recoiled from the human habitation we were soon to visit.
+
+00:19:35,379 --> 00:19:36,460
+..
+
+00:19:36,460 --> 00:19:39,279
+At length we turned into a drive that led up to a gloomy house,
+
+00:19:39,279 --> 00:19:42,719
+half ruined, choking in places, its windows shuttered and broken.
+
+00:19:42,719 --> 00:19:45,400
+Here and there repairs had been attempted, but the effect was,
+
+00:19:45,400 --> 00:19:47,400
+but to emphasize the general decay,
+
+00:19:47,400 --> 00:19:51,869
+tall trees overhung the building, casting dark shadows even in the wan daylight,
+
+00:19:51,869 --> 00:19:54,239
+and the air seemed heavy with melancholy.
+
+00:19:54,239 --> 00:19:58,119
+Cheerless place homes, I murmured, gazing up at the ancient stone.
+
+00:19:58,119 --> 00:20:03,719
+Indeed, Watson, Stoke Moran is well suited to the character of its master.
+
+00:20:03,719 --> 00:20:08,159
+Look there, see the clumps of gypsy tents upon the meadow.
+
+00:20:08,159 --> 00:20:13,719
+Roylott has permitted them to camp here, and they repay him with their lawless loyalty.
+
+00:20:13,719 --> 00:20:14,779
+..
+
+00:20:14,779 --> 00:20:18,980
+Even as he spoke, a pair of swarthy men in gaudy garments passed us.
+
+00:20:18,980 --> 00:20:21,559
+Their dark eyes following with open suspicion.
+
+00:20:21,559 --> 00:20:26,079
+From behind the house there came the cry of some strange beast, half snarling, half wailing.
+
+00:20:26,079 --> 00:20:30,279
+I started an alarm. What in heaven's name was that?
+
+00:20:30,279 --> 00:20:34,339
+Holmes shrugged. One of Dr. Roylott's pets?
+
+00:20:34,339 --> 00:20:39,279
+A cheetah, perhaps, or the baboon of which Miss Stoner spoke.
+
+00:20:39,279 --> 00:20:45,909
+He delights in surrounding himself with savage creatures, as if to mirror his own spirit.
+
+00:20:45,909 --> 00:20:50,849
+Good, we drew up before the entrance, and thereupon the steps awaited Miss Helen Stoner.
+
+00:20:50,849 --> 00:20:53,939
+Her pale face brightened with relief as she beheld us.
+
+00:20:53,940 --> 00:20:59,539
+Oh, thank God you have come, she exclaimed hastening forward.
+
+00:20:59,539 --> 00:21:02,100
+I have lived these hours in dread.
+
+00:21:02,100 --> 00:21:03,860
+..
+
+00:21:03,860 --> 00:21:07,700
+He has gone into town for the day, but will return before evening.
+
+00:21:07,700 --> 00:21:09,389
+We must be quick.
+
+00:21:09,389 --> 00:21:12,400
+Holmes raised his hand reassuringly.
+
+00:21:12,400 --> 00:21:14,610
+All shall be done in order, Miss Stoner.
+
+00:21:14,610 --> 00:21:17,140
+First, lead us to the rooms in question.
+
+00:21:17,140 --> 00:21:20,180
+I would see your chamber and your sisters.
+
+00:21:20,180 --> 00:21:23,240
+She guided us through a dark oak passage.
+
+00:21:23,240 --> 00:21:25,900
+Its panels were eaten with age.
+
+00:21:25,900 --> 00:21:28,240
+Until we came to a small suite of rooms,
+
+00:21:28,240 --> 00:21:30,779
+the first door opened upon her present bedroom,
+
+00:21:30,779 --> 00:21:33,070
+brightened by a single window, Dowager.
+
+00:21:33,070 --> 00:21:35,929
+Next was a narrow passage leading to the fatal chamber,
+
+00:21:35,929 --> 00:21:39,949
+and beyond that, the room used by Dr. Roylott himself.
+
+00:21:39,949 --> 00:21:44,519
+This arrangement is most suggestive, murmured Holmes.
+
+00:21:44,519 --> 00:21:48,429
+The father's room adjoining, the daughter's chamber in the middle.
+
+00:21:48,429 --> 00:21:51,960
+Trey, Miss Stoner, show us Julia's old room,
+
+00:21:51,960 --> 00:21:53,829
+where you now sleep.
+
+00:21:53,829 --> 00:21:55,139
+Yashara's within,
+
+00:21:55,139 --> 00:21:56,559
+it was a small chamber,
+
+00:21:56,559 --> 00:21:57,630
+plainly furnished,
+
+00:21:57,630 --> 00:21:58,559
+with a low ceiling
+
+00:21:58,559 --> 00:21:59,759
+and a single window
+
+00:21:59,759 --> 00:22:01,030
+that overlooked the lawn.
+
+00:22:01,030 --> 00:22:03,220
+The wallpaper was old and faded
+
+00:22:03,220 --> 00:22:05,059
+and the air of the place was closed
+
+00:22:05,059 --> 00:22:07,050
+as though it had long been shut.
+
+00:22:07,050 --> 00:22:08,780
+A modest room, I said,
+
+00:22:08,780 --> 00:22:09,730
+glancing about.
+
+00:22:09,730 --> 00:22:11,559
+Yet I feel a chill here, Holmes,
+
+00:22:11,559 --> 00:22:12,740
+as though it still holds
+
+00:22:12,740 --> 00:22:14,299
+the memory of tragedy.
+
+00:22:14,299 --> 00:22:16,130
+He made no reply,
+
+00:22:16,130 --> 00:22:18,100
+but his keen eyes darted
+
+00:22:18,100 --> 00:22:19,769
+from one object to another.
+
+00:22:19,769 --> 00:22:21,259
+He examined the window,
+
+00:22:21,259 --> 00:22:26,259
+which was secured by strong shutters fastened from within.
+
+00:22:26,259 --> 00:22:30,469
+He tested the chimney, but it was narrow and impassable.
+
+00:22:30,469 --> 00:22:33,320
+Then he turned his attention to the bed,
+
+00:22:33,320 --> 00:22:36,740
+which stood clamped to the floor by iron screws.
+
+00:22:36,740 --> 00:22:40,269
+Why should a bed be fastened in this fashion?
+
+00:22:40,269 --> 00:22:41,900
+He asked softly.
+
+00:22:41,900 --> 00:22:44,320
+A most unusual arrangement.
+
+00:22:44,320 --> 00:22:47,469
+You cannot move it, even an inch.
+
+00:22:47,469 --> 00:22:50,460
+He next scrutinized the bell-rope, which hung close to the bed-head.
+
+00:22:50,460 --> 00:22:53,610
+It appeared to be a common pull cord for summoning servants.
+
+00:22:53,610 --> 00:22:57,640
+Holmes tugged at it, but to my surprise it was immovable.
+
+00:22:57,640 --> 00:23:00,269
+A dummy, he observed grimly.
+
+00:23:00,269 --> 00:23:05,150
+See, Watson, it is fastened to a brass hook above and leads nowhere.
+
+00:23:05,150 --> 00:23:07,920
+There is no wire behind it.
+
+00:23:07,920 --> 00:23:12,930
+Strange indeed, I murmured, but why should anyone place a sham bell rope by the bed?
+
+00:23:12,930 --> 00:23:16,410
+Holmes' lips tightened, but he said nothing.
+
+00:23:16,410 --> 00:23:22,289
+Instead, he mounted a chair and examined the small ventilator opening above the cord.
+
+00:23:22,289 --> 00:23:25,400
+Here, Watson, observe this vent.
+
+00:23:25,400 --> 00:23:28,920
+It does not lead to the outer air as one might expect,
+
+00:23:28,920 --> 00:23:32,060
+but communicates directly with the adjoining room.
+
+00:23:32,060 --> 00:23:33,380
+..
+
+00:23:33,380 --> 00:23:35,849
+Dock, dock, Roylott's chamber.
+
+00:23:35,849 --> 00:23:40,100
+Good heavens! Then sound might pass easily from one room to the other.
+
+00:23:40,100 --> 00:23:41,240
+..
+
+00:23:41,240 --> 00:23:43,900
+Precisely, and perhaps more than sound.
+
+00:23:43,900 --> 00:23:50,019
+I stared in amazement while Holmes descended slowly, his eyes gleaming with a suppressed excitement.
+
+00:23:50,019 --> 00:23:53,800
+He then requested that we examine Dr. Roller's own chamber.
+
+00:23:53,800 --> 00:23:58,780
+Miss Stoner led us into the adjoining room, which was larger and more comfortably furnished,
+
+00:23:58,780 --> 00:24:04,090
+with a great iron safe in the corner, a wooden chair and a small saucer of milk upon the top of the safe.
+
+00:24:04,090 --> 00:24:07,809
+Milk, I exclaimed, yet there is no cat.
+
+00:24:07,809 --> 00:24:10,800
+Holmes' voice was low and stern.
+
+00:24:10,800 --> 00:24:12,200
+No cat, Watson!
+
+00:24:12,200 --> 00:24:17,490
+But perhaps something more sinister that takes milk as food.
+
+00:24:17,490 --> 00:24:22,980
+And see here upon the safe, a small loop of cord, neatly coiled.
+
+00:24:22,980 --> 00:24:25,849
+He lifted it carefully. It was a dog lash.
+
+00:24:25,849 --> 00:24:28,930
+But instead of ending in a handle, it was tied into a loop.
+
+00:24:28,930 --> 00:24:31,250
+Holmes replaced it, his face grave.
+
+00:24:31,250 --> 00:24:34,059
+This matter grows darker with every moment.
+
+00:24:34,059 --> 00:24:39,049
+Miss Stoner, I must ask you to do exactly as I say.
+
+00:24:39,049 --> 00:24:44,990
+Tonight, when your stepfather returns, you must excuse yourself and retire early.
+
+00:24:44,990 --> 00:24:50,630
+When he's safely in his chamber, you will slip into another room, Dr. Tremoril.
+
+00:24:50,630 --> 00:24:55,039
+Watson and I shall occupy this one in secret.
+
+00:24:55,039 --> 00:24:58,970
+But whatever happens, breathe not a word of our presence.
+
+00:24:58,970 --> 00:25:00,140
+Do you understand?
+
+00:25:00,140 --> 00:25:06,519
+I do, Mr. Holmes, she whispered, her voice trembling, and I shall do precisely as you command.
+
+00:25:06,519 --> 00:25:10,839
+Only save me, for I cannot endure this terror any longer
+
+00:25:10,839 --> 00:25:14,279
+Courage, Miss Stoner, the end is at hand
+
+00:25:14,279 --> 00:25:17,460
+She pressed Holmes' hand with fervent gratitude
+
+00:25:17,460 --> 00:25:19,920
+And we withdrew to confer privacy in the garden
+
+00:25:19,920 --> 00:25:23,519
+Holmes' face, usually impassive, was alight with a fierce energy
+
+00:25:23,519 --> 00:25:27,500
+Watson, we stand upon the brink of discovery
+
+00:25:27,500 --> 00:25:29,940
+All the pieces are before us
+
+00:25:29,940 --> 00:25:34,079
+The dummy bell-rope, the ventilator, the bed clamped to the floor
+
+00:25:34,079 --> 00:25:36,200
+The milk, the loop of cord
+
+00:25:36,200 --> 00:25:38,240
+Tonight we shall know the truth
+
+00:25:38,240 --> 00:25:40,019
+But mark me well
+
+00:25:40,019 --> 00:25:42,720
+There is deadly peril in this business
+
+00:25:42,720 --> 00:25:45,039
+You may choose to remain behind
+
+00:25:45,039 --> 00:25:46,960
+I straightened with resolve
+
+00:25:46,960 --> 00:25:48,480
+Holmes, I go where you go
+
+00:25:48,480 --> 00:25:50,139
+Have I not always shared your dangers?
+
+00:25:50,139 --> 00:25:52,220
+Do not insult me by suggesting otherwise
+
+00:25:52,220 --> 00:25:53,080
+Darked
+
+00:25:53,080 --> 00:25:56,740
+He clasped my shoulder with rare warmth
+
+00:25:56,740 --> 00:25:59,880
+Spoken like the stone chest of friends
+
+00:25:59,880 --> 00:26:02,039
+Very well, Watson
+
+00:26:02,039 --> 00:26:06,160
+Tonight then we shall keep vigil in Julia Stoner's chamber
+
+00:26:06,160 --> 00:26:11,920
+and before dawn we shall have unraveled the riddle of the speckled band.
+
+00:26:11,920 --> 00:26:16,560
+With that solemn pledge, we departed the dismal house to await the coming night
+
+00:26:16,560 --> 00:26:20,450
+when the secret of Stoke Moran would at last be revealed.
+
+00:26:20,450 --> 00:26:25,769
+The sun had set in a haze of crimson, leaving the Surrey landscape dim and foreboding.
+
+00:26:25,769 --> 00:26:29,000
+Holmes and I lingered at Little Inn some miles from Stoke Moran,
+
+00:26:29,000 --> 00:26:31,600
+eating a meagre supper and conversing in low tones.
+
+00:26:31,600 --> 00:26:35,259
+The innkeeper, a ruddy-faced fellow, eyed us curiously,
+
+00:26:35,259 --> 00:26:37,490
+but Holmes gave no sign of his thoughts.
+
+00:26:37,490 --> 00:26:40,219
+Only once did he speak, his voice grave.
+
+00:26:40,219 --> 00:26:45,190
+Watson, tonight you must be calm, steady and silent.
+
+00:26:45,190 --> 00:26:48,730
+Whatever you see or hear, you must not stir,
+
+00:26:48,730 --> 00:26:51,849
+for our very lives may depend upon it.
+
+00:26:51,849 --> 00:26:55,639
+You alarm me, Holmes. Do you truly expect violence?
+
+00:26:55,639 --> 00:26:58,779
+Not violence in the form you imagine,
+
+00:26:58,779 --> 00:27:02,819
+but there is danger, subtle, swift and deadly.
+
+00:27:02,819 --> 00:27:10,019
+Keep your revolver close at hand, though I hope we shall not need it. Above all, watch!
+
+00:27:10,019 --> 00:27:32,819
+.......................
+
+00:27:32,819 --> 00:27:35,449
+of Stoke Moran, we found them unlatched.
+
+00:27:35,449 --> 00:27:37,940
+Passing silently within, we skirted the drive,
+
+00:27:37,940 --> 00:27:39,869
+keeping to the grass to muffle our steps.
+
+00:27:39,869 --> 00:27:42,170
+Holmes guided me with the certainty of a cat,
+
+00:27:42,170 --> 00:27:44,069
+his long arms wrapped in his cloak.
+
+00:27:44,069 --> 00:27:46,059
+Presently, we glimpsed a dim light
+
+00:27:46,059 --> 00:27:48,099
+burning in one of the upper windows,
+
+00:27:48,099 --> 00:27:49,869
+the doctor's room, no doubt.
+
+00:27:49,869 --> 00:27:51,539
+Trouching by the shrubbery,
+
+00:27:51,539 --> 00:27:53,590
+we waited until all was still.
+
+00:27:53,590 --> 00:27:55,619
+Then a slight figure stole out from the side door
+
+00:27:55,619 --> 00:27:56,969
+and glided toward us.
+
+00:27:56,969 --> 00:27:58,130
+It was Helen Stoner,
+
+00:27:58,130 --> 00:28:00,239
+her shawl wrapped tightly about her.
+
+00:28:00,239 --> 00:28:02,710
+Mr. Holmes, Dr. Watson,
+
+00:28:02,710 --> 00:28:04,779
+She whispered, he has returned.
+
+00:28:04,779 --> 00:28:06,199
+He is in his room.
+
+00:28:06,199 --> 00:28:07,630
+I have done as you said.
+
+00:28:07,630 --> 00:28:09,779
+I have retired early to the other wing.
+
+00:28:09,779 --> 00:28:12,039
+My stepfather suspects nothing.
+
+00:28:12,039 --> 00:28:13,240
+..
+
+00:28:13,240 --> 00:28:13,919
+Excellent.
+
+00:28:13,919 --> 00:28:16,599
+Now go at once and lock yourself in.
+
+00:28:16,599 --> 00:28:19,700
+Do not open your door until we summon you in the morning.
+
+00:28:19,700 --> 00:28:22,190
+No matter what occurs.
+
+00:28:22,190 --> 00:28:24,700
+She grasped Holmes' hand with trembling fingers.
+
+00:28:24,700 --> 00:28:25,859
+..
+
+00:28:25,859 --> 00:28:27,039
+God, God, you both.
+
+00:28:27,039 --> 00:28:28,639
+..
+
+00:28:28,639 --> 00:28:31,579
+With that she disappeared and Holmes beckoned me forward.
+
+00:28:31,579 --> 00:28:36,299
+We stole across the lawn, climbed lightly through the window of Julia Stoner's room,
+
+00:28:36,299 --> 00:28:38,659
+and closed the shutters behind us.
+
+00:28:38,659 --> 00:28:42,639
+Holmes, I whispered, my heart is beating as though it would burst.
+
+00:28:42,639 --> 00:28:44,569
+This place chills me to the bone.
+
+00:28:44,569 --> 00:28:47,210
+He pressed a finger to his lips.
+
+00:28:47,210 --> 00:28:49,539
+Hush, Watson, not a word.
+
+00:28:49,539 --> 00:28:51,559
+We are in the presence of our enemy.
+
+00:28:51,559 --> 00:28:53,500
+..
+
+00:28:53,500 --> 00:28:57,779
+The room lay in complete darkness, save for the faint glimmer of moonlight
+
+00:28:57,779 --> 00:28:59,919
+filtering through the cracks of the shutters.
+
+00:28:59,920 --> 00:29:05,230
+Holmes placed a small dark lantern upon the table, turning the shutter so that not a ray escaped.
+
+00:29:05,230 --> 00:29:07,430
+He then motioned me to sit upon the bed.
+
+00:29:07,430 --> 00:29:12,039
+While he took a chair beside me, his eyes fixed upon the ventilator above.
+
+00:29:12,039 --> 00:29:17,550
+For long hours we sat thus, scarcely daring to breathe, where the silence was oppressive,
+
+00:29:17,550 --> 00:29:22,740
+broken only by the occasional creak of the timbers or the far-off cry of some night creature.
+
+00:29:22,740 --> 00:29:23,960
+Thine dragged heavily.
+
+00:29:23,960 --> 00:29:27,259
+I could hear the beating of my own heart, the ticking of my watch,
+
+00:29:27,259 --> 00:29:30,300
+the faint hiss of Holmes' steady breathing.
+
+00:29:30,300 --> 00:29:32,769
+At length I leaned toward him and whispered,
+
+00:29:32,769 --> 00:29:34,769
+Holmes, how long must we wait?
+
+00:29:34,769 --> 00:29:37,730
+His answer came scarcely above a breath,
+
+00:29:37,730 --> 00:29:42,500
+until the signal comes, and it will come.
+
+00:29:42,500 --> 00:29:43,660
+..
+
+00:29:43,660 --> 00:29:45,480
+Midnight struck from a distant block.
+
+00:29:45,480 --> 00:29:46,960
+Still we sat in silence.
+
+00:29:46,960 --> 00:29:49,240
+My limbs grew stiff, my eyelids heavy,
+
+00:29:49,240 --> 00:29:51,070
+yet fear kept me from sleep.
+
+00:29:51,070 --> 00:29:54,079
+Suddenly Holmes stirred, raising his hand sharply.
+
+00:29:54,079 --> 00:29:55,759
+Listen, he hissed.
+
+00:29:55,759 --> 00:29:59,659
+From the next room, there sounded a soft, metallic scrape.
+
+00:29:59,659 --> 00:30:03,559
+Age could mean, as though some iron were being moved cautiously.
+
+00:30:03,559 --> 00:30:07,199
+Then came a silence so deep that I felt the hair upon my neck rise.
+
+00:30:07,199 --> 00:30:07,769
+Ow!
+
+00:30:07,769 --> 00:30:11,190
+After an interval, how long or short, I cannot say,
+
+00:30:11,190 --> 00:30:14,969
+there broke the stillness a sound so faint I could scarce believe my ears.
+
+00:30:14,969 --> 00:30:19,030
+It was a low whistle, rising and falling, strangely musical.
+
+00:30:19,030 --> 00:30:23,039
+Holmes sprang to his feet, his eyes gleaming in the darkness.
+
+00:30:23,039 --> 00:30:25,680
+The Siglo, steady Watson.
+
+00:30:25,680 --> 00:30:53,039
+............................
+
+00:30:53,039 --> 00:30:55,309
+its skin marked with livid speckles,
+
+00:30:55,309 --> 00:30:59,190
+its head raised and eyes gleaming like evil jewels in the sudden glare.
+
+00:30:59,190 --> 00:31:02,039
+Merciful heaven, I cried, recoiling.
+
+00:31:02,039 --> 00:31:04,829
+But Holmes had acted with the speed of lightning.
+
+00:31:04,829 --> 00:31:07,579
+Cheesing his cane, he lashed furiously at the creature,
+
+00:31:07,579 --> 00:31:09,489
+driving it back toward the ventilator.
+
+00:31:09,489 --> 00:31:12,179
+The snake hissed, its body writhing in fury,
+
+00:31:12,179 --> 00:31:14,379
+and then it vanished through the opening.
+
+00:31:14,379 --> 00:31:18,630
+Back, quick, Watson, Holmes whispered hoarsely.
+
+00:31:18,630 --> 00:31:20,119
+It will strike elsewhere.
+
+00:31:20,119 --> 00:31:26,969
+Even as he spoke, there burst from the adjoining room a most unearthly scream, a cry so wild,
+
+00:31:26,969 --> 00:31:32,179
+so full of agony and terror, that it throws my very blood, because there followed a dreadful
+
+00:31:32,179 --> 00:31:36,750
+silence, broken only by a heavy thud as of a body falling to the ground.
+
+00:31:36,750 --> 00:31:40,289
+What has happened, Holmes? I gasped, springing up.
+
+00:31:40,289 --> 00:31:48,259
+He caught my arm. Wait, Watson, we dare not rush in unprepared. But I fear so the creature has
+
+00:31:48,259 --> 00:31:55,240
+turned upon its master. Diver! For some minutes we waited, scarcely daring to stir, until all
+
+00:31:55,240 --> 00:32:01,519
+was still once more. Then Holmes set his jaw and raised his lantern. Come, Watson, the matter is
+
+00:32:01,519 --> 00:32:07,539
+ended. We passed swiftly into the adjoining room. The sight that met our eyes would remain with me
+
+00:32:07,539 --> 00:32:13,240
+until the end of my days. There, sprawled across the bed, lay the figure of Dr. Ransmey Roylott,
+
+00:32:13,240 --> 00:32:18,079
+His limbs convulsed, his eyes glaring hideously, his face distorted in death.
+
+00:32:18,079 --> 00:32:22,210
+About his brow jumped the dreadful creature we had seen, the speckled snake.
+
+00:32:22,210 --> 00:32:25,800
+Its body wound tightly, its head raised in triumph.
+
+00:32:25,800 --> 00:32:29,940
+I recoiled in horror, the very devil incarnate.
+
+00:32:29,940 --> 00:32:34,440
+With calm precision, Holmes seized the dog lash from the safe,
+
+00:32:34,440 --> 00:32:38,349
+looped it swiftly about the reptile, and with a steady hand,
+
+00:32:38,349 --> 00:32:41,819
+drew the writhing creature back into the iron chamber.
+
+00:32:41,819 --> 00:32:46,429
+He flung it within, shut the door and turned the key.
+
+00:32:46,429 --> 00:32:48,670
+The matter is closed, Watson.
+
+00:32:48,670 --> 00:32:54,130
+Roylott is dead struck down by the very means he devised for another.
+
+00:32:54,130 --> 00:32:57,029
+I stood shaken, scarcely able to speak.
+
+00:32:57,029 --> 00:32:59,989
+The lantern light flickered upon the lifeless form of the doctor,
+
+00:32:59,989 --> 00:33:02,949
+upon the ghastly grin that seemed to mock even in death.
+
+00:33:02,949 --> 00:33:07,069
+I turned to Holmes, who gazed upon the scene with stern composure.
+
+00:33:07,069 --> 00:33:10,599
+Holmes, I whispered, what in God's name was it?
+
+00:33:10,599 --> 00:33:15,099
+The deadliest snake in India, the swamp adder
+
+00:33:15,099 --> 00:33:18,019
+Its venom kills within seconds
+
+00:33:18,019 --> 00:33:21,599
+Roylott kept it here, trained to enter the girl's room
+
+00:33:21,599 --> 00:33:24,639
+By means of the ventilator and the dummy rope
+
+00:33:24,639 --> 00:33:28,579
+Lured back by the whistle and the saucer of milk
+
+00:33:28,579 --> 00:33:32,000
+Tonight, Watson, it turned upon him
+
+00:33:32,000 --> 00:33:35,299
+And thus the wicked received his due
+
+00:33:35,299 --> 00:33:39,019
+And so, in that grim chamber at Stoke Moran
+
+00:33:39,019 --> 00:33:43,809
+the shadow lifted from the life of Helen Stoner. The mystery of the speckled band was laid bare,
+
+00:33:43,809 --> 00:33:49,039
+though the horror of it would haunt me long after. The dreadful cry that had rung through
+
+00:33:49,039 --> 00:33:55,079
+Stope Moran still echoed in my ears as Holmes turned the key upon the safe. Hmm, D.I.L.
+
+00:33:55,079 --> 00:33:59,900
+Imprisoning the loathsome serpent within. Wow. The lantern's light flickered across the grotesque
+
+00:33:59,900 --> 00:34:03,900
+features of Doctor. Clem is me, Roy Lord. His powerful fame now slackened in death,
+
+00:34:03,900 --> 00:34:07,590
+the moths of the snake's bite already darkening upon his brow.
+
+00:34:07,590 --> 00:34:10,510
+Holmes, I stammered, my voice unsteady.
+
+00:34:10,510 --> 00:34:12,550
+I can scarcely believe what I have seen,
+
+00:34:12,550 --> 00:34:15,690
+to think that such a monstrous plot was hatched beneath this roof,
+
+00:34:15,690 --> 00:34:21,059
+that a human being could stoop to murder his own stepchild in so infernal a fashion.
+
+00:34:21,059 --> 00:34:25,269
+Holmes' face was grave, but his voice steady.
+
+00:34:25,269 --> 00:34:30,660
+The ways of wickedness, Watson, are often more cunning than the ways of virtue.
+
+00:34:30,659 --> 00:34:33,799
+Croylott had both the cruelty and the ingenuity
+
+00:34:33,799 --> 00:34:35,779
+to devise a scheme which,
+
+00:34:35,779 --> 00:34:38,869
+but for chance and your faithful vigilance tonight,
+
+00:34:38,869 --> 00:34:41,409
+might have claimed its second victim.
+
+00:34:41,409 --> 00:34:45,880
+Yet, in the end, his own weapon has recoiled upon him.
+
+00:34:45,880 --> 00:34:49,579
+Justice, though delayed, has not been denied.
+
+00:34:49,579 --> 00:34:51,819
+...
+
+00:34:51,819 --> 00:34:54,239
+For some minutes we stood in silence,
+
+00:34:54,239 --> 00:34:56,099
+contemplating that ghastly scene.
+
+00:34:56,099 --> 00:34:59,159
+The silence of the house was broken only by the distant triumphant owl
+
+00:34:59,159 --> 00:35:02,819
+and the occasional hiss from the imprisoned adder within the safe.
+
+00:35:02,819 --> 00:35:06,029
+At length, Holmes turned away and laid his hand upon my shoulder.
+
+00:35:06,029 --> 00:35:09,300
+Come, Watson. Our duty here is done.
+
+00:35:09,300 --> 00:35:12,239
+Let us call Miss Stoner and relieve her mind.
+
+00:35:12,239 --> 00:35:14,480
+...
+
+00:35:14,480 --> 00:35:18,039
+She need never again know the terror of this room.
+
+00:35:18,039 --> 00:35:19,139
+..
+
+00:35:19,139 --> 00:35:21,000
+We retraced our steps along the passage,
+
+00:35:21,000 --> 00:35:23,579
+where Helen Stoner awaited us in her own chamber.
+
+00:35:23,579 --> 00:35:27,779
+Her pained face was drawn with anxiety and she sprang to her feet as we entered.
+
+00:35:27,779 --> 00:35:31,269
+Mr. Holmes, Dr. Watson, what has happened?
+
+00:35:31,269 --> 00:35:35,590
+I heard a scream, so dreadful, so unearthly.
+
+00:35:35,590 --> 00:35:37,750
+Tell me, what does it mean?
+
+00:35:37,750 --> 00:35:39,820
+Holmes regarded her with compassion.
+
+00:35:39,820 --> 00:35:43,690
+It means, Miss Stoner, that you are safe.
+
+00:35:43,690 --> 00:35:46,970
+Your stepfather is dead.
+
+00:35:46,970 --> 00:35:53,160
+He has perished by the very device with which he sought to destroy you.
+
+00:35:53,159 --> 00:35:57,579
+She pressed her hands to her face, overcome with conflicting emotions.
+
+00:35:57,579 --> 00:36:01,279
+Relief, sorrow and horror all struggled within her.
+
+00:36:01,279 --> 00:36:04,119
+At last she whispered, her voice trembling.
+
+00:36:04,119 --> 00:36:07,250
+Dead? Then the nightmare is ended.
+
+00:36:07,250 --> 00:36:09,589
+Oh, thank God! Thank God!
+
+00:36:09,589 --> 00:36:16,159
+And yet, though he was harsh and violent, he was still my mother's husband.
+
+00:36:16,159 --> 00:36:18,519
+I cannot rejoice in his death.
+
+00:36:18,519 --> 00:36:21,799
+I cannot rejoice in his death. I...
+
+00:36:21,800 --> 00:36:35,920
+nor should you miss stoner said holmes gently but you may rejoice in your deliverance the law would have demanded his punishment providence has taken the matter into its own hands
+
+00:36:35,920 --> 00:36:39,170
+She sank into a chair, covering her face with her hands.
+
+00:36:39,170 --> 00:36:43,190
+Holmes allowed her a moment's composure before he addressed her again.
+
+00:36:43,190 --> 00:36:46,030
+Miss Stoner, you must rest.
+
+00:36:46,030 --> 00:36:51,340
+Tomorrow, when daylight returns, you will be free to leave this place forever.
+
+00:36:51,340 --> 00:36:56,710
+The estate will pass into other hands, and you may begin anew.
+
+00:36:56,710 --> 00:37:00,710
+Take courage, for your future lies clear before you.
+
+00:37:00,710 --> 00:37:04,619
+She looked up, tears glistening in her eyes, and pressed Holmes' hand.
+
+00:37:04,619 --> 00:37:08,840
+I owe you my life, Mr. Holmes, yours and Dr. Watson's.
+
+00:37:08,840 --> 00:37:11,059
+How can I ever repay such a debt?
+
+00:37:11,059 --> 00:37:13,289
+Holmes bowed gravely.
+
+00:37:13,289 --> 00:37:16,630
+Your gratitude is sufficient reward.
+
+00:37:16,630 --> 00:37:19,779
+And now, Watson, let us depart.
+
+00:37:19,779 --> 00:37:21,339
+..
+
+00:37:21,339 --> 00:37:24,059
+Our task is done.
+
+00:37:24,059 --> 00:37:26,400
+We left her with words of reassurance
+
+00:37:26,400 --> 00:37:29,399
+and made our way once more through the desolate house,
+
+00:37:29,399 --> 00:37:31,179
+out into the chill night air.
+
+00:37:31,179 --> 00:37:33,519
+The stars were paling, for dawn was near
+
+00:37:33,519 --> 00:37:38,470
+and the first faint streaks of light touched the horizon as we passed down the drive.
+
+00:37:38,470 --> 00:37:42,920
+Holmes walked swiftly, his cloak wrapped about him, his head bent in thought.
+
+00:37:42,920 --> 00:37:46,789
+Holmes, I said at last, I beg you, explain all.
+
+00:37:46,789 --> 00:37:49,220
+I understand that Roylott used the snake as his instrument,
+
+00:37:49,220 --> 00:37:51,430
+but how could such a scheme have been contrived?
+
+00:37:51,430 --> 00:37:55,560
+And what of the speckled band, the dying words of Julia Stoner?
+
+00:37:55,560 --> 00:38:02,480
+He slowed his pace and turned to me, his features illuminated by the grey dawn.
+
+00:38:02,480 --> 00:38:08,329
+It is simplicity itself, Watson, though diabolical in its ingenuity.
+
+00:38:08,329 --> 00:38:14,519
+When Miss Stoner told us of her sister's words, I was struck by the peculiar phrase,
+
+00:38:14,519 --> 00:38:21,460
+the speckled band. At first I thought of a band of gypsies, since Roylott had allowed them to camp
+
+00:38:21,460 --> 00:38:27,900
+upon his grounds. But the more I considered, the more I felt it must refer to something visible
+
+00:38:27,900 --> 00:38:34,130
+and immediate, something that had been present in the room at the very moment of death.
+
+00:38:34,130 --> 00:38:41,800
+When I saw the ventilator, the fixed bed and the dummy rope, the whole design became clear.
+
+00:38:41,800 --> 00:38:44,300
+And the whistle, the metallic gland?
+
+00:38:44,300 --> 00:38:52,440
+The whistle was the doctor's signal to summon back his trained adder, which he kept in the safe.
+
+00:38:52,440 --> 00:38:59,819
+He had taught it to crawl through the ventilator along the bell-rope and into the bed of the sleeping girl.
+
+00:38:59,819 --> 00:39:04,039
+Once there, it would strike, leaving little or no trace.
+
+00:39:04,039 --> 00:39:12,079
+In the morning, at his call, it would return by the same path and he would shut it away, giving it milk as its reward.
+
+00:39:12,079 --> 00:39:14,780
+The clang was the closing of the safe door.
+
+00:39:14,780 --> 00:39:16,159
+..
+
+00:39:16,159 --> 00:39:21,780
+Monstrous, I exclaimed, and to think, he sought to repeat the crime upon Helen as he had upon Julia.
+
+00:39:21,780 --> 00:39:25,460
+But why homes? Ha, I know. Why destroy them?
+
+00:39:25,460 --> 00:39:29,650
+Money, Watson. The most common motive of all.
+
+00:39:29,650 --> 00:39:35,190
+Their mother's will left each daughter a portion of her fortune upon marriage.
+
+00:39:35,190 --> 00:39:40,010
+Had both wed, Roylott's income would have been severely reduced.
+
+00:39:40,010 --> 00:39:47,140
+To prevent that, he chose to remove them by the surest means his cruel imagination could devise.
+
+00:39:47,139 --> 00:39:53,340
+I shook my head, filled with loathing, to think that a man of science could descend to such villainy.
+
+00:39:53,340 --> 00:39:57,099
+But, Holmes, how did you know the snake would turn upon him to-night?
+
+00:39:57,099 --> 00:40:03,720
+I did not know, but when I lashed at it with my cane, I forced it back through the ventilator.
+
+00:40:03,720 --> 00:40:09,809
+It sought refuge in the nearest warm body, which happened to be its master.
+
+00:40:09,809 --> 00:40:12,699
+Roylott's own ingenuity brought about his death.
+
+00:40:12,699 --> 00:40:14,859
+He spoke with cold precision
+
+00:40:14,859 --> 00:40:17,960
+Yet I could not feign to note a trace of sadness in his tone
+
+00:40:17,960 --> 00:40:19,859
+Holmes, for all his iron composure
+
+00:40:19,859 --> 00:40:22,659
+Was never untouched by the tragedies of human folly
+
+00:40:22,659 --> 00:40:25,599
+It is a grim satisfaction, Watson
+
+00:40:25,599 --> 00:40:28,139
+To have saved an innocent life
+
+00:40:28,139 --> 00:40:31,079
+Yet it is always a dreadful thing
+
+00:40:31,079 --> 00:40:33,939
+When man is slain by man
+
+00:40:33,939 --> 00:40:36,539
+Even though justice may approve the act
+
+00:40:36,539 --> 00:40:38,939
+We walked on in silence for some time
+
+00:40:38,939 --> 00:40:40,779
+The morning brightening around us
+
+00:40:40,779 --> 00:40:42,579
+The bird stirring in the hedgerows
+
+00:40:42,579 --> 00:40:46,849
+At last we reached the station, where the early train pours back toward London.
+
+00:40:46,849 --> 00:40:52,149
+As the wheels clattered upon the rails, I pondered deeply upon the strange events of the night.
+
+00:40:52,149 --> 00:41:00,489
+Holmes, I said softly, your genius has once again unraveled a mystery that would have baffled all others to think of the delicate chain of reasoning.
+
+00:41:00,489 --> 00:41:04,069
+The ventilator, the bed, the rope, it seems incredible.
+
+00:41:04,069 --> 00:41:06,079
+He gave a faint smile.
+
+00:41:06,079 --> 00:41:09,719
+You give me too much credit, my dear Watson.
+
+00:41:09,719 --> 00:41:18,769
+The problem was singular, but the solution laid plain to any mind that would observe carefully and reason logically.
+
+00:41:18,769 --> 00:41:23,920
+Remember always, from trifles, great truths may be deduced.
+
+00:41:23,920 --> 00:41:27,779
+That, after all, is the essence of my method.
+
+00:41:27,779 --> 00:41:35,919
+I nodded, though I knew that no amount of study would ever grant me the swift intuition and brilliant deductions of my friend.
+
+00:41:35,920 --> 00:41:38,200
+yet I was proud to have shared in the adventure
+
+00:41:38,200 --> 00:41:41,819
+and prouder still to have stood by his side in the hour of peril.
+
+00:41:41,819 --> 00:41:44,190
+And so ends the tale of the speckled band,
+
+00:41:44,190 --> 00:41:47,010
+a tale of terror, of cunning and of justice.
+
+00:41:47,010 --> 00:41:50,820
+It remains in my mind one of the darkest and most remarkable cases
+
+00:41:50,820 --> 00:41:52,240
+ever handled by Sherlock Holmes
+
+00:41:52,240 --> 00:41:55,670
+and one which proved yet again that in the presence of crime,
+
+00:41:55,670 --> 00:41:58,220
+his intellect shone like a beacon in the night.
+
+00:41:58,220 --> 00:41:58,519
+.
+

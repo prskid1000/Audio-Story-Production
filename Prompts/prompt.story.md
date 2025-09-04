@@ -12,7 +12,7 @@ LENGTH:
 
 CONTENT:
 
- - Consulting Detective Sherlock Holmes Story \[Victorian Drama] -> Sherlock Holmes and "The Glowing Suitcase".
+ - Consulting Detective Sherlock Holmes Story \[Victorian Drama] -> Sherlock Holmes and "The Beryl Coronet".
 
  - Use the narrator(Doctor John Watson himself is the narrator) for atmosphere and other detailing.
 

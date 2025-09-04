@@ -8,12 +8,12 @@ from typing import List, Dict, Any
 class TimingSFXGenerator:
     def __init__(self, lm_studio_url="http://localhost:1234/v1", model="qwen/qwen3-14b", use_json_schema=True):
         self.lm_studio_url = lm_studio_url
-        self.output_file = "sfx.txt"
+        self.output_file = "1.4.sfx.txt"
         self.model = model
         self.use_json_schema = use_json_schema
-        self.timeline_file = "timeline.txt"
+        self.timeline_file = "1.2.timeline.txt"
         
-    def read_timing_content(self, filename="timing.txt") -> str:
+    def read_timing_content(self, filename="1.3.timing.txt") -> str:
         """Read timing content from file"""
         try:
             with open(filename, 'r', encoding='utf-8') as f:
@@ -25,7 +25,7 @@ class TimingSFXGenerator:
             print(f"Error reading timing file: {e}")
             return None
     
-    def read_timeline_content(self, filename="timeline.txt") -> str:
+    def read_timeline_content(self, filename="1.2.timeline.txt") -> str:
         """Read timeline content from file"""
         try:
             with open(filename, 'r', encoding='utf-8') as f:
@@ -498,20 +498,20 @@ def main():
     import sys
     
     # Check command line arguments
-    timing_file = "timing.txt"
+    timing_file = "1.3.timing.txt"
     if len(sys.argv) > 1:
         timing_file = sys.argv[1]
     
     # Check if timing file exists
     if not os.path.exists(timing_file):
         print(f"❌ Timing file '{timing_file}' not found")
-        print("Usage: python timing.py [timing_file]")
+        print("Usage: python 6.timing.py [timing_file]")
         return 1
     
     # Check if timeline file exists
-    if not os.path.exists("timeline.txt"):
-        print(f"❌ Timeline file 'timeline.txt' not found")
-        print("Both timing.txt and timeline.txt are required")
+    if not os.path.exists("1.2.timeline.txt"):
+        print(f"❌ Timeline file '1.2.timeline.txt' not found")
+        print("Both 1.3.timing.txt and 1.2.timeline.txt are required")
         return 1
     
     # Create generator and process

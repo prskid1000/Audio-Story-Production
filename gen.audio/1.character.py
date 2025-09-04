@@ -307,14 +307,14 @@ class CharacterManager:
         # Assign voices to characters
         return self.assign_voices_to_characters(characters)
 
-def read_story_from_file(filename="story.txt"):
+def read_story_from_file(filename="1.1.story.txt"):
         """Read story data from a text file"""
         try:
             with open(filename, 'r', encoding='utf-8') as f:
                 return f.read()
         except FileNotFoundError:
             print(f"Error: Story file '{filename}' not found.")
-            print("Please create a story.txt file with your story text.")
+            print("Please create a 1.1.story.txt file with your story text.")
             return None
         except Exception as e:
             print(f"Error reading story file: {e}")

@@ -1,0 +1,709 @@
+3.830000: It has always been my custom, in these quiet years of practice and retirement,
+2.550000: to set down some of the more remarkable adventures
+4.190000: in which I had the privilege to take part with my friend Sherlock Holmes.
+3.510000: Among them, there is none which I recall with a sharper thrill of memory
+4.960000: than that singular case which Holmes himself was later to describe as the Speckled Band.
+1.040000: ..
+2.940000: Though many years have passed since those strange events occurred,
+2.860000: the impression of terror upon the young lady who sought our aid
+3.840000: and the grim figure of her violent stepfather remained etched upon my recollection
+2.950000: as though the affair had only transpired yesterday.
+2.270000: The reader will remember that in those days,
+1.860000: I had resumed medical practice
+2.500000: and I was not residing permanently at Baker Street.
+2.880000: Yet my companionship with Holmes remained undiminished
+3.000000: and I was frequently summoned either by letter or telegram
+3.680000: whenever he believed that my presence might contribute in any way to his work
+2.440000: or at the very least to his spirits.
+2.890000: It was then, in the early days of April,
+1.970000: upon a morning to yoke and drizzle and mist
+3.500000: that I found myself once more beneath the familiar roof of our lodgings
+2.480000: at 221B Baker Street.
+1.980000: Holmes had risen earlier than usual,
+1.780000: for I discovered him pacing the room,
+1.210000: his lean figure bent,
+2.390000: his eyes gleaming with the restless energy
+3.370000: that ever betokened the approach of a new investigation.
+2.950000: He had already flung himself into his chair by the fire
+1.590000: when the bell downstairs rang,
+0.990000: and a moment later,
+2.050000: Mrs. Zecker! Mrs. Zecker!
+2.190000: Hudson ushered in a young lady.
+1.380000: Her appearance haggard,
+1.450000: her step quick and uncertain,
+1.630000: as though she had travelled far
+1.920000: and borne a heavy burden upon her spirit.
+4.460000: Good heavens, Holmes, I exclaimed softly, rising to my feet.
+3.380000: The poor woman looks as though she has not slept for nights.
+5.950000: Indeed, Watson, said Holmes, his eyes narrowing with that hawk-like expression.
+2.380000: I knew so well.
+6.630000: And notice the trembling of her hands, the hurried breathing, and the bruise upon her wrist.
+2.610000: This is no ordinary visitor.
+2.570000: Allow her a seat near the fire.
+5.820000: The lady, clad in black and heavily veiled, sank into the armchair which Holmes indicated.
+2.190000: For a moment she struggled to speak.
+3.470000: Then her composure broke and she pressed her hand to her throat.
+4.050000: Mr. Holmes, she said at last, her voice low yet urgent,
+2.470000: I can bear this suspense no longer.
+1.700000: ..
+4.220000: If ever you have shown compassion for a helpless woman,
+1.760000: you will listen to me now.
+4.290000: For I am in mortal peril and unless you advise me what to do,
+2.250000: I may not live to see another day.
+2.820000: I lean forward, deeply concerned.
+1.780000: You may speak freely, madam.
+2.730000: You are among friends who will help you.
+2.710000: Ah, Oum's inclined his head and,
+4.680000: Pray, compose yourself and tell us, in your own words,
+3.880000: exactly what brings you here at this early hour.
+2.320000: Every detail is important.
+2.440000: The young lady pushed back her veil,
+2.500000: revealing a pained face, tinned from anxiety,
+2.090000: yet still bearing traces of beauty.
+1.590000: Her dark eyes were hollow
+2.900000: and in them shone the unmistakable light of fear.
+1.100000: ..
+2.630000: My name is Helen Stoner.
+2.200000: I reside with my stepfather,
+5.050000: Dr. Grimsby Roylott of Stoke Moran in Surrey.
+0.540000: Oh!
+5.300000: ......
+1.890000: My twin sister, Julia,
+2.530000: died under the strangest circumstances
+1.120000: nearly two years ago
+4.130000: and now I myself am threatened with the same fate.
+3.200000: That is why I have come to you, Mr. Holmes.
+5.260000: For last night I was forced to sleep in the very chamber where she perished.
+3.870000: Holmes sat upright, his long fingers steepled beneath his chin.
+3.800000: Now days, and his keen grey eyes fixed upon her face
+4.050000: with an intensity that seemed to draw forth the truth from her lips.
+3.590000: Your story is of the utmost gravity, Miss Stoner.
+2.640000: We shall examine it carefully.
+6.120000: But first, permit me to make some observations which may appear trivial.
+5.380000: You came here by train this morning, I think, and then by dog-cart from the station?
+0.480000: Oh!
+1.100000: ..
+2.840000: Her eyes widened in astonishment.
+2.290000: That is exactly so, sir.
+2.420000: But how could you possibly know?
+2.220000: Holmes smiled faintly.
+1.470000: It is elementary.
+17.880000: your left sleeve bears the fresh mark of a ticket punch and the gravel upon your boots is peculiar to the lane from leatherhead station as for the dog-cart the splashes upon your skirt are too high for mere walking these trifles are sufficient
+1.980000: I shook my head with admiration.
+3.080000: Holmes, your methods never cease to amaze me.
+3.670000: Miss Stoner regarded Holmes with a look that mingled relief with awe,
+2.230000: as though she already placed her life in his hands.
+1.380000: ..
+4.340000: Then you will understand, sir, that I come to you in desperation.
+6.080000: My sister Julia, God rest her soul, was but thirty years of age when she died.
+1.780000: ..
+3.980000: The circumstances of her death have haunted me ever since.
+6.650000: And now, with my own marriage approaching, I have reason to believe that I too am marked for destruction.
+4.640000: Your marriage, you say? Then the timing of this danger is surely no accident.
+5.990000: Indeed, Watson, Holmes replied gravely. But let us not anticipate.
+9.000000: Miss Stoner, begin at the beginning. Tell us about your family, your home, and this Dr. Shaw, Roylott, of whom you spoke.
+4.390000: She clasped her hands tightly in her lap, gathering her courage,
+4.510000: and then began to recount her tale, which I listened to with mounting uneasiness.
+7.340000: My stepfather is the last surviving descendant of the once wealthy royal hordes of Stoke Moran.
+5.460000: The family was long notorious for their violence and hot temper.
+4.530000: The estate has dwindled and my stepfather, after practising medicine in India,
+1.830000: returned to England many years ago.
+7.530000: He married my mother, a widow with some fortune, when my sister Julia and I were mere children.
+6.230000: But alas, my mother was killed in a railway accident eight years ago, leaving us in his sole care.
+3.420000: ....
+6.830000: Holmes's brows knit as she continued and he noted down particulars in his pocketbook with quick strokes of his pencil.
+5.840000: My stepfather has lived ever since in gloomy seclusion at Stoke Moran.
+4.370000: He has few friends, if any, and his temper is terrible.
+2.660000: He has been known to beat the native servants
+4.770000: and more than once has been in trouble with the law for violent assaults.
+2.790000: He allows gypsies to camp upon our grounds
+3.500000: and keeps strange creatures, cheetahs and baboons,
+2.410000: that wander freely about the estate.
+4.630000: A most unusual household, I murmured, and dangerous by the sound of it.
+1.930000: Proceed, Miss Stoner.
+3.020000: Holmes urged his voice calm but intent.
+1.910000: Tell us of your sister's death.
+1.100000: ..
+2.520000: It was an early spring, nearly two years ago.
+2.600000: My sister Julia announced her engagement,
+2.620000: and arrangements were being made for her marriage.
+3.780000: Then, one night, she was seized with sudden terror.
+1.920000: I shall never forget it.
+3.960000: She came to my chamber, her face white with dread,
+3.460000: and told me she had heard a low whistle in the dead of night,
+2.540000: and afterwards a metallic clang.
+2.020000: I tried to reassure her,
+3.120000: but she was trembling so that I feared for her reason.
+4.560000: .....
+4.310000: Miss Stoner paused, her breath quickening as she recalled the dreadful events.
+2.770000: Holmes leaned forward, every muscle alert.
+3.940000: On that fatal night, she retired to her room as usual.
+4.960000: About midnight, I heard a piercing scream and I rushed out.
+4.720000: There was the sound of her door unlocking and she staggered into the corridor.
+2.750000: Her features were convulsed with pain.
+5.120000: She fell to the ground, writhing, and in a choking voice she gasped out the words,
+1.520000: The speckle band!
+4.030000: Then she sank into unconsciousness and died within moments.
+3.340000: But yeah, I could not restrain my exclamation.
+3.270000: What a terrible tragedy! And those were her final words?
+6.040000: Yes, the doctors could find no poison in her system and the coroner's verdict was inconclusive.
+3.330000: But I have lived ever since in fear of that mystery.
+3.130000: Giliosi? My meek.
+6.170000: And last night, said Holmes, you yourself were compelled to occupy the same room?
+1.440000: ..
+4.860000: Yes, Mr. Holmes, repair the being carried out on the wing where I usually sleep.
+5.090000: My stepfather insisted that I move temporarily into Julia's old chamber.
+7.490000: Imagine my terror when, as I lay awake, I heard again that same low whistle that she described.
+4.740000: I could bear it no longer and I fled here to you at dawn.
+1.180000: ..
+3.690000: As she concluded her narrative, her whole frame trembled with agitation.
+2.940000: Holmes rose and paced the room, his brow furrowed in thought.
+4.150000: For some minutes he did not speak and only the crackling of the fire disturbed the silence.
+2.140000: Then he turned abruptly to her.
+3.580000: Miss Stoner, you have done wisely to come to me.
+8.990000: There are features in your story which make it one of the most extraordinary cases I have ever encountered.
+4.820000: Rest assured I shall undertake your defense with all the energy at my command.
+5.910000: Watson and I shall visit Stoke Moran today to investigate matters for ourselves.
+1.360000: ..
+2.680000: You may rely on us, Miss Stoner, I said earnestly.
+2.610000: We shall do all in our power to protect you.
+2.590000: God bless you both.
+1.040000: ..
+3.260000: She whispered, tears descending in her eyes.
+3.660000: For I feel that my very life hangs by a thread.
+3.550000: Thus ended her account, leaving us both profoundly stirred.
+2.220000: Little did I suspect that before the day was done,
+4.030000: we should stand face to face with a mystery darker than any we had yet encountered.
+2.550000: When Miss Helen Stoner had finished her account,
+2.090000: silence reigned in our sitting room for a time.
+1.380000: Holmes stood by the window,
+2.840000: his thin form silhouetted against the grey morning light,
+3.120000: the smoke of his pipe wreathing about his head like a veil.
+3.160000: His gaze was fixed upon the drifting fog in Baker Street.
+6.510000: Yet I knew that within his mind the machinery of reason was already turning with astonishing rapidity.
+2.170000: Holmes, I ventured at last.
+3.540000: This is surely one of the most singular cases we have yet encountered.
+4.720000: The death of Miss Stoner's sister, the mysterious whistle, the strange last words.
+2.500000: What possible explanation can there be?
+3.120000: He turned shockingly, his eyes alight.
+3.440000: There, Watson, lies the fascination of the affair.
+6.050000: It is precisely because the explanation is not obvious that it appeals to me.
+7.470000: A whistle in the dead of night, a metallic clang, a dying reference to a speckled band.
+7.010000: Each piece may seem inexplicable alone, but together they must form a chain.
+4.100000: And chains, as you know, may be traced link by link.
+4.100000: Miss Stoner, who had been sitting with her hands clasped tightly in her lap,
+3.120000: looked from one to the other of us with desperate anxiety.
+3.250000: You give me hope, Mr. Holmes, for until this moment,
+5.730000: I have lived under a shadow so dark that I believed myself lost.
+2.970000: Tell me, do you think I am in immediate danger?
+1.040000: ..
+7.560000: Your stepfather, Dr. Roylott, has insisted that you occupy your sister's old chamber.
+4.340000: That fact alone suggests a sinister purpose.
+4.470000: Yes, Miss Stoner, you are in peril, but be reassured.
+2.020000: We shall act swiftly.
+1.760000: You will return home now.
+5.860000: Continue your ordinary habits and, above all, show no suspicion that you have sought advice.
+4.070000: Tonight, Dr. Watson and I shall come to Stoke Moran.
+2.420000: I could not conceal my eagerness.
+3.560000: Owns you mean that we shall examine the very room in which Julia Stoner died?
+2.200000: precisely Watson
+2.120000: there lies the key to the riddle
+2.920000: until I have seen it with my own eyes
+2.440000: I shall not hazard a theory
+2.240000: the swooner rose
+1.120000: visibly relieved
+1.600000: that her burden was now shared
+1.940000: yet her fear had not wholly left her
+1.480000: and she clutched Holmes's hand
+1.820000: with a grip that betrayed her agitation
+3.100000: I shall obey you implicitly Mr. Holmes
+1.900000: and tonight then you will come
+1.660000: without fail
+2.540000: Watson and I shall follow at dusk
+16.600000: until then have courage she drew her veil once more over her pale features and departed leaving the room charged with a tense expectancy concomity or shambland holmes your manner is grave do you truly think her life in such imminent danger
+6.080000: He seated himself once more, his long fingers tapping thoughtfully upon the arm of his chair.
+6.010000: Consider, Watson, a young woman dies suddenly on the eve of marriage,
+3.510000: leaving only the cryptic words, the speckled band.
+3.860000: ....
+6.580000: Two years later, her twin sister, similarly betrothed, is compelled to occupy the same chamber
+2.740000: and already hears the same warning signal.
+3.160000: The parallel is too exact to be coincidence
+6.440000: Yes, I fear we are dealing with a cunning and dangerous adversary
+3.440000: At that instant, the bell rang violently below
+3.540000: And footsteps were heard ascending the stair with a heavy tread
+4.220000: Mrs. Hudson's timid knock preceded the entrance of a tall, massive man
+3.940000: Who burst into our sitting room with an energy that shook the door upon its hinges
+4.080000: He was a formidable figure, his face large and swarthy
+6.460000: his eyes yellow and cruel, his clothing coarse, though of rich material, a hunting crop protruded
+6.340000: from his hand, and his whole appearance bespoke strength and ferocity. Holmes regarded him coolly.
+8.040000: Pray be seated, Dr. Grimesby Roylott. The intruder did not sit, but glared at us with a savage
+6.600000: intensity. To you are Sherlock Holmes, he growled, his voice harsh and guttural, and you, I take it,
+4.740000: our Dr. Cotterill. Watson, my step-daughter had been here. What has she been saying to you?
+6.080000: That, replied Holmes evenly, is a matter between myself and my client.
+1.060000: ..
+3.670000: He advanced the step, shaking his heavy stick. I am a dangerous man to cross, Mr. Holmes.
+3.140000: I have not hesitated to use violence before, and I shall not hesitate again.
+6.360000: Nay! My family is an old one, and my will is law upon my estate. Do not meddle with my affairs,
+3.910000: or you may find it an ill day for you. I rose in indignation.
+5.610000: Sir, this is monstrous. Lam Su, you have no right to threaten us in our own chambers.
+3.190000: Holmes, however, remained perfectly composed.
+4.980000: His pale smile, so calm and sardonic, seemed to enrage our visitor still further.
+4.960000: Your temper, Dr. Roylott, is well known to the magistrates of Surrey.
+5.190000: Yes, you have served time for assault, if I am not mistaken.
+3.410000: Do not imagine that intimidation will turn me from my duty.
+5.080000: I have but one concern, the welfare of your stepdaughter.
+1.880000: ..
+4.910000: The doctor's huge hands clenched until the veins stood out upon his skin.
+3.590000: He bent forward until his face was but inches from Holmes's.
+3.750000: Take care, Mr. Holmes. You are meddling with powers you do not comprehend.
+4.840000: With that, he swung his hunting crop through the air and, to our astonishment,
+2.220000: brought it crashing down upon the fireplace poker.
+2.630000: The metal rod bent almost double beneath the blow.
+7.160000: With a triumphant snarl, he strode from the room, slamming the door behind him with such violence that the windows rattle in their frames.
+3.000000: I hurried to the poker and stared at the twisted iron.
+5.300000: Holmes, the man has the strength of a giant. You cannot hope to oppose such brute force.
+8.040000: Holmes smiled faintly and, without apparent effort, bent the poker back into its original shape.
+3.380000: Watson, violence is no substitute for intellect.
+4.510000: We shall oppose him, not with strength, but with reason.
+5.130000: And reason, my dear friend, will always triumph.
+2.570000: His quiet confidence reassured me.
+5.600000: Jack, sir, yet I could not suppress a shudder at the thought of the villainous figure we had just encountered.
+6.280000: It is fortunate for us that Roylott has shown his hand so plainly, Holmes continued.
+4.370000: His very violence betrays his guilty conscience.
+7.910000: He knows that Miss Stoner has spoken to me, and he fears exposure, all the more reason for us to act at once.
+1.230000: Then we go today?
+1.340000: ..
+0.980000: Yes, Watson.
+1.080000: ..
+6.830000: This afternoon we shall take the train to Leatherhead, and from there Hyra convains to Stoke Moran.
+3.890000: There we shall examine the room where Julia Stoner met her death.
+6.300000: That room will tell us more than all the threats of Grimesby Roylott.
+3.170000: With that, Horns fell into one of his characteristic silences,
+3.540000: his eyes half closed, half his spite between his lips,
+2.240000: as though he were detached from the world around him.
+2.670000: Yet, I knew that beneath that quiet exterior,
+2.810000: his brain was wheeling together the fragments of evidence,
+1.880000: forging from them a pattern which I,
+2.590000: with all my medical training and practical common sense,
+1.530000: could not yet perceive.
+2.090000: Thus it was that, later that day,
+2.040000: we set forth, together on the path
+1.560000: that would lead us to Stoke Moran
+2.780000: and to the revelation of one of the strangest
+3.690000: and most dreadful secrets it has ever been my lot to witness.
+3.210000: The afternoon found Holmes and myself seated side by side
+2.360000: in a railway carriage bound for Ladakhia.
+5.420000: The day was grey, with a damp mist hanging yo over the fields of Surrey.
+4.000000: Holmes, wrapped in his long Inverness cloak, leaned back with closed eyes.
+1.930000: The very picture of repose.
+3.870000: And yet from the quick tapping of his fingers upon his knee,
+3.260000: I perceived that his mind was in restless motion.
+1.860000: Holmes, I said at last.
+3.020000: You have formed some theory already, I am sure of it.
+4.090000: The story of Miss Stoner, the violence of her stepfather, surely it points to something?
+4.660000: His eyes opened and he gave me a quick smile.
+4.880000: A theory, Watson, yes, but one that still lacks foundation.
+5.920000: To theorize before one has all the evidence is a capital mistake.
+4.150000: I have suspicions, certainly, but suspicion is not proof.
+3.150000: Proof must be gathered at Stoke Moran.
+3.170000: Until then, I withhold judgment.
+3.850000: And yet, I persisted, you speak of Miss Stoner being in grave peril.
+3.070000: You must have some notion of what form that peril takes.
+3.970000: He leaned forward, his expression suddenly serious.
+1.950000: Think, Watson.
+3.850000: The late Julia Stoner spoke of a speckled band.
+3.330000: The words are vague, but they suggest something visible.
+1.260000: ..
+3.500000: Add to this the nightly whistle, the metallic clang,
+3.560000: and the fact that no poison was detected in her body,
+4.800000: clearly we are dealing with a subtle and unusual method of murder.
+3.690000: Only by examining her room shall we know the truth.
+0.550000: Hark!
+1.640000: ..
+3.660000: He said no more, and we journeyed the remainder of the way in silence.
+2.630000: Presently we arrived at the licking station of Leatherhead,
+4.910000: where we engaged a dog cart and drove through winding lanes bordered by budding hedgerows.
+3.600000: The country was quiet, yet there hung about it a sense of desolation,
+4.080000: as though nature herself recoiled from the human habitation we were soon to visit.
+1.080000: ..
+2.820000: At length we turned into a drive that led up to a gloomy house,
+3.440000: half ruined, choking in places, its windows shuttered and broken.
+2.680000: Here and there repairs had been attempted, but the effect was,
+2.000000: but to emphasize the general decay,
+4.470000: tall trees overhung the building, casting dark shadows even in the wan daylight,
+2.370000: and the air seemed heavy with melancholy.
+3.880000: Cheerless place homes, I murmured, gazing up at the ancient stone.
+5.600000: Indeed, Watson, Stoke Moran is well suited to the character of its master.
+4.440000: Look there, see the clumps of gypsy tents upon the meadow.
+5.560000: Roylott has permitted them to camp here, and they repay him with their lawless loyalty.
+1.060000: ..
+4.200000: Even as he spoke, a pair of swarthy men in gaudy garments passed us.
+2.580000: Their dark eyes following with open suspicion.
+4.520000: From behind the house there came the cry of some strange beast, half snarling, half wailing.
+4.200000: I started an alarm. What in heaven's name was that?
+4.060000: Holmes shrugged. One of Dr. Roylott's pets?
+4.940000: A cheetah, perhaps, or the baboon of which Miss Stoner spoke.
+6.630000: He delights in surrounding himself with savage creatures, as if to mirror his own spirit.
+4.940000: Good, we drew up before the entrance, and thereupon the steps awaited Miss Helen Stoner.
+3.090000: Her pale face brightened with relief as she beheld us.
+5.600000: Oh, thank God you have come, she exclaimed hastening forward.
+2.560000: I have lived these hours in dread.
+1.760000: ..
+3.840000: He has gone into town for the day, but will return before evening.
+1.690000: We must be quick.
+3.010000: Holmes raised his hand reassuringly.
+2.210000: All shall be done in order, Miss Stoner.
+2.530000: First, lead us to the rooms in question.
+3.040000: I would see your chamber and your sisters.
+3.060000: She guided us through a dark oak passage.
+2.660000: Its panels were eaten with age.
+2.340000: Until we came to a small suite of rooms,
+2.540000: the first door opened upon her present bedroom,
+2.290000: brightened by a single window, Dowager.
+2.860000: Next was a narrow passage leading to the fatal chamber,
+4.020000: and beyond that, the room used by Dr. Roylott himself.
+4.570000: This arrangement is most suggestive, murmured Holmes.
+3.910000: The father's room adjoining, the daughter's chamber in the middle.
+3.530000: Trey, Miss Stoner, show us Julia's old room,
+1.870000: where you now sleep.
+1.310000: Yashara's within,
+1.420000: it was a small chamber,
+1.070000: plainly furnished,
+0.930000: with a low ceiling
+1.200000: and a single window
+1.270000: that overlooked the lawn.
+2.190000: The wallpaper was old and faded
+1.840000: and the air of the place was closed
+1.990000: as though it had long been shut.
+1.730000: A modest room, I said,
+0.950000: glancing about.
+1.830000: Yet I feel a chill here, Holmes,
+1.180000: as though it still holds
+1.560000: the memory of tragedy.
+1.830000: He made no reply,
+1.970000: but his keen eyes darted
+1.670000: from one object to another.
+1.490000: He examined the window,
+5.000000: which was secured by strong shutters fastened from within.
+4.210000: He tested the chimney, but it was narrow and impassable.
+2.850000: Then he turned his attention to the bed,
+3.420000: which stood clamped to the floor by iron screws.
+3.530000: Why should a bed be fastened in this fashion?
+1.630000: He asked softly.
+2.420000: A most unusual arrangement.
+3.150000: You cannot move it, even an inch.
+2.990000: He next scrutinized the bell-rope, which hung close to the bed-head.
+3.150000: It appeared to be a common pull cord for summoning servants.
+4.030000: Holmes tugged at it, but to my surprise it was immovable.
+2.630000: A dummy, he observed grimly.
+4.880000: See, Watson, it is fastened to a brass hook above and leads nowhere.
+2.770000: There is no wire behind it.
+5.010000: Strange indeed, I murmured, but why should anyone place a sham bell rope by the bed?
+3.480000: Holmes' lips tightened, but he said nothing.
+5.880000: Instead, he mounted a chair and examined the small ventilator opening above the cord.
+3.110000: Here, Watson, observe this vent.
+3.520000: It does not lead to the outer air as one might expect,
+3.140000: but communicates directly with the adjoining room.
+1.320000: ..
+2.470000: Dock, dock, Roylott's chamber.
+4.250000: Good heavens! Then sound might pass easily from one room to the other.
+1.140000: ..
+2.660000: Precisely, and perhaps more than sound.
+6.120000: I stared in amazement while Holmes descended slowly, his eyes gleaming with a suppressed excitement.
+3.780000: He then requested that we examine Dr. Roller's own chamber.
+4.980000: Miss Stoner led us into the adjoining room, which was larger and more comfortably furnished,
+5.310000: with a great iron safe in the corner, a wooden chair and a small saucer of milk upon the top of the safe.
+3.720000: Milk, I exclaimed, yet there is no cat.
+2.990000: Holmes' voice was low and stern.
+1.400000: No cat, Watson!
+5.290000: But perhaps something more sinister that takes milk as food.
+5.490000: And see here upon the safe, a small loop of cord, neatly coiled.
+2.870000: He lifted it carefully. It was a dog lash.
+3.080000: But instead of ending in a handle, it was tied into a loop.
+2.320000: Holmes replaced it, his face grave.
+2.810000: This matter grows darker with every moment.
+4.990000: Miss Stoner, I must ask you to do exactly as I say.
+5.940000: Tonight, when your stepfather returns, you must excuse yourself and retire early.
+5.640000: When he's safely in his chamber, you will slip into another room, Dr. Tremoril.
+4.410000: Watson and I shall occupy this one in secret.
+3.930000: But whatever happens, breathe not a word of our presence.
+1.170000: Do you understand?
+6.380000: I do, Mr. Holmes, she whispered, her voice trembling, and I shall do precisely as you command.
+4.320000: Only save me, for I cannot endure this terror any longer
+3.440000: Courage, Miss Stoner, the end is at hand
+3.180000: She pressed Holmes' hand with fervent gratitude
+2.460000: And we withdrew to confer privacy in the garden
+3.600000: Holmes' face, usually impassive, was alight with a fierce energy
+3.980000: Watson, we stand upon the brink of discovery
+2.440000: All the pieces are before us
+4.140000: The dummy bell-rope, the ventilator, the bed clamped to the floor
+2.120000: The milk, the loop of cord
+2.040000: Tonight we shall know the truth
+1.780000: But mark me well
+2.700000: There is deadly peril in this business
+2.320000: You may choose to remain behind
+1.920000: I straightened with resolve
+1.520000: Holmes, I go where you go
+1.660000: Have I not always shared your dangers?
+2.080000: Do not insult me by suggesting otherwise
+0.860000: Darked
+3.660000: He clasped my shoulder with rare warmth
+3.140000: Spoken like the stone chest of friends
+2.160000: Very well, Watson
+4.120000: Tonight then we shall keep vigil in Julia Stoner's chamber
+5.760000: and before dawn we shall have unraveled the riddle of the speckled band.
+4.640000: With that solemn pledge, we departed the dismal house to await the coming night
+3.890000: when the secret of Stoke Moran would at last be revealed.
+5.320000: The sun had set in a haze of crimson, leaving the Surrey landscape dim and foreboding.
+3.230000: Holmes and I lingered at Little Inn some miles from Stoke Moran,
+2.600000: eating a meagre supper and conversing in low tones.
+3.660000: The innkeeper, a ruddy-faced fellow, eyed us curiously,
+2.230000: but Holmes gave no sign of his thoughts.
+2.730000: Only once did he speak, his voice grave.
+4.970000: Watson, tonight you must be calm, steady and silent.
+3.540000: Whatever you see or hear, you must not stir,
+3.120000: for our very lives may depend upon it.
+3.790000: You alarm me, Holmes. Do you truly expect violence?
+3.140000: Not violence in the form you imagine,
+4.040000: but there is danger, subtle, swift and deadly.
+7.200000: Keep your revolver close at hand, though I hope we shall not need it. Above all, watch!
+22.800000: .......................
+2.630000: of Stoke Moran, we found them unlatched.
+2.490000: Passing silently within, we skirted the drive,
+1.930000: keeping to the grass to muffle our steps.
+2.300000: Holmes guided me with the certainty of a cat,
+1.900000: his long arms wrapped in his cloak.
+1.990000: Presently, we glimpsed a dim light
+2.040000: burning in one of the upper windows,
+1.770000: the doctor's room, no doubt.
+1.670000: Trouching by the shrubbery,
+2.050000: we waited until all was still.
+2.030000: Then a slight figure stole out from the side door
+1.350000: and glided toward us.
+1.160000: It was Helen Stoner,
+2.110000: her shawl wrapped tightly about her.
+2.470000: Mr. Holmes, Dr. Watson,
+2.070000: She whispered, he has returned.
+1.420000: He is in his room.
+1.430000: I have done as you said.
+2.150000: I have retired early to the other wing.
+2.260000: My stepfather suspects nothing.
+1.200000: ..
+0.680000: Excellent.
+2.680000: Now go at once and lock yourself in.
+3.100000: Do not open your door until we summon you in the morning.
+2.490000: No matter what occurs.
+2.510000: She grasped Holmes' hand with trembling fingers.
+1.160000: ..
+1.180000: God, God, you both.
+1.600000: ..
+2.940000: With that she disappeared and Holmes beckoned me forward.
+4.720000: We stole across the lawn, climbed lightly through the window of Julia Stoner's room,
+2.360000: and closed the shutters behind us.
+3.980000: Holmes, I whispered, my heart is beating as though it would burst.
+1.930000: This place chills me to the bone.
+2.640000: He pressed a finger to his lips.
+2.330000: Hush, Watson, not a word.
+2.020000: We are in the presence of our enemy.
+1.940000: ..
+4.280000: The room lay in complete darkness, save for the faint glimmer of moonlight
+2.140000: filtering through the cracks of the shutters.
+5.310000: Holmes placed a small dark lantern upon the table, turning the shutter so that not a ray escaped.
+2.200000: He then motioned me to sit upon the bed.
+4.610000: While he took a chair beside me, his eyes fixed upon the ventilator above.
+5.510000: For long hours we sat thus, scarcely daring to breathe, where the silence was oppressive,
+5.190000: broken only by the occasional creak of the timbers or the far-off cry of some night creature.
+1.220000: Thine dragged heavily.
+3.300000: I could hear the beating of my own heart, the ticking of my watch,
+3.040000: the faint hiss of Holmes' steady breathing.
+2.470000: At length I leaned toward him and whispered,
+2.000000: Holmes, how long must we wait?
+2.960000: His answer came scarcely above a breath,
+4.770000: until the signal comes, and it will come.
+1.160000: ..
+1.820000: Midnight struck from a distant block.
+1.480000: Still we sat in silence.
+2.280000: My limbs grew stiff, my eyelids heavy,
+1.830000: yet fear kept me from sleep.
+3.010000: Suddenly Holmes stirred, raising his hand sharply.
+1.680000: Listen, he hissed.
+3.900000: From the next room, there sounded a soft, metallic scrape.
+3.900000: Age could mean, as though some iron were being moved cautiously.
+3.640000: Then came a silence so deep that I felt the hair upon my neck rise.
+0.570000: Ow!
+3.420000: After an interval, how long or short, I cannot say,
+3.780000: there broke the stillness a sound so faint I could scarce believe my ears.
+4.060000: It was a low whistle, rising and falling, strangely musical.
+4.010000: Holmes sprang to his feet, his eyes gleaming in the darkness.
+2.640000: The Siglo, steady Watson.
+27.360000: ............................
+2.270000: its skin marked with livid speckles,
+3.880000: its head raised and eyes gleaming like evil jewels in the sudden glare.
+2.850000: Merciful heaven, I cried, recoiling.
+2.790000: But Holmes had acted with the speed of lightning.
+2.750000: Cheesing his cane, he lashed furiously at the creature,
+1.910000: driving it back toward the ventilator.
+2.690000: The snake hissed, its body writhing in fury,
+2.200000: and then it vanished through the opening.
+4.250000: Back, quick, Watson, Holmes whispered hoarsely.
+1.490000: It will strike elsewhere.
+6.850000: Even as he spoke, there burst from the adjoining room a most unearthly scream, a cry so wild,
+5.210000: so full of agony and terror, that it throws my very blood, because there followed a dreadful
+4.570000: silence, broken only by a heavy thud as of a body falling to the ground.
+3.540000: What has happened, Holmes? I gasped, springing up.
+7.970000: He caught my arm. Wait, Watson, we dare not rush in unprepared. But I fear so the creature has
+6.980000: turned upon its master. Diver! For some minutes we waited, scarcely daring to stir, until all
+6.280000: was still once more. Then Holmes set his jaw and raised his lantern. Come, Watson, the matter is
+6.020000: ended. We passed swiftly into the adjoining room. The sight that met our eyes would remain with me
+5.700000: until the end of my days. There, sprawled across the bed, lay the figure of Dr. Ransmey Roylott,
+4.840000: His limbs convulsed, his eyes glaring hideously, his face distorted in death.
+4.130000: About his brow jumped the dreadful creature we had seen, the speckled snake.
+3.590000: Its body wound tightly, its head raised in triumph.
+4.140000: I recoiled in horror, the very devil incarnate.
+4.500000: With calm precision, Holmes seized the dog lash from the safe,
+3.910000: looped it swiftly about the reptile, and with a steady hand,
+3.470000: drew the writhing creature back into the iron chamber.
+4.610000: He flung it within, shut the door and turned the key.
+2.240000: The matter is closed, Watson.
+5.460000: Roylott is dead struck down by the very means he devised for another.
+2.900000: I stood shaken, scarcely able to speak.
+2.960000: The lantern light flickered upon the lifeless form of the doctor,
+2.960000: upon the ghastly grin that seemed to mock even in death.
+4.120000: I turned to Holmes, who gazed upon the scene with stern composure.
+3.530000: Holmes, I whispered, what in God's name was it?
+4.500000: The deadliest snake in India, the swamp adder
+2.920000: Its venom kills within seconds
+3.580000: Roylott kept it here, trained to enter the girl's room
+3.040000: By means of the ventilator and the dummy rope
+3.940000: Lured back by the whistle and the saucer of milk
+3.420000: Tonight, Watson, it turned upon him
+3.300000: And thus the wicked received his due
+3.720000: And so, in that grim chamber at Stoke Moran
+4.790000: the shadow lifted from the life of Helen Stoner. The mystery of the speckled band was laid bare,
+5.230000: though the horror of it would haunt me long after. The dreadful cry that had rung through
+6.040000: Stope Moran still echoed in my ears as Holmes turned the key upon the safe. Hmm, D.I.L.
+4.820000: Imprisoning the loathsome serpent within. Wow. The lantern's light flickered across the grotesque
+4.000000: features of Doctor. Clem is me, Roy Lord. His powerful fame now slackened in death,
+3.690000: the moths of the snake's bite already darkening upon his brow.
+2.920000: Holmes, I stammered, my voice unsteady.
+2.040000: I can scarcely believe what I have seen,
+3.140000: to think that such a monstrous plot was hatched beneath this roof,
+5.370000: that a human being could stoop to murder his own stepchild in so infernal a fashion.
+4.210000: Holmes' face was grave, but his voice steady.
+5.390000: The ways of wickedness, Watson, are often more cunning than the ways of virtue.
+3.140000: Croylott had both the cruelty and the ingenuity
+1.980000: to devise a scheme which,
+3.090000: but for chance and your faithful vigilance tonight,
+2.540000: might have claimed its second victim.
+4.470000: Yet, in the end, his own weapon has recoiled upon him.
+3.700000: Justice, though delayed, has not been denied.
+2.240000: ...
+2.420000: For some minutes we stood in silence,
+1.860000: contemplating that ghastly scene.
+3.060000: The silence of the house was broken only by the distant triumphant owl
+3.660000: and the occasional hiss from the imprisoned adder within the safe.
+3.210000: At length, Holmes turned away and laid his hand upon my shoulder.
+3.270000: Come, Watson. Our duty here is done.
+2.940000: Let us call Miss Stoner and relieve her mind.
+2.240000: ...
+3.560000: She need never again know the terror of this room.
+1.100000: ..
+1.860000: We retraced our steps along the passage,
+2.580000: where Helen Stoner awaited us in her own chamber.
+4.200000: Her pained face was drawn with anxiety and she sprang to her feet as we entered.
+3.490000: Mr. Holmes, Dr. Watson, what has happened?
+4.320000: I heard a scream, so dreadful, so unearthly.
+2.160000: Tell me, what does it mean?
+2.070000: Holmes regarded her with compassion.
+3.870000: It means, Miss Stoner, that you are safe.
+3.280000: Your stepfather is dead.
+6.190000: He has perished by the very device with which he sought to destroy you.
+4.420000: She pressed her hands to her face, overcome with conflicting emotions.
+3.700000: Relief, sorrow and horror all struggled within her.
+2.840000: At last she whispered, her voice trembling.
+3.130000: Dead? Then the nightmare is ended.
+2.340000: Oh, thank God! Thank God!
+6.570000: And yet, though he was harsh and violent, he was still my mother's husband.
+2.360000: I cannot rejoice in his death.
+3.280000: I cannot rejoice in his death. I...
+14.120000: nor should you miss stoner said holmes gently but you may rejoice in your deliverance the law would have demanded his punishment providence has taken the matter into its own hands
+3.250000: She sank into a chair, covering her face with her hands.
+4.020000: Holmes allowed her a moment's composure before he addressed her again.
+2.840000: Miss Stoner, you must rest.
+5.310000: Tomorrow, when daylight returns, you will be free to leave this place forever.
+5.370000: The estate will pass into other hands, and you may begin anew.
+4.000000: Take courage, for your future lies clear before you.
+3.910000: She looked up, tears glistening in her eyes, and pressed Holmes' hand.
+4.220000: I owe you my life, Mr. Holmes, yours and Dr. Watson's.
+2.220000: How can I ever repay such a debt?
+2.230000: Holmes bowed gravely.
+3.340000: Your gratitude is sufficient reward.
+3.150000: And now, Watson, let us depart.
+1.560000: ..
+2.720000: Our task is done.
+2.340000: We left her with words of reassurance
+3.000000: and made our way once more through the desolate house,
+1.780000: out into the chill night air.
+2.340000: The stars were paling, for dawn was near
+4.950000: and the first faint streaks of light touched the horizon as we passed down the drive.
+4.450000: Holmes walked swiftly, his cloak wrapped about him, his head bent in thought.
+3.870000: Holmes, I said at last, I beg you, explain all.
+2.430000: I understand that Roylott used the snake as his instrument,
+2.210000: but how could such a scheme have been contrived?
+4.130000: And what of the speckled band, the dying words of Julia Stoner?
+6.920000: He slowed his pace and turned to me, his features illuminated by the grey dawn.
+5.850000: It is simplicity itself, Watson, though diabolical in its ingenuity.
+6.190000: When Miss Stoner told us of her sister's words, I was struck by the peculiar phrase,
+6.940000: the speckled band. At first I thought of a band of gypsies, since Roylott had allowed them to camp
+6.440000: upon his grounds. But the more I considered, the more I felt it must refer to something visible
+6.230000: and immediate, something that had been present in the room at the very moment of death.
+7.670000: When I saw the ventilator, the fixed bed and the dummy rope, the whole design became clear.
+2.500000: And the whistle, the metallic gland?
+8.140000: The whistle was the doctor's signal to summon back his trained adder, which he kept in the safe.
+7.380000: He had taught it to crawl through the ventilator along the bell-rope and into the bed of the sleeping girl.
+4.220000: Once there, it would strike, leaving little or no trace.
+8.040000: In the morning, at his call, it would return by the same path and he would shut it away, giving it milk as its reward.
+2.700000: The clang was the closing of the safe door.
+1.380000: ..
+5.620000: Monstrous, I exclaimed, and to think, he sought to repeat the crime upon Helen as he had upon Julia.
+3.680000: But why homes? Ha, I know. Why destroy them?
+4.190000: Money, Watson. The most common motive of all.
+5.540000: Their mother's will left each daughter a portion of her fortune upon marriage.
+4.820000: Had both wed, Roylott's income would have been severely reduced.
+7.130000: To prevent that, he chose to remove them by the surest means his cruel imagination could devise.
+6.200000: I shook my head, filled with loathing, to think that a man of science could descend to such villainy.
+3.760000: But, Holmes, how did you know the snake would turn upon him to-night?
+6.620000: I did not know, but when I lashed at it with my cane, I forced it back through the ventilator.
+6.090000: It sought refuge in the nearest warm body, which happened to be its master.
+2.890000: Roylott's own ingenuity brought about his death.
+2.160000: He spoke with cold precision
+3.100000: Yet I could not feign to note a trace of sadness in his tone
+1.900000: Holmes, for all his iron composure
+2.800000: Was never untouched by the tragedies of human folly
+2.940000: It is a grim satisfaction, Watson
+2.540000: To have saved an innocent life
+2.940000: Yet it is always a dreadful thing
+2.860000: When man is slain by man
+2.600000: Even though justice may approve the act
+2.400000: We walked on in silence for some time
+1.840000: The morning brightening around us
+1.800000: The bird stirring in the hedgerows
+4.270000: At last we reached the station, where the early train pours back toward London.
+5.300000: As the wheels clattered upon the rails, I pondered deeply upon the strange events of the night.
+8.340000: Holmes, I said softly, your genius has once again unraveled a mystery that would have baffled all others to think of the delicate chain of reasoning.
+3.580000: The ventilator, the bed, the rope, it seems incredible.
+2.010000: He gave a faint smile.
+3.640000: You give me too much credit, my dear Watson.
+9.050000: The problem was singular, but the solution laid plain to any mind that would observe carefully and reason logically.
+5.150000: Remember always, from trifles, great truths may be deduced.
+3.860000: That, after all, is the essence of my method.
+8.140000: I nodded, though I knew that no amount of study would ever grant me the swift intuition and brilliant deductions of my friend.
+2.280000: yet I was proud to have shared in the adventure
+3.620000: and prouder still to have stood by his side in the hour of peril.
+2.370000: And so ends the tale of the speckled band,
+2.820000: a tale of terror, of cunning and of justice.
+3.810000: It remains in my mind one of the darkest and most remarkable cases
+1.420000: ever handled by Sherlock Holmes
+3.430000: and one which proved yet again that in the presence of crime,
+2.550000: his intellect shone like a beacon in the night.
+0.300000: .

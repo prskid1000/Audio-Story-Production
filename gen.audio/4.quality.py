@@ -359,9 +359,9 @@ def main():
     print("Text Similarity Analysis Tool")
     print("=" * 50)
     
-    # Check if story.txt and story.str.txt exist for comparison
-    original_file = "story.txt"
-    transcribed_file = "story.str.txt"
+    # Check if 1.1.story.txt and story.str.txt exist for comparison
+    original_file = "1.1.story.txt"
+    transcribed_file = "1.2.story.str.txt"
     
     if os.path.exists(original_file) and os.path.exists(transcribed_file):
         print(f"Found files to compare:")
