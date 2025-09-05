@@ -1,2 +1,701 @@
-2.000000: Horse carriage travelling through street
-0.040000: .
+4.620000: It has long been my privilege, dear listener, to accompany Sherlock Holmes through a series of
+4.500000: adventures which have often placed us in the most curious and perplexing situations.
+4.100000: Many of these episodes I have recorded in my journals, and on quiet evenings before the
+3.860000: hearth at Baker Street, I have occasionally ventured to read them aloud to my companion,
+3.960000: who though he feigned indifference, would sometimes offer a dry smile when some passage
+3.800000: reminded him of the thrill of the chase or the satisfaction of a successful deduction.
+1.020000: ..
+3.220000: The affair I now set down was one that drew much public notice in its day,
+3.150000: involving as it did a member of the aristocracy,
+2.880000: the sudden disappearance of a young American bride,
+2.170000: you and vote, American bride,
+2.940000: and the application of Holmes' singular reasoning powers
+3.110000: to a case that baffled society and police alike.
+1.790000: The newspapers gave it the title of
+1.930000: The Adventure of the Noble Bachelor.
+2.370000: To me, however, it remains first and foremost
+1.580000: a story of Holmes' brilliance
+1.880000: and of my own humble apprenticeship
+1.930000: in the science of observation.
+2.650000: The events began on a bleak October morning.
+3.260000: A thin mist had spread itself over the grey roofs of London
+4.360000: and the drizzle tapped drearily at the windows of our lodgings in Baker Street.
+3.880000: Holmes was seated cross-legged upon the rug, dressing gown loose about him,
+3.170000: his keen eyes fixed on the flames that curled in the grate.
+4.110000: Before him, scattered upon the carpet, lay a number of freshly printed newspapers.
+4.000000: I had only just returned from my early rounds and I found him in that absorbed attitude
+2.260000: which betokened the presence of some problem.
+2.160000: Hmm, Holmes, hmm.
+4.660000: You seem as intent upon those pages as though they conceal the very secrets of the kingdom.
+2.940000: What is it that holds your attention so closely?
+4.610000: The kingdom, my dear Watson, may rest safely for the present.
+3.840000: It is not treason I study, but matrimony.
+2.330000: Matrimony! You astound me.
+3.840000: I should not have suspected you of interest in so domestic a topic.
+5.000000: Nor am I interested in the sentimental aspect, I assure you.
+6.740000: My concern lies in the peculiar circumstances surrounding a union much discussed in society,
+7.000000: circles these last days, that of Lord Robert Saints, Simon, the youngest son of the Duke
+6.510000: of Balmoral, and a certain Miss Hattie Doran, daughter of a wealthy American.
+5.070000: He drew one of the papers toward him and pointed to the announcement, where indeed the engagement
+2.440000: had been chronicled with much flourish.
+5.790000: Observe, Watson, a nobleman of ancient lineage, though without vast means,
+3.900000: takes to wife a young lady of considerable fortune.
+6.600000: Such alliances are common enough in our age, but the aftermath, ah, there lies the matter of interest.
+5.300000: The bride has vanished, Watson. She disappeared upon her wedding morning.
+3.630000: Vanished? Surely you do not mean she has been abducted?
+4.700000: That is one possibility, though not the most probable.
+2.880000: Here, read these accounts.
+22.420000: .......................
+1.710000: she had fled of her own accord,
+2.520000: others that some misadventure had befallen her.
+1.870000: The police were engaged upon the case,
+1.690000: but as yet without result.
+2.110000: This is certainly a singular occurrence.
+2.380000: And Lord St. Simon, how does he bear the matter?
+1.750000: According to the report,
+1.140000: with dignity,
+2.990000: though not without visible irritation,
+1.800000: he has placed himself
+3.060000: in communication with Scotland Yard
+3.630000: and Lestrade has the conduct of the case.
+3.120000: Then no doubt the mystery will soon be unraveled.
+13.790000: my dear fellow lestrade is energetic but not always illuminating this affair requires delicate handling for there are undercurrents which the official mind does not readily perceive
+4.300000: He paused, stretched out his long arm, and plucked another journal from the heap.
+1.940000: His quick eyes ran down the columns.
+2.860000: Ah, just as I surmised.
+6.140000: The father, Mr. Francis Duran, is described as a man of rough speech,
+7.080000: but of sterling qualities, a Californian, who amassed his fortune in the mines.
+5.880000: The daughter, Hattie, is said to be high-spirited, with a certain independence of manner,
+3.140000: which is scarcely surprising given her origin.
+1.490000: Note this also.
+5.420000: She was reported to have been attended by a former suitor, a certain mister.
+3.700000: Frances Moulton, shortly after her arrival in England.
+3.410000: That name may not be without significance.
+3.440000: You think this Mr. Moulton has some connection with her disappearance?
+2.640000: I neither affirm nor deny.
+2.630000: I merely note the possibility.
+2.910000: Remember, Watson, that in the problem of disappearance,
+5.870000: one must first determine whether the person has vanished voluntarily or by compulsion.
+2.810000: That distinction is fundamental.
+1.020000: ..
+2.600000: He leaned back, clasped his hands behind his head
+4.550000: and regarded me with that quiet smile which so often accompanied his instruction.
+4.360000: What do you yourself infer from the facts as presented?
+2.460000: Well, if I may hazard a guess,
+3.470000: it seems unlikely that a young lady would abandon her noble husband
+2.580000: on the very day of marriage without grave reason.
+3.320000: might she not have been yawed away or forced from the house?
+2.240000: A reasonable supposition.
+4.800000: Yet reflect also upon the independence of her character,
+2.930000: her previous acquaintance with another gentleman,
+2.630000: and the suddenness of her disappearance.
+2.580000: If she fled of her own accord,
+2.940000: those circumstances would harmonize.
+5.610000: If she were abducted, why should no cry be heard, no trace left?
+1.990000: True, I had not considered that.
+15.000000: then again watson never neglect the minor details consider her dress her ornaments her behavior at the breakfast table such trifles properly observed may speak volumes
+14.680000: as he spoke mrs hudson entered with a card upon a tray holmes took it up glanced at the inscription and passed it to me it bore the name of lord robert walsingham de veris and simon
+5.440000: Our noble client is at the door. Let us admit him without delay.
+7.850000: In another moment there entered a tall, aristocratic figure, thin of face, with hop-like features and a certain languid, haughtiness of manner.
+4.090000: His frock coat was spotlessly cut and a single red rose adorned his buttonhole.
+5.550000: Yet despite his composure, there lurked upon his countenance a trace of vexation not to be disguised.
+5.770000: Mr. Holmes, I presume I have come to you because the situation in which I find myself is beyond the capacity of the police.
+4.240000: As he adds he adds, I cannot endure the indignity of public conjecture.
+3.980000: My bride, my wife, has disappeared, and I demand that you trace her.
+5.260000: Tray be seated. Lord St. Simon, this is my friend and colleague, Dr. Watson.
+4.020000: We are already acquainted with the broad facts of the case through the press,
+3.380000: but your own account will naturally be more precise.
+1.410000: Then I shall be brief.
+3.210000: Yesterday, as all the world knows, I was united to Miss Hattie de Horan,
+3.220000: daughter of Mr. Istanbul, Francis de Horan of San Francisco.
+2.480000: Sure, the ceremony passed without incident.
+3.340000: My bride seemed somewhat agitated, but I ascribed it to natural noseness.
+3.580000: At the breakfast afterwards she excused herself, and from that moment I have seen her no more.
+2.540000: The search of the house proved fruitless.
+3.460000: Later inquiries revealed that she was observed in Hyde Park in company with a gentleman.
+1.840000: Since then, nothing.
+2.460000: This is indeed most remarkable.
+2.580000: You say she was observed with a gentleman.
+1.480000: Can you describe him?
+2.140000: Unfortunately, the description is vague.
+2.220000: A tall man with a moustache?
+1.670000: That is all that could be learned.
+17.830000: and what of your relations with your bride before the wedding did you notice any circumstance which might bear upon this sudden flight none whatever i paid her the usual attentions she accepted them graciously her father was most anxious for the union and i myself was sincerely attached to her
+11.700000: sincerely attached you say forgive me lord saintst simon if i press a delicate point was the marriage one of affection or of convenience
+9.620000: with haughte sir i am a nobleman my house is ancient and my purse is light the lady brought wealth i brought position it was a suitable alliance but i did not lack regard for her
+11.540000: quite so and now one final question did your bride receive any communication letter or token upon the morning of the wedding
+16.240000: hesitates now that you mention it i recall that a note was handed to her as we left the church she read it turned pale and crushed it into her glove i thought it a trifle perhaps some girlish congratulation that my lord may prove the most important fact of all
+4.740000: Holmes leaned back, his eyes half closed, as though assembling the various threads in his mind,
+4.380000: I for my part, was already marvelling at the possibilities which the case suggested.
+2.830000: Thus began the strange adventure of the noble bachelor,
+4.580000: one of the most singular episodes it has ever been my fortune to share with Sherlock Holmes.
+1.700000: Hmm, Lord St. Hmm.
+5.780000: Simon sat erect upon the settee, the faintest suggestion of irritation upon his refined features,
+4.080000: as though his very dignity chafed against the necessity of explanation.
+2.880000: Holmes, however, remained perfectly at ease,
+1.890000: his long fingers steeply together,
+3.480000: his gaze fixed with quiet intensity upon our client.
+4.380000: You mention, my lord, that a note was delivered to your bride
+2.210000: at the very door of the church.
+3.220000: Do you recall by whom it was handed to her?
+1.810000: A small page boy, I believe,
+1.900000: a messenger from one of the attendants, perhaps.
+1.780000: I paid little attention, being myself occupied
+1.970000: with the congratulations of my friends.
+2.730000: And the note itself, you did not see it?
+17.640000: no sir she read it hastily pale visibly and thrust it into her glove i thought no more of it until her disappearance did she carry the note with her when she left the house in lancaster gate i cannot say if she did it has not been found just howard i go to
+5.290000: A more curious circumstance, indeed. A sudden letter on the very threshold of matrimony,
+3.640000: and vanishing thereafter, surely the two events are connected.
+8.250000: Just so, Watson, we must treat them as contiguous phenomena. Now, my lord, you mentioned that Miss
+5.610000: Doran was observed later in Hyde Park with a gentleman who was the observer.
+4.050000: One of the footmen from my father-in-law's household, he stated that he saw a lady
+4.550000: resembling my wife, in company with a tall man with a moustache, walking beside the serpentine.
+7.700000: He swears to her identity. Did he hear them speak? No, only that they appeared absorbed in each other,
+8.370000: walking arm in arm. That is very suggestive. Tell me further, Lord Saint. Simon, did your wife show
+8.090000: any peculiarities of demeanour on the days preceding the wedding? Any reluctance? Any agitation?
+2.630000: I cannot deny that she was somewhat restless.
+2.240000: At the rehearsal she seemed preoccupied.
+1.840000: At one moment I found her in tears,
+3.650000: though she quickly explained them as the result of parting from her father's American friends.
+5.130000: Ah, at this, Mr. Francis Morton, was he one of those friends?
+2.950000: With a frown, I have heard the name, yes.
+2.130000: It was said to be an acquaintance of hers in California,
+1.950000: but I gave the matter no thought.
+4.050000: And yet, my lord, you now come to me precisely because such acquaintances,
+7.150000: acquaintances, when overlooked, proved to be the very key to the enigma. At this quiet remark,
+5.610000: Lord Saint, why't? Simon flushed slightly, but he restrained his irritation, perhaps mindful that
+4.610000: he had placed himself in Holmes's hands. I'm not here to argue, sir, but to learn the truth,
+5.910000: if this Mr. Smith, a murtan, has spirited my wife away, then let him be found and punished.
+7.680000: Unished? My lord, let us not anticipate. It may prove, rather, that some former obligation has
+7.340000: reasserted itself. You mean another marriage? I hinted nothing. I merely keep the avenues of
+6.950000: inference open. Combs rose and began pacing the carpet, his dressing gown sweeping behind him,
+4.810000: his long, humorous, nervous fingers flicking idly at the air as though he plucked threads
+1.750000: from the unseen room of fate.
+2.610000: Tell me, Lord St. Simon,
+3.320000: what of the clothing your bride wore at her disappearance?
+1.080000: ..
+2.400000: She had upon her the same dress in which she was married,
+2.150000: white satin, if I mistake not,
+1.910000: with a spray orange blossom.
+1.520000: She wore also her wedding ring, of course,
+1.760000: and a small diamond brooch, which was my gift.
+1.100000: ..
+1.060000: And her veil?
+1.540000: ..
+2.220000: She had removed it after the ceremony.
+1.140000: Very good.
+3.140000: Was there any quarrel between yourself and your bride?
+2.000000: Hmm, none whatever.
+1.000000: Hmm.
+2.000000: Then the facts are thus.
+11.000000: A bride receives a note at the church, reads it with agitation, conceals it, proceeds to her father's house, then vanishes.
+3.000000: She is seen with a gentleman in Hyde Park.
+4.000000: The police are at fort because they lack imagination.
+3.000000: For myself, the case is transparent.
+3.000000: Transparent homes? Surely not already.
+6.760000: My dear Watson, to see is easy when one knows where to look.
+4.270000: He resumed his seat and fixed Lord St. Simon with a penetrating glance.
+6.180000: My lord, you will, I trust, excuse a frankness which is necessary.
+5.230000: You married Miss Hattie Duran for her wealth and she married you for your title.
+3.860000: There is no shame in acknowledging the truth.
+3.640000: But she had, it appears, a prior tie.
+4.220000: A bond of the heart stronger than that of ambition.
+3.700000: That bond reasserted itself at the very altar.
+1.120000: ..
+2.560000: Angrily, you dare insinuate.
+2.170000: I insinuate nothing.
+3.070000: I merely read the facts as they lie.
+4.030000: Whether she has fled to her former lover or has been taken by him,
+2.220000: the result is the same.
+1.850000: Your wife is absent.
+4.880000: Our task is to trace her and to secure her safety.
+2.070000: And what of my honour, sir?
+5.970000: Dear, your honour, my lord, must stand upon the truth, not upon illusion.
+4.060000: For a moment, the young nobleman seemed about to make an indignant retort.
+4.280000: Then, perceiving perhaps the futility of contention, he rose with dignity.
+2.730000: Very well, Mr. Holmes, I place myself in your hands.
+2.410000: Discover the truth, whatever it may be.
+4.040000: You shall hear from me within twenty-four hours.
+5.530000: With a stiff bow to us both, Lord St. Simon withdrew, his footsteps echoing down the stairs.
+4.560000: The door had scarcely closed behind him before I turned eagerly to my companion.
+6.300000: Holmes, you amaze me. You speak as though the matter were already solved, yet we possess so little tangible evidence.
+4.230000: Evidence, Watson, is always sufficient if properly read.
+6.600000: Consider the note at the church, the agitation, the disappearance, the sighting in the park.
+4.000000: These form a sequence, too consistent for chance.
+1.570000: Um, who?
+4.120000: And yet we know nothing of this gentleman, nothing of where they went.
+2.520000: That is precisely what we shall learn.
+1.920000: But the main principle is clear.
+2.250000: The lady left willingly.
+2.430000: Then you do not suspect foul play?
+1.590000: Not in the least.
+4.300000: Had she been forced, there would be some struggle, some alarm.
+3.600000: Instead, she walked calmly with her companion.
+4.240000: Holmes took up one of the newspapers and tacked it with his finger.
+2.410000: Observe this notice, Watson.
+6.390000: Mr. Francis Doran has offered a reward for information regarding his daughter.
+5.250000: That in itself shows he is ignorant of her intentions.
+6.510000: And yet, she would hardly abandon him, save under the strongest compulsion of affection.
+2.100000: You mean, Mr. Francis Moulton?
+1.520000: precisely
+2.400000: we must discover his whereabouts
+2.420000: at this moment there came a brisk
+2.040000: knock at the door and Mrs. Bela Hudson
+2.140000: ushered in a stout bustling figure
+1.960000: with sharp eyes and a familiar air
+1.700000: of self importance it was
+1.820000: Inspector Lestrade of Scotland Yard
+2.600000: ha Mr. Holmes good day to you
+1.800000: I thought I should find you poring over
+2.040000: this noble bedding business quite the scandal
+1.960000: eh well I have a mind to
+2.280000: lay my hands on the fellow that carried her off
+2.000000: and who is the fellow
+1.220000: Lestrade
+3.750000: Smugly, why some rogue she picked up in America, no doubt.
+2.770000: We shall comb the docks and nab him yet.
+2.890000: Admirable energy, as always.
+5.470000: But may I inquire, have you considered the possibility that the lady departed willingly?
+1.260000: ..
+1.900000: Willingly? Nonsense.
+3.540000: What bride deserts her husband on the very day of marriage?
+4.450000: No, no, Holmes, there's villainy here, and we shall find it.
+3.160000: Smiling faintly, we shall see.
+4.820000: Lestrade bustled about the room, imparting a few inconsequential details of his inquiries.
+2.820000: Omen then took his leave with an air of confidence.
+2.430000: Holmes watched him go with an amused expression.
+4.800000: Poor Lestrade! He works with vigour but without vision.
+3.430000: And you, Holmes, what course shall you pursue?
+2.300000: The simplest of all.
+3.200000: I shall insert a small notice in the evening papers,
+3.850000: couched in terms which our quarry cannot fail to recognise.
+6.320000: By this means, Watson, I shall bring the lady and her companion to our very door.
+2.000000: You expect them to come here?
+6.240000: Where else? When the bird is weary of flight, it will return to the nest of reason.
+8.780000: He seated himself at the table, drew forth pen and ink, and in a few deft strokes composed an advertisement which, I confess, I found most enigmatic.
+5.100000: It ran thus. Would the gentleman who accompanied a lady in white satin at Hyde Park yesterday
+4.460000: kindly communicate with Mr. Poor, Sherlock Holmes, 221 B Baker Street,
+4.320000: regarding a matter of utmost importance? And you think this will suffice?
+4.880000: It must, for the lady and her companion cannot long remain hidden.
+6.340000: Their very secrecy will drive them to seek explanation, and I am the natural medium.
+6.470000: He laid aside the pen with an air of finality, lit his pipe and leaned back in his chair,
+2.400000: his eyes gleaming with quiet confidence.
+3.130000: I, for my part, could not repress his sense of wonder.
+2.150000: To me, the case seemed zapped in shadows.
+2.350000: To him, it was as clear as day.
+1.820000: Thus, the stage was set.
+2.640000: We awaited only the response to Holmes' stratagem,
+4.960000: certain that the mystery of the missing bride was drawing swiftly toward a dramatic solution.
+5.140000: The advertisement, once dispatched to the evening papers, in all breasts,
+4.050000: thanked, seemed to me, a fray and reed upon which to lean such weighty hopes.
+2.700000: Yet my companion showed no trace of uncertainty.
+0.870000: You me!
+3.600000: He sat calmly smoking, or stretched languidly upon the city,
+3.430000: his keen gaze wandering now to the ceiling, now to the fire,
+4.640000: as though he saw the very pattern of truth written upon the smoke and the flames.
+4.210000: Holmes, forgive me if I appear dull, but I cannot, for the life of me,
+2.660000: perceive how a mere notice in the standard is
+3.660000: to draw a vanished bride and her prestigious companion to our door.
+3.440000: My dear Watson, you resemble the rustic
+2.240000: who watches the conjurer's performance
+3.330000: and marvels at the rabbit's appearance,
+4.000000: but never observes the deft hand that concealed it.
+3.190000: The advertisement is not the rabbit, but the hat.
+4.940000: The lady's companion must scan the newspapers with anxious eye,
+5.880000: for he knows the hue and cry is abroad when he sees that one man.
+4.610000: Sherlock Holmes does not threaten, but invites communication.
+3.110000: He will recognize a chance to explain himself.
+3.360000: You suppose, then, that he is guiltless?
+6.340000: Not guiltless, perhaps, but not criminal, in the sense Lestrade conceives.
+8.360000: Love is not larceny, Watson, nor does affection constitute abduction.
+21.640000: ......................
+5.120000: chronicle of conjectures. At length I retired, yet scarcely had I drifted into slumber when the
+4.340000: thought of the missing bride, wandering perhaps friendless in the night, awoke me again and again.
+1.080000: ..
+3.970000: It was about eleven o'clock the next morning when our bell rang with a sharp peal.
+4.640000: Mrs. Egg Jenga! Hudson entered with her habitual air of patient wonder,
+5.070000: bearing the guard of a visitor. Holmes glanced at it, and a smile played upon his lips.
+3.900000: Ah, Watson, the fish has risen to the bait
+3.960000: Play, compose yourself for an interview of some delicacy
+2.840000: A moment later our visitor was shown
+3.280000: In a woman, plainly dressed, her face pale with anxiety
+2.020000: Her eyes bright with resolution
+2.460000: She was of middle years, perhaps forty
+2.920000: Yet there lingered in her features a faded beauty
+2.640000: And an expression of habitual endurance
+2.880000: She curtsied slightly, then sank into the chair
+1.980000: Holmes indicated, so
+2.230000: Mr. Sherlock Holmes, I presume?
+3.190000: Sir, I beg you will excuse the liberty of my coming.
+1.200000: ..
+2.630000: I saw your notice in the paper this morning,
+5.390000: and I thought it my duty, yes, my duty, to tell you what I know.
+1.720000: Your name, madam?
+2.370000: Fowler, Mrs. Flora.
+3.090000: Fowler, I am, sir, a lady's maid.
+2.800000: The maid of Miss Hattie Doran, perhaps?
+1.060000: ..
+3.880000: Ah, yes, sir, her maid, since she landed in this country.
+2.530000: and it is for her sake I am here.
+1.380000: For though she has gone,
+2.230000: I would not have the word think ill of her.
+2.060000: ...
+3.700000: No one who has read your mistress's character aright
+2.070000: could think ill of her.
+3.490000: But pray, proceed, Mrs. Fowler,
+1.980000: tell us what you observed.
+2.940000: Well, sir, on the morning of the wedding
+2.110000: I was with her as she dressed.
+2.030000: She was pale, fairly pale,
+1.950000: and trembled as I fastened her gown.
+3.340000: More than once, she clasped my hand and said,
+3.130000: Oh, Flora, I wish this day were over.
+4.660000: I thought it but maidenly nerves, though I confess my heart misgave me.
+4.280000: Then, at the church, I saw a slip of paper handed to her.
+4.810000: She turned as white as her veil, and her lips moved as if she prayed.
+3.990000: After that, sir, she was like a creature walking in a dream.
+1.760000: And after the ceremony?
+2.740000: At Lancaster Gate, she whispered to me,
+2.970000: If anyone should ask for me, Flora, say nothing.
+1.700000: Remember, say nothing.
+1.790000: Then she slipped from the room.
+1.420000: I never saw her again.
+1.560000: Who's Orel?
+2.660000: Did she leave by the front door?
+1.840000: No, sir.
+3.360000: By the side entrance, as if she would avoid observation.
+3.330000: And you have heard nothing since?
+1.620000: Nothing, sir.
+1.430000: But I know this.
+3.690000: She loved another before ever she met Lord St. Simon.
+4.070000: And if that other called her, she would follow him to the world's end.
+3.110000: You speak of Mr. Francis Morton?
+1.990000: Star-tiled. You know his name?
+1.220000: Yes, he it was.
+1.120000: ..
+1.250000: That is enough.
+2.670000: You have acted wisely, Mrs. Fowler,
+2.760000: and you have relieved your conscience.
+3.830000: You may rest assured your mistress is in safe hands.
+2.530000: God bless you, sir.
+6.520000: With a grateful curtsy, the woman withdrew. Holmes watched her departure with a look of quiet satisfaction.
+1.020000: To Moldau.
+6.850000: Well, Holmes, your surmise is confirmed. The lady fled willingly to join this molten. Yet, how should we trace them?
+4.130000: By waiting, Watson. They will trace themselves.
+3.190000: Had scarcely uttered the words when once more the bell pealed.
+5.690000: To know, this time a heavy step was heard upon the stair, and Mrs. Hudson announced, Mr. Francis Moulton.
+8.570000: Our visitor was a man of strong build, bronzed by sun and wind, with frank, earnest eyes and the carriage of one accustomed to command.
+5.110000: He entered hastily, as though impatience drove him, and addressed Holmes without preamble.
+4.870000: Mr. Holmes, I have read your notice. You can save me from a cruel misunderstanding.
+3.060000: My wife is with me, sir, my lawful wife.
+1.390000: Your wife? But...
+10.860000: Pay be seated, Mr. Moten. You interest us exceedingly. If you will favor us with your narrative, the truth shall soon be set right.
+19.140000: ....................
+2.630000: and lay long between life and death.
+2.550000: News reached Hattie that I had perished.
+2.870000: She believed herself a widow.
+4.370000: Were you, in fact, recovered and only later returned?
+1.110000: Just so.
+2.360000: When at last I came to England to seek her,
+2.860000: I found she had been courted by Lord St. Simon.
+1.610000: Her father urged the match,
+3.730000: and she, believing herself free, consented.
+1.370000: I had but one hope,
+2.680000: to see her before the ceremony and claim my rights.
+1.780000: But I arrived too late.
+15.380000: she was already at the church i sent her a note she knew my hand and she came to me as any true wife must extraordinary and where is she now at lodgings not far from here trembling lest the world brand her faithless
+4.760000: I would shoo her from scandal, sir, but I cannot bear that she be slain as a runaway bride,
+2.120000: when in truth she but returned to her husband.
+1.200000: ..
+2.940000: You have done rightly to come to me, Mr. Modin.
+6.460000: The truth must be told, though gently, for Lord St. Simon's pride is involved.
+1.080000: ..
+4.640000: I have no wish to wound him, but my hattie is mine, and no man shall part us.
+3.440000: His voice rang with a passion that left no doubt of his sincerity.
+3.340000: Holmes regarded him thoughtfully for a moment, then rose with decision,
+4.040000: Bring your wife here at once, Mr. Moulton.
+3.630000: It is better that all parties meet beneath my roof,
+4.830000: where the explanation may be made without unseemly publicity.
+2.570000: I shall fetch her instantly.
+2.960000: He hurried from the room.
+1.950000: I turned to Holmes in amazement.
+1.770000: Holmes, this is astounding.
+2.210000: Who would have dreamed of such a solution?
+4.520000: Anyone who reasoned from the facts, my dear Watson.
+4.260000: But to conceal a prior marriage, surely the lady acted indiscreetly?
+1.020000: ..
+1.150000: Indiscreet, perhaps.
+6.160000: But she believed herself free, and her error was born of grief, not guile.
+1.950000: We had but a short time to wait.
+2.170000: In less than half an hour, Boutin returned,
+4.000000: leading by the hand a young lady whose beauty shone even through her pallor.
+3.440000: She was tall, graceful, with eyes of deep blue,
+2.550000: and a proud carriage softened by distress.
+3.260000: As she entered, she glanced timidly from Holmes to myself.
+2.920000: then clung more closely to her companion's arm.
+3.020000: Mr. Holmes, I am Hattie Moulton,
+2.990000: or Hattie St. Simon, as the world would call me.
+2.810000: Oh, sir, what must you think of me?
+5.250000: That you are a lady placed in a position of singular difficulty,
+2.870000: and that you have borne it with courage.
+1.060000: ..
+2.390000: But the shame, the scandal!
+4.030000: I would have spared Lord St. Simon the pain,
+2.880000: yet how could I forsake my true husband?
+1.140000: ..
+2.770000: You could not, madam, nor should you.
+3.790000: The truth once spoken will justify you.
+3.060000: She sank into a chair, covering her face with her hands,
+2.040000: while her husband bent tenderly over her.
+2.390000: I confess, my heart was touched by the sight.
+1.700000: For all her wealth and beauty,
+3.000000: she was but a woman torn between duty and affection,
+1.830000: and affection had conquered.
+3.920000: Courage, madam, the hour of explanation approaches.
+6.300000: I have sent for Lord Saint's Simon, and he will soon be here.
+3.220000: Starting up. Sent for him?
+3.240000: Oh, sir, I dread that meeting.
+4.220000: And you? I dread that meeting.
+1.540000: ..
+2.600000: Yet it must be faced.
+3.860000: Better under my roof, where calm counsel may prevail,
+2.400000: than in the glare of society's gossip.
+5.520000: At this very moment the sound of wheels was heard, and soon after, a knock upon the door.
+3.370000: Mrs. A. Hudson announced, Lord Robert St. Simon.
+1.940000: Holmes's glance met mine.
+4.330000: Steady, Watson. The curtain rises upon our final act.
+1.040000: ..
+2.300000: Lord Robert St. Lord Robert St.
+5.090000: Try it is. Simon entered our sitting room with the air of a man who would sooner have been anywhere else,
+3.170000: yet whose pride compelled him to maintain an unruffled composure.
+3.340000: His tall figure was effect, his manner studiedly cold,
+5.430000: though I detected a tremor about the nostrils and a quickness in his glance which betrayed inner agitation.
+3.150000: Holmes advanced courteously, motioning him to a chair.
+3.760000: My lord, I thank you for your punctuality.
+5.460000: Permit me to present to you Mr. Francis Moten and his wife.
+1.020000: ..
+2.640000: The nobleman's eyes flashed to the couple who rose as he entered.
+6.680000: For one instant he stood rigid, as though every drop of blood had left his veins.
+5.420000: Then his lips compressed, and with a slight intonation of the head, he took the seat indicated.
+4.430000: Mr. Holmes, you promised me the truth. I perceive that it is before me in flesh and blood.
+3.210000: Rising, trembling Lord St. Simon.
+7.790000: Oh, sir, forgive me. I never wished to wrong you. I thought, I believed.
+2.410000: You believed yourself free, madam.
+3.570000: and therefore you pledged me vows which were not yours to give.
+5.350000: Willingly, not knowingly, my heart was buried with Frank.
+2.250000: Or so I thought, or so I thought.
+3.800000: When he returned, I was bound to him as ever.
+2.430000: Oh, believe me, I suffered.
+1.580000: ..
+2.990000: Firmly, my lord, fault lies not with her but with fate.
+2.950000: She deemed me dead, yet I lived.
+4.000000: Would you have had her deny her husband when once she knew the truth?
+5.690000: Sir, I have no quarrel with you. The lady was deceived, but not by you. I accept that.
+2.640000: Yet I cannot disguise the humiliation I endure.
+5.210000: To be deserted upon my wedding day, to become the jest of society, such wounds cut deep.
+5.820000: And yet, my lord, you emerge from this affair with honour intact.
+4.690000: Your pride may be wounded, but your integrity is unblemished.
+4.870000: It would be known that you were the victim of circumstance, not of corkwetly.
+4.000000: Indeed, Lord St. Simon, no man could blame you.
+6.070000: The nobleman's eyes softened slightly as he regarded Hattie, who stood pale and trembling beside her husband.
+2.660000: Adam, I forgive you, but I cannot forget.
+5.590000: No, you will, I trust, withdraw from the circle where your brief presence has caused so much disturbance.
+3.320000: We ask nothing else, my lord.
+4.450000: Frank and I shall return to America where none can reproach us.
+2.430000: And we shall bless you for your generosity.
+4.940000: Coldly, I do not seek your blessing, sir, but I wish you no ill.
+2.810000: The tension of the scene was broken by Holmes,
+4.250000: who rose and stood between the parties with the air of a judge pronouncing sentence.
+2.440000: Let us consider the matter closed.
+1.100000: ..
+1.980000: The truth is plain.
+5.440000: The lady exonerated, and your lordship's honour beyond reproach.
+5.610000: Society may chatter for a week, but it will soon turn to some newer scandal.
+3.890000: Meanwhile, all hearts may be at rest.
+1.660000: Oh, with a bitter smile.
+1.460000: Elementary, no doubt, Mr. Holmes.
+1.400000: ..
+1.250000: Precisely, my lord.
+1.070000: Elementary.
+3.600000: With a bow that was half courteous, half disdainful,
+2.210000: Lord St. Simon rose and took his leave.
+2.610000: We heard his cab rattle away into the London streets.
+2.540000: For some moments, silence waned in our little room.
+2.130000: Then Hattie sank weeping upon the sofa,
+1.610000: her husband's arm about her,
+1.900000: while Holmes busied himself with his pipe,
+3.780000: as though the drama he had engineered were no more than a passing trifle.
+3.590000: Holmes, you bear yourself as though nothing remarkable had occurred,
+4.390000: yet we have just witnessed one of the most extraordinary scenes in our experience.
+5.650000: My dear Watson, extraordinary only to the uninitiated.
+4.710000: To me, it was the inevitable resolution of given premises.
+1.020000: ..
+3.220000: Still, you must allow me to marvel at the neatness with which it has ended.
+4.260000: Meatness is the very essence of deduction.
+6.560000: When the reasoning is correct, the conclusion follows as surey as day from dawn.
+4.480000: Hoy, turn then to our guests, whose emotion had somewhat abated.
+6.100000: Mr. and Mrs. Moulton, you may rest assured that no further impediment lies before you.
+8.570000: I advise you to depart quietly for America as you propose and to resume the life unjustly interrupted.
+2.900000: Mr. Holmes, how can we thank you?
+4.470000: By forgetting me, madam, and remembering only each other
+4.860000: Yet we shall never forget that you saved my wife from dishonour
+2.740000: I saved her only from misconception
+4.340000: The truth was her own, and truth is the strongest advocate
+4.860000: With words of gratitude, they departed, leaving us once more alone
+5.380000: I sat back, drawing a deep breath, still half incredulous of the swift unfolding of events
+4.780000: Holmes, you have unraveled this tangled skein with astonishing swiftness
+1.300000: Yet I cannot but wonder
+4.460000: At what moment did you first divine the existence of a prior marriage?
+3.260000: At the church door, Watson, figuratively speaking
+5.400000: A bride receives a note and becomes agitated to the point of pallor
+3.980000: What message could so move her at such a moment?
+5.740000: Only one, that the man she truly loved and believed lost still lived
+3.760000: From that instant, the path was straight.
+4.370000: Yet you spoke of possibilities, of abduction, of other causes.
+7.420000: My dear fellow, one must allow for alternative explanations until the decisive fact is verified.
+2.310000: But inwardly I was convinced.
+3.660000: He smiled at my expression, half amused, half reproachful.
+6.600000: Come, Watson, you must cultivate the faculty of imagination, disciplined imagination.
+4.920000: Facts are seeds. Imagination is the soil.
+6.250000: Deduction is the harvest. Without imagination, facts remain barren.
+5.390000: I see, Holmes. Yet I confess, the soil of my imagination is but poor compared with yours.
+1.140000: ..
+4.180000: Dryly. It is a matter of cultivation, not fertility.
+4.480000: For some time, we sat in companionable silence, the fire crackling,
+6.780000: Cousin, the fall pressing against the window panes, at length, home stirred and drew a fresh sheaf of newspapers toward him.
+23.220000: ........................
+3.440000: And you, Holmes, what remains for you?
+5.960000: For me, nothing, save the satisfaction of having read the problem aright.
+4.970000: And for me, the satisfaction of having witnessed again the triumph of your method.
+4.990000: He looked at me with a gleam of amusement, then leaned back, smoke curling upward from his pipe.
+6.900000: You are a good chronicler, Watson, though you persist in regarding my small achievements as prodigies.
+5.760000: Nope. Remember, the world is full of wonders if only one has the eyes to see them.
+24.240000: .........................
+4.700000: Baker Street regained its accustomed quiet, my mind continued to dwell upon the singular scenes
+4.360000: we had lately witnessed. It was one thing to perceive the logical solution of a puzzle.
+5.440000: It was another to observe the human hearts which beat so anxiously within that puzzle's fring.
+4.900000: In the days that followed, I noted with interest the manner in which the affair of Lord St. Seep,
+4.760000: Simon and the Vanished Bride was received by society. As Holmes predicted, the gossip of
+5.100000: London fastened upon it with greedy tongues. At the clubs, men chuckled behind their hands.
+2.500000: At afternoon teas, ladies whispered,
+3.840000: the newspapers, from the morning post to the most sensational evening sheet,
+1.890000: printed columns of speculation.
+4.480000: To word there, a Lord St. Simon, however, bore himself an outward carp.
+4.380000: A brief statement was issued in his name, couched in terms of dignified restraint.
+3.810000: Circumstances of a private nature have necessitated the withdrawal of Lady St.
+1.800000: A simone from public life.
+1.420000: No further comment will be made.
+2.810000: Thus he shielded his wounded pride with the armour of silence.
+2.090000: For this, I confess, I felt admiration.
+4.830000: There was something almost noble in the restraint with which he accepted his humiliation.
+3.170000: Of Mr. and Mrs. Morden, I heard soon after.
+4.430000: They had sailed quietly for America, leaving behind them the clamor of tongues.
+3.440000: Before their departure, however, a letter was brought to Baker Street,
+3.880000: which Holmes tossed across to me one evening as we sat by the fire.
+2.940000: Letter? Read by Watson?
+3.890000: Dear Mr. Holmes, words cannot tell the gratitude we feel.
+5.780000: You saved me from dishonour in the eyes of the world and gave me back my husband.
+3.530000: Be assured that, far from the scenes of my brief misery,
+4.190000: I shall never forget the friend who stood between me and shame.
+6.740000: .......
+3.500000: With deepest thanks, Harry Moten.
+1.660000: ..
+2.320000: I laid the letter down, deeply moved.
+2.780000: Holmes, this must bring you satisfaction
+3.060000: Satisfaction of a kind, Watson
+2.700000: Though not the sort most men crave
+3.010000: And what sort do you crave?
+3.850000: The satisfaction of intellectual clarity
+4.860000: Observe, this case presented itself as a confusion of appearances
+4.740000: A nobleman deserted, a bride vanished, rumours of abduction
+4.080000: Yet beneath lay the simplest of human dramas
+7.010000: A woman bound by vows, thought broken, returning to the man she truly loved.
+5.670000: Strip away the ornament, and the skeleton of the fact stands revealed.
+5.080000: That is the satisfaction, to see clearly where others grope.
+1.760000: ..
+5.280000: Yet surely, Holmes, you cannot be insensible to the human element, the anguish of the lady,
+1.940000: the wounded pride of Lord Saint Simon.
+1.900000: O Gamban Bind Simon!
+4.260000: After a pause, I am not made of marble, Watson
+4.820000: Yet the detective must school himself to regard emotion as data
+1.820000: Not as distraction
+4.800000: A tear-stained face is but a sign, like a footprint in the clay
+4.820000: And yet, my dear fellow, sometimes the heart reads more swiftly than the head
+4.100000: Which is why, Watson, I keep you by my side
+5.940000: He smiled, a rare, kindly smile which lit for a moment the austere lines of his face
+3.040000: I felt a sudden warmth of pride in my companionship
+2.460000: Humble though my share in his achievements might be
+5.440000: Several days later, as we sat at breakfast, another notice in the papers caught my eye
+3.940000: It was an announcement that Lord St. Simon had retired from London for the season
+1.880000: Seeking seclusion in the Highlands
+1.460000: Holmes observed my glance
+4.660000: A wise retreat, London is merciless in its gossip
+3.520000: In a month his name would scarcely be mentioned.
+1.720000: And what of his future homes?
+1.430000: Shall he marry again?
+1.190000: Dryly.
+2.280000: Society has a short memory
+3.460000: and an ancient title is a powerful magnet.
+1.850000: He will wed again, no doubt,
+2.790000: though perhaps he will regard American heiresses
+2.340000: with a trifle more caution.
+2.740000: We both laughed quietly at this,
+2.400000: though my mirth was tempered by sympathy for the man
+1.600000: who had lost more than he had gained.
+7.940000: The case, however, lingered in my thoughts, not for its social scandal, but for the lessons it bore in the method of my friend.
+9.310000: I resolved, therefore, to question him more closely, for I felt that each problem we encountered was an opportunity for my own instruction in the art of reasoning.
+7.160000: Holmes, you spoke of the matter as elementary, yet I, who followed every step with anxious eyes, found it anything but simple.
+2.810000: Will you not explain to me more fully the course of your deductions?
+8.000000: With pleasure, my dear Watson. Consider first the fact of the note at the church. To the superficial
+7.520000: mind it is an isolated curiosity. To the analytic mind it is the hinge upon which the whole gaze
+7.760000: turns. The bride, already pledged, receives a message. Instantly her demeanor changes. What
+7.620000: message could effect such transformation, one which altered her whole conception of a duty.
+6.840000: That could be nothing less than the announcement of a husband alive, alive. But might it not have
+7.180000: been some warning, some threat? Possible, but not probable. A threat would produce fear,
+2.920000: Perhaps an appeal for protection
+6.900000: Instead we observe determination, concealment and later voluntary flight
+2.580000: The inference is irresistible
+3.030000: Then the sighting in Hyde Park?
+1.270000: Confirmation
+3.820000: She was seen walking calmly, arm in arm, with a gentleman
+2.680000: No abduction there, but reunion
+2.330000: And the maid's testimony?
+1.950000: Merely the final link
+4.740000: In truth, I had already reconstructed the story before she spoke a word.
+2.130000: Holmes, your confidence amazes me.
+3.160000: I should have hesitated until every piece was in place.
+3.670000: That is the distinction between us, my dear fellow.
+4.210000: You require the complete puzzle before you perceive the picture.
+4.880000: I, by contrast, need but a corner and a hue.
+3.210000: Yet surely that is genius, not method.
+5.150000: genius, perhaps, is but method carried to its highest oint.
+4.670000: Because Hurd's words, uttered with quiet conviction, sank deep into my mind,
+5.810000: I felt again the gulf between my own laborious reasoning and his swift, intuitive leaps.
+3.110000: Yet if I could not equal him, I might at least record him,
+4.030000: and in so doing render some tribute to the singular powers of my friend.
+3.170000: As the case of the noble bachelor was brought to an end,
+3.660000: yet before I close my chronicle, I would share one final scene,
+3.520000: which lingers in my memory with peculiar vividness.
+2.610000: It was a week later, a grey afternoon,
+2.360000: the fog drifting once more past our windows,
+1.640000: Holmes sat at his chemical table,
+1.230000: bending over some experiment
+2.340000: while I produced a volume of medical essays.
+3.700000: Suddenly he looked up, his eyes bright with inward fire.
+4.040000: Watson, do you know why I cherish such cases as this
+2.560000: above the most sensational of crimes?
+2.240000: Because they test your powers of deduction?
+4.460000: Because they reveal the hidden poetry of life.
+3.920000: Men think me a machine, a calculating engine.
+5.690000: Yet beneath the dull crust of facts, there lies the drama of human hearts.
+6.310000: The nobleman proud but lonely, the girl torn between ambition and love,
+3.900000: the husband thought dead, returned from the grave.
+4.400000: All these are but figures in a greater tragedy and comedy.
+9.870000: To discern their secret, to bring light where there is darkness, that is art, Watson, the highest art.
+5.140000: Then you admit, Holmes, that even the cold logician may feel the throb of romance?
+7.510000: Smiling faintly, I admit that romance, when properly analysed, is but logic in disguise. How?
+6.700000: sanctions he bent again to his retorts and i watching him felt that i had dims for an instant
+5.580000: the hidden depths of that singular nature the keen brain and the lonely heart united in pursuit of
+5.220000: truth so ended the adventure of the noble bachelor one of many episodes which have revealed to me the
+5.200000: strange genius of sherlock holmes and the privilege i enjoy in being his companion and chronicler
+0.140000: .

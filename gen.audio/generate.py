@@ -15,6 +15,7 @@ SCRIPTS = [
     "5.timeline.py",
     "6.timing.py",
     "7.sfx.py",
+    "8.combine.py",
 ]
 
 SCRIPTS_DIR = "scripts"

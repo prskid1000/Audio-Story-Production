@@ -1,1 +1,19 @@
-2.02: Creaking wooden wheels over cobblestones, rhythmic clatter, distant horse hooves on stone.
+61.278: Silence
+2.5: Soft, rhythmic tapping of raindrops on glass windows
+825.189: Silence
+2.75: Echoing footsteps descending stairs, wooden creaks, distant fading thuds.
+84.338: Silence
+1.5: wooden door knocking, muffled voice
+276.135: Silence
+1.0: Bell ringing, sharp and sudden, high-pitched metallic clang
+195.67: Silence
+3.19: Bell tolling, deep and resonant, fading into distance
+1.611: Silence
+1.0: Heavy footstep on wooden staircase, muffled echo.
+273.543: Silence
+3.5: Low-pitched rumble of distant wheels on gravel, fading into silence.
+208.965: Silence
+2.61: Rattling taxi wheels on cobblestones, distant engine hum, fading into urban ambient noise.
+172.98: Silence
+4.48: Fire crackling with low amplitude and warm timbre
+592.82: Silence
