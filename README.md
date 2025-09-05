@@ -4,7 +4,7 @@ AI Content Studio
 
 
 
-\#Audio
+#Audio
 
 
 
