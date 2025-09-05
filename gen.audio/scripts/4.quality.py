@@ -360,8 +360,8 @@ def main():
     print("=" * 50)
     
     # Check if 1.1.story.txt and story.str.txt exist for comparison
-    original_file = "1.1.story.txt"
-    transcribed_file = "1.2.story.str.txt"
+    original_file = "input/1.1.story.txt"
+    transcribed_file = "input/1.2.story.str.txt"
     
     if os.path.exists(original_file) and os.path.exists(transcribed_file):
         print(f"Found files to compare:")

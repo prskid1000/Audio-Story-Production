@@ -196,9 +196,9 @@ def main():
     start_time = time.time()
     
     audio_file = "output/story.wav"
-    srt_file = "1.2.story.srt"
-    text_file = "1.2.story.str.txt"
-    timeline_file = "1.2.timeline.txt"
+    srt_file = "input/1.2.story.srt"
+    text_file = "input/1.2.story.str.txt"
+    timeline_file = "input/1.2.timeline.txt"
     
     if not os.path.exists(audio_file):
         print(f"Error: Audio file '{audio_file}' not found!")

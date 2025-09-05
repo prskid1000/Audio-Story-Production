@@ -1,0 +1,467 @@
+Workflow runner started. Python executable: C:\Users\prith\.pyenv\pyenv-win\versions\3.12.10\python.exe
+Working directory: D:\.comfyui\gen.audio
+
+===== START D:\.comfyui\gen.audio\scripts\1.character.py @ 2025-09-05 11:58:56 =====
+=== VOICE REGION AND LANGUAGE SELECTION ===
+Available regions: in
+Available languages: ba, en, hi
+Current region: in, Current language: en
+[AUTO] Using --change-settings='n'
+=== STORY PREPROCESSING ===
+Found 1 unique characters: male_narrator
+
+Available male voices: alok_en, bala_en, gaurav_en, himanshu_en, indrajeet_en, nikhil_en, ramesh_en, sarang_en, sid_en, yuvraj_en
+Available female voices: aisha_en, ayesha_en, deshna_en, henna_en, koku_en, maya_en, mona_en, mridula_en, paavni_en, vidya_en
+
+=== CHARACTER VOICE ASSIGNMENT ===
+I found the following characters in your story:
+- male_narrator
+
+Currently assigned voices:
+- male_narrator: alok_en
+- male_watson: alok_en
+- male_holmes: ramesh_en
+
+All characters already have voice assignments!
+
+=== FINAL CHARACTER-VOICE MAPPING ===
+- male_narrator: alok_en
+[AUTO] Using --auto-confirm='y'
+Voice assignment confirmed!
+Created backup: ../ComfyUI/custom_nodes/tts_audio_suite/voices_examples/#character_alias_map.txt.backup
+Updated character alias map file: ../ComfyUI/custom_nodes/tts_audio_suite/voices_examples/#character_alias_map.txt
+Format: character=voice
+
+==================================================
+⏱️  TIMING SUMMARY
+==================================================
+⚙️  Setup time: 0.000 seconds
+📖 Story reading time: 0.000 seconds
+👥 Character preprocessing time: 0.002 seconds
+⏱️  Total execution time: 0.002 seconds (0.000 minutes)
+==================================================
+
+===== END D:\.comfyui\gen.audio\scripts\1.character.py @ 2025-09-05 11:58:56 (exit=0, took=0.05s) =====
+Starting ComfyUI backend using Windows cmd style...
+Waiting 15s for ComfyUI to initialize...
+[START] Security scan
+[DONE] Security scan
+## ComfyUI-Manager: installing dependencies done.
+** ComfyUI startup time: 2025-09-05 11:58:57.854
+** Platform: Windows
+** Python version: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+** Python executable: C:\Users\prith\.pyenv\pyenv-win\versions\3.12.10\python.exe
+** ComfyUI Path: D:\.comfyui\ComfyUI
+** ComfyUI Base Folder Path: D:\.comfyui\ComfyUI
+** User directory: D:\.comfyui\ComfyUI\user
+** ComfyUI-Manager config path: D:\.comfyui\ComfyUI\user\default\ComfyUI-Manager\config.ini
+** Log path: D:\.comfyui\ComfyUI\user\comfyui.log
+
+Prestartup times for custom nodes:
+   2.1 seconds: D:\.comfyui\ComfyUI\custom_nodes\comfyui-manager
+
+Checkpoint files will always be loaded safely.
+Total VRAM 12227 MB, total RAM 64957 MB
+pytorch version: 2.8.0+cu129
+Set vram state to: NORMAL_VRAM
+Device: cuda:0 NVIDIA GeForce RTX 5070 Ti Laptop GPU : cudaMallocAsync
+Using pytorch attention
+Python version: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+ComfyUI version: 0.3.51
+ComfyUI frontend version: 1.25.9
+[Prompt Server] web root: C:\Users\prith\.pyenv\pyenv-win\versions\3.12.10\Lib\site-packages\comfyui_frontend_package\static
+### Loading: ComfyUI-Manager (V3.36)
+[ComfyUI-Manager] network_mode: public
+### ComfyUI Revision: 3820 [59eddda9] *DETACHED | Released on '2025-08-23'
+[ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/github-stats.json
+[ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+✅ ChatterboxTTS loaded from bundled package
+✅ ChatterboxVC loaded from bundled package
+✅ F5-TTS loaded from system package
+🎭 Character voices: Found 61 characters, 3 aliases
+✅ SRT modules loaded from system package
+🔧 Registering TTS Audio Suite nodes...
+======================================================================
+🚀 TTS Audio Suite v4.2.1
+Universal multi-engine TTS extension for ComfyUI
+⚠️ No local ChatterBox models found - will download from Hugging Face
+💡 Tip: First generation will download models (~1GB)
+   Models will be saved locally for future use
+✅ TTS Audio Suite v4.2.1 loaded with 16 nodes:
+   • ⚙️ ChatterBox TTS Engine
+   • ⚙️ F5 TTS Engine
+   • ⚙️ RVC Engine
+   • 🌊 Audio Wave Analyzer
+   • 🎙️ Voice Capture
+   • 🎤 TTS Text
+   • 🎭 Character Voices
+   • 🎭 Load RVC Character Model
+   • 👄 F5-TTS Speech Editor
+   • 📺 TTS SRT
+   • 🔄 Voice Changer
+   • 🔧 Audio Analyzer Options
+   • 🔧 F5-TTS Edit Options
+   • 🔧 RVC Pitch Extraction Options
+   • 🤐 Noise or Vocal Removal
+   • 🥪 Merge Audio
+======================================================================
+
+Import times for custom nodes:
+   0.6 seconds: D:\.comfyui\ComfyUI\custom_nodes\comfyui-manager
+   5.3 seconds: D:\.comfyui\ComfyUI\custom_nodes\tts_audio_suite
+
+Context impl SQLiteImpl.
+Will assume non-transactional DDL.
+FETCH ComfyRegistry Data: 5/96
+No target revision found.
+Starting server
+
+To see the GUI go to: http://127.0.0.1:8188
+
+===== START D:\.comfyui\gen.audio\scripts\2.story.py @ 2025-09-05 11:59:11 =====
+got prompt
+⚙️ ChatterBox Engine: Configured for English on auto
+   Settings: exaggeration=0.8, temperature=1.0000000000000002, cfg_weight=0.2
+🎤 TTS Text: Starting chatterbox generation
+C:\Users\prith\.pyenv\pyenv-win\versions\3.12.10\Lib\site-packages\torchaudio\_backend\utils.py:213: UserWarning: In 2.9, this function's implementation will be changed to use torchaudio.load_with_torchcodec` under the hood. Some parameters like ``normalize``, ``format``, ``buffer_size``, and ``backend`` will be ignored. We recommend that you port your code to rely directly on TorchCodec's decoder instead: https://docs.pytorch.org/torchcodec/stable/generated/torchcodec.decoders.AudioDecoder.html#torchcodec.decoders.AudioDecoder.
+  warnings.warn(
+🎤 TTS Text: Using voice reference from folder (narrator)
+🔧 Creating new chatterbox engine instance
+C:\Users\prith\.pyenv\pyenv-win\versions\3.12.10\Lib\site-packages\torchaudio\_backend\utils.py:337: UserWarning: In 2.9, this function's implementation will be changed to use torchaudio.save_with_torchcodec` under the hood. Some parameters like format, encoding, bits_per_sample, buffer_size, and ``backend`` will be ignored. We recommend that you port your code to rely directly on TorchCodec's encoder instead: https://docs.pytorch.org/torchcodec/stable/generated/torchcodec.encoders.AudioEncoder
+  warnings.warn(
+🎭 ChatterBox: Character switching mode - found characters: alok_en
+🎭 Using character voice for 'alok_en'
+🔄 Loading base ChatterBox model 'English' for generation
+📦 Loading English ChatterBox model from HuggingFace
+📦 Loading ChatterBox model for English from ResembleAI/chatterbox
+📦 Loading local ChatterBox models from: C:\Users\prith\.cache\huggingface\hub\models--ResembleAI--chatterbox\snapshots\c819eeccdf99310da26bca3bc5ace120db93471a
+📁 Loading ve from pt format
+📁 Loading t3_cfg from pt format
+FETCH ComfyRegistry Data: 10/96
+FETCH ComfyRegistry Data: 15/96
+FETCH ComfyRegistry Data: 20/96
+FETCH ComfyRegistry Data: 25/96
+input frame rate=25
+📁 Loading s3gen from pt format
+FETCH ComfyRegistry Data: 30/96
+loaded PerthNet (Implicit) at step 250,000
+✅ Successfully loaded all local ChatterBox models
+🌍 Loading ChatterBox model 'English' for language 'en' (1 segments)
+🎤 Generating ChatterBox segment 1/1 chunk 1/1 for 'alok_en' (lang: en)...
+FETCH ComfyRegistry Data: 35/96
+Sampling:   0%|          | 0/1000 [00:00<?, ?it/s]Sampling:   0%|          | 1/1000 [00:00<02:39,  6.25it/s]Sampling:   0%|          | 2/1000 [00:00<04:10,  3.98it/s]Sampling:   0%|          | 3/1000 [00:00<03:35,  4.64it/s]Sampling:   0%|          | 4/1000 [00:00<02:56,  5.63it/s]Sampling:   0%|          | 5/1000 [00:01<03:20,  4.97it/s]Sampling:   1%|          | 6/1000 [00:01<03:17,  5.03it/s]Sampling:   1%|          | 7/1000 [00:01<02:52,  5.75it/s]Sampling:   1%|          | 8/1000 [00:01<03:02,  5.43it/s]Sampling:   1%|          | 9/1000 [00:01<03:05,  5.36it/s]Sampling:   1%|          | 10/1000 [00:01<02:41,  6.11it/s]Sampling:   1%|          | 11/1000 [00:02<03:32,  4.65it/s]FETCH ComfyRegistry Data: 40/96
+Sampling:   1%|          | 12/1000 [00:02<03:14,  5.07it/s]Sampling:   1%|▏         | 13/1000 [00:02<02:53,  5.70it/s]Sampling:   1%|▏         | 14/1000 [00:02<03:10,  5.18it/s]Sampling:   2%|▏         | 17/1000 [00:02<01:57,  8.39it/s]Sampling:   2%|▏         | 18/1000 [00:03<02:34,  6.37it/s]Sampling:   2%|▏         | 19/1000 [00:03<03:15,  5.02it/s]Sampling:   2%|▏         | 20/1000 [00:03<03:08,  5.20it/s]Sampling:   2%|▏         | 22/1000 [00:03<02:14,  7.25it/s]Sampling:   2%|▎         | 25/1000 [00:03<01:30, 10.80it/s]Sampling:   3%|▎         | 28/1000 [00:04<01:10, 13.71it/s]Sampling:   3%|▎         | 31/1000 [00:04<01:02, 15.59it/s]Sampling:   3%|▎         | 33/1000 [00:04<01:26, 11.19it/s]Sampling:   4%|▎         | 35/1000 [00:04<01:27, 11.07it/s]Sampling:   4%|▎         | 37/1000 [00:04<01:40,  9.63it/s]Sampling:   4%|▍         | 39/1000 [00:05<01:50,  8.68it/s]Sampling:   4%|▍         | 41/1000 [00:05<01:39,  9.64it/s]Sampling:   4%|▍         | 43/1000 [00:05<02:01,  7.89it/s]Sampling:   4%|▍         | 45/1000 [00:06<02:13,  7.15it/s]Sampling:   5%|▍         | 47/1000 [00:06<02:09,  7.34it/s]Sampling:   5%|▍         | 49/1000 [00:06<02:08,  7.40it/s]Sampling:   5%|▌         | 50/1000 [00:06<02:04,  7.61it/s]Sampling:   5%|▌         | 51/1000 [00:06<02:07,  7.46it/s]
+✅ TTS Text: chatterbox generation successful
+Prompt executed in 45.62 seconds
+Removed existing final output: output/story.wav
+Processing story...
+Generating story audio...
+Story length: 57 characters
+Sending workflow to ComfyUI...
+Response status: 200
+Response JSON: {'prompt_id': '1f1184c9-e5ae-473e-aec4-9ae7fccdb93b', 'number': 0, 'node_errors': {}}
+Workflow sent successfully, prompt_id: 1f1184c9-e5ae-473e-aec4-9ae7fccdb93b
+Waiting for audio generation to complete...
+Looking for generated audio file in ../ComfyUI/output/audio
+Files in folder: ['sfx', 'story_00001_.mp3', 'story_00002_.mp3', 'story_00003_.mp3', 'story_00004_.mp3', 'story_00005_.mp3', 'story_00006_.mp3', 'story_00007_.mp3', 'story_00008_.mp3', 'story_00009_.mp3', 'story_00010_.mp3', 'story_00011_.mp3', 'story_00012_.mp3', 'story_00013_.mp3', 'story_00014_.mp3', 'story_00015_.mp3', 'story_00016_.mp3', 'story_00017_.mp3', 'story_00018_.mp3']
+Found generated file: ../ComfyUI/output/audio\story_00018_.mp3
+Converting ../ComfyUI/output/audio\story_00018_.mp3 to WAV format...
+Converted and saved as output/story.wav
+Story processing complete!
+Final audio file: output/story.wav
+
+==================================================
+⏱️  TIMING SUMMARY
+==================================================
+📖 File reading time: 0.000 seconds
+🎵 Story processing time: 53.735 seconds
+⏱️  Total execution time: 53.735 seconds (0.896 minutes)
+==================================================
+
+===== END D:\.comfyui\gen.audio\scripts\2.story.py @ 2025-09-05 12:00:05 (exit=0, took=54.10s) =====
+Stopping ComfyUI backend...
+
+===== START D:\.comfyui\gen.audio\scripts\3.transcribe.py @ 2025-09-05 12:00:06 =====
+Starting audio transcription with OpenAI Whisper...
+==================================================
+Loading Whisper model: large
+Transcribing audio file: output/story.wav
+Detecting language using up to the first 30 seconds. Use `--language` to specify the language
+Detected language: English
+[00:00.000 --> 00:02.000]  Horse carriage travelling through street
+Original segments: 1
+
+Post-processing segments...
+Using actual audio file duration as target: 2.040000s
+Current duration: 2.000000s
+Target duration: 2.040000s
+Missing duration: 0.040000s
+Added final silence: 0.040000s (.)
+Final continuous duration: 2.040000s
+Total segments (including silence): 2
+SRT file saved to: input/1.2.story.srt
+Text file saved to: input/1.2.story.str.txt
+Timeline file saved to: input/1.2.timeline.txt
+
+Transcription completed successfully!
+
+✅ Process completed! Files generated:
+  • input/1.2.story.srt (Original SRT format)
+  • input/1.2.story.str.txt (Plain text format)
+  • input/1.2.timeline.txt (Duration computed format)
+
+📊 TRANSCRIPTION SUMMARY:
+  • Total audio duration: 2.040 seconds (0m 2.040s)
+  • Number of segments: 1
+
+💡 To analyze transcription quality, run: python quality.py
+
+==================================================
+⏱️  TIMING SUMMARY
+==================================================
+📝 Transcription time: 34.252 seconds
+⏱️  Total execution time: 34.252 seconds (0.571 minutes)
+==================================================
+
+===== END D:\.comfyui\gen.audio\scripts\3.transcribe.py @ 2025-09-05 12:00:49 (exit=0, took=42.97s) =====
+
+===== START D:\.comfyui\gen.audio\scripts\4.quality.py @ 2025-09-05 12:00:49 =====
+Text Similarity Analysis Tool
+==================================================
+Found files to compare:
+  • input/1.1.story.txt
+  • input/1.2.story.str.txt
+
+📊 DETAILED SIMILARITY ANALYSIS
+==================================================
+📈 Individual Algorithm Scores:
+  • Cosine Similarity: 0.913
+    📊 Word Frequency Match: How well the same words appear with similar frequency
+  • Jaccard Similarity: 0.833
+    🔗 Word Set Overlap: How many unique words are shared between texts
+  • Fast Semantic Similarity: 0.455
+    🧠 Meaning Similarity: How well the overall meaning is preserved
+  • Positional Word Similarity: 0.528
+    📍 Word Position: How well words appear in the same order (with flexibility)
+  • Fast Sequence Similarity: 0.909
+    📝 Word Sequence: How well the word-by-word flow matches
+  • Frequency Similarity: 0.833
+    📈 Word Count Match: How similar the word frequency patterns are
+
+📝 Text Analysis:
+  • Original text words: 6
+  • Transcribed text words: 5
+  • Common words: 5
+  • Unique words (original): 6
+  • Unique words (transcribed): 5
+  • Word overlap ratio: 0.833
+
+🎯 Combined Similarity Score: 0.739 (FAIR)
+💡 ✅ Very good! Most words and meaning are preserved accurately.
+
+
+⏱️  Analysis completed in 0.000 seconds
+
+===== END D:\.comfyui\gen.audio\scripts\4.quality.py @ 2025-09-05 12:00:49 (exit=0, took=0.04s) =====
+Starting LM Studio backend via lms CLI...
+Command: lms server start
+Success! Server is now running on port 1234
+Waiting 15s for LM Studio to initialize...
+
+===== START D:\.comfyui\gen.audio\scripts\5.timeline.py @ 2025-09-05 12:01:04 =====
+🚀 Starting Timeline SFX Generation...
+📁 Reading timeline from: input/1.2.timeline.txt
+📋 Parsed 2 timeline entries
+
+📝 Processing entry 1/2: 2.0s - Horse carriage travelling through street...
+🎵 Output: 2.0: Creaking wooden wheels over cobblestones, rhythmic clatter, distant horse hooves on stone.
+✅ Entry 1 processed successfully in 6.56 seconds
+
+📝 Processing entry 2/2: 0.04s - ....
+🎵 Output: 0.04: Silence
+✅ Entry 2 processed successfully in 4.24 seconds
+💾 Saved 2 SFX entries to input/1.3.timing.txt
+⏱️  Total duration: 2.040 seconds (0.03 minutes)
+
+🎉 Timeline SFX generation completed successfully!
+📄 Output saved to: input/1.3.timing.txt
+⏱️  Total processing time: 11.80 seconds
+
+===== END D:\.comfyui\gen.audio\scripts\5.timeline.py @ 2025-09-05 12:01:16 (exit=0, took=11.95s) =====
+
+===== START D:\.comfyui\gen.audio\scripts\6.timing.py @ 2025-09-05 12:01:16 =====
+🚀 Starting Timing SFX Generation...
+📁 Reading timing from: input/1.3.timing.txt
+📁 Reading timeline from: input/1.2.timeline.txt
+📋 Parsed 2 timing entries
+📋 Parsed 2 timeline entries
+📋 Processing 2 line pairs
+
+📝 Processing sound effect 1/2:
+   🎬 Transcript: Horse carriage travelling through street...
+   🎵 SFX: Creaking wooden wheels over cobblestones, rhythmic clatter, distant horse hooves on stone. (2.0s)
+🎯 Original: 2.0s, Realistic: 2.00s, Position: 0.50
+🎵 2.000s - Creaking wooden wheels over cobblestones, rhythmic clatter, distant horse hooves on stone.
+✅ Sound effect 1 processed successfully in 5.32 seconds
+⏭️  Skipping silence entry 2: 0.04s
+🔧 Post-processing entries...
+📊 Merged silence: 2 → 2 entries
+⚠️  Short silence detected: 0.040s
+   ⚠️  Cannot borrow enough time, distributing short entry
+   📈 Distributed 0.020s to previous entry
+   🗑️  Entry distributed and marked for removal
+🔧 Post-processing completed
+💾 Saved 1 processed SFX entries to input/1.4.sfx.txt
+⏱️  Total duration: 2.020 seconds (0.03 minutes)
+
+🎉 Timing SFX generation completed successfully!
+📄 Output saved to: input/1.4.sfx.txt
+⏱️  Total processing time: 6.33 seconds
+
+===== END D:\.comfyui\gen.audio\scripts\6.timing.py @ 2025-09-05 12:01:23 (exit=0, took=6.53s) =====
+Stopping LM Studio backend via lms CLI...
+Command: lms server stop
+Stopped the server on port 1234.
+Starting ComfyUI backend using Windows cmd style...
+Waiting 15s for ComfyUI to initialize...
+[START] Security scan
+[DONE] Security scan
+## ComfyUI-Manager: installing dependencies done.
+** ComfyUI startup time: 2025-09-05 12:01:25.079
+** Platform: Windows
+** Python version: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+** Python executable: C:\Users\prith\.pyenv\pyenv-win\versions\3.12.10\python.exe
+** ComfyUI Path: D:\.comfyui\ComfyUI
+** ComfyUI Base Folder Path: D:\.comfyui\ComfyUI
+** User directory: D:\.comfyui\ComfyUI\user
+** ComfyUI-Manager config path: D:\.comfyui\ComfyUI\user\default\ComfyUI-Manager\config.ini
+** Log path: D:\.comfyui\ComfyUI\user\comfyui.log
+
+Prestartup times for custom nodes:
+   2.7 seconds: D:\.comfyui\ComfyUI\custom_nodes\comfyui-manager
+
+Checkpoint files will always be loaded safely.
+Total VRAM 12227 MB, total RAM 64957 MB
+pytorch version: 2.8.0+cu129
+Set vram state to: NORMAL_VRAM
+Device: cuda:0 NVIDIA GeForce RTX 5070 Ti Laptop GPU : cudaMallocAsync
+Using pytorch attention
+Python version: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+ComfyUI version: 0.3.51
+ComfyUI frontend version: 1.25.9
+[Prompt Server] web root: C:\Users\prith\.pyenv\pyenv-win\versions\3.12.10\Lib\site-packages\comfyui_frontend_package\static
+### Loading: ComfyUI-Manager (V3.36)
+[ComfyUI-Manager] network_mode: public
+### ComfyUI Revision: 3820 [59eddda9] *DETACHED | Released on '2025-08-23'
+[ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/github-stats.json
+[ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+[ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+✅ ChatterboxTTS loaded from bundled package
+✅ ChatterboxVC loaded from bundled package
+✅ F5-TTS loaded from system package
+🎭 Character voices: Found 61 characters, 3 aliases
+✅ SRT modules loaded from system package
+🔧 Registering TTS Audio Suite nodes...
+======================================================================
+🚀 TTS Audio Suite v4.2.1
+Universal multi-engine TTS extension for ComfyUI
+⚠️ No local ChatterBox models found - will download from Hugging Face
+💡 Tip: First generation will download models (~1GB)
+   Models will be saved locally for future use
+✅ TTS Audio Suite v4.2.1 loaded with 16 nodes:
+   • ⚙️ ChatterBox TTS Engine
+   • ⚙️ F5 TTS Engine
+   • ⚙️ RVC Engine
+   • 🌊 Audio Wave Analyzer
+   • 🎙️ Voice Capture
+   • 🎤 TTS Text
+   • 🎭 Character Voices
+   • 🎭 Load RVC Character Model
+   • 👄 F5-TTS Speech Editor
+   • 📺 TTS SRT
+   • 🔄 Voice Changer
+   • 🔧 Audio Analyzer Options
+   • 🔧 F5-TTS Edit Options
+   • 🔧 RVC Pitch Extraction Options
+   • 🤐 Noise or Vocal Removal
+   • 🥪 Merge Audio
+======================================================================
+
+Import times for custom nodes:
+   0.6 seconds: D:\.comfyui\ComfyUI\custom_nodes\comfyui-manager
+   5.5 seconds: D:\.comfyui\ComfyUI\custom_nodes\tts_audio_suite
+
+Context impl SQLiteImpl.
+Will assume non-transactional DDL.
+No target revision found.
+Starting server
+
+To see the GUI go to: http://127.0.0.1:8188
+FETCH ComfyRegistry Data: 5/96
+
+===== START D:\.comfyui\gen.audio\scripts\7.sfx.py @ 2025-09-05 12:01:38 =====
+got prompt
+model weight dtype torch.float16, manual cast: None
+model_type V_PREDICTION_CONTINUOUS
+VAE load device: cuda:0, offload device: cpu, dtype: torch.float16
+no CLIP/text encoder weights in checkpoint, the text encoder model will not be loaded.
+CLIP/text encoder model load device: cuda:0, offload device: cpu, current: cpu, dtype: torch.float16
+Requested to load SAT5Model
+loaded completely 9520.8 209.099853515625 True
+Requested to load StableAudio1
+loaded completely 9253.574948120116 2017.253173828125 True
+  0%|          | 0/50 [00:00<?, ?it/s]C:\Users\prith\.pyenv\pyenv-win\versions\3.12.10\Lib\site-packages\torchsde\_brownian\brownian_interval.py:608: UserWarning: Should have tb<=t1 but got tb=500.00006103515625 and t1=500.000061.
+  warnings.warn(f"Should have {tb_name}<=t1 but got {tb_name}={tb} and t1={self._end}.")
+  2%|▏         | 1/50 [00:00<00:13,  3.57it/s]  6%|▌         | 3/50 [00:00<00:05,  8.05it/s] 12%|█▏        | 6/50 [00:00<00:03, 13.65it/s] 16%|█▌        | 8/50 [00:00<00:02, 14.03it/s] 20%|██        | 10/50 [00:00<00:02, 14.11it/s] 26%|██▌       | 13/50 [00:00<00:02, 17.04it/s] 32%|███▏      | 16/50 [00:01<00:01, 18.73it/s] 38%|███▊      | 19/50 [00:01<00:01, 21.32it/s] 44%|████▍     | 22/50 [00:01<00:01, 21.93it/s] 50%|█████     | 25/50 [00:01<00:01, 21.56it/s] 56%|█████▌    | 28/50 [00:01<00:00, 22.68it/s] 62%|██████▏   | 31/50 [00:01<00:00, 21.02it/s] 68%|██████▊   | 34/50 [00:01<00:00, 21.64it/s] 74%|███████▍  | 37/50 [00:01<00:00, 22.89it/s]FETCH ComfyRegistry Data: 10/96
+ 80%|████████  | 40/50 [00:02<00:00, 23.65it/s] 88%|████████▊ | 44/50 [00:02<00:00, 26.29it/s] 94%|█████████▍| 47/50 [00:02<00:00, 26.25it/s]C:\Users\prith\.pyenv\pyenv-win\versions\3.12.10\Lib\site-packages\torchsde\_brownian\brownian_interval.py:599: UserWarning: Should have ta>=t0 but got ta=0.029999999329447746 and t0=0.03.
+  warnings.warn(f"Should have ta>=t0 but got ta={ta} and t0={self._start}.")
+100%|██████████| 50/50 [00:02<00:00, 20.58it/s]
+Requested to load AudioOobleckVAE
+loaded completely 9.5367431640625e+25 297.69824600219727 True
+Prompt executed in 5.00 seconds
+🚀 Starting SFX generation with optimized silence handling...
+🔄 Step 1: Merging consecutive silences and updating sfx.txt...
+🔇 Combined 1 entries to 1 entries
+💾 Saved 1 entries to input/1.4.sfx.txt
+📋 Step 2: Reloading updated timeline for processing...
+📋 Parsed 1 entries preserving original order
+
+============================================================
+📋 TIMELINE SUMMARY
+============================================================
+📊 Total Entries: 1
+🎵 SFX Segments: 1
+🔇 Silence Segments: 0
+⏱️  Total Duration: 2.020 seconds (0.03 minutes)
+
+📝 Timeline Breakdown:
+------------------------------------------------------------
+[ 1]  0.000s -  2.020s | 🎵 SFX | Creaking wooden wheels over cobblestones, rhythmic clatter, distant horse hooves on stone.
+============================================================
+
+⚠️  This will generate audio with a total duration of 2.020 seconds (0.03 minutes)
+Do you want to proceed? (y/n): [AUTO] Using --auto-confirm='y'
+
+📊 Processing 1 entries from updated timeline
+🎵 Step 3: Generating audio files...
+📊 Processing 1 entries: 0 silence, 1 SFX
+Generating: Creaking wooden wheels over cobblestones, rhythmic clatter, distant horse hooves on stone. (2.02s)
+✅ Generated 1 audio files
+🔗 Step 4: Combining files in order...
+🔗 Concatenating audio files in order...
+➕ [ 0]  0.000s -  2.020s: Creaking wooden wheels over cobblestones, rhythmic clatter, distant horse hooves on stone. (2.020s)
+🎵 Final audio saved as: output/sfx.wav
+📊 Total duration: 2.020 seconds (0.03 minutes)
+🎉 Processing complete!
+✅ Final audio file: output/sfx.wav
+⏱️  Total execution time: 8.363 seconds
+
+===== END D:\.comfyui\gen.audio\scripts\7.sfx.py @ 2025-09-05 12:01:47 (exit=0, took=8.72s) =====
+Stopping ComfyUI backend...
+
+All scripts completed successfully.

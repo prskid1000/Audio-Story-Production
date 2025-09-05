@@ -2,6 +2,7 @@ import json
 import requests
 import time
 import os
+import argparse
 from pydub import AudioSegment
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -69,7 +70,7 @@ class DirectTimelineProcessor:
         print(f"📋 Parsed {len(timeline_entries)} entries preserving original order")
         return timeline_entries
     
-    def save_combined_timeline(self, timeline_entries, filename="1.4.sfx.txt"):
+    def save_combined_timeline(self, timeline_entries, filename="input/1.4.sfx.txt"):
         """Save combined timeline back to file"""
         with open(filename, 'w', encoding='utf-8') as f:
             for entry in timeline_entries:
@@ -307,7 +308,7 @@ class DirectTimelineProcessor:
         # Always save as sfx.wav in output folder
         final_audio.export("output/sfx.wav", format="wav")
         print(f"🎵 Final audio saved as: output/sfx.wav")
-        print(f"📊 Total duration: {current_time:.3f} seconds")
+        print(f"📊 Total duration: {current_time:.3f} seconds ({current_time/60:.2f} minutes)")
         
         return "output/sfx.wav"
     
@@ -351,7 +352,12 @@ class DirectTimelineProcessor:
         
         while True:
             try:
-                response = input().strip().lower()
+                auto = (AUTO_SFX_CONFIRM or "").strip().lower()
+                if auto in ["y", "yes", "n", "no"]:
+                    print(f"[AUTO] Using --auto-confirm='{auto}'")
+                    response = auto
+                else:
+                    response = input().strip().lower()
                 if response in ['y', 'yes', '']:
                     return True
                 elif response in ['n', 'no']:
@@ -378,7 +384,7 @@ class DirectTimelineProcessor:
         
         print("📋 Step 2: Reloading updated timeline for processing...")
         # Reload the updated file
-        updated_timeline = read_timeline_from_file("1.4.sfx.txt")
+        updated_timeline = read_timeline_from_file("input/1.4.sfx.txt")
         if updated_timeline is None:
             raise Exception("Failed to reload updated timeline file")
         
@@ -410,7 +416,7 @@ class DirectTimelineProcessor:
         print("🎉 Processing complete!")
         return final_audio
 
-def read_timeline_from_file(filename="1.4.sfx.txt"):
+def read_timeline_from_file(filename="input/1.4.sfx.txt"):
     """Read timeline data from a text file"""
     try:
         with open(filename, 'r', encoding='utf-8') as f:
@@ -424,7 +430,9 @@ def read_timeline_from_file(filename="1.4.sfx.txt"):
 
 if __name__ == "__main__":
     import sys
-    
+    # Hardcoded default for non-interactive auto-confirm
+    AUTO_SFX_CONFIRM = "y"
+
     # Check if user wants to clear files
     if len(sys.argv) > 1 and sys.argv[1] == "--clear":
         processor = DirectTimelineProcessor(max_workers=3)

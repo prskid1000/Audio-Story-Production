@@ -8,12 +8,12 @@ from typing import List, Dict, Any
 class TimingSFXGenerator:
     def __init__(self, lm_studio_url="http://localhost:1234/v1", model="qwen/qwen3-14b", use_json_schema=True):
         self.lm_studio_url = lm_studio_url
-        self.output_file = "1.4.sfx.txt"
+        self.output_file = "input/1.4.sfx.txt"
         self.model = model
         self.use_json_schema = use_json_schema
-        self.timeline_file = "1.2.timeline.txt"
+        self.timeline_file = "input/1.2.timeline.txt"
         
-    def read_timing_content(self, filename="1.3.timing.txt") -> str:
+    def read_timing_content(self, filename="input/1.3.timing.txt") -> str:
         """Read timing content from file"""
         try:
             with open(filename, 'r', encoding='utf-8') as f:
@@ -25,7 +25,7 @@ class TimingSFXGenerator:
             print(f"Error reading timing file: {e}")
             return None
     
-    def read_timeline_content(self, filename="1.2.timeline.txt") -> str:
+    def read_timeline_content(self, filename="input/1.2.timeline.txt") -> str:
         """Read timeline content from file"""
         try:
             with open(filename, 'r', encoding='utf-8') as f:
@@ -263,7 +263,7 @@ OUTPUT: JSON with realistic_duration_seconds and position_float fields."""
         
         return result
     
-    def post_process_entries(self, entries: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    def post_process_entries(self, entries: List[Dict[str, Any]], original_entries: List[Dict[str, Any]] = None) -> List[Dict[str, Any]]:
         """Post-process entries: merge consecutive silence and adjust short durations"""
         if not entries:
             return entries
@@ -297,10 +297,65 @@ OUTPUT: JSON with realistic_duration_seconds and position_float fields."""
         # Step 2: Convert short sounds to silence, then adjust short silence
         final_entries = []
         for i, entry in enumerate(merged_entries):
-            # Convert short sounds to silence first
+            # Convert short sounds to silence first - but only if we can't borrow from silence entries
             if entry['seconds'] < 1.0 and entry['description'] != 'Silence':
-                print(f"⚠️  Short sound converted to silence: {entry['description']} ({entry['seconds']:.3f}s)")
-                entry['description'] = 'Silence'
+                # Check if original entry (before split) was greater than 1 second
+                original_was_long = True
+                if original_entries and i < len(original_entries):
+                    original_was_long = original_entries[i]['seconds'] > 1.0
+                
+                # Check if we can borrow from adjacent silence entries
+                # Both previous AND next must be silence for equal borrowing
+                can_borrow_from_silence = False
+                borrowed_duration = 0
+                prev_available = 0
+                next_available = 0
+                
+                # Check previous entry if it's silence
+                if i > 0 and merged_entries[i-1]['description'] == 'Silence':
+                    prev_available = merged_entries[i-1]['seconds'] - 1.0  # Keep 1s minimum
+                
+                # Check next entry if it's silence
+                if i < len(merged_entries) - 1 and merged_entries[i+1]['description'] == 'Silence':
+                    next_available = merged_entries[i+1]['seconds'] - 1.0  # Keep 1s minimum
+                
+                # Both must be silence and have available time
+                if prev_available > 0 and next_available > 0:
+                    can_borrow_from_silence = True
+                    borrowed_duration = prev_available + next_available
+                
+                # Only convert to silence if:
+                # 1. Original entry was short (≤1s), OR
+                # 2. We can't borrow enough from silence entries
+                should_convert_to_silence = not original_was_long or (not can_borrow_from_silence or borrowed_duration < (1.0 - entry['seconds']))
+                
+                if should_convert_to_silence:
+                    reason = "original was short" if not original_was_long else "can't borrow enough from silence"
+                    print(f"⚠️  Short sound converted to silence: {entry['description']} ({entry['seconds']:.3f}s) - {reason}")
+                    entry['description'] = 'Silence'
+                else:
+                    # Borrow equally from both silence entries to extend this sound
+                    needed = 1.0 - entry['seconds']
+                    print(f"🔧 Extending short sound by borrowing equally from both silence entries: {entry['description']} ({entry['seconds']:.3f}s → 1.0s)")
+                    
+                    # Calculate equal borrowing from both sides
+                    borrow_per_side = needed / 2.0
+                    
+                    # Borrow from previous silence
+                    if i > 0 and merged_entries[i-1]['description'] == 'Silence':
+                        prev_borrow = min(prev_available, borrow_per_side)
+                        if prev_borrow > 0:
+                            merged_entries[i-1]['seconds'] -= prev_borrow
+                            entry['seconds'] += prev_borrow
+                            print(f"   📉 Borrowed {prev_borrow:.3f}s from previous silence")
+                    
+                    # Borrow from next silence
+                    if i < len(merged_entries) - 1 and merged_entries[i+1]['description'] == 'Silence':
+                        next_borrow = min(next_available, borrow_per_side)
+                        if next_borrow > 0:
+                            merged_entries[i+1]['seconds'] -= next_borrow
+                            entry['seconds'] += next_borrow
+                            print(f"   📉 Borrowed {next_borrow:.3f}s from next silence")
             
             # Now adjust short silence (can borrow from any previous/next entry)
             if entry['seconds'] < 1.0 and entry['description'] == 'Silence':
@@ -367,11 +422,11 @@ OUTPUT: JSON with realistic_duration_seconds and position_float fields."""
         print(f"🔧 Post-processing completed")
         return final_entries
     
-    def save_sfx_to_file(self, all_sfx_entries: List[Dict[str, Any]]) -> None:
+    def save_sfx_to_file(self, all_sfx_entries: List[Dict[str, Any]], original_entries: List[Dict[str, Any]] = None) -> None:
         """Save all SFX entries to sfx.txt"""
         try:
             # Post-process entries before saving
-            processed_entries = self.post_process_entries(all_sfx_entries)
+            processed_entries = self.post_process_entries(all_sfx_entries, original_entries)
             
             with open(self.output_file, 'w', encoding='utf-8') as f:
                 for entry in processed_entries:
@@ -384,7 +439,7 @@ OUTPUT: JSON with realistic_duration_seconds and position_float fields."""
         except Exception as e:
             raise Exception(f"Failed to save SFX file: {str(e)}")
     
-    def process_timing(self, timing_filename="timing.txt") -> bool:
+    def process_timing(self, timing_filename="input/1.3.timing.txt") -> bool:
         """Main processing function - process timing and timeline together"""
         print("🚀 Starting Timing SFX Generation...")
         print(f"📁 Reading timing from: {timing_filename}")
@@ -418,6 +473,7 @@ OUTPUT: JSON with realistic_duration_seconds and position_float fields."""
         
         # Process each pair together
         all_sfx_entries = []
+        original_entries = []  # Track original entries before splitting
         
         for i in range(len(timing_entries)):
             timing_entry = timing_entries[i]
@@ -430,6 +486,7 @@ OUTPUT: JSON with realistic_duration_seconds and position_float fields."""
                     'seconds': timing_entry['seconds'],
                     'description': 'Silence'
                 })
+                original_entries.append(timing_entry)  # Track original entry
                 continue
             
             entry_start_time = time.time()
@@ -459,9 +516,10 @@ OUTPUT: JSON with realistic_duration_seconds and position_float fields."""
                 # Split entry into silence + sound + silence based on position
                 split_entries = self.split_entry_into_sound_and_silence(timing_entry, timing_info)
                 
-                # Add to all entries
+                # Add to all entries and track original entry for each split
                 for split_entry in split_entries:
                     all_sfx_entries.append(split_entry)
+                    original_entries.append(timing_entry)  # Track original entry for each split
                     print(f"🎵 {split_entry['seconds']:.3f}s - {split_entry['description']}")
 
                 entry_end_time = time.time()
@@ -477,6 +535,7 @@ OUTPUT: JSON with realistic_duration_seconds and position_float fields."""
                     'seconds': timing_entry['seconds'],
                     'description': timing_entry['description']
                 })
+                original_entries.append(timing_entry)  # Track original entry
             
             # Small delay between API calls
             if i < len(timing_entries) - 1:
@@ -484,7 +543,7 @@ OUTPUT: JSON with realistic_duration_seconds and position_float fields."""
         
         # Save all SFX entries to file
         try:
-            self.save_sfx_to_file(all_sfx_entries)
+            self.save_sfx_to_file(all_sfx_entries, original_entries)
             print(f"\n🎉 Timing SFX generation completed successfully!")
             print(f"📄 Output saved to: {self.output_file}")
             return True
@@ -498,7 +557,7 @@ def main():
     import sys
     
     # Check command line arguments
-    timing_file = "1.3.timing.txt"
+    timing_file = "input/1.3.timing.txt"
     if len(sys.argv) > 1:
         timing_file = sys.argv[1]
     
@@ -509,9 +568,9 @@ def main():
         return 1
     
     # Check if timeline file exists
-    if not os.path.exists("1.2.timeline.txt"):
-        print(f"❌ Timeline file '1.2.timeline.txt' not found")
-        print("Both 1.3.timing.txt and 1.2.timeline.txt are required")
+    if not os.path.exists("input/1.2.timeline.txt"):
+        print(f"❌ Timeline file 'input/1.2.timeline.txt' not found")
+        print("Both input/1.3.timing.txt and input/1.2.timeline.txt are required")
         return 1
     
     # Create generator and process

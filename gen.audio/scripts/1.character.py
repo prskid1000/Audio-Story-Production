@@ -3,9 +3,17 @@ import shutil
 import re
 import glob
 import time
+import argparse
 
 LANGUAGE = "en"
 REGION = "in"
+
+# Non-interactive defaults (can be overridden by CLI flags in __main__)
+AUTO_GENDER = "m"
+AUTO_CONFIRM = "y"
+AUTO_CHANGE_SETTINGS = "n"
+AUTO_REGION = ""
+AUTO_LANGUAGE = ""
 
 def load_available_voices(language=LANGUAGE, region=REGION):
     """
@@ -190,9 +198,14 @@ class CharacterManager:
                         print(f"Fallback: Reused female voice '{voice}' for '{char}'")
                         
                 else:
-                    # Ask for gender if no prefix found
+                    # Ask for gender if no prefix found (supports non-interactive via CLI)
                     while True:
-                        gender = input(f"\nIs '{char}' male or female? (m/f): ").lower().strip()
+                        auto_gender = (AUTO_GENDER or "").lower().strip()
+                        if auto_gender in ["m", "male", "f", "female"]:
+                            gender = auto_gender
+                            print(f"[AUTO] Using --auto-gender='{auto_gender}' for '{char}'")
+                        else:
+                            gender = input(f"\nIs '{char}' male or female? (m/f): ").lower().strip()
                         if gender in ['m', 'male']:
                             # Assign a male voice - avoid reusing already assigned voices
                             used_male_voices = [v for v in updated_character_voices.values() if v in self.male_voices]
@@ -238,9 +251,14 @@ class CharacterManager:
             voice = updated_character_voices.get(char, "UNASSIGNED")
             print(f"- {char}: {voice}")
         
-        # Ask for confirmation
+        # Ask for confirmation (supports non-interactive via CLI)
         while True:
-            confirm = input(f"\nDo you accept this voice assignment? (y/n): ").lower().strip()
+            auto_confirm = (AUTO_CONFIRM or "").lower().strip()
+            if auto_confirm in ["y", "yes", "n", "no"]:
+                confirm = auto_confirm
+                print(f"[AUTO] Using --auto-confirm='{auto_confirm}'")
+            else:
+                confirm = input(f"\nDo you accept this voice assignment? (y/n): ").lower().strip()
             if confirm in ['y', 'yes']:
                 self.character_voices.update(updated_character_voices)
                 print("Voice assignment confirmed!")
@@ -307,20 +325,36 @@ class CharacterManager:
         # Assign voices to characters
         return self.assign_voices_to_characters(characters)
 
-def read_story_from_file(filename="1.1.story.txt"):
+def read_story_from_file(filename="input/1.1.story.txt"):
         """Read story data from a text file"""
         try:
             with open(filename, 'r', encoding='utf-8') as f:
                 return f.read()
         except FileNotFoundError:
             print(f"Error: Story file '{filename}' not found.")
-            print("Please create a 1.1.story.txt file with your story text.")
+            print("Please create a input/1.1.story.txt file with your story text.")
             return None
         except Exception as e:
             print(f"Error reading story file: {e}")
             return None
 
 if __name__ == "__main__":
+    # Parse CLI arguments for non-interactive behavior
+    parser = argparse.ArgumentParser(description="Character voice assignment")
+    parser.add_argument("--auto-gender", choices=["m", "f", "male", "female"], help="Default gender for characters without prefix")
+    parser.add_argument("--auto-confirm", choices=["y", "n", "yes", "no"], help="Auto-accept final voice assignment")
+    parser.add_argument("--change-settings", choices=["y", "n", "yes", "no"], help="Whether to change region/language")
+    parser.add_argument("--region", help="Region code to use when changing settings")
+    parser.add_argument("--language", help="Language code to use when changing settings")
+    args = parser.parse_args()
+
+    # Expose as module-level vars for use inside functions
+    AUTO_GENDER = (args.auto_gender or None)
+    AUTO_CONFIRM = (args.auto_confirm or None)
+    AUTO_CHANGE_SETTINGS = (args.change_settings or None)
+    AUTO_REGION = (args.region or None)
+    AUTO_LANGUAGE = (args.language or None)
+
     start_time = time.time()
     
     # Show available regions and languages
@@ -335,15 +369,25 @@ if __name__ == "__main__":
     print(f"Available languages: {', '.join(available_languages)}")
     print(f"Current region: {REGION}, Current language: {LANGUAGE}")
     
-    # Allow user to change region and language
+    # Allow user to change region and language (supports non-interactive via CLI)
     if len(available_regions) > 1 or len(available_languages) > 1:
         while True:
-            change_settings = input(f"\nDo you want to change region/language settings? (y/n): ").lower().strip()
+            auto_change = (AUTO_CHANGE_SETTINGS or "").lower().strip()
+            if auto_change in ["y", "yes", "n", "no"]:
+                change_settings = auto_change
+                print(f"[AUTO] Using --change-settings='{auto_change}'")
+            else:
+                change_settings = input(f"\nDo you want to change region/language settings? (y/n): ").lower().strip()
             if change_settings in ['y', 'yes']:
                 # Region selection
                 if len(available_regions) > 1:
                     print(f"Available regions: {', '.join(available_regions)}")
-                    new_region = input(f"Enter region code (e.g., in): ").strip()
+                    auto_region = (AUTO_REGION or "").strip()
+                    if auto_region:
+                        new_region = auto_region
+                        print(f"[AUTO] Using --region='{auto_region}'")
+                    else:
+                        new_region = input(f"Enter region code (e.g., in): ").strip()
                     if new_region in available_regions:
                         character_manager.set_region(new_region)
                         # Update available languages for the new region
@@ -355,7 +399,12 @@ if __name__ == "__main__":
                 # Language selection
                 if len(available_languages) > 1:
                     print(f"Available languages for region '{character_manager.region}': {', '.join(available_languages)}")
-                    new_lang = input(f"Enter language code (e.g., en, hi, ba): ").strip()
+                    auto_lang = (AUTO_LANGUAGE or "").strip()
+                    if auto_lang:
+                        new_lang = auto_lang
+                        print(f"[AUTO] Using --language='{auto_lang}'")
+                    else:
+                        new_lang = input(f"Enter language code (e.g., en, hi, ba): ").strip()
                     if new_lang in available_languages:
                         character_manager.set_language(new_lang)
                     else:

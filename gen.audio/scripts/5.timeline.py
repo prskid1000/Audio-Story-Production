@@ -8,11 +8,11 @@ from typing import List, Dict, Any
 class TimelineSFXGenerator:
     def __init__(self, lm_studio_url="http://localhost:1234/v1", model="qwen/qwen3-14b", use_json_schema=True):
         self.lm_studio_url = lm_studio_url
-        self.output_file = "1.3.timing.txt"
+        self.output_file = "input/1.3.timing.txt"
         self.model = model
         self.use_json_schema = use_json_schema
         
-    def read_timeline_content(self, filename="1.2.timeline.txt") -> str:
+    def read_timeline_content(self, filename="input/1.2.timeline.txt") -> str:
         """Read timeline content from file"""
         try:
             with open(filename, 'r', encoding='utf-8') as f:
@@ -184,7 +184,9 @@ OUTPUT: JSON with sound_or_silence_description field only."""
         except Exception as e:
             raise Exception(f"Failed to save SFX file: {str(e)}")
     
-    def process_timeline(self, timeline_filename="1.2.timeline.txt") -> bool:
+    def process_timeline(self, timeline_filename="input/1.2.timeline.txt") -> bool:
+        
+        
         """Main processing function - process each entry individually"""
         print("🚀 Starting Timeline SFX Generation...")
         print(f"📁 Reading timeline from: {timeline_filename}")
@@ -263,7 +265,7 @@ def main():
     import sys
     
     # Check command line arguments
-    timeline_file = "1.2.timeline.txt"
+    timeline_file = "input/1.2.timeline.txt"
     if len(sys.argv) > 1:
         timeline_file = sys.argv[1]
     
