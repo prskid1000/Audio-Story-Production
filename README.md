@@ -1,12 +1,6 @@
-AI Content Studio
+## AI Content Studio
 
-
-
-
-
-## Audio
-
-
+### Audio
 
 * Put Story in output/story.txt
 * python generate.py
