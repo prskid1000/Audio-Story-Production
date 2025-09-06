@@ -1,19 +1,53 @@
-61.278: Silence
-2.5: Soft, rhythmic tapping of raindrops on glass windows
-825.189: Silence
-2.75: Echoing footsteps descending stairs, wooden creaks, distant fading thuds.
-84.338: Silence
-1.5: wooden door knocking, muffled voice
-276.135: Silence
-1.0: Bell ringing, sharp and sudden, high-pitched metallic clang
-195.67: Silence
-3.19: Bell tolling, deep and resonant, fading into distance
-1.611: Silence
-1.0: Heavy footstep on wooden staircase, muffled echo.
-273.543: Silence
-3.5: Low-pitched rumble of distant wheels on gravel, fading into silence.
-208.965: Silence
-2.61: Rattling taxi wheels on cobblestones, distant engine hum, fading into urban ambient noise.
-172.98: Silence
-4.48: Fire crackling with low amplitude and warm timbre
-592.82: Silence
+33.14: Silence
+2.59: Low-frequency hum of pipe smoke lingering in air, faint crackle of embers.
+619.317: Silence
+4.5: Low-pitched, rhythmic footstep echoes in wooden floorboards; faint hiss of a pipe being puffed; distant rustle of newspaper pages turning.
+123.108: Silence
+2.0: metallic clatter, rhythmic, medium amplitude, high-pitched
+210.715: Silence
+1.0: Sharp, abrupt knock, high-pitched, short duration
+3.952: Silence
+2.5: Faint, distant footstep echoes in a quiet night atmosphere.
+309.538: Silence
+2.8: loud, enthusiastic male laughter
+259.354: Silence
+2.5: Heavy boat creaking, water splashing at threshold.
+36.586: Silence
+2.255: Heavy metal gate clangs, low pitch, high amplitude, resonant
+1.606: Silence
+1.7: Heavy metal door slamming shut with low-frequency rumble and echoing clang
+69.88: Silence
+2.3: muffled footstep echoes, low amplitude, soft thuds, distant
+122.73: Silence
+1.36: loud, sharp, wooden door slam, high-pitched resonance
+16.51: Silence
+4.9: Soft, rhythmic paw steps on gravel, faint heartbeat thudding in background.
+63.605: Silence
+1.0: Faint, high-pitched squeak, low amplitude, brief
+13.0: Silence
+2.5: Faint, high-pitched, trembling sobs with irregular rhythm and low amplitude.
+7.395: Silence
+1.96: A metallic door handle creaks as it is turned slowly, producing a low-pitched groan.
+3.208: Silence
+1.5: A firm, low-pitched thud as a heavy object impacts a solid surface.
+3.512: Silence
+1.72: Rapid, forceful impact sounds, low-frequency thuds, high amplitude
+1.95: Silence
+1.49: Wooden door creaking, hinges groaning, slow motion
+46.32: Silence
+4.6: Heavy footfalls thud on wooden floorboards, door slams open with a sharp bang.
+25.85: Silence
+5.12: Deep, resonant male voice shouting, intense amplitude, low frequency rumble.
+24.955: Silence
+3.5: Deep, guttural growl, low frequency, rumbling, intense, echoing
+7.535: Silence
+5.09: Gunshot crack, low rumble of echo, growling snarl
+19.23: Silence
+5.94: low, tense hiss; shallow breaths; muffled rage and curses
+46.935: Silence
+1.2: muffled male cursing, low amplitude, harsh timbre
+125.475: Silence
+1.25: High-pitched, wet sobs echoing in a large, empty room.
+295.957: Silence
+2.5: Low-frequency urban ambient noise, distant traffic rumble, moderate amplitude
+13.863: Silence

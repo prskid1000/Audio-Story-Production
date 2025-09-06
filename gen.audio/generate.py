@@ -23,6 +23,9 @@ SCRIPTS_DIR = "scripts"
 NEEDS_COMFYUI = {"2.story.py", "7.sfx.py"}
 NEEDS_LMSTUDIO = {"5.timeline.py", "6.timing.py"}
 
+# Log maintenance
+MAX_LOG_LINES = 1236
+
 # Centralized non-interactive defaults (only change this file)
 SCRIPT_ARGS = {
     "1.character.py": ["--auto-gender", "m", "--auto-confirm", "y", "--change-settings", "n"],
@@ -101,6 +104,48 @@ def stop_comfyui(proc: subprocess.Popen, log_handle) -> None:
     except Exception as ex:
         log_handle.write(f"WARNING: Failed to stop ComfyUI cleanly: {ex}\n")
         log_handle.flush()
+
+
+def maintain_log_size(log_path: str, log_handle, max_lines: int = MAX_LOG_LINES) -> None:
+    """Truncate log file to 0 size once it reaches the configured line limit.
+
+    Uses chunked binary reads to count newlines efficiently without loading the
+    entire file into memory. After truncation, resets the stream position and
+    writes a single note line.
+    """
+    try:
+        # Ensure all buffered content is on disk before counting
+        try:
+            log_handle.flush()
+        except Exception:
+            pass
+
+        line_count = 0
+        with open(log_path, "rb") as f:
+            for chunk in iter(lambda: f.read(1024 * 1024), b""):
+                line_count += chunk.count(b"\n")
+
+        if line_count >= max_lines:
+            # Truncate the file in-place
+            with open(log_path, "r+b") as f:
+                f.seek(0)
+                f.truncate(0)
+
+            # Reset writer handle position to end-of-file (now 0)
+            try:
+                log_handle.seek(0, os.SEEK_END)
+            except Exception:
+                pass
+
+            ts = time.strftime("%Y-%m-%d %H:%M:%S")
+            log_handle.write(f"[log] Truncated log at {ts} after {line_count} lines (limit={max_lines}).\n")
+            log_handle.flush()
+    except Exception as ex:
+        try:
+            log_handle.write(f"WARNING: Failed to maintain log size: {ex}\n")
+            log_handle.flush()
+        except Exception:
+            pass
 
 
 def run_script(script_name: str, working_dir: str, log_handle) -> int:
@@ -280,7 +325,13 @@ def main() -> int:
                 log.flush()
                 time.sleep(15)
 
+            # Keep log small before running each step
+            maintain_log_size(log_path, log)
+
             code = run_script(script_path, base_dir, log)
+
+            # Keep log small after each step
+            maintain_log_size(log_path, log)
 
             # Determine if the next script still needs services
             next_needs_comfy = False

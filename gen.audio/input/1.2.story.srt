@@ -1,2103 +1,1974 @@
-00:00:00,000 --> 00:00:04,620
-It has long been my privilege, dear listener, to accompany Sherlock Holmes through a series of
+00:00:00,000 --> 00:00:03,150
+It has often been my habit, as I have before confessed,
 
-00:00:04,620 --> 00:00:09,120
-adventures which have often placed us in the most curious and perplexing situations.
+00:00:03,150 --> 00:00:07,379
+Ah, Caesar, to record some of the singular adventures of my friend,
 
-00:00:09,120 --> 00:00:13,220
-Many of these episodes I have recorded in my journals, and on quiet evenings before the
+00:00:07,379 --> 00:00:11,169
+Mr. Sherlock Holmes, consulting detective of Baker Street,
 
-00:00:13,220 --> 00:00:17,079
-hearth at Baker Street, I have occasionally ventured to read them aloud to my companion,
+00:00:11,169 --> 00:00:14,859
+Many of these incidents I have already laid before the public,
 
-00:00:17,079 --> 00:00:21,039
-who though he feigned indifference, would sometimes offer a dry smile when some passage
+00:00:14,859 --> 00:00:17,250
+and yet, the supply seems inexhaustible,
 
-00:00:21,039 --> 00:00:24,839
-reminded him of the thrill of the chase or the satisfaction of a successful deduction.
+00:00:17,250 --> 00:00:20,679
+for scarcely a month passes in which Holmes does not find himself summoned
 
-00:00:24,839 --> 00:00:25,859
+00:00:20,679 --> 00:00:23,179
+to some new case of singular peculiarity,
+
+00:00:23,179 --> 00:00:24,750
+at the time of which I now write,
+
+00:00:24,750 --> 00:00:27,120
+London was awakening from the cold grip of winter,
+
+00:00:27,120 --> 00:00:30,880
+and the early buds of spring lent the air a fresh vivacity.
+
+00:00:30,880 --> 00:00:33,140
+Our brooms in Baker Street, though humble,
+
+00:00:33,140 --> 00:00:35,730
+were as ever filled with the atmosphere of pipe smoke,
+
+00:00:35,730 --> 00:00:39,280
+cappings of newspapers and the restless energies of my companion.
+
+00:00:39,280 --> 00:00:41,340
+It was a morning like many others,
+
+00:00:41,340 --> 00:00:43,519
+with the first light breaking through the curtains
+
+00:00:43,519 --> 00:00:45,969
+and Holmes stretched languidly in his armchair,
+
+00:00:45,969 --> 00:00:49,000
+pray, his piercing gaze already fixed on some fresh puzzle.
+
+00:00:49,000 --> 00:00:52,280
+For my own part, I had been busying myself with my medical journals,
+
+00:00:52,280 --> 00:00:55,780
+though I must admit, my eyes wandered as often to Holmes' keen profile
+
+00:00:55,780 --> 00:00:57,019
+as to the printed page.
+
+00:00:57,019 --> 00:01:16,239
+for in every fibre of his being he exuded the restless intellect which made even the most trivial observation a matter of consequence holmes it astonishes me still i remarked laying aside my book how you can spend hours upon end in that chair seemingly idle and yet later reveal that every instant has been applied to deduction
+
+00:01:16,239 --> 00:01:35,000
+idle my dear watson no no a man might appear at rest but within his faculties may be in as active a play as the wheels of a well-oiled mechanism you see me seated here yet i have traversed half of england in my mind since breathless
+
+00:01:35,000 --> 00:01:38,719
+Then I should count myself fortunate, if you will, for my own instruction.
+
+00:01:38,719 --> 00:01:41,620
+Share with me some fragment of these mental journeys.
+
+00:01:41,620 --> 00:01:44,239
+Elementary Watson, observe.
+
+00:01:44,239 --> 00:01:45,299
 ..
 
-00:00:25,859 --> 00:00:29,080
-The affair I now set down was one that drew much public notice in its day,
+00:01:45,299 --> 00:01:49,460
+Holmes leaned forward, his eyes shining with sudden energy.
 
-00:00:29,079 --> 00:00:32,230
-involving as it did a member of the aristocracy,
+00:01:49,460 --> 00:01:56,599
+The gentleman who passed our window a quarter hour ago, tall, with the gait of a soldier.
 
-00:00:32,230 --> 00:00:35,109
-the sudden disappearance of a young American bride,
+00:01:56,599 --> 00:02:02,299
+You remarked him not, and yet, I may tell you he has lately returned from Afghanistan,
 
-00:00:35,109 --> 00:00:37,280
-you and vote, American bride,
+00:02:02,299 --> 00:02:04,759
+is much troubled by his finances
 
-00:00:37,280 --> 00:00:40,219
-and the application of Holmes' singular reasoning powers
+00:02:04,759 --> 00:02:09,300
+and bears the weight of a domestic quarrel upon his conscience.
 
-00:00:40,219 --> 00:00:43,329
-to a case that baffled society and police alike.
-
-00:00:43,329 --> 00:00:45,119
-The newspapers gave it the title of
-
-00:00:45,119 --> 00:00:47,049
-The Adventure of the Noble Bachelor.
-
-00:00:47,049 --> 00:00:49,420
-To me, however, it remains first and foremost
-
-00:00:49,420 --> 00:00:51,000
-a story of Holmes' brilliance
-
-00:00:51,000 --> 00:00:52,879
-and of my own humble apprenticeship
-
-00:00:52,879 --> 00:00:54,810
-in the science of observation.
-
-00:00:54,810 --> 00:00:57,459
-The events began on a bleak October morning.
-
-00:00:57,460 --> 00:01:00,719
-A thin mist had spread itself over the grey roofs of London
-
-00:01:00,719 --> 00:01:05,080
-and the drizzle tapped drearily at the windows of our lodgings in Baker Street.
-
-00:01:05,080 --> 00:01:08,960
-Holmes was seated cross-legged upon the rug, dressing gown loose about him,
-
-00:01:08,960 --> 00:01:12,129
-his keen eyes fixed on the flames that curled in the grate.
-
-00:01:12,129 --> 00:01:16,240
-Before him, scattered upon the carpet, lay a number of freshly printed newspapers.
-
-00:01:16,240 --> 00:01:20,240
-I had only just returned from my early rounds and I found him in that absorbed attitude
-
-00:01:20,240 --> 00:01:22,500
-which betokened the presence of some problem.
-
-00:01:22,500 --> 00:01:24,659
-Hmm, Holmes, hmm.
-
-00:01:24,659 --> 00:01:29,319
-You seem as intent upon those pages as though they conceal the very secrets of the kingdom.
-
-00:01:29,319 --> 00:01:32,259
-What is it that holds your attention so closely?
-
-00:01:32,259 --> 00:01:36,870
-The kingdom, my dear Watson, may rest safely for the present.
-
-00:01:36,870 --> 00:01:40,710
-It is not treason I study, but matrimony.
-
-00:01:40,710 --> 00:01:43,039
-Matrimony! You astound me.
-
-00:01:43,039 --> 00:01:46,879
-I should not have suspected you of interest in so domestic a topic.
-
-00:01:46,879 --> 00:01:51,879
-Nor am I interested in the sentimental aspect, I assure you.
-
-00:01:51,879 --> 00:01:58,620
-My concern lies in the peculiar circumstances surrounding a union much discussed in society,
-
-00:01:58,620 --> 00:02:05,619
-circles these last days, that of Lord Robert Saints, Simon, the youngest son of the Duke
-
-00:02:05,619 --> 00:02:12,129
-of Balmoral, and a certain Miss Hattie Doran, daughter of a wealthy American.
-
-00:02:12,129 --> 00:02:17,199
-He drew one of the papers toward him and pointed to the announcement, where indeed the engagement
-
-00:02:17,199 --> 00:02:19,639
-had been chronicled with much flourish.
-
-00:02:19,639 --> 00:02:25,430
-Observe, Watson, a nobleman of ancient lineage, though without vast means,
-
-00:02:25,430 --> 00:02:29,329
-takes to wife a young lady of considerable fortune.
-
-00:02:29,329 --> 00:02:35,930
-Such alliances are common enough in our age, but the aftermath, ah, there lies the matter of interest.
-
-00:02:35,930 --> 00:02:41,229
-The bride has vanished, Watson. She disappeared upon her wedding morning.
-
-00:02:41,229 --> 00:02:44,859
-Vanished? Surely you do not mean she has been abducted?
-
-00:02:44,860 --> 00:02:49,560
-That is one possibility, though not the most probable.
-
-00:02:49,560 --> 00:02:52,440
-Here, read these accounts.
-
-00:02:52,440 --> 00:03:14,860
-.......................
-
-00:03:14,860 --> 00:03:16,570
-she had fled of her own accord,
-
-00:03:16,570 --> 00:03:19,090
-others that some misadventure had befallen her.
-
-00:03:19,090 --> 00:03:20,960
-The police were engaged upon the case,
-
-00:03:20,960 --> 00:03:22,650
-but as yet without result.
-
-00:03:22,650 --> 00:03:24,760
-This is certainly a singular occurrence.
-
-00:03:24,760 --> 00:03:27,140
-And Lord St. Simon, how does he bear the matter?
-
-00:03:27,140 --> 00:03:28,890
-According to the report,
-
-00:03:28,890 --> 00:03:30,030
-with dignity,
-
-00:03:30,030 --> 00:03:33,020
-though not without visible irritation,
-
-00:03:33,020 --> 00:03:34,820
-he has placed himself
-
-00:03:34,820 --> 00:03:37,880
-in communication with Scotland Yard
-
-00:03:37,880 --> 00:03:41,509
-and Lestrade has the conduct of the case.
-
-00:03:41,509 --> 00:03:44,629
-Then no doubt the mystery will soon be unraveled.
-
-00:03:44,629 --> 00:03:58,420
-my dear fellow lestrade is energetic but not always illuminating this affair requires delicate handling for there are undercurrents which the official mind does not readily perceive
-
-00:03:58,419 --> 00:04:02,719
-He paused, stretched out his long arm, and plucked another journal from the heap.
-
-00:04:02,719 --> 00:04:04,659
-His quick eyes ran down the columns.
-
-00:04:04,659 --> 00:04:07,519
-Ah, just as I surmised.
-
-00:04:07,519 --> 00:04:13,659
-The father, Mr. Francis Duran, is described as a man of rough speech,
-
-00:04:13,659 --> 00:04:20,740
-but of sterling qualities, a Californian, who amassed his fortune in the mines.
-
-00:04:20,740 --> 00:04:26,620
-The daughter, Hattie, is said to be high-spirited, with a certain independence of manner,
-
-00:04:26,620 --> 00:04:29,759
-which is scarcely surprising given her origin.
-
-00:04:29,759 --> 00:04:31,250
-Note this also.
-
-00:04:31,250 --> 00:04:36,670
-She was reported to have been attended by a former suitor, a certain mister.
-
-00:04:36,670 --> 00:04:40,370
-Frances Moulton, shortly after her arrival in England.
-
-00:04:40,370 --> 00:04:43,780
-That name may not be without significance.
-
-00:04:43,780 --> 00:04:47,220
-You think this Mr. Moulton has some connection with her disappearance?
-
-00:04:47,220 --> 00:04:49,860
-I neither affirm nor deny.
-
-00:04:49,860 --> 00:04:52,490
-I merely note the possibility.
-
-00:04:52,490 --> 00:04:55,399
-Remember, Watson, that in the problem of disappearance,
-
-00:04:55,399 --> 00:05:01,269
-one must first determine whether the person has vanished voluntarily or by compulsion.
-
-00:05:01,269 --> 00:05:04,079
-That distinction is fundamental.
-
-00:05:04,079 --> 00:05:05,099
+00:02:09,300 --> 00:02:10,460
 ..
 
-00:05:05,099 --> 00:05:07,699
-He leaned back, clasped his hands behind his head
+00:02:10,460 --> 00:02:12,829
+Upon my word, Holmes, I cried,
 
-00:05:07,699 --> 00:05:12,250
-and regarded me with that quiet smile which so often accompanied his instruction.
+00:02:12,829 --> 00:02:14,930
+half in protest, half in admiration.
 
-00:05:12,250 --> 00:05:16,610
-What do you yourself infer from the facts as presented?
+00:02:14,930 --> 00:02:17,859
+You cannot expect me to accept such sweeping confusions
 
-00:05:16,610 --> 00:05:19,069
-Well, if I may hazard a guess,
+00:02:17,859 --> 00:02:19,719
+without some explanation.
 
-00:05:19,069 --> 00:05:22,539
-it seems unlikely that a young lady would abandon her noble husband
+00:02:19,719 --> 00:02:24,149
+On the contrary, I expect you always to demand explanation,
 
-00:05:22,539 --> 00:05:25,120
-on the very day of marriage without grave reason.
+00:02:24,149 --> 00:02:27,649
+for therein lies the training of the mind,
 
-00:05:25,120 --> 00:05:28,439
-might she not have been yawed away or forced from the house?
+00:02:27,649 --> 00:02:30,219
+the upright carriage, the shortened step,
 
-00:05:28,439 --> 00:05:30,680
-A reasonable supposition.
+00:02:30,219 --> 00:02:33,569
+and the tan line about his eyes bespoke,
 
-00:05:30,680 --> 00:05:35,480
-Yet reflect also upon the independence of her character,
+00:02:33,569 --> 00:02:35,719
+the soldier returned from the east.
 
-00:05:35,480 --> 00:05:38,410
-her previous acquaintance with another gentleman,
-
-00:05:38,410 --> 00:05:41,039
-and the suddenness of her disappearance.
-
-00:05:41,039 --> 00:05:43,620
-If she fled of her own accord,
-
-00:05:43,620 --> 00:05:46,560
-those circumstances would harmonize.
-
-00:05:46,560 --> 00:05:52,170
-If she were abducted, why should no cry be heard, no trace left?
-
-00:05:52,170 --> 00:05:54,160
-True, I had not considered that.
-
-00:05:54,160 --> 00:06:09,160
-then again watson never neglect the minor details consider her dress her ornaments her behavior at the breakfast table such trifles properly observed may speak volumes
-
-00:06:09,160 --> 00:06:23,840
-as he spoke mrs hudson entered with a card upon a tray holmes took it up glanced at the inscription and passed it to me it bore the name of lord robert walsingham de veris and simon
-
-00:06:23,839 --> 00:06:29,279
-Our noble client is at the door. Let us admit him without delay.
-
-00:06:29,279 --> 00:06:37,129
-In another moment there entered a tall, aristocratic figure, thin of face, with hop-like features and a certain languid, haughtiness of manner.
-
-00:06:37,129 --> 00:06:41,220
-His frock coat was spotlessly cut and a single red rose adorned his buttonhole.
-
-00:06:41,220 --> 00:06:46,769
-Yet despite his composure, there lurked upon his countenance a trace of vexation not to be disguised.
-
-00:06:46,769 --> 00:06:52,539
-Mr. Holmes, I presume I have come to you because the situation in which I find myself is beyond the capacity of the police.
-
-00:06:52,540 --> 00:06:56,780
-As he adds he adds, I cannot endure the indignity of public conjecture.
-
-00:06:56,780 --> 00:07:00,759
-My bride, my wife, has disappeared, and I demand that you trace her.
-
-00:07:00,759 --> 00:07:06,020
-Tray be seated. Lord St. Simon, this is my friend and colleague, Dr. Watson.
-
-00:07:06,020 --> 00:07:10,040
-We are already acquainted with the broad facts of the case through the press,
-
-00:07:10,040 --> 00:07:13,420
-but your own account will naturally be more precise.
-
-00:07:13,420 --> 00:07:14,830
-Then I shall be brief.
-
-00:07:14,830 --> 00:07:18,040
-Yesterday, as all the world knows, I was united to Miss Hattie de Horan,
-
-00:07:18,040 --> 00:07:21,259
-daughter of Mr. Istanbul, Francis de Horan of San Francisco.
-
-00:07:21,259 --> 00:07:23,740
-Sure, the ceremony passed without incident.
-
-00:07:23,740 --> 00:07:27,079
-My bride seemed somewhat agitated, but I ascribed it to natural noseness.
-
-00:07:27,079 --> 00:07:30,659
-At the breakfast afterwards she excused herself, and from that moment I have seen her no more.
-
-00:07:30,659 --> 00:07:33,199
-The search of the house proved fruitless.
-
-00:07:33,199 --> 00:07:36,659
-Later inquiries revealed that she was observed in Hyde Park in company with a gentleman.
-
-00:07:36,659 --> 00:07:38,500
-Since then, nothing.
-
-00:07:38,500 --> 00:07:40,959
-This is indeed most remarkable.
-
-00:07:40,959 --> 00:07:43,539
-You say she was observed with a gentleman.
-
-00:07:43,539 --> 00:07:45,019
-Can you describe him?
-
-00:07:45,019 --> 00:07:47,159
-Unfortunately, the description is vague.
-
-00:07:47,159 --> 00:07:49,379
-A tall man with a moustache?
-
-00:07:49,379 --> 00:07:51,049
-That is all that could be learned.
-
-00:07:51,049 --> 00:08:08,879
-and what of your relations with your bride before the wedding did you notice any circumstance which might bear upon this sudden flight none whatever i paid her the usual attentions she accepted them graciously her father was most anxious for the union and i myself was sincerely attached to her
-
-00:08:08,879 --> 00:08:20,579
-sincerely attached you say forgive me lord saintst simon if i press a delicate point was the marriage one of affection or of convenience
-
-00:08:20,579 --> 00:08:30,199
-with haughte sir i am a nobleman my house is ancient and my purse is light the lady brought wealth i brought position it was a suitable alliance but i did not lack regard for her
-
-00:08:30,199 --> 00:08:41,740
-quite so and now one final question did your bride receive any communication letter or token upon the morning of the wedding
-
-00:08:41,740 --> 00:08:57,980
-hesitates now that you mention it i recall that a note was handed to her as we left the church she read it turned pale and crushed it into her glove i thought it a trifle perhaps some girlish congratulation that my lord may prove the most important fact of all
-
-00:08:57,980 --> 00:09:02,720
-Holmes leaned back, his eyes half closed, as though assembling the various threads in his mind,
-
-00:09:02,720 --> 00:09:07,100
-I for my part, was already marvelling at the possibilities which the case suggested.
-
-00:09:07,100 --> 00:09:09,930
-Thus began the strange adventure of the noble bachelor,
-
-00:09:09,930 --> 00:09:14,509
-one of the most singular episodes it has ever been my fortune to share with Sherlock Holmes.
-
-00:09:14,509 --> 00:09:16,210
-Hmm, Lord St. Hmm.
-
-00:09:16,210 --> 00:09:21,990
-Simon sat erect upon the settee, the faintest suggestion of irritation upon his refined features,
-
-00:09:21,990 --> 00:09:26,070
-as though his very dignity chafed against the necessity of explanation.
-
-00:09:26,070 --> 00:09:28,950
-Holmes, however, remained perfectly at ease,
-
-00:09:28,950 --> 00:09:30,840
-his long fingers steeply together,
-
-00:09:30,840 --> 00:09:34,320
-his gaze fixed with quiet intensity upon our client.
-
-00:09:34,320 --> 00:09:38,700
-You mention, my lord, that a note was delivered to your bride
-
-00:09:38,700 --> 00:09:40,910
-at the very door of the church.
-
-00:09:40,910 --> 00:09:44,129
-Do you recall by whom it was handed to her?
-
-00:09:44,129 --> 00:09:45,940
-A small page boy, I believe,
-
-00:09:45,940 --> 00:09:47,840
-a messenger from one of the attendants, perhaps.
-
-00:09:47,840 --> 00:09:49,620
-I paid little attention, being myself occupied
-
-00:09:49,620 --> 00:09:51,590
-with the congratulations of my friends.
-
-00:09:51,590 --> 00:09:54,320
-And the note itself, you did not see it?
-
-00:09:54,320 --> 00:10:11,960
-no sir she read it hastily pale visibly and thrust it into her glove i thought no more of it until her disappearance did she carry the note with her when she left the house in lancaster gate i cannot say if she did it has not been found just howard i go to
-
-00:10:11,960 --> 00:10:17,250
-A more curious circumstance, indeed. A sudden letter on the very threshold of matrimony,
-
-00:10:17,250 --> 00:10:20,890
-and vanishing thereafter, surely the two events are connected.
-
-00:10:20,890 --> 00:10:29,139
-Just so, Watson, we must treat them as contiguous phenomena. Now, my lord, you mentioned that Miss
-
-00:10:29,139 --> 00:10:34,750
-Doran was observed later in Hyde Park with a gentleman who was the observer.
-
-00:10:34,750 --> 00:10:38,800
-One of the footmen from my father-in-law's household, he stated that he saw a lady
-
-00:10:38,799 --> 00:10:43,349
-resembling my wife, in company with a tall man with a moustache, walking beside the serpentine.
-
-00:10:43,349 --> 00:10:51,049
-He swears to her identity. Did he hear them speak? No, only that they appeared absorbed in each other,
-
-00:10:51,049 --> 00:10:59,419
-walking arm in arm. That is very suggestive. Tell me further, Lord Saint. Simon, did your wife show
-
-00:10:59,419 --> 00:11:07,509
-any peculiarities of demeanour on the days preceding the wedding? Any reluctance? Any agitation?
-
-00:11:07,509 --> 00:11:10,140
-I cannot deny that she was somewhat restless.
-
-00:11:10,140 --> 00:11:12,380
-At the rehearsal she seemed preoccupied.
-
-00:11:12,380 --> 00:11:14,220
-At one moment I found her in tears,
-
-00:11:14,220 --> 00:11:17,870
-though she quickly explained them as the result of parting from her father's American friends.
-
-00:11:17,870 --> 00:11:23,000
-Ah, at this, Mr. Francis Morton, was he one of those friends?
-
-00:11:23,000 --> 00:11:25,950
-With a frown, I have heard the name, yes.
-
-00:11:25,950 --> 00:11:28,080
-It was said to be an acquaintance of hers in California,
-
-00:11:28,080 --> 00:11:30,029
-but I gave the matter no thought.
-
-00:11:30,029 --> 00:11:34,080
-And yet, my lord, you now come to me precisely because such acquaintances,
-
-00:11:34,080 --> 00:11:41,230
-acquaintances, when overlooked, proved to be the very key to the enigma. At this quiet remark,
-
-00:11:41,230 --> 00:11:46,840
-Lord Saint, why't? Simon flushed slightly, but he restrained his irritation, perhaps mindful that
-
-00:11:46,840 --> 00:11:51,450
-he had placed himself in Holmes's hands. I'm not here to argue, sir, but to learn the truth,
-
-00:11:51,450 --> 00:11:57,360
-if this Mr. Smith, a murtan, has spirited my wife away, then let him be found and punished.
-
-00:11:57,360 --> 00:12:05,039
-Unished? My lord, let us not anticipate. It may prove, rather, that some former obligation has
-
-00:12:05,039 --> 00:12:12,379
-reasserted itself. You mean another marriage? I hinted nothing. I merely keep the avenues of
-
-00:12:12,379 --> 00:12:19,329
-inference open. Combs rose and began pacing the carpet, his dressing gown sweeping behind him,
-
-00:12:19,329 --> 00:12:24,139
-his long, humorous, nervous fingers flicking idly at the air as though he plucked threads
-
-00:12:24,139 --> 00:12:25,889
-from the unseen room of fate.
-
-00:12:25,889 --> 00:12:28,500
-Tell me, Lord St. Simon,
-
-00:12:28,500 --> 00:12:31,819
-what of the clothing your bride wore at her disappearance?
-
-00:12:31,819 --> 00:12:32,899
+00:02:35,719 --> 00:02:37,199
 ..
 
-00:12:32,899 --> 00:12:35,299
-She had upon her the same dress in which she was married,
+00:02:37,199 --> 00:02:39,420
+His boots, though of fine leather,
 
-00:12:35,299 --> 00:12:37,450
-white satin, if I mistake not,
+00:02:39,420 --> 00:02:41,980
+were much cracked and ill-blacked,
 
-00:12:37,450 --> 00:12:39,360
-with a spray orange blossom.
+00:02:41,980 --> 00:02:43,900
+suggesting diminished means.
 
-00:12:39,360 --> 00:12:40,879
-She wore also her wedding ring, of course,
-
-00:12:40,879 --> 00:12:42,639
-and a small diamond brooch, which was my gift.
-
-00:12:42,639 --> 00:12:43,740
+00:02:43,900 --> 00:02:45,319
 ..
 
-00:12:43,740 --> 00:12:44,799
-And her veil?
+00:02:45,319 --> 00:02:47,919
+Finally, the ink smudge upon his cuff
 
-00:12:44,799 --> 00:12:46,340
-..
+00:02:47,919 --> 00:02:49,879
+was no ordinary accident.
 
-00:12:46,340 --> 00:12:48,559
-She had removed it after the ceremony.
+00:02:49,879 --> 00:02:53,079
+It bore the clear mark of hurried correspondence,
 
-00:12:48,559 --> 00:12:49,700
-Very good.
+00:02:53,079 --> 00:02:57,560
+most likely letters of reconciliation or recrimination.
 
-00:12:49,700 --> 00:12:52,840
-Was there any quarrel between yourself and your bride?
-
-00:12:52,840 --> 00:12:54,840
-Hmm, none whatever.
-
-00:12:54,840 --> 00:12:55,840
-Hmm.
-
-00:12:55,840 --> 00:12:57,840
-Then the facts are thus.
-
-00:12:57,840 --> 00:13:08,840
-A bride receives a note at the church, reads it with agitation, conceals it, proceeds to her father's house, then vanishes.
-
-00:13:08,840 --> 00:13:11,840
-She is seen with a gentleman in Hyde Park.
-
-00:13:11,840 --> 00:13:15,840
-The police are at fort because they lack imagination.
-
-00:13:15,840 --> 00:13:18,840
-For myself, the case is transparent.
-
-00:13:18,840 --> 00:13:21,840
-Transparent homes? Surely not already.
-
-00:13:21,840 --> 00:13:28,600
-My dear Watson, to see is easy when one knows where to look.
-
-00:13:28,600 --> 00:13:32,870
-He resumed his seat and fixed Lord St. Simon with a penetrating glance.
-
-00:13:32,870 --> 00:13:39,050
-My lord, you will, I trust, excuse a frankness which is necessary.
-
-00:13:39,050 --> 00:13:44,280
-You married Miss Hattie Duran for her wealth and she married you for your title.
-
-00:13:44,280 --> 00:13:48,140
-There is no shame in acknowledging the truth.
-
-00:13:48,140 --> 00:13:51,779
-But she had, it appears, a prior tie.
-
-00:13:51,779 --> 00:13:56,000
-A bond of the heart stronger than that of ambition.
-
-00:13:56,000 --> 00:13:59,700
-That bond reasserted itself at the very altar.
-
-00:13:59,700 --> 00:14:00,820
-..
-
-00:14:00,820 --> 00:14:03,379
-Angrily, you dare insinuate.
-
-00:14:03,379 --> 00:14:05,550
-I insinuate nothing.
-
-00:14:05,550 --> 00:14:08,620
-I merely read the facts as they lie.
-
-00:14:08,620 --> 00:14:12,650
-Whether she has fled to her former lover or has been taken by him,
-
-00:14:12,650 --> 00:14:14,870
-the result is the same.
-
-00:14:14,870 --> 00:14:16,720
-Your wife is absent.
-
-00:14:16,720 --> 00:14:21,600
-Our task is to trace her and to secure her safety.
-
-00:14:21,600 --> 00:14:23,670
-And what of my honour, sir?
-
-00:14:23,670 --> 00:14:29,639
-Dear, your honour, my lord, must stand upon the truth, not upon illusion.
-
-00:14:29,639 --> 00:14:33,700
-For a moment, the young nobleman seemed about to make an indignant retort.
-
-00:14:33,700 --> 00:14:37,980
-Then, perceiving perhaps the futility of contention, he rose with dignity.
-
-00:14:37,980 --> 00:14:40,710
-Very well, Mr. Holmes, I place myself in your hands.
-
-00:14:40,710 --> 00:14:43,120
-Discover the truth, whatever it may be.
-
-00:14:43,120 --> 00:14:47,160
-You shall hear from me within twenty-four hours.
-
-00:14:47,159 --> 00:14:52,689
-With a stiff bow to us both, Lord St. Simon withdrew, his footsteps echoing down the stairs.
-
-00:14:52,689 --> 00:14:57,250
-The door had scarcely closed behind him before I turned eagerly to my companion.
-
-00:14:57,250 --> 00:15:03,549
-Holmes, you amaze me. You speak as though the matter were already solved, yet we possess so little tangible evidence.
-
-00:15:03,549 --> 00:15:07,779
-Evidence, Watson, is always sufficient if properly read.
-
-00:15:07,779 --> 00:15:14,379
-Consider the note at the church, the agitation, the disappearance, the sighting in the park.
-
-00:15:14,379 --> 00:15:18,379
-These form a sequence, too consistent for chance.
-
-00:15:18,379 --> 00:15:19,950
-Um, who?
-
-00:15:19,950 --> 00:15:24,069
-And yet we know nothing of this gentleman, nothing of where they went.
-
-00:15:24,069 --> 00:15:26,590
-That is precisely what we shall learn.
-
-00:15:26,590 --> 00:15:28,509
-But the main principle is clear.
-
-00:15:28,509 --> 00:15:30,759
-The lady left willingly.
-
-00:15:30,759 --> 00:15:33,190
-Then you do not suspect foul play?
-
-00:15:33,190 --> 00:15:34,779
-Not in the least.
-
-00:15:34,779 --> 00:15:39,079
-Had she been forced, there would be some struggle, some alarm.
-
-00:15:39,079 --> 00:15:42,679
-Instead, she walked calmly with her companion.
-
-00:15:42,679 --> 00:15:46,919
-Holmes took up one of the newspapers and tacked it with his finger.
-
-00:15:46,919 --> 00:15:49,329
-Observe this notice, Watson.
-
-00:15:49,329 --> 00:15:55,719
-Mr. Francis Doran has offered a reward for information regarding his daughter.
-
-00:15:55,719 --> 00:16:00,969
-That in itself shows he is ignorant of her intentions.
-
-00:16:00,969 --> 00:16:07,480
-And yet, she would hardly abandon him, save under the strongest compulsion of affection.
-
-00:16:07,480 --> 00:16:09,579
-You mean, Mr. Francis Moulton?
-
-00:16:09,580 --> 00:16:11,100
-precisely
-
-00:16:11,100 --> 00:16:13,500
-we must discover his whereabouts
-
-00:16:13,500 --> 00:16:15,920
-at this moment there came a brisk
-
-00:16:15,920 --> 00:16:17,960
-knock at the door and Mrs. Bela Hudson
-
-00:16:17,960 --> 00:16:20,100
-ushered in a stout bustling figure
-
-00:16:20,100 --> 00:16:22,060
-with sharp eyes and a familiar air
-
-00:16:22,060 --> 00:16:23,759
-of self importance it was
-
-00:16:23,759 --> 00:16:25,580
-Inspector Lestrade of Scotland Yard
-
-00:16:25,580 --> 00:16:28,180
-ha Mr. Holmes good day to you
-
-00:16:28,180 --> 00:16:29,980
-I thought I should find you poring over
-
-00:16:29,980 --> 00:16:32,020
-this noble bedding business quite the scandal
-
-00:16:32,020 --> 00:16:33,980
-eh well I have a mind to
-
-00:16:33,980 --> 00:16:36,259
-lay my hands on the fellow that carried her off
-
-00:16:36,259 --> 00:16:38,259
-and who is the fellow
-
-00:16:38,259 --> 00:16:39,480
-Lestrade
-
-00:16:39,480 --> 00:16:43,230
-Smugly, why some rogue she picked up in America, no doubt.
-
-00:16:43,230 --> 00:16:46,000
-We shall comb the docks and nab him yet.
-
-00:16:46,000 --> 00:16:48,889
-Admirable energy, as always.
-
-00:16:48,889 --> 00:16:54,360
-But may I inquire, have you considered the possibility that the lady departed willingly?
-
-00:16:54,360 --> 00:16:55,620
-..
-
-00:16:55,620 --> 00:16:57,519
-Willingly? Nonsense.
-
-00:16:57,519 --> 00:17:01,059
-What bride deserts her husband on the very day of marriage?
-
-00:17:01,059 --> 00:17:05,509
-No, no, Holmes, there's villainy here, and we shall find it.
-
-00:17:05,509 --> 00:17:08,670
-Smiling faintly, we shall see.
-
-00:17:08,670 --> 00:17:13,489
-Lestrade bustled about the room, imparting a few inconsequential details of his inquiries.
-
-00:17:13,489 --> 00:17:16,309
-Omen then took his leave with an air of confidence.
-
-00:17:16,309 --> 00:17:18,739
-Holmes watched him go with an amused expression.
-
-00:17:18,739 --> 00:17:23,539
-Poor Lestrade! He works with vigour but without vision.
-
-00:17:23,539 --> 00:17:26,969
-And you, Holmes, what course shall you pursue?
-
-00:17:26,969 --> 00:17:29,269
-The simplest of all.
-
-00:17:29,269 --> 00:17:32,469
-I shall insert a small notice in the evening papers,
-
-00:17:32,469 --> 00:17:36,319
-couched in terms which our quarry cannot fail to recognise.
-
-00:17:36,319 --> 00:17:42,639
-By this means, Watson, I shall bring the lady and her companion to our very door.
-
-00:17:42,639 --> 00:17:44,639
-You expect them to come here?
-
-00:17:44,639 --> 00:17:50,880
-Where else? When the bird is weary of flight, it will return to the nest of reason.
-
-00:17:50,880 --> 00:17:59,659
-He seated himself at the table, drew forth pen and ink, and in a few deft strokes composed an advertisement which, I confess, I found most enigmatic.
-
-00:17:59,660 --> 00:18:04,759
-It ran thus. Would the gentleman who accompanied a lady in white satin at Hyde Park yesterday
-
-00:18:04,759 --> 00:18:09,220
-kindly communicate with Mr. Poor, Sherlock Holmes, 221 B Baker Street,
-
-00:18:09,220 --> 00:18:13,539
-regarding a matter of utmost importance? And you think this will suffice?
-
-00:18:13,539 --> 00:18:18,420
-It must, for the lady and her companion cannot long remain hidden.
-
-00:18:18,420 --> 00:18:24,759
-Their very secrecy will drive them to seek explanation, and I am the natural medium.
-
-00:18:24,759 --> 00:18:31,230
-He laid aside the pen with an air of finality, lit his pipe and leaned back in his chair,
-
-00:18:31,230 --> 00:18:33,630
-his eyes gleaming with quiet confidence.
-
-00:18:33,630 --> 00:18:36,759
-I, for my part, could not repress his sense of wonder.
-
-00:18:36,759 --> 00:18:38,909
-To me, the case seemed zapped in shadows.
-
-00:18:38,909 --> 00:18:41,259
-To him, it was as clear as day.
-
-00:18:41,259 --> 00:18:43,079
-Thus, the stage was set.
-
-00:18:43,079 --> 00:18:45,720
-We awaited only the response to Holmes' stratagem,
-
-00:18:45,720 --> 00:18:50,680
-certain that the mystery of the missing bride was drawing swiftly toward a dramatic solution.
-
-00:18:50,680 --> 00:18:55,820
-The advertisement, once dispatched to the evening papers, in all breasts,
-
-00:18:55,820 --> 00:18:59,869
-thanked, seemed to me, a fray and reed upon which to lean such weighty hopes.
-
-00:18:59,869 --> 00:19:02,570
-Yet my companion showed no trace of uncertainty.
-
-00:19:02,570 --> 00:19:03,440
-You me!
-
-00:19:03,440 --> 00:19:07,039
-He sat calmly smoking, or stretched languidly upon the city,
-
-00:19:07,039 --> 00:19:10,470
-his keen gaze wandering now to the ceiling, now to the fire,
-
-00:19:10,470 --> 00:19:15,110
-as though he saw the very pattern of truth written upon the smoke and the flames.
-
-00:19:15,110 --> 00:19:19,320
-Holmes, forgive me if I appear dull, but I cannot, for the life of me,
-
-00:19:19,319 --> 00:19:21,980
-perceive how a mere notice in the standard is
-
-00:19:21,980 --> 00:19:25,639
-to draw a vanished bride and her prestigious companion to our door.
-
-00:19:25,639 --> 00:19:29,079
-My dear Watson, you resemble the rustic
-
-00:19:29,079 --> 00:19:31,319
-who watches the conjurer's performance
-
-00:19:31,319 --> 00:19:34,649
-and marvels at the rabbit's appearance,
-
-00:19:34,649 --> 00:19:38,650
-but never observes the deft hand that concealed it.
-
-00:19:38,650 --> 00:19:41,839
-The advertisement is not the rabbit, but the hat.
-
-00:19:41,839 --> 00:19:46,779
-The lady's companion must scan the newspapers with anxious eye,
-
-00:19:46,779 --> 00:19:52,659
-for he knows the hue and cry is abroad when he sees that one man.
-
-00:19:52,659 --> 00:19:57,269
-Sherlock Holmes does not threaten, but invites communication.
-
-00:19:57,269 --> 00:20:00,379
-He will recognize a chance to explain himself.
-
-00:20:00,379 --> 00:20:03,740
-You suppose, then, that he is guiltless?
-
-00:20:03,740 --> 00:20:10,079
-Not guiltless, perhaps, but not criminal, in the sense Lestrade conceives.
-
-00:20:10,079 --> 00:20:18,439
-Love is not larceny, Watson, nor does affection constitute abduction.
-
-00:20:18,439 --> 00:20:40,079
-......................
-
-00:20:40,079 --> 00:20:45,199
-chronicle of conjectures. At length I retired, yet scarcely had I drifted into slumber when the
-
-00:20:45,199 --> 00:20:49,539
-thought of the missing bride, wandering perhaps friendless in the night, awoke me again and again.
-
-00:20:49,539 --> 00:20:50,619
-..
-
-00:20:50,619 --> 00:20:54,589
-It was about eleven o'clock the next morning when our bell rang with a sharp peal.
-
-00:20:54,589 --> 00:20:59,230
-Mrs. Egg Jenga! Hudson entered with her habitual air of patient wonder,
-
-00:20:59,230 --> 00:21:04,299
-bearing the guard of a visitor. Holmes glanced at it, and a smile played upon his lips.
-
-00:21:04,299 --> 00:21:08,200
-Ah, Watson, the fish has risen to the bait
-
-00:21:08,200 --> 00:21:12,159
-Play, compose yourself for an interview of some delicacy
-
-00:21:12,159 --> 00:21:15,000
-A moment later our visitor was shown
-
-00:21:15,000 --> 00:21:18,279
-In a woman, plainly dressed, her face pale with anxiety
-
-00:21:18,279 --> 00:21:20,299
-Her eyes bright with resolution
-
-00:21:20,299 --> 00:21:22,759
-She was of middle years, perhaps forty
-
-00:21:22,759 --> 00:21:25,680
-Yet there lingered in her features a faded beauty
-
-00:21:25,680 --> 00:21:28,319
-And an expression of habitual endurance
-
-00:21:28,319 --> 00:21:31,200
-She curtsied slightly, then sank into the chair
-
-00:21:31,200 --> 00:21:33,179
-Holmes indicated, so
-
-00:21:33,179 --> 00:21:35,409
-Mr. Sherlock Holmes, I presume?
-
-00:21:35,409 --> 00:21:38,599
-Sir, I beg you will excuse the liberty of my coming.
-
-00:21:38,599 --> 00:21:39,799
-..
-
-00:21:39,799 --> 00:21:42,429
-I saw your notice in the paper this morning,
-
-00:21:42,429 --> 00:21:47,820
-and I thought it my duty, yes, my duty, to tell you what I know.
-
-00:21:47,820 --> 00:21:49,539
-Your name, madam?
-
-00:21:49,539 --> 00:21:51,909
-Fowler, Mrs. Flora.
-
-00:21:51,909 --> 00:21:55,000
-Fowler, I am, sir, a lady's maid.
-
-00:21:55,000 --> 00:21:57,799
-The maid of Miss Hattie Doran, perhaps?
-
-00:21:57,799 --> 00:21:58,859
-..
-
-00:21:58,859 --> 00:22:02,740
-Ah, yes, sir, her maid, since she landed in this country.
-
-00:22:02,740 --> 00:22:05,269
-and it is for her sake I am here.
-
-00:22:05,269 --> 00:22:06,650
-For though she has gone,
-
-00:22:06,650 --> 00:22:08,879
-I would not have the word think ill of her.
-
-00:22:08,879 --> 00:22:10,940
+00:02:57,560 --> 00:03:00,219
 ...
 
-00:22:10,940 --> 00:22:14,640
-No one who has read your mistress's character aright
+00:03:00,219 --> 00:03:04,189
+It is all quite elementary, my dear fellow.
 
-00:22:14,640 --> 00:22:16,710
-could think ill of her.
+00:03:04,189 --> 00:03:09,550
+I could not but smile at his complacency, though my admiration for his craft never waned.
 
-00:22:16,710 --> 00:22:20,199
-But pray, proceed, Mrs. Fowler,
+00:03:09,550 --> 00:03:14,180
+Such was the very air of Baker Street, a mixture of the ordinary and the extraordinary,
 
-00:22:20,199 --> 00:22:22,180
-tell us what you observed.
+00:03:14,180 --> 00:03:18,259
+the commonplace transmuted into gold by Holmes' peculiar genius.
 
-00:22:22,180 --> 00:22:25,119
-Well, sir, on the morning of the wedding
+00:03:18,259 --> 00:03:23,189
+It was upon this morning, while Holmes still discoursed upon the habits of returning soldiers,
 
-00:22:25,119 --> 00:22:27,230
-I was with her as she dressed.
+00:03:23,189 --> 00:03:26,620
+that Mrs. Biss's Hudson entered with a card upon a tree.
 
-00:22:27,230 --> 00:22:29,259
-She was pale, fairly pale,
+00:03:26,620 --> 00:03:30,639
+A young lady has called, gentlemen, said our landlady.
 
-00:22:29,259 --> 00:22:31,210
-and trembled as I fastened her gown.
+00:03:30,639 --> 00:03:34,840
+A boy stinged with that deference she always reserved for Holmes' visitors.
 
-00:22:31,210 --> 00:22:34,550
-More than once, she clasped my hand and said,
+00:03:34,840 --> 00:03:37,750
+She begs an audience if you can spare the time.
 
-00:22:34,550 --> 00:22:37,680
-Oh, Flora, I wish this day were over.
+00:03:37,750 --> 00:03:42,060
+Show her in at once, Mrs. Hudson, said Holmes briskly.
 
-00:22:37,680 --> 00:22:42,340
-I thought it but maidenly nerves, though I confess my heart misgave me.
+00:03:42,060 --> 00:03:48,620
+Watson, here is a chance for you to apply that good, honest, medical eye of yours.
 
-00:22:42,340 --> 00:22:46,620
-Then, at the church, I saw a slip of paper handed to her.
-
-00:22:46,620 --> 00:22:51,430
-She turned as white as her veil, and her lips moved as if she prayed.
-
-00:22:51,430 --> 00:22:55,420
-After that, sir, she was like a creature walking in a dream.
-
-00:22:55,420 --> 00:22:57,180
-And after the ceremony?
-
-00:22:57,180 --> 00:22:59,920
-At Lancaster Gate, she whispered to me,
-
-00:22:59,920 --> 00:23:02,889
-If anyone should ask for me, Flora, say nothing.
-
-00:23:02,889 --> 00:23:04,589
-Remember, say nothing.
-
-00:23:04,589 --> 00:23:06,380
-Then she slipped from the room.
-
-00:23:06,380 --> 00:23:07,799
-I never saw her again.
-
-00:23:07,799 --> 00:23:09,360
-Who's Orel?
-
-00:23:09,360 --> 00:23:12,019
-Did she leave by the front door?
-
-00:23:12,019 --> 00:23:13,860
-No, sir.
-
-00:23:13,860 --> 00:23:17,220
-By the side entrance, as if she would avoid observation.
-
-00:23:17,220 --> 00:23:20,549
-And you have heard nothing since?
-
-00:23:20,549 --> 00:23:22,170
-Nothing, sir.
-
-00:23:22,170 --> 00:23:23,599
-But I know this.
-
-00:23:23,599 --> 00:23:27,289
-She loved another before ever she met Lord St. Simon.
-
-00:23:27,289 --> 00:23:31,359
-And if that other called her, she would follow him to the world's end.
-
-00:23:31,359 --> 00:23:34,469
-You speak of Mr. Francis Morton?
-
-00:23:34,469 --> 00:23:36,460
-Star-tiled. You know his name?
-
-00:23:36,460 --> 00:23:37,679
-Yes, he it was.
-
-00:23:37,679 --> 00:23:38,799
+00:03:48,620 --> 00:03:49,860
 ..
 
-00:23:38,799 --> 00:23:40,049
-That is enough.
+00:03:49,860 --> 00:03:55,180
+We shall see what manner of visitor London bestows upon us this morning.
 
-00:23:40,049 --> 00:23:42,719
-You have acted wisely, Mrs. Fowler,
+00:03:55,180 --> 00:04:00,050
+With that, the door opened, and there entered a young lady of striking appearance,
 
-00:23:42,719 --> 00:23:45,480
-and you have relieved your conscience.
+00:04:00,050 --> 00:04:02,259
+though her attire bore signs of modest means.
 
-00:23:45,480 --> 00:23:49,309
-You may rest assured your mistress is in safe hands.
+00:04:02,259 --> 00:04:05,960
+Her figure was tall and graceful, her hair of a rich chestnut hue,
 
-00:23:49,309 --> 00:23:51,839
-God bless you, sir.
+00:04:05,960 --> 00:04:09,000
+and her expression one of mingled anxiety and determination.
 
-00:23:51,839 --> 00:23:58,360
-With a grateful curtsy, the woman withdrew. Holmes watched her departure with a look of quiet satisfaction.
+00:04:09,000 --> 00:04:13,310
+She carried herself with the dignity of one who has resolved upon a difficult course,
 
-00:23:58,360 --> 00:23:59,380
-To Moldau.
+00:04:13,310 --> 00:04:15,900
+though her eyes betrayed a certain apprehension.
 
-00:23:59,380 --> 00:24:06,230
-Well, Holmes, your surmise is confirmed. The lady fled willingly to join this molten. Yet, how should we trace them?
+00:04:15,900 --> 00:04:21,379
+Mr. Holmes, Dr. Watson, she began, her voice low but steady.
 
-00:24:06,230 --> 00:24:10,359
-By waiting, Watson. They will trace themselves.
+00:04:21,379 --> 00:04:23,519
+I thank you for receiving me.
 
-00:24:10,359 --> 00:24:13,549
-Had scarcely uttered the words when once more the bell pealed.
+00:04:23,519 --> 00:04:28,879
+My name is Violet Hunter, and I am by profession a governess.
 
-00:24:13,549 --> 00:24:19,240
-To know, this time a heavy step was heard upon the stair, and Mrs. Hudson announced, Mr. Francis Moulton.
-
-00:24:19,240 --> 00:24:27,809
-Our visitor was a man of strong build, bronzed by sun and wind, with frank, earnest eyes and the carriage of one accustomed to command.
-
-00:24:27,809 --> 00:24:32,920
-He entered hastily, as though impatience drove him, and addressed Holmes without preamble.
-
-00:24:32,920 --> 00:24:37,789
-Mr. Holmes, I have read your notice. You can save me from a cruel misunderstanding.
-
-00:24:37,789 --> 00:24:40,849
-My wife is with me, sir, my lawful wife.
-
-00:24:40,849 --> 00:24:42,240
-Your wife? But...
-
-00:24:42,240 --> 00:24:53,099
-Pay be seated, Mr. Moten. You interest us exceedingly. If you will favor us with your narrative, the truth shall soon be set right.
-
-00:24:53,099 --> 00:25:12,240
-....................
-
-00:25:12,240 --> 00:25:14,869
-and lay long between life and death.
-
-00:25:14,869 --> 00:25:17,420
-News reached Hattie that I had perished.
-
-00:25:17,420 --> 00:25:20,289
-She believed herself a widow.
-
-00:25:20,289 --> 00:25:24,659
-Were you, in fact, recovered and only later returned?
-
-00:25:24,659 --> 00:25:25,769
-Just so.
-
-00:25:25,769 --> 00:25:28,130
-When at last I came to England to seek her,
-
-00:25:28,130 --> 00:25:30,990
-I found she had been courted by Lord St. Simon.
-
-00:25:30,990 --> 00:25:32,599
-Her father urged the match,
-
-00:25:32,599 --> 00:25:36,329
-and she, believing herself free, consented.
-
-00:25:36,329 --> 00:25:37,700
-I had but one hope,
-
-00:25:37,700 --> 00:25:40,380
-to see her before the ceremony and claim my rights.
-
-00:25:40,380 --> 00:25:42,159
-But I arrived too late.
-
-00:25:42,159 --> 00:25:57,539
-she was already at the church i sent her a note she knew my hand and she came to me as any true wife must extraordinary and where is she now at lodgings not far from here trembling lest the world brand her faithless
-
-00:25:57,539 --> 00:26:02,300
-I would shoo her from scandal, sir, but I cannot bear that she be slain as a runaway bride,
-
-00:26:02,300 --> 00:26:04,420
-when in truth she but returned to her husband.
-
-00:26:04,420 --> 00:26:05,619
+00:04:28,879 --> 00:04:29,899
 ..
 
-00:26:05,619 --> 00:26:08,559
-You have done rightly to come to me, Mr. Modin.
+00:04:29,899 --> 00:04:36,339
+Pray be seated, Miss Hunter, Holmes replied, motioning her toward the chair opposite him.
 
-00:26:08,559 --> 00:26:15,019
-The truth must be told, though gently, for Lord St. Simon's pride is involved.
+00:04:36,339 --> 00:04:40,990
+You will oblige us by stating the facts which bring you here.
 
-00:26:15,019 --> 00:26:16,099
+00:04:40,990 --> 00:04:45,149
+As she seated herself, I could not help but note the pallor of her cheeks,
+
+00:04:45,149 --> 00:04:48,809
+the slight tremor of her hands, and the eager glance she directed at Holmes,
+
+00:04:48,809 --> 00:04:51,599
+as though upon his wisdom rested her entire future.
+
+00:04:51,600 --> 00:04:58,910
+It may seem to you, gentlemen, a trifling matter, she said, clasping her gloved hands together,
+
+00:04:58,910 --> 00:05:05,360
+but to me it is of the deepest consequence. I have been offered a position, an exceedingly
+
+00:05:05,360 --> 00:05:10,560
+generous one, far above the usual terms for a governess, and yet the conditions attached to
+
+00:05:10,560 --> 00:05:16,879
+it are so unusual, so disquieting, that I know not whether I dare accept without your counsel.
+
+00:05:16,879 --> 00:05:28,990
+Indeed, Holmes murmured, his eyes narrowing with interest, an unusual offer, generous remuneration, but conditions that awaken suspicion.
+
+00:05:28,990 --> 00:05:33,000
+Yes, Watson, you perceive the outline of a problem here already.
+
+00:05:33,000 --> 00:05:39,240
+Pray continue, Miss Hunter, and omit no detail, however trivial it may appear to you.
+
+00:05:39,240 --> 00:05:43,699
+Thus encouraged, the young lady began to relate her circumstances,
+
+00:05:43,699 --> 00:05:48,340
+her words, pouring forth in a mixture of relief and nervous urgency.
+
+00:05:48,340 --> 00:05:52,540
+I have for some years supported myself as a governess,
+
+00:05:52,540 --> 00:05:57,240
+though the wages have seldom sufficed for more than the barest necessities.
+
+00:05:57,240 --> 00:06:03,329
+Recently, through an agency, I was introduced to a gentleman of singular appearance and manner,
+
+00:06:03,329 --> 00:06:06,480
+one Mr. Geoffrey Rewcastle,
+
+00:06:06,480 --> 00:06:11,570
+who resides in the country at a place called the Copper Beaches near Winchester.
+
+00:06:11,570 --> 00:06:16,970
+Mr. Hmm, Rue Castle offered me a salary of 100 pounds a year,
+
+00:06:16,970 --> 00:06:20,769
+double my present earnings with the charge of his young child.
+
+00:06:20,769 --> 00:06:25,960
+The sum dazzled me and yet the conditions he attached were so extraordinary
+
+00:06:25,960 --> 00:06:28,860
+that I confess I hesitated.
+
+00:06:28,860 --> 00:06:31,860
+Extraordinary conditions I repeated? In what way?
+
+00:06:31,860 --> 00:06:50,639
+Mr. Hmm, Rue Castle, while most affable, insisted upon certain requirements that I should, for instance, wear a particular dress of blue silk whenever requested, cut my hair short at his wise desire, and sit each evening in the drawing-room window in such a manner that I might be seen from the road.
+
+00:06:50,639 --> 00:06:59,279
+When I protested at the strangeness of these demands, he laughed and assured me it was but a harmless whim, yet his manner left me uneasy.
+
+00:06:59,279 --> 00:07:05,579
+He urged me, moreover, to decide at once and hinted that refusal would be most unwise.
+
+00:07:05,579 --> 00:07:06,620
 ..
 
-00:26:16,099 --> 00:26:20,739
-I have no wish to wound him, but my hattie is mine, and no man shall part us.
+00:07:06,620 --> 00:07:12,680
+As she spoke, Holmes leaned back, steepling his fingers and closing his eyes, the very image of concentrated thought.
 
-00:26:20,739 --> 00:26:24,180
-His voice rang with a passion that left no doubt of his sincerity.
+00:07:12,680 --> 00:07:21,120
+Most singular indeed! You are wise to hesitate, Miss Hunter. When an employer offers double wages
 
-00:26:24,180 --> 00:26:27,519
-Holmes regarded him thoughtfully for a moment, then rose with decision,
+00:07:21,120 --> 00:07:26,939
+for a simple post, one must suspect that the duties are far from ordinary. Tell me,
 
-00:26:27,519 --> 00:26:31,559
-Bring your wife here at once, Mr. Moulton.
+00:07:26,939 --> 00:07:31,440
+what impression did you form of this Mr. Rucastle himself?
 
-00:26:31,559 --> 00:26:35,190
-It is better that all parties meet beneath my roof,
+00:07:31,440 --> 00:07:37,019
+He is a stout man, ruddy of face, with a hearty manner that struck me as somewhat forced,
 
-00:26:35,190 --> 00:26:40,019
-where the explanation may be made without unseemly publicity.
+00:07:37,019 --> 00:07:40,459
+was though beneath his juviality lay another nature.
 
-00:26:40,019 --> 00:26:42,589
-I shall fetch her instantly.
+00:07:40,459 --> 00:07:43,419
+His wife, pale and silent, seemed oppressed
 
-00:26:42,589 --> 00:26:45,549
-He hurried from the room.
+00:07:43,419 --> 00:07:46,159
+and scarcely raised her eyes throughout the interview.
 
-00:26:45,549 --> 00:26:47,500
-I turned to Holmes in amazement.
+00:07:46,159 --> 00:07:48,199
+They have, too, a son,
 
-00:26:47,500 --> 00:26:49,269
-Holmes, this is astounding.
+00:07:48,199 --> 00:07:50,779
+grown yet of a surly and disagreeable aspect,
 
-00:26:49,269 --> 00:26:51,480
-Who would have dreamed of such a solution?
+00:07:50,779 --> 00:07:52,259
+though he did not speak to me.
 
-00:26:51,480 --> 00:26:56,000
-Anyone who reasoned from the facts, my dear Watson.
-
-00:26:56,000 --> 00:27:00,259
-But to conceal a prior marriage, surely the lady acted indiscreetly?
-
-00:27:00,259 --> 00:27:01,279
+00:07:52,259 --> 00:07:53,519
 ..
 
-00:27:01,279 --> 00:27:02,429
-Indiscreet, perhaps.
+00:07:53,519 --> 00:07:55,479
+And yet, with all these misgivings,
 
-00:27:02,429 --> 00:27:08,590
-But she believed herself free, and her error was born of grief, not guile.
+00:07:55,479 --> 00:07:57,240
+you are tempted by the salary?
 
-00:27:08,590 --> 00:27:10,539
-We had but a short time to wait.
+00:07:57,240 --> 00:07:59,409
+Indeed, doctor, I am.
 
-00:27:10,539 --> 00:27:12,710
-In less than half an hour, Boutin returned,
+00:07:59,409 --> 00:08:03,269
+A woman must live, and such an offer comes but rarely.
 
-00:27:12,710 --> 00:27:16,710
-leading by the hand a young lady whose beauty shone even through her pallor.
+00:08:03,269 --> 00:08:05,919
+Still, I could not shake the sense
 
-00:27:16,710 --> 00:27:20,150
-She was tall, graceful, with eyes of deep blue,
+00:08:05,920 --> 00:08:13,120
+that to accept blindly might plunge me into peril. Thus I resolved to seek Mr. Holmes's advice
 
-00:27:20,150 --> 00:27:22,700
-and a proud carriage softened by distress.
+00:08:13,120 --> 00:08:20,759
+before I gave my answer. You did wisely, Miss Hunter, Holmes declared, opening his eyes and
 
-00:27:22,700 --> 00:27:25,960
-As she entered, she glanced timidly from Holmes to myself.
+00:08:20,759 --> 00:08:27,379
+fixing her with a keen glance. There is, I suspect, more behind these copper beaches than meets the
 
-00:27:25,960 --> 00:27:28,880
-then clung more closely to her companion's arm.
+00:08:27,379 --> 00:08:33,920
+eye. We shall not pronounce judgment astily. You will place before me every particular,
 
-00:27:28,880 --> 00:27:31,900
-Mr. Holmes, I am Hattie Moulton,
+00:08:33,919 --> 00:08:42,259
+the house, the family, the conditions, and then, if you consent, Watson and I shall accompany you to Hampshire.
 
-00:27:31,900 --> 00:27:34,889
-or Hattie St. Simon, as the world would call me.
-
-00:27:34,889 --> 00:27:37,699
-Oh, sir, what must you think of me?
-
-00:27:37,699 --> 00:27:42,950
-That you are a lady placed in a position of singular difficulty,
-
-00:27:42,950 --> 00:27:45,819
-and that you have borne it with courage.
-
-00:27:45,819 --> 00:27:46,880
+00:08:42,259 --> 00:08:43,979
 ..
 
-00:27:46,880 --> 00:27:49,269
-But the shame, the scandal!
+00:08:43,979 --> 00:08:52,019
+In such cases, the devil lurks in details, and we must first acquaint ourselves with every stone of the ground.
 
-00:27:49,269 --> 00:27:53,299
-I would have spared Lord St. Simon the pain,
+00:08:52,019 --> 00:08:56,730
+Miss Hunter's countenance brightened at his words, as though a great burden were lifted.
 
-00:27:53,299 --> 00:27:56,180
-yet how could I forsake my true husband?
+00:08:56,730 --> 00:09:02,459
+I could see in Holmes' bearing that the matter, far from being trivial, had already engaged his full attention.
 
-00:27:56,180 --> 00:27:57,319
+00:09:02,460 --> 00:09:08,240
+Then you will aid me, Mr. Holmes, she asked, her voice trembling with gratitude.
+
+00:09:08,240 --> 00:09:15,519
+Most assuredly. You have placed your trust in me, and I shall not see you deceived or endangered
+
+00:09:15,519 --> 00:09:21,470
+if it can be prevented. Leave the acceptance of the post in abeyance for a day or two,
+
+00:09:21,470 --> 00:09:27,759
+and meanwhile I will make such inquiries as may be needful. Rest assured, Miss Hunter,
+
+00:09:27,759 --> 00:09:32,359
+that whatever sinister element lies behind these copper beeches,
+
+00:09:32,359 --> 00:09:34,039
+we shall bring it to light.
+
+00:09:34,039 --> 00:09:36,980
+...
+
+00:09:36,980 --> 00:09:39,809
+With these assurances, the young lady took her leave,
+
+00:09:39,809 --> 00:09:41,480
+a step lighter than when she came.
+
+00:09:41,480 --> 00:09:43,859
+For my own part, I watched Holmes with curiosity,
+
+00:09:43,859 --> 00:09:45,840
+for I knew the gleam in his eye too well.
+
+00:09:45,840 --> 00:09:48,779
+The gain, as he was wont to say, was afoot.
+
+00:09:48,779 --> 00:09:51,200
+Holmes, I said, when the door had closed,
+
+00:09:51,200 --> 00:09:54,100
+do you truly think there is danger for the young lady?
+
+00:09:54,100 --> 00:09:56,899
+Danger, Watson, most assuredly.
+
+00:09:56,899 --> 00:10:01,180
+where money is lavishly offered and conditions are eccentric,
+
+00:10:01,180 --> 00:10:06,159
+one may be certain that some hidden motive underlies the mask.
+
+00:10:06,159 --> 00:10:09,259
+The dress, the haircut, the posture at the window,
+
+00:10:09,259 --> 00:10:12,339
+these are no whims but parts of a scheme.
+
+00:10:12,339 --> 00:10:15,079
+We must discover what lies at the root,
+
+00:10:15,079 --> 00:10:20,049
+lest Miss Hunter fall into a trap more subtle than she dreams.
+
+00:10:20,049 --> 00:10:25,819
+As he spoke, Holmes' features were animated with that singular energy
+
+00:10:25,820 --> 00:10:29,009
+which always possessed him when confronted by a mystery.
+
+00:10:29,009 --> 00:10:34,180
+For my own part, I confess my imagination was already stirred by the prospect, the name itself.
+
+00:10:34,180 --> 00:10:37,100
+Copper beaches seemed to carry a note of foreboding,
+
+00:10:37,100 --> 00:10:39,360
+as though the very trees concealed some secret.
+
+00:10:39,360 --> 00:10:42,670
+Thus began an adventure, which was to test our vigilance and reveal,
+
+00:10:42,670 --> 00:10:45,080
+beneath the tranquil surface of an English country house,
+
+00:10:45,080 --> 00:10:48,440
+passions as dark as any in London's fog-bound alleys.
+
+00:10:48,440 --> 00:10:51,900
+A day or two elapsed after the visit of Miss Violet Hunter,
+
+00:10:51,900 --> 00:10:54,180
+during which Holmes was uncommonly restless.
+
+00:10:54,179 --> 00:11:01,569
+He paced our sitting room like a caged hound, ordinately smoking pipe after pipe and scanning the morning papers with apparent indifference.
+
+00:11:01,569 --> 00:11:09,240
+Yet I, who knew him so well, could see that his whole mind was absorbed by the singular conditions of the Copper Beaches engagement.
+
+00:11:09,240 --> 00:11:18,339
+His manner, more than once, reminded me of those occasions when a criminal at large still eluded him, and he scented the chaise but had not yet sighted his quarry.
+
+00:11:18,339 --> 00:11:24,079
+Holmes, I said one evening, as the firelight gild upon the litter table, you appear consumed by impatience.
+
+00:11:24,079 --> 00:11:25,899
+Has there been any fresh word from Miss Hunter?
+
+00:11:25,899 --> 00:11:27,279
 ..
 
-00:27:57,319 --> 00:28:00,089
-You could not, madam, nor should you.
+00:11:27,279 --> 00:11:30,659
+Indeed there has, Holmes replied,
 
-00:28:00,089 --> 00:28:03,880
-The truth once spoken will justify you.
+00:11:30,659 --> 00:11:34,629
+springing to his feet and fetching a letter from the mantelpiece.
 
-00:28:03,880 --> 00:28:06,940
-She sank into a chair, covering her face with her hands,
+00:11:34,629 --> 00:11:38,659
+She has accepted the post at Copper Beaches, as I bade her do.
 
-00:28:06,940 --> 00:28:08,980
-while her husband bent tenderly over her.
+00:11:38,659 --> 00:11:44,139
+She leaves for Hampshire tomorrow, but she implores us to accompany her.
 
-00:28:08,980 --> 00:28:11,369
-I confess, my heart was touched by the sight.
+00:11:44,139 --> 00:11:49,779
+The urgency of her request confirms what my reason had already indicated,
 
-00:28:11,369 --> 00:28:13,069
-For all her wealth and beauty,
+00:11:49,779 --> 00:11:55,360
+that beneath the fair-seeming exterior of Mr. Yerrier,
 
-00:28:13,069 --> 00:28:16,069
-she was but a woman torn between duty and affection,
-
-00:28:16,069 --> 00:28:17,899
-and affection had conquered.
-
-00:28:17,899 --> 00:28:21,819
-Courage, madam, the hour of explanation approaches.
-
-00:28:21,819 --> 00:28:28,119
-I have sent for Lord Saint's Simon, and he will soon be here.
-
-00:28:28,119 --> 00:28:31,339
-Starting up. Sent for him?
-
-00:28:31,339 --> 00:28:34,579
-Oh, sir, I dread that meeting.
-
-00:28:34,579 --> 00:28:38,799
-And you? I dread that meeting.
-
-00:28:38,799 --> 00:28:40,339
+00:11:55,360 --> 00:11:56,980
 ..
 
-00:28:40,339 --> 00:28:42,940
-Yet it must be faced.
+00:11:56,980 --> 00:12:01,730
+Jeff Rucastle lies something both sinister and dangerous.
 
-00:28:42,940 --> 00:28:46,799
-Better under my roof, where calm counsel may prevail,
+00:12:01,730 --> 00:12:04,419
+You allow me, Holmes, I said.
 
-00:28:46,799 --> 00:28:49,200
-than in the glare of society's gossip.
+00:12:04,419 --> 00:12:06,710
+Do you think her very safety is at stake?
 
-00:28:49,200 --> 00:28:54,720
-At this very moment the sound of wheels was heard, and soon after, a knock upon the door.
+00:12:06,710 --> 00:12:10,710
+My dear fellow, Holmes replied gravely,
 
-00:28:54,720 --> 00:28:58,090
-Mrs. A. Hudson announced, Lord Robert St. Simon.
+00:12:10,710 --> 00:12:15,620
+the safety of a lone young woman in a secluded country house
 
-00:28:58,090 --> 00:29:00,030
-Holmes's glance met mine.
+00:12:15,620 --> 00:12:18,699
+under the sway of a man of dubious character
 
-00:29:00,030 --> 00:29:04,360
-Steady, Watson. The curtain rises upon our final act.
+00:12:18,700 --> 00:12:22,509
+must always be a matter of concern.
 
-00:29:04,360 --> 00:29:05,400
+00:12:22,509 --> 00:12:28,410
+Remember, Watson, crime does not confine itself to the dark alleys of London.
+
+00:12:28,410 --> 00:12:33,269
+It lurks as often beneath the red-tiled roofs of rustic homesteads.
+
+00:12:33,269 --> 00:12:35,529
+You will accompany me.
+
+00:12:35,529 --> 00:12:40,400
+With pleasure, I exclaimed, my heart already stirred by the prospect of adventure.
+
+00:12:40,400 --> 00:12:43,630
+And thus it was, on a bright spring morning,
+
+00:12:43,630 --> 00:12:47,700
+being Andy, that Holmes and I found ourselves upon the train to Winchester.
+
+00:12:47,700 --> 00:12:52,420
+The journey was a pleasant one, with the green fields rolling past, dotted with grazing sheep,
+
+00:12:52,420 --> 00:12:55,279
+and the hedgerows alive, with the first notes of birdsong.
+
+00:12:55,279 --> 00:12:57,450
+Ones, however, paid little heed to the scenery.
+
+00:12:57,450 --> 00:13:02,540
+He sat opposite me, his eyes half-closed, his long, thin fingers drumming upon his knee
+
+00:13:02,540 --> 00:13:04,770
+in rhythm with the clatter of the weaves.
+
+00:13:04,770 --> 00:13:09,890
+You are forming theories already, I ventured, breaking the silence.
+
+00:13:09,890 --> 00:13:13,250
+Theories, Watson, no, mere surmises.
+
+00:13:13,250 --> 00:13:16,540
+We must not permit imagination to outrun the facts.
+
+00:13:16,539 --> 00:13:23,959
+1. Yet certain elements are suggestive. Consider the insistence upon the young lady cutting her
+
+00:13:23,959 --> 00:13:30,439
+hair, the peculiar demand that she sit visible at the window, the lavish salary, each points to some
+
+00:13:30,439 --> 00:13:40,039
+deception, some masquerade. The lady is to serve not as herself, but as another. For whose benefit
+
+00:13:40,039 --> 00:13:42,349
+and for what purpose?
+
+00:13:42,349 --> 00:13:44,609
+That is the question.
+
+00:13:44,609 --> 00:13:47,519
+You think then she is being made to impersonate someone?
+
+00:13:47,519 --> 00:13:48,599
 ..
 
-00:29:05,400 --> 00:29:07,700
-Lord Robert St. Lord Robert St.
+00:13:48,599 --> 00:13:49,459
+Precisely.
 
-00:29:07,700 --> 00:29:12,789
-Try it is. Simon entered our sitting room with the air of a man who would sooner have been anywhere else,
+00:13:49,459 --> 00:13:52,119
+But whether the design is to lure,
 
-00:29:12,789 --> 00:29:15,960
-yet whose pride compelled him to maintain an unruffled composure.
+00:13:52,119 --> 00:13:54,319
+to deceive or to conceal,
 
-00:29:15,960 --> 00:29:19,300
-His tall figure was effect, his manner studiedly cold,
+00:13:54,319 --> 00:13:56,210
+we have yet to learn.
 
-00:29:19,300 --> 00:29:24,730
-though I detected a tremor about the nostrils and a quickness in his glance which betrayed inner agitation.
+00:13:56,210 --> 00:13:58,379
+The country air will perhaps give us
 
-00:29:24,730 --> 00:29:27,880
-Holmes advanced courteously, motioning him to a chair.
+00:13:58,379 --> 00:14:00,700
+clearer heads than London fog.
 
-00:29:27,880 --> 00:29:31,639
-My lord, I thank you for your punctuality.
+00:14:00,700 --> 00:14:02,699
+At Winchester we alighted
 
-00:29:31,639 --> 00:29:37,100
-Permit me to present to you Mr. Francis Moten and his wife.
+00:14:02,699 --> 00:14:05,000
+and there we were met by Miss Hunter herself.
 
-00:29:37,100 --> 00:29:38,120
+00:14:05,000 --> 00:14:07,700
+She looked paler than when we had seen her in Baker Street,
+
+00:14:07,700 --> 00:14:09,909
+though her countenance brightened at sight of Holmes.
+
+00:14:09,909 --> 00:14:16,490
+"'Oh, Mr. Holmes, Dr. Watson!' she cried, taking our hands with evident relief.
+
+00:14:16,490 --> 00:14:19,659
+"'I cannot tell you what it means to have your support.
+
+00:14:19,659 --> 00:14:23,539
+Already the situation grows more singular than I had imagined.'
+
+00:14:23,539 --> 00:14:28,049
+"'Compose yourself, Miss Hunter,' said Holmes gently.
+
+00:14:28,049 --> 00:14:35,439
+"'Holmes, we are here now, and you have but to describe what has occurred since you entered upon your post.'
+
+00:14:35,440 --> 00:14:42,220
+I scarcely know where to begin. The house is large and lonely, surrounded by gloomy copper
+
+00:14:42,220 --> 00:14:48,810
+beaches which give it its name. Mr. Rucastle received me with the same forced heartiness,
+
+00:14:48,810 --> 00:14:55,820
+why his wife seemed more worn and spiritless than ever. But it is their demands, Mr. Holmes.
+
+00:14:55,820 --> 00:15:02,880
+They insisted immediately that I cut my hair, which I did most unwillingly. Then, each evening,
+
+00:15:02,879 --> 00:15:08,990
+they compel me to wear that blue dress and to sit in the great front window for an hour,
+
+00:15:08,990 --> 00:15:12,860
+though I am forbidden to draw the blinds or stir from the chair.
+
+00:15:12,860 --> 00:15:16,320
+I feel like a doll set upon display for unseen eyes.
+
+00:15:16,320 --> 00:15:17,500
 ..
 
-00:29:38,120 --> 00:29:40,759
-The nobleman's eyes flashed to the couple who rose as he entered.
+00:15:17,500 --> 00:15:20,059
+Holmes's face grew intent as he listened,
 
-00:29:40,759 --> 00:29:47,440
-For one instant he stood rigid, as though every drop of blood had left his veins.
+00:15:20,059 --> 00:15:25,129
+his eyes gleaming with that inward fire which lit them when a problem seized him.
 
-00:29:47,440 --> 00:29:52,859
-Then his lips compressed, and with a slight intonation of the head, he took the seat indicated.
+00:15:25,129 --> 00:15:28,059
+Yes, Watson, it is as I supposed.
 
-00:29:52,859 --> 00:29:57,289
-Mr. Holmes, you promised me the truth. I perceive that it is before me in flesh and blood.
+00:15:28,059 --> 00:15:34,439
+She is compelled to impersonate, but the object of this performance must yet be ascertained.
 
-00:29:57,289 --> 00:30:00,500
-Rising, trembling Lord St. Simon.
+00:15:34,439 --> 00:15:39,559
+Miss Hunter, have you observed anything of note during these enforced exhibitions?
 
-00:30:00,500 --> 00:30:08,289
-Oh, sir, forgive me. I never wished to wrong you. I thought, I believed.
+00:15:39,559 --> 00:15:42,919
+....
 
-00:30:08,289 --> 00:30:10,700
-You believed yourself free, madam.
+00:15:42,919 --> 00:15:50,859
+Nothing certain, sir. Yet twice I fancied I saw a man standing among the trees at the far end of
 
-00:30:10,700 --> 00:30:14,269
-and therefore you pledged me vows which were not yours to give.
+00:15:50,859 --> 00:15:55,779
+the drive, gazing toward the house. When I would have mentioned it, Mr. Ha!
 
-00:30:14,269 --> 00:30:19,619
-Willingly, not knowingly, my heart was buried with Frank.
+00:15:55,779 --> 00:16:01,720
+"'Ah!' Ruecastle laughed boisterously and bade me not let idle fancies trouble my mind.
 
-00:30:19,619 --> 00:30:21,869
-Or so I thought, or so I thought.
+00:16:01,720 --> 00:16:05,460
+"'And you are permitted free range of the house otherwise?' I asked.
 
-00:30:21,869 --> 00:30:25,670
-When he returned, I was bound to him as ever.
+00:16:05,460 --> 00:16:11,620
+"'Oh, no, doctor. Many of the rooms are locked, and when once I stray toward a wing at the back—'
 
-00:30:25,670 --> 00:30:28,099
-Oh, believe me, I suffered.
+00:16:11,620 --> 00:16:18,019
+"'Mr.—' Ruecastle's manner altered frightfully. He seized my arm, his eyes flashing with anger,
 
-00:30:28,099 --> 00:30:29,680
+00:16:18,019 --> 00:16:23,360
+and commanded me never to set foot there again. His cheerfulness returned the next instant,
+
+00:16:23,360 --> 00:16:27,440
+but the memory of his face in that moment chills me still.
+
+00:16:27,440 --> 00:16:30,329
+Most interesting, murmured Holmes.
+
+00:16:30,329 --> 00:16:35,330
+And this locked wing, does any sound ever proceed from it?
+
+00:16:35,330 --> 00:16:36,120
+Knock!
+
+00:16:36,120 --> 00:16:37,279
 ..
 
-00:30:29,680 --> 00:30:32,670
-Firmly, my lord, fault lies not with her but with fate.
+00:16:37,279 --> 00:16:39,789
+Hmm, why yes, hmm.
 
-00:30:32,670 --> 00:30:35,619
-She deemed me dead, yet I lived.
+00:16:39,789 --> 00:16:43,000
+At night, when all is quiet, I have heard faint footsteps
 
-00:30:35,619 --> 00:30:39,619
-Would you have had her deny her husband when once she knew the truth?
+00:16:43,000 --> 00:16:45,950
+and once a sob stifled as though from fear.
 
-00:30:39,619 --> 00:30:45,309
-Sir, I have no quarrel with you. The lady was deceived, but not by you. I accept that.
+00:16:45,950 --> 00:16:50,420
+I dared not speak of it, but I am certain I did not dream.
 
-00:30:45,309 --> 00:30:47,949
-Yet I cannot disguise the humiliation I endure.
+00:16:50,419 --> 00:16:54,449
+Holmes rose from the bench whereon we had seated ourselves near the station.
 
-00:30:47,949 --> 00:30:53,159
-To be deserted upon my wedding day, to become the jest of society, such wounds cut deep.
+00:16:54,449 --> 00:16:58,599
+His tall figure seemed to tower, his features sharp with decision.
 
-00:30:53,159 --> 00:30:58,979
-And yet, my lord, you emerge from this affair with honour intact.
+00:16:58,599 --> 00:17:03,519
+Watson, the case declares itself more plainly with each word.
 
-00:30:58,979 --> 00:31:03,669
-Your pride may be wounded, but your integrity is unblemished.
+00:17:03,519 --> 00:17:10,679
+There is a secret prisoner in that house whose likeness Miss Hunter is compelled to imitate.
 
-00:31:03,669 --> 00:31:08,539
-It would be known that you were the victim of circumstance, not of corkwetly.
+00:17:10,679 --> 00:17:17,680
+The sobs, the surveillance, the enforced impersonation all point to it.
 
-00:31:08,539 --> 00:31:12,539
-Indeed, Lord St. Simon, no man could blame you.
+00:17:17,680 --> 00:17:22,200
+The task before us is to unmask the Rue Castle's design
 
-00:31:12,539 --> 00:31:18,610
-The nobleman's eyes softened slightly as he regarded Hattie, who stood pale and trembling beside her husband.
+00:17:22,200 --> 00:17:27,900
+and to set at liberty whoever languishes behind those barred doors.
 
-00:31:18,610 --> 00:31:21,269
-Adam, I forgive you, but I cannot forget.
+00:17:27,900 --> 00:17:32,380
+But Holmes, surely we cannot proceed without more certain evidence
 
-00:31:21,269 --> 00:31:26,859
-No, you will, I trust, withdraw from the circle where your brief presence has caused so much disturbance.
+00:17:32,380 --> 00:17:35,849
+to intrude upon a man's house on suspicion alone.
 
-00:31:26,859 --> 00:31:30,179
-We ask nothing else, my lord.
+00:17:35,849 --> 00:17:40,529
+My dear fellow, justice cannot always wait upon ceremony,
 
-00:31:30,179 --> 00:31:34,630
-Frank and I shall return to America where none can reproach us.
+00:17:40,529 --> 00:17:42,670
+yet we must be cautious.
 
-00:31:34,630 --> 00:31:37,059
-And we shall bless you for your generosity.
+00:17:42,670 --> 00:17:45,940
+Tonight, Miss Hunter, you will observe closely
 
-00:31:37,059 --> 00:31:42,000
-Coldly, I do not seek your blessing, sir, but I wish you no ill.
+00:17:45,940 --> 00:17:52,030
+any further sign of watchers outside the window. Watson and I shall lodge at a nearby inn,
 
-00:31:42,000 --> 00:31:44,809
-The tension of the scene was broken by Holmes,
+00:17:52,030 --> 00:17:57,430
+and to-morrow, with your guidance, we shall take a nearer view of this copper beaches.
 
-00:31:44,809 --> 00:31:49,059
-who rose and stood between the parties with the air of a judge pronouncing sentence.
+00:17:57,430 --> 00:18:04,440
+If our suspicions prove just, then, believe me, the law will find ample cause to enter.
 
-00:31:49,059 --> 00:31:51,500
-Let us consider the matter closed.
+00:18:04,440 --> 00:18:11,480
+Oh, thank heaven I sought your help, cried Miss Hunter, clasping her hands. I feel now that
 
-00:31:51,500 --> 00:31:52,599
+00:18:11,480 --> 00:18:16,010
+Whatever evil lurks at the copper beaches, I shall not face it alone.
+
+00:18:16,010 --> 00:18:17,840
+And so it was arranged.
+
+00:18:17,840 --> 00:18:22,000
+That evening Holmes and I took rooms at a modest inn upon the outskirts of Winchester
+
+00:18:22,000 --> 00:18:25,490
+while Miss Hunter returned to the great shadowed house among the beaches.
+
+00:18:25,490 --> 00:18:28,019
+I recall vividly the sight of her figure,
+
+00:18:28,019 --> 00:18:30,570
+slight yet resolute, as she passed down the lane,
+
+00:18:30,570 --> 00:18:33,990
+the copper-hued branches swaying overhead like watchful sentinels.
+
+00:18:33,990 --> 00:18:36,860
+Holmes sat long that night by the inn's window,
+
+00:18:36,860 --> 00:18:39,599
+his profile etched against the lamplight and creak arm,
+
+00:18:39,599 --> 00:18:42,940
+His gaze fixed upon the dark outline of the distant trees.
+
+00:18:42,940 --> 00:18:46,029
+He spoke little, but once he turned to me and said,
+
+00:18:46,029 --> 00:18:46,359
+Oh!
+
+00:18:46,359 --> 00:18:47,379
 ..
 
-00:31:52,599 --> 00:31:54,579
-The truth is plain.
+00:18:47,379 --> 00:18:51,909
+There is a drama enacting itself behind those walls, Watson.
 
-00:31:54,579 --> 00:32:00,019
-The lady exonerated, and your lordship's honour beyond reproach.
+00:18:51,909 --> 00:18:55,900
+Darker, perhaps, than even Miss Hunter dreams.
 
-00:32:00,019 --> 00:32:05,630
-Society may chatter for a week, but it will soon turn to some newer scandal.
+00:18:55,900 --> 00:18:59,490
+Mark me before this matter is resolved.
 
-00:32:05,630 --> 00:32:09,519
-Meanwhile, all hearts may be at rest.
+00:18:59,490 --> 00:19:06,089
+We shall stand face to face with both cruelty and cunning of the most refined order.
 
-00:32:09,519 --> 00:32:11,180
-Oh, with a bitter smile.
+00:19:06,089 --> 00:19:09,019
+Ah! His words struck a chill into my heart,
 
-00:32:11,180 --> 00:32:12,640
-Elementary, no doubt, Mr. Holmes.
+00:19:09,019 --> 00:19:10,670
+though the April night was mild,
 
-00:32:12,640 --> 00:32:14,040
+00:19:10,670 --> 00:19:13,110
+for I knew too well that when Holmes spoke thus,
+
+00:19:13,110 --> 00:19:14,559
+he did not speak lightly.
+
+00:19:14,559 --> 00:19:16,250
+Somewhere within the copper beaches,
+
+00:19:16,250 --> 00:19:18,679
+a hidden soul cried out for deliverance,
+
+00:19:18,679 --> 00:19:22,170
+and we by strange chance had been summoned to answer.
+
+00:19:22,170 --> 00:19:25,440
+The following morning dawned grey and cool,
+
+00:19:25,440 --> 00:19:28,380
+with a thin mist rising from the fields about Winchester.
+
+00:19:28,380 --> 00:19:31,559
+Holmes, ever the early riser when a case pressed upon his mind,
+
+00:19:31,559 --> 00:19:33,909
+was already at the inn's window when I awoke,
+
+00:19:33,909 --> 00:19:36,859
+his gaze fixed steadily upon the distant line of copper beaches
+
+00:19:36,859 --> 00:19:38,840
+that loomed against the pale sky.
+
+00:19:38,840 --> 00:19:39,949
+Abiel!
+
+00:19:39,949 --> 00:19:44,699
+You have not stepped much, Holmes, I remarked, rising and drawing the curtains wider.
+
+00:19:44,699 --> 00:19:48,450
+Why, nor could I, Watson, he replied calmly.
+
+00:19:48,450 --> 00:19:55,430
+A man does not lie easily abed when there is a human creature imprisoned yonder within those walls.
+
+00:19:55,430 --> 00:19:58,730
+Today we must go nearer, though with discretion.
+
+00:19:58,730 --> 00:20:02,960
+Our object is to obtain knowledge, not yet to act.
+
+00:20:02,960 --> 00:20:07,519
+After breakfast, we set forth along the country road that led toward the Copper Beaches.
+
+00:20:07,519 --> 00:20:12,900
+It was a curious name, but the grove itself justified it amply, for the glade trees grew
+
+00:20:12,900 --> 00:20:17,159
+in solemn ranks about the house, their foliage tinged with a ruddy bronze even in spring.
+
+00:20:17,159 --> 00:20:22,820
+The mansion rose behind them, large, solid, with high gables and long rows of windows,
+
+00:20:22,820 --> 00:20:24,429
+many of which were shuttered.
+
+00:20:24,429 --> 00:20:29,059
+A high stone wall enclosed the grounds, and the great iron gate, at which we presently
+
+00:20:29,059 --> 00:20:32,440
+paused, was flanked by lodges, now falling into disrepair.
+
+00:20:32,440 --> 00:20:37,389
+A gloomy, forbidding place, I muttered, gazing up at the silent façade.
+
+00:20:37,389 --> 00:20:52,019
+yes watson a prison wearing the mask of a country home observe how the shutters of that upper wing are secured from without that is not to exclude the light but to prevent escape
+
+00:20:52,019 --> 00:21:07,139
+as we stood thus the gate creaked and out came miss violet hunter who had contrived to meet us upon the road under pretext of an errand she carried herself with a composure born of necessity but her face was pale and i noted the anxious way in which she glanced back at the house
+
+00:21:07,140 --> 00:21:24,320
+mr holmes dr watson she whispered i cannot remain long for mr walking on on rucastle is most jealous of my movements but i begged leave to fetch some trifling things from the village and so slipped out to meet you i have fresh tidings
+
+00:21:24,320 --> 00:21:35,140
+be quickly then miss hunter said holmes his keen eyes softening with sympathy every detail is of value
+
+00:21:35,140 --> 00:21:51,640
+last night when i sat in the window as ordered i again perceived a figure among the trees this time i am certain it was a man tall and gaunt with features too far to distinguish he raised his hands toward me in subducation but before i could respond mr
+
+00:21:51,640 --> 00:21:56,840
+Rucastle burst into the room laughing loudly and clapping me upon the shoulder.
+
+00:21:56,840 --> 00:22:02,280
+He cried that I made a picture fit to grace any gallery, and insisted I hold my posture
+
+00:22:02,280 --> 00:22:03,920
+until the hour was done.
+
+00:22:03,920 --> 00:22:08,820
+Oh, Mr. Holmes, the whole business fills me with dread.
+
+00:22:08,820 --> 00:22:11,220
+It is monstrous!
+
+00:22:11,220 --> 00:22:12,440
+I exclaimed.
+
+00:22:12,440 --> 00:22:15,759
+You are made a lure for some unhappy watcher outside.
+
+00:22:15,759 --> 00:22:18,380
+Patience, Watson, said Holmes.
+
+00:22:18,380 --> 00:22:20,259
+We are close to the truth.
+
+00:22:20,259 --> 00:22:25,250
+Miss Hunter, you must endure a little longer, though I know the strain is severe.
+
+00:22:25,250 --> 00:22:30,039
+Tonight Watson and I shall conceal ourselves in the grove.
+
+00:22:30,039 --> 00:22:35,199
+If this mysterious watcher appears again, we shall have our answer.
+
+00:22:35,199 --> 00:22:40,039
+I will do as you advise, sir, she said bravely, but there is more.
+
+00:22:40,039 --> 00:22:46,039
+Yesterday, by chance, I saw Mrs. Rucastle in tears, wringing her hands as though in despair.
+
+00:22:46,039 --> 00:22:55,589
+When she perceived me, she fled without a word, and later I heard Mr. Rukasso scolding her in harsh tones, though I could not catch the words.
+
+00:22:55,589 --> 00:23:00,960
+A family drama of coercion and cruelty, Holmes murmured.
+
+00:23:00,960 --> 00:23:02,399
+Amels murmured.
+
+00:23:02,399 --> 00:23:07,399
+Watson, mark my words, this pale woman is no accomplice, but a sufferer herself.
+
+00:23:07,399 --> 00:23:08,839
 ..
 
-00:32:14,040 --> 00:32:15,289
-Precisely, my lord.
+00:23:08,839 --> 00:23:11,880
+We must not judge her harshly.
 
-00:32:15,289 --> 00:32:16,360
-Elementary.
+00:23:11,880 --> 00:23:15,539
+At that moment, the very man of whom we spoke appeared.
 
-00:32:16,360 --> 00:32:19,960
-With a bow that was half courteous, half disdainful,
+00:23:15,539 --> 00:23:20,849
+Mr. Rinkra, Mr. Loeb, if Rukhasa himself came striding down the drive toward the gate, go.
 
-00:32:19,960 --> 00:32:22,170
-Lord St. Simon rose and took his leave.
+00:23:20,849 --> 00:23:26,369
+He was a stout man, flouted of countenance, with a jovial air that sat uneasily upon him,
 
-00:32:22,170 --> 00:32:24,780
-We heard his cab rattle away into the London streets.
+00:23:26,369 --> 00:23:29,759
+as though he wore it like a mask ill-fitted to the features beneath.
 
-00:32:24,780 --> 00:32:27,320
-For some moments, silence waned in our little room.
+00:23:29,759 --> 00:23:33,789
+Ah, Miss Hunter, he cried, his voice hearty. Off to the village, are you?
 
-00:32:27,320 --> 00:32:29,450
-Then Hattie sank weeping upon the sofa,
+00:23:33,789 --> 00:23:37,990
+And friends, to bid you farewell on your walk. Well, well, introductions then, Mr.
 
-00:32:29,450 --> 00:32:31,059
-her husband's arm about her,
+00:23:37,990 --> 00:23:44,159
+Holmes, my companion said, smoothly bowing. Sherlock Holmes, at your service.
 
-00:32:31,059 --> 00:32:32,960
-while Holmes busied himself with his pipe,
+00:23:44,160 --> 00:23:47,240
+and my friend, Dr. Watson.
 
-00:32:32,960 --> 00:32:36,740
-as though the drama he had engineered were no more than a passing trifle.
-
-00:32:36,740 --> 00:32:40,329
-Holmes, you bear yourself as though nothing remarkable had occurred,
-
-00:32:40,329 --> 00:32:44,720
-yet we have just witnessed one of the most extraordinary scenes in our experience.
-
-00:32:44,720 --> 00:32:50,370
-My dear Watson, extraordinary only to the uninitiated.
-
-00:32:50,370 --> 00:32:55,079
-To me, it was the inevitable resolution of given premises.
-
-00:32:55,079 --> 00:32:56,100
+00:23:47,240 --> 00:23:48,460
 ..
 
-00:32:56,100 --> 00:32:59,319
-Still, you must allow me to marvel at the neatness with which it has ended.
+00:23:48,460 --> 00:23:50,920
+We are in the district for a few days
 
-00:32:59,319 --> 00:33:03,579
-Meatness is the very essence of deduction.
+00:23:50,920 --> 00:23:54,120
+and had the good fortune to encounter Miss Hunter,
 
-00:33:03,579 --> 00:33:10,139
-When the reasoning is correct, the conclusion follows as surey as day from dawn.
+00:23:54,120 --> 00:23:55,900
+whom we knew in London.
 
-00:33:10,139 --> 00:33:14,619
-Hoy, turn then to our guests, whose emotion had somewhat abated.
-
-00:33:14,619 --> 00:33:20,720
-Mr. and Mrs. Moulton, you may rest assured that no further impediment lies before you.
-
-00:33:20,720 --> 00:33:29,289
-I advise you to depart quietly for America as you propose and to resume the life unjustly interrupted.
-
-00:33:29,289 --> 00:33:32,190
-Mr. Holmes, how can we thank you?
-
-00:33:32,190 --> 00:33:36,659
-By forgetting me, madam, and remembering only each other
-
-00:33:36,659 --> 00:33:41,519
-Yet we shall never forget that you saved my wife from dishonour
-
-00:33:41,519 --> 00:33:44,259
-I saved her only from misconception
-
-00:33:44,259 --> 00:33:48,599
-The truth was her own, and truth is the strongest advocate
-
-00:33:48,599 --> 00:33:53,460
-With words of gratitude, they departed, leaving us once more alone
-
-00:33:53,460 --> 00:33:58,839
-I sat back, drawing a deep breath, still half incredulous of the swift unfolding of events
-
-00:33:58,839 --> 00:34:03,619
-Holmes, you have unraveled this tangled skein with astonishing swiftness
-
-00:34:03,619 --> 00:34:04,919
-Yet I cannot but wonder
-
-00:34:04,919 --> 00:34:09,380
-At what moment did you first divine the existence of a prior marriage?
-
-00:34:09,380 --> 00:34:12,639
-At the church door, Watson, figuratively speaking
-
-00:34:12,639 --> 00:34:18,039
-A bride receives a note and becomes agitated to the point of pallor
-
-00:34:18,039 --> 00:34:22,019
-What message could so move her at such a moment?
-
-00:34:22,019 --> 00:34:27,759
-Only one, that the man she truly loved and believed lost still lived
-
-00:34:27,760 --> 00:34:31,520
-From that instant, the path was straight.
-
-00:34:31,520 --> 00:34:35,890
-Yet you spoke of possibilities, of abduction, of other causes.
-
-00:34:35,890 --> 00:34:43,310
-My dear fellow, one must allow for alternative explanations until the decisive fact is verified.
-
-00:34:43,310 --> 00:34:45,620
-But inwardly I was convinced.
-
-00:34:45,620 --> 00:34:49,280
-He smiled at my expression, half amused, half reproachful.
-
-00:34:49,280 --> 00:34:55,880
-Come, Watson, you must cultivate the faculty of imagination, disciplined imagination.
-
-00:34:55,880 --> 00:35:00,800
-Facts are seeds. Imagination is the soil.
-
-00:35:00,800 --> 00:35:07,050
-Deduction is the harvest. Without imagination, facts remain barren.
-
-00:35:07,050 --> 00:35:12,440
-I see, Holmes. Yet I confess, the soil of my imagination is but poor compared with yours.
-
-00:35:12,440 --> 00:35:13,579
+00:23:55,900 --> 00:23:57,019
 ..
 
-00:35:13,579 --> 00:35:17,760
-Dryly. It is a matter of cultivation, not fertility.
+00:23:57,019 --> 00:23:59,980
+Indeed, delighted gentleman, delighted Boondry Castle,
 
-00:35:17,760 --> 00:35:22,240
-For some time, we sat in companionable silence, the fire crackling,
+00:23:59,980 --> 00:24:01,559
+his ruddy face creasing into a grin.
 
-00:35:22,239 --> 00:35:29,019
-Cousin, the fall pressing against the window panes, at length, home stirred and drew a fresh sheaf of newspapers toward him.
+00:24:01,559 --> 00:24:03,099
+London at acquaintances, eh?
 
-00:35:29,019 --> 00:35:52,239
-........................
+00:24:03,099 --> 00:24:07,320
+Well, Miss Hunter is brewing herself a pearl among governesses, I assure you.
 
-00:35:52,239 --> 00:35:55,679
-And you, Holmes, what remains for you?
+00:24:07,320 --> 00:24:10,010
+Come, come, you must join us for refreshment.
 
-00:35:55,679 --> 00:36:01,639
-For me, nothing, save the satisfaction of having read the problem aright.
+00:24:10,010 --> 00:24:12,980
+Copper Beaches is no hermitage, though we are a quiet household.
 
-00:36:01,639 --> 00:36:06,609
-And for me, the satisfaction of having witnessed again the triumph of your method.
+00:24:12,980 --> 00:24:14,120
+Pray, walk in.
 
-00:36:06,609 --> 00:36:11,599
-He looked at me with a gleam of amusement, then leaned back, smoke curling upward from his pipe.
+00:24:14,120 --> 00:24:20,400
+He flung the gate wide with a flourish and ushered us up the drive with an insistence that brooked an
 
-00:36:11,599 --> 00:36:18,500
-You are a good chronicler, Watson, though you persist in regarding my small achievements as prodigies.
+00:24:20,400 --> 00:24:22,460
+or refusal.
 
-00:36:18,500 --> 00:36:24,260
-Nope. Remember, the world is full of wonders if only one has the eyes to see them.
+00:24:22,460 --> 00:24:25,500
+Holmes, to my surprise, acquiesced readily,
 
-00:36:24,260 --> 00:36:48,500
-.........................
+00:24:25,500 --> 00:24:30,900
+though I saw in the quick gleam of his eye that he welcomed the chance to inspect the house at close quarters.
 
-00:36:48,500 --> 00:36:53,199
-Baker Street regained its accustomed quiet, my mind continued to dwell upon the singular scenes
+00:24:30,900 --> 00:24:34,880
+The entrance hall was lofty and sombre, lined with dark panelling,
 
-00:36:53,199 --> 00:36:57,559
-we had lately witnessed. It was one thing to perceive the logical solution of a puzzle.
+00:24:34,880 --> 00:24:39,160
+and hung here and there with portraits whose subjects scowled doomily from their frames.
 
-00:36:57,559 --> 00:37:03,000
-It was another to observe the human hearts which beat so anxiously within that puzzle's fring.
+00:24:39,160 --> 00:24:41,230
+Lucasa led us into a great drawing room,
 
-00:37:03,000 --> 00:37:07,899
-In the days that followed, I noted with interest the manner in which the affair of Lord St. Seep,
+00:24:41,230 --> 00:24:44,070
+furnished richly but with a heaviness that oppressed the spirits,
 
-00:37:07,899 --> 00:37:12,659
-Simon and the Vanished Bride was received by society. As Holmes predicted, the gossip of
+00:24:44,070 --> 00:24:45,970
+Hmm, Mrs. Hmm.
 
-00:37:12,659 --> 00:37:17,760
-London fastened upon it with greedy tongues. At the clubs, men chuckled behind their hands.
+00:24:45,970 --> 00:24:51,360
+Vukasil was there, a pale, delicate woman with downcast eyes who rose nervously at our approach.
 
-00:37:17,760 --> 00:37:20,260
-At afternoon teas, ladies whispered,
+00:24:51,360 --> 00:24:55,820
+She greeted us with courtesy, but her manner was so timid that I pitied her at once.
 
-00:37:20,260 --> 00:37:24,100
-the newspapers, from the morning post to the most sensational evening sheet,
+00:24:55,820 --> 00:25:00,150
+My dear, these are friends of Miss Hunter's, Vukasil announced, rubbing his hands together.
 
-00:37:24,100 --> 00:37:25,990
-printed columns of speculation.
+00:25:00,150 --> 00:25:02,890
+Mr. Holmes and Dr. Watson from London.
 
-00:37:25,990 --> 00:37:30,470
-To word there, a Lord St. Simon, however, bore himself an outward carp.
+00:25:02,890 --> 00:25:05,800
+They will take a glass of wine with us before continuing their ramble.
 
-00:37:30,470 --> 00:37:34,850
-A brief statement was issued in his name, couched in terms of dignified restraint.
+00:25:05,800 --> 00:25:10,920
+You are welcome, gentlemen, she murmured, barely lifting her eyes.
 
-00:37:34,850 --> 00:37:38,660
-Circumstances of a private nature have necessitated the withdrawal of Lady St.
+00:25:10,920 --> 00:25:17,950
+You have a charming home, madam, Holmes observed politely,
 
-00:37:38,660 --> 00:37:40,460
-A simone from public life.
+00:25:17,950 --> 00:25:26,000
+his gaze meanwhile sweeping the room with that rapid, comprehensive glance of his which missed no detail.
 
-00:37:40,460 --> 00:37:41,880
-No further comment will be made.
+00:25:26,000 --> 00:25:30,639
+I saw his eyes linger upon the long French window which gale upon the front lawn,
 
-00:37:41,880 --> 00:37:44,690
-Thus he shielded his wounded pride with the armour of silence.
+00:25:30,639 --> 00:25:33,829
+the very spot where Miss Hunter had been compelled to sit.
 
-00:37:44,690 --> 00:37:46,780
-For this, I confess, I felt admiration.
+00:25:33,829 --> 00:25:38,779
+The curtain was drawn back now, and one could see across the drive to the distant fringe of trees.
 
-00:37:46,780 --> 00:37:51,610
-There was something almost noble in the restraint with which he accepted his humiliation.
+00:25:38,779 --> 00:25:44,819
+Yes, yes, a fine old place, cried Rukasal. Copperbeaches has been in my family for generations.
 
-00:37:51,610 --> 00:37:54,780
-Of Mr. and Mrs. Morden, I heard soon after.
+00:25:44,819 --> 00:25:50,630
+Solid as the oak that girded hay. And Miss Hunter, well, she has brought new life to our nursery, has she not, my dear?
 
-00:37:54,780 --> 00:37:59,210
-They had sailed quietly for America, leaving behind them the clamor of tongues.
+00:25:50,630 --> 00:25:53,299
+Yes, she whispered faintly.
 
-00:37:59,210 --> 00:38:02,650
-Before their departure, however, a letter was brought to Baker Street,
+00:25:53,299 --> 00:25:57,829
+I thought Holmes' face grew sterner as he watched the poor lady's trembling hands.
 
-00:38:02,650 --> 00:38:06,530
-which Holmes tossed across to me one evening as we sat by the fire.
+00:25:57,829 --> 00:26:03,399
+But he said nothing, sipping his wine in silence while Rukasal discoursed boisterously upon country matters.
 
-00:38:06,530 --> 00:38:09,470
-Letter? Read by Watson?
+00:26:03,399 --> 00:26:08,490
+Good. At length, our host excused himself to attend to some business, and we rose to depart.
 
-00:38:09,470 --> 00:38:13,360
-Dear Mr. Holmes, words cannot tell the gratitude we feel.
+00:26:08,490 --> 00:26:12,389
+What's them? Holmes whispered as we passed into the hall.
 
-00:38:13,360 --> 00:38:19,140
-You saved me from dishonour in the eyes of the world and gave me back my husband.
+00:26:12,389 --> 00:26:18,429
+Note the heavy boats upon that side door and the splashes upon the threshold.
 
-00:38:19,140 --> 00:38:22,670
-Be assured that, far from the scenes of my brief misery,
+00:26:18,429 --> 00:26:22,389
+Something is kept or confined there.
 
-00:38:22,670 --> 00:38:26,860
-I shall never forget the friend who stood between me and shame.
+00:26:22,389 --> 00:26:24,509
+I nodded, my heart quickening.
 
-00:38:26,860 --> 00:38:33,599
-.......
+00:26:24,509 --> 00:26:29,460
+Even in that brief passage, the whole house had seemed to exude secrecy and restraint.
 
-00:38:33,599 --> 00:38:37,099
-With deepest thanks, Harry Moten.
+00:26:29,460 --> 00:26:31,839
+...
 
-00:38:37,099 --> 00:38:38,760
+00:26:31,839 --> 00:26:36,160
+Take care, gentlemen, Miss Hunter whispered as she escorted us to the gate.
+
+00:26:36,160 --> 00:26:39,300
+Rue Castle grows suspicious easily
+
+00:26:39,300 --> 00:26:42,480
+Tonight, tonight you will be in the grove
+
+00:26:42,480 --> 00:26:48,080
+Without fail, said Holmes firmly
+
+00:26:48,080 --> 00:26:49,440
+Courage, Miss Hunter
+
+00:26:49,440 --> 00:26:51,600
+The end is nearer than you think
+
+00:26:51,600 --> 00:26:53,600
+Thus we took our leave
+
+00:26:53,600 --> 00:26:55,660
+And the heavy gate clanged behind us
+
+00:26:55,660 --> 00:26:57,460
+With a note that sounded to my ears
+
+00:26:57,460 --> 00:26:59,160
+Like the closing of a prison door
+
+00:26:59,160 --> 00:27:00,700
+As we walked back toward the inn
+
+00:27:00,700 --> 00:27:02,160
+Holmes was silent for a while
+
+00:27:02,160 --> 00:27:03,440
+His brows drawn in thought
+
+00:27:03,440 --> 00:27:04,940
+At last he spoke
+
+00:27:04,940 --> 00:27:11,880
+The mask slips, Watson, but a little more and the whole visage will be revealed.
+
+00:27:11,880 --> 00:27:18,090
+We have seen enough to know that treachery is here and cruelty besides.
+
+00:27:18,090 --> 00:27:21,279
+Tonight shall decide the matter.
+
+00:27:21,279 --> 00:27:24,700
+If fortune favours us before another day dawns,
+
+00:27:24,700 --> 00:27:28,960
+the secret of the copper beaches will stand bare to the light of justice.
+
+00:27:28,960 --> 00:27:31,440
+...
+
+00:27:31,440 --> 00:27:33,480
+His words sent a shiver through me.
+
+00:27:33,480 --> 00:27:37,030
+Though the sun had now broken forth and gilded the fields with light,
+
+00:27:37,030 --> 00:27:39,860
+the quiet countryside seemed a strange setting for dark intrigue.
+
+00:27:39,860 --> 00:27:42,300
+Yet I knew too well, from past adventures,
+
+00:27:42,300 --> 00:27:47,230
+that crime and passion lurked as often beneath peaceful roofs as in the heart of the great city.
+
+00:27:47,230 --> 00:27:49,150
+And so we returned to our inn,
+
+00:27:49,150 --> 00:27:53,220
+our hearts resolved for the vigil that awaited us beneath the copper-hued trees.
+
+00:27:53,220 --> 00:27:57,199
+That night was one I shall not easily forget, a plinge being said.
+
+00:27:57,199 --> 00:27:58,960
+The April air was cool but still,
+
+00:27:58,960 --> 00:28:01,360
+and a pale moon hung over the Hampshire fields,
+
+00:28:01,360 --> 00:28:03,710
+casting long shadows of the trees across the lane.
+
+00:28:03,710 --> 00:28:05,539
+Holmes and I had supped early at the inn
+
+00:28:05,539 --> 00:28:07,240
+and as the hour of nine approached,
+
+00:28:07,240 --> 00:28:09,039
+we set out toward the copper beaches,
+
+00:28:09,039 --> 00:28:11,340
+our footsteps muffled on the soft road.
+
+00:28:11,340 --> 00:28:13,140
+Holmes carried his stout ash stick
+
+00:28:13,140 --> 00:28:16,039
+while I had armed myself with my old service revolver
+
+00:28:16,039 --> 00:28:17,550
+at his suggestion.
+
+00:28:17,550 --> 00:28:19,539
+We go as watchers,
+
+00:28:19,539 --> 00:28:21,900
+not as aggressors, Watson,
+
+00:28:21,900 --> 00:28:24,529
+Holmes said as we strode along.
+
+00:28:24,529 --> 00:28:26,680
+But it is well to be prepared
+
+00:28:26,680 --> 00:28:31,019
+for a cornered villain may strike like a rat in a trap.
+
+00:28:31,019 --> 00:28:32,600
 ..
 
-00:38:38,760 --> 00:38:41,079
-I laid the letter down, deeply moved.
+00:28:32,600 --> 00:28:34,840
+We leached the grove of copper beeches
 
-00:38:41,079 --> 00:38:43,860
-Holmes, this must bring you satisfaction
+00:28:34,840 --> 00:28:38,619
+whose great branches stretched overhead like the arches of a cathedral.
 
-00:38:43,860 --> 00:38:46,920
-Satisfaction of a kind, Watson
+00:28:38,619 --> 00:28:39,920
+Concealed among their trunks,
 
-00:38:46,920 --> 00:38:49,619
-Though not the sort most men crave
+00:28:39,920 --> 00:28:42,610
+we had a clear view of the front windows of the house.
 
-00:38:49,619 --> 00:38:52,630
-And what sort do you crave?
+00:28:42,610 --> 00:28:44,259
+Already the lamps were lit within
 
-00:38:52,630 --> 00:38:56,480
-The satisfaction of intellectual clarity
+00:28:44,259 --> 00:28:47,650
+and in the great drawing room window we saw a figure seated,
 
-00:38:56,480 --> 00:39:01,340
-Observe, this case presented itself as a confusion of appearances
+00:28:47,650 --> 00:28:50,260
+Miss Violet Hunter, clad in the blue dress,
 
-00:39:01,340 --> 00:39:06,079
-A nobleman deserted, a bride vanished, rumours of abduction
+00:28:50,260 --> 00:28:52,539
+her cropped hair gleaming in the lamplight.
 
-00:39:06,079 --> 00:39:10,159
-Yet beneath lay the simplest of human dramas
+00:28:52,539 --> 00:28:56,289
+To a girl, I muttered, she sits like a prisoner on display.
 
-00:39:10,159 --> 00:39:17,170
-A woman bound by vows, thought broken, returning to the man she truly loved.
+00:28:56,289 --> 00:29:16,759
+yes watson and yet mark well she is not herself but another observe the silhouette the posture clearly contrived to resemble some absent figure the deception is meant for eyes such as ours or rather for that solitary watcher we expect
 
-00:39:17,170 --> 00:39:22,840
-Strip away the ornament, and the skeleton of the fact stands revealed.
+00:29:16,759 --> 00:29:21,420
+Even as he spoke, a movement stirred at the far edge of the lawn. Among the shadows of the trees,
 
-00:39:22,840 --> 00:39:27,920
-That is the satisfaction, to see clearly where others grope.
+00:29:21,420 --> 00:29:26,860
+a tall form emerged, a man, gaunt and haggard, who gazed with desperate intensity toward the window.
 
-00:39:27,920 --> 00:39:29,679
+00:29:26,860 --> 00:29:31,489
+He stretched out his hands as if in entreaty. My heart leapt, for the truth flashed upon me.
+
+00:29:31,489 --> 00:29:34,480
+Here was the one whom Miss Hunter had been made to represent.
+
+00:29:34,480 --> 00:29:40,970
+Holmes, there is our answer, I whispered. Hush, Watson. Let us observe a moment longer.
+
+00:29:40,970 --> 00:29:45,559
+The man took a step forward, then halted suddenly as the front door of the house opened.
+
+00:29:45,559 --> 00:29:47,500
+covered Khatil lantern in hand.
+
+00:29:47,500 --> 00:29:49,699
+His broad form outlined against the light.
+
+00:29:49,699 --> 00:29:53,380
+He strode across the lawn with surprising agility for one of his bulk,
+
+00:29:53,380 --> 00:29:55,389
+his eyes darting to left and right.
+
+00:29:55,389 --> 00:29:58,619
+At the same instant, a figure among the trees melted back into the shadows
+
+00:29:58,619 --> 00:30:00,230
+and was lost to sight.
+
+00:30:00,230 --> 00:30:03,989
+Who's there? he bellowed, his voice echoing harshly in the still night.
+
+00:30:03,989 --> 00:30:05,469
+Come out, you rogue!
+
+00:30:05,469 --> 00:30:07,649
+Show yourself or I'll set the dog on you.
+
+00:30:07,649 --> 00:30:11,309
+To say, he raised the lantern high, but no answer came.
+
+00:30:11,309 --> 00:30:14,069
+With an oath, he turned and strode back toward the house,
+
+00:30:14,069 --> 00:30:15,429
+slamming the door behind him.
+
+00:30:15,429 --> 00:30:20,720
+The man outside is the key, I whispered. But who is he, and why is he denied entrance?
+
+00:30:20,720 --> 00:30:26,690
+We shall know soon enough. Tonight we must go further, Watson. Come.
+
+00:30:26,690 --> 00:30:31,940
+To my astonishment, Holmes crept from our hiding place and stole across the lawn with the noiseless
+
+00:30:31,940 --> 00:30:36,840
+tread of a cat. Followed, my heart pounding, and together we reached the shadow of the house.
+
+00:30:36,840 --> 00:30:41,399
+Holmes moved unerringly toward a side door, upon which I had earlier observed heavy balls.
+
+00:30:41,400 --> 00:30:46,140
+He bent low, examining the threshold with his lantern shielded by his hand.
+
+00:30:46,140 --> 00:30:52,269
+As I thought, he murmured, see these scratches, Watson, made by claws.
+
+00:30:52,269 --> 00:30:57,430
+A dog has been chained here, one of size and ferocity I should judge.
+
+00:30:57,430 --> 00:30:59,810
+We must proceed with caution.
+
+00:30:59,810 --> 00:31:02,349
+Bree skirted the building, hugging the wall,
+
+00:31:02,349 --> 00:31:05,410
+until we came to a small window partly concealed by ivy.
+
+00:31:05,410 --> 00:31:08,340
+Holmes pressed his face close, then motioned me to look.
+
+00:31:08,339 --> 00:31:13,720
+Within was a narrow passage, and at the end of it, a stout door, its panels reinforced with iron.
+
+00:31:13,720 --> 00:31:14,819
 ..
 
-00:39:29,679 --> 00:39:34,960
-Yet surely, Holmes, you cannot be insensible to the human element, the anguish of the lady,
+00:31:14,819 --> 00:31:20,009
+The prison chamber, he whispered, and mark the light beneath the door. Someone is within.
 
-00:39:34,960 --> 00:39:36,899
-the wounded pride of Lord Saint Simon.
+00:31:20,009 --> 00:31:22,599
+Then we must force it, I breathed.
 
-00:39:36,899 --> 00:39:38,799
-O Gamban Bind Simon!
+00:31:22,599 --> 00:31:24,019
+Hey, music me.
 
-00:39:38,800 --> 00:39:43,060
-After a pause, I am not made of marble, Watson
+00:31:24,019 --> 00:31:27,809
+Not yet. Let us first try the simple means.
 
-00:39:43,060 --> 00:39:47,880
-Yet the detective must school himself to regard emotion as data
+00:31:27,809 --> 00:31:34,079
+He produced from his pocket a small set of keys, those slender implements of steel which he had shown, he goised in.
 
-00:39:47,880 --> 00:39:49,700
-Not as distraction
+00:31:34,079 --> 00:31:35,960
+We more than once in our adventures
 
-00:39:49,700 --> 00:39:54,500
-A tear-stained face is but a sign, like a footprint in the clay
+00:31:35,960 --> 00:31:37,019
+Keep alas!
 
-00:39:54,500 --> 00:39:59,320
-And yet, my dear fellow, sometimes the heart reads more swiftly than the head
+00:31:37,019 --> 00:31:39,179
+With deft fingers he tried one after another
 
-00:39:59,320 --> 00:40:03,420
-Which is why, Watson, I keep you by my side
+00:31:39,179 --> 00:31:41,699
+Until with a faint lick the window yielded
 
-00:40:03,420 --> 00:40:09,360
-He smiled, a rare, kindly smile which lit for a moment the austere lines of his face
+00:31:41,699 --> 00:31:43,720
+In another moment we were inside the passage
 
-00:40:09,360 --> 00:40:12,400
-I felt a sudden warmth of pride in my companionship
+00:31:43,720 --> 00:31:45,579
+The musty air glows about us
 
-00:40:12,400 --> 00:40:14,860
-Humble though my share in his achievements might be
+00:31:45,579 --> 00:31:47,159
+We crept to the iron-bound door
 
-00:40:14,860 --> 00:40:20,300
-Several days later, as we sat at breakfast, another notice in the papers caught my eye
+00:31:47,159 --> 00:31:49,179
+And Holmes placed his ear against it
 
-00:40:20,300 --> 00:40:24,240
-It was an announcement that Lord St. Simon had retired from London for the season
+00:31:49,179 --> 00:31:52,449
+Listen, Watson, do you hear?
 
-00:40:24,240 --> 00:40:26,119
-Seeking seclusion in the Highlands
+00:31:52,449 --> 00:31:54,039
+I held my breath
 
-00:40:26,119 --> 00:40:27,579
-Holmes observed my glance
+00:31:54,039 --> 00:31:57,079
+And indeed I caught a faint sound like the sobbing of a woman
 
-00:40:27,579 --> 00:40:32,240
-A wise retreat, London is merciless in its gossip
+00:31:57,079 --> 00:31:58,099
+Stifled and low
 
-00:40:32,239 --> 00:40:35,759
-In a month his name would scarcely be mentioned.
+00:31:58,099 --> 00:31:59,339
+My blood ran cold
 
-00:40:35,759 --> 00:40:37,479
-And what of his future homes?
+00:31:59,339 --> 00:32:02,159
+We cannot delay, Holmes said firmly
 
-00:40:37,479 --> 00:40:38,909
-Shall he marry again?
+00:32:02,160 --> 00:32:04,340
+Stand ready, revolver in hand
 
-00:40:38,909 --> 00:40:40,099
-Dryly.
+00:32:04,340 --> 00:32:06,300
+He tried the handle
 
-00:40:40,099 --> 00:40:42,379
-Society has a short memory
+00:32:06,300 --> 00:32:07,360
+It was locked
 
-00:40:42,379 --> 00:40:45,840
-and an ancient title is a powerful magnet.
+00:32:07,360 --> 00:32:09,480
+Then, without further ceremony
 
-00:40:45,840 --> 00:40:47,689
-He will wed again, no doubt,
+00:32:09,480 --> 00:32:11,019
+He set his shoulder to the panel
 
-00:40:47,689 --> 00:40:50,479
-though perhaps he will regard American heiresses
+00:32:11,019 --> 00:32:13,060
+And pressed with all his wily strength
 
-00:40:50,479 --> 00:40:52,819
-with a trifle more caution.
+00:32:13,060 --> 00:32:14,519
+The wood cleat but held
 
-00:40:52,819 --> 00:40:55,559
-We both laughed quietly at this,
+00:32:14,519 --> 00:32:16,240
+Again he flung himself upon it
 
-00:40:55,559 --> 00:40:57,959
-though my mirth was tempered by sympathy for the man
+00:32:16,240 --> 00:32:18,340
+And this time the lock burst with a snap
 
-00:40:57,959 --> 00:40:59,559
-who had lost more than he had gained.
+00:32:18,340 --> 00:32:19,680
+The door swung inward
 
-00:40:59,559 --> 00:41:07,500
-The case, however, lingered in my thoughts, not for its social scandal, but for the lessons it bore in the method of my friend.
+00:32:19,680 --> 00:32:21,300
+And we rushed into the chamber
 
-00:41:07,500 --> 00:41:16,809
-I resolved, therefore, to question him more closely, for I felt that each problem we encountered was an opportunity for my own instruction in the art of reasoning.
+00:32:21,300 --> 00:32:23,519
+It was a small, bare room
 
-00:41:16,809 --> 00:41:23,970
-Holmes, you spoke of the matter as elementary, yet I, who followed every step with anxious eyes, found it anything but simple.
+00:32:23,519 --> 00:32:24,980
+Lit by a single lamp
 
-00:41:23,970 --> 00:41:26,779
-Will you not explain to me more fully the course of your deductions?
+00:32:24,980 --> 00:32:26,920
+On a bed in the corner sat a young woman
 
-00:41:26,780 --> 00:41:34,780
-With pleasure, my dear Watson. Consider first the fact of the note at the church. To the superficial
+00:32:26,920 --> 00:32:28,160
+Her face hidden in her hands
 
-00:41:34,780 --> 00:41:42,300
-mind it is an isolated curiosity. To the analytic mind it is the hinge upon which the whole gaze
+00:32:28,160 --> 00:32:31,000
+Her hair of chestnut hue cut short as though by force
 
-00:41:42,300 --> 00:41:50,060
-turns. The bride, already pledged, receives a message. Instantly her demeanor changes. What
+00:32:31,000 --> 00:32:34,599
+She looked up with a cry as we entered, and I started in astonishment,
 
-00:41:50,059 --> 00:41:57,680
-message could effect such transformation, one which altered her whole conception of a duty.
+00:32:34,599 --> 00:32:37,759
+for she was the very image of Miss Violet Hunter.
 
-00:41:57,680 --> 00:42:04,519
-That could be nothing less than the announcement of a husband alive, alive. But might it not have
+00:32:37,759 --> 00:32:43,819
+Who are you? Oh, for pity's sake, do not harm me, she cried.
 
-00:42:04,519 --> 00:42:11,699
-been some warning, some threat? Possible, but not probable. A threat would produce fear,
+00:32:43,819 --> 00:32:44,900
+..
 
-00:42:11,699 --> 00:42:14,619
-Perhaps an appeal for protection
+00:32:44,900 --> 00:32:47,829
+Fear nothing, madam, said Holmes gently.
 
-00:42:14,619 --> 00:42:21,519
-Instead we observe determination, concealment and later voluntary flight
+00:32:47,829 --> 00:32:51,819
+We are friends. Tell me, are you Miss Alice Screwcastle?
 
-00:42:21,519 --> 00:42:24,099
-The inference is irresistible
+00:32:51,819 --> 00:32:53,019
+..
 
-00:42:24,099 --> 00:42:27,130
-Then the sighting in Hyde Park?
+00:32:53,019 --> 00:32:56,180
+Yes, yes, I am, she sobbed.
 
-00:42:27,130 --> 00:42:28,399
-Confirmation
+00:32:56,180 --> 00:33:00,730
+But my father, he will kill me if he finds you here.
 
-00:42:28,399 --> 00:42:32,219
-She was seen walking calmly, arm in arm, with a gentleman
+00:33:00,730 --> 00:33:06,000
+Good ease! Before Holmes could reply, there came a furious shout from the passage, and
 
-00:42:32,219 --> 00:42:34,899
-No abduction there, but reunion
+00:33:06,000 --> 00:33:10,599
+the thud of heavy feet, door was flung wide, and Geoffrey Rucastle burst in, his face purple
 
-00:42:34,899 --> 00:42:37,229
-And the maid's testimony?
+00:33:10,599 --> 00:33:11,599
+with rage.
 
-00:42:37,229 --> 00:42:39,179
-Merely the final link
+00:33:11,599 --> 00:33:17,700
+You scoundrels! he roared. Thieves! Intruders in my house! By heaven, I'll make you pay!
 
-00:42:39,179 --> 00:42:43,920
-In truth, I had already reconstructed the story before she spoke a word.
+00:33:17,700 --> 00:33:22,000
+He raised a heavy stick, but Holmes stepped calmly between him and the cowering girl.
 
-00:42:43,920 --> 00:42:46,050
-Holmes, your confidence amazes me.
+00:33:22,000 --> 00:33:29,539
+Enough, Rucastle, he said coldly. Your villainy is exposed. We know that you kept your daughter
 
-00:42:46,050 --> 00:42:49,210
-I should have hesitated until every piece was in place.
+00:33:29,539 --> 00:33:36,450
+a prisoner here, while forcing another to impersonate her. The law shall deal with you.
 
-00:42:49,210 --> 00:42:52,880
-That is the distinction between us, my dear fellow.
+00:33:36,450 --> 00:33:41,569
+Lies, malicious lies, he bellowed. She is mad, I tell you, mad as a march hare.
 
-00:42:52,880 --> 00:42:57,089
-You require the complete puzzle before you perceive the picture.
+00:33:41,569 --> 00:33:43,659
+I keep her here for her own safety.
 
-00:42:57,089 --> 00:43:01,969
-I, by contrast, need but a corner and a hue.
+00:33:43,659 --> 00:33:52,119
+Mad? And yet so precisely does she resemble your governess that you must clip her hair
 
-00:43:01,969 --> 00:43:05,179
-Yet surely that is genius, not method.
+00:33:52,119 --> 00:33:58,980
+and compel another to play her part at the window? No, sir, the only madness here is your
 
-00:43:05,179 --> 00:43:10,329
-genius, perhaps, is but method carried to its highest oint.
+00:33:58,980 --> 00:34:05,900
+own cruelty. Stand aside, or by heaven you shall find the odds against you. At that instant there
 
-00:43:10,329 --> 00:43:15,000
-Because Hurd's words, uttered with quiet conviction, sank deep into my mind,
+00:34:05,900 --> 00:34:11,900
+came a deep growl from without, and through the broken door burst a huge hound, its eyes gleaming,
 
-00:43:15,000 --> 00:43:20,809
-I felt again the gulf between my own laborious reasoning and his swift, intuitive leaps.
+00:34:11,900 --> 00:34:17,559
+its fangs bared. It hurled itself at Holmes, but with a spring he avoided the rush. I fired my
 
-00:43:20,809 --> 00:43:23,920
-Yet if I could not equal him, I might at least record him,
+00:34:17,559 --> 00:34:22,650
+revolver, the report echoing through the house, and the beast fell with a snarl at our feet.
 
-00:43:23,920 --> 00:43:27,949
-and in so doing render some tribute to the singular powers of my friend.
+00:34:22,650 --> 00:34:28,760
+My dog! My beautiful Carlo! cried Rucastle in frenzy, dropping his stick and kneeling
 
-00:43:27,949 --> 00:43:31,119
-As the case of the noble bachelor was brought to an end,
+00:34:28,760 --> 00:34:35,130
+beside the animal. You've murdered him. Better the dog than the daughter, said Holmes sternly.
 
-00:43:31,119 --> 00:43:34,779
-yet before I close my chronicle, I would share one final scene,
+00:34:35,130 --> 00:34:41,880
+Watson, see to the young lady. Miss Rucastle, you are free now. No man shall lay hands upon you
 
-00:43:34,780 --> 00:43:38,300
-which lingers in my memory with peculiar vividness.
+00:34:41,880 --> 00:34:47,820
+again. Hiss out, the girl clung to me, trembling, while Rucastle raged and cursed over the fallen
 
-00:43:38,300 --> 00:43:40,910
-It was a week later, a grey afternoon,
+00:34:47,820 --> 00:34:52,860
+brute. At that moment, the pale figure of Mrs. Rucastle appeared, drawn by the noise. She gave
 
-00:43:40,910 --> 00:43:43,270
-the fog drifting once more past our windows,
+00:34:52,860 --> 00:34:57,300
+one look at the scene and flung herself upon her knees beside the young woman, clasping her in her
 
-00:43:43,270 --> 00:43:44,910
-Holmes sat at his chemical table,
+00:34:57,300 --> 00:35:04,120
+arms. Alice, my poor child, she sobbed. Forgive me, I was powerless to aid you.
 
-00:43:44,910 --> 00:43:46,140
-bending over some experiment
+00:35:04,120 --> 00:35:05,519
+..
 
-00:43:46,140 --> 00:43:48,480
-while I produced a volume of medical essays.
+00:35:05,519 --> 00:35:09,880
+Mother, the girl cried, and the two wept in each other's arms.
 
-00:43:48,480 --> 00:43:52,180
-Suddenly he looked up, his eyes bright with inward fire.
+00:35:09,880 --> 00:35:12,060
+...
 
-00:43:52,180 --> 00:43:56,220
-Watson, do you know why I cherish such cases as this
+00:35:12,060 --> 00:35:15,800
+Holmes, with a gesture of his hand, beckoned me away from the touching seat.
 
-00:43:56,220 --> 00:43:58,780
-above the most sensational of crimes?
+00:35:15,800 --> 00:35:23,519
+Come, Watson, he said. Our work here is merely done. The law must settle the rest. But justice,
 
-00:43:58,780 --> 00:44:01,019
-Because they test your powers of deduction?
+00:35:23,519 --> 00:35:26,819
+in a measure, has already been achieved.
 
-00:44:01,019 --> 00:44:05,480
-Because they reveal the hidden poetry of life.
+00:35:26,819 --> 00:35:28,929
+And so we left the copper beaches,
 
-00:44:05,480 --> 00:44:09,399
-Men think me a machine, a calculating engine.
+00:35:28,929 --> 00:35:31,449
+the moonlight glimmering upon its somber wards.
 
-00:44:09,399 --> 00:44:15,090
-Yet beneath the dull crust of facts, there lies the drama of human hearts.
+00:35:31,449 --> 00:35:34,590
+It behind us echoed the sobs of the reunited mother and daughter,
 
-00:44:15,090 --> 00:44:21,399
-The nobleman proud but lonely, the girl torn between ambition and love,
+00:35:34,590 --> 00:35:36,119
+mingled with the curses of a man
 
-00:44:21,399 --> 00:44:25,300
-the husband thought dead, returned from the grave.
+00:35:36,119 --> 00:35:38,840
+whose wickedness had brought his own downfall.
 
-00:44:25,300 --> 00:44:29,699
-All these are but figures in a greater tragedy and comedy.
+00:35:38,840 --> 00:35:40,670
+We quitted the copper beaches,
 
-00:44:29,699 --> 00:44:39,569
-To discern their secret, to bring light where there is darkness, that is art, Watson, the highest art.
+00:35:40,670 --> 00:35:42,569
+in the stillness of the midnight hour,
 
-00:44:39,569 --> 00:44:44,710
-Then you admit, Holmes, that even the cold logician may feel the throb of romance?
+00:35:42,569 --> 00:35:45,849
+Holmes and I walking silently side by side along the country lane.
 
-00:44:44,710 --> 00:44:52,219
-Smiling faintly, I admit that romance, when properly analysed, is but logic in disguise. How?
+00:35:45,849 --> 00:35:48,159
+Behind us, the house loomed dark and heavy,
 
-00:44:52,219 --> 00:44:58,919
-sanctions he bent again to his retorts and i watching him felt that i had dims for an instant
+00:35:48,159 --> 00:35:51,039
+while the grove of ratty beaches swayed gently in the night air.
 
-00:44:58,919 --> 00:45:04,500
-the hidden depths of that singular nature the keen brain and the lonely heart united in pursuit of
+00:35:51,039 --> 00:35:53,409
+My mind was crowded with tumultuous impressions.
 
-00:45:04,500 --> 00:45:09,719
-truth so ended the adventure of the noble bachelor one of many episodes which have revealed to me the
+00:35:53,409 --> 00:35:59,019
+The pale face of Alice Rucastle, the frenzy of her father, the faithful courage of Violet Hunter,
 
-00:45:09,719 --> 00:45:14,919
-strange genius of sherlock holmes and the privilege i enjoy in being his companion and chronicler
+00:35:59,019 --> 00:36:04,079
+above all, the swift and decisive manner in which Holmes had pierced the veil of deception
 
-00:45:14,919 --> 00:45:15,059
+00:36:04,079 --> 00:36:09,559
+filled me with renewed admiration. Holmes, I said at last, breaking the silence,
+
+00:36:09,559 --> 00:36:14,050
+once again you have torn the mask from a villain and restored freedom to the oppressed.
+
+00:36:14,050 --> 00:36:18,940
+Yet I confess my mind still gropes in some darkness. Will you not set forth the whole
+
+00:36:18,940 --> 00:36:20,960
+chain of reasoning by which you arrived at the truth?
+
+00:36:20,960 --> 00:36:28,420
+"'Rillingly, my dear Watson,' Holmes replied, his tone calm as ever, though his eyes
+
+00:36:28,420 --> 00:36:36,340
+geaned with inward satisfaction. The case, though dramatic in its unfolding, was built upon very
+
+00:36:36,340 --> 00:36:44,039
+simple foundations. From the first, the conditions imposed upon Miss Hunter were so eccentric as to
+
+00:36:44,039 --> 00:36:51,599
+demand explanation. Why the blue dress? Why the cutting of her hair? Why the enforced posture
+
+00:36:51,599 --> 00:36:58,139
+at the window, each pointed inevitably to impersonation? Yes, I perceived that when
+
+00:36:58,139 --> 00:37:04,079
+you hinted it, I said, but for whose sake was the impersonation contrived? That, Watson,
+
+00:37:04,079 --> 00:37:10,820
+was the crux. A wealthy salary for trivial duties could only mean that the service rendered was not
+
+00:37:10,820 --> 00:37:18,700
+the act of a governess, but of a decoy. The resemblance between Miss Hunter and some other
+
+00:37:18,700 --> 00:37:25,120
+person in the household was therefore certain. When we saw Miss Hunter's figure in the window
+
+00:37:25,120 --> 00:37:32,059
+and the watcher among the trees, the matter declared itself. The man outside was the one
+
+00:37:32,059 --> 00:37:38,059
+to whom the sight was directed. He must be connected with the family, and who more likely
+
+00:37:38,059 --> 00:37:40,019
+than the daughter herself.
+
+00:37:40,019 --> 00:37:41,429
+And the locked wing,
+
+00:37:41,429 --> 00:37:42,680
+the sobbing at night,
+
+00:37:42,680 --> 00:37:44,239
+these confirmed it.
+
+00:37:44,239 --> 00:37:45,989
+Hmm, precisely.
+
+00:37:45,989 --> 00:37:47,840
+Hmm, the daughter.
+
+00:37:47,840 --> 00:37:50,500
+Alice Rucastle had been kept prisoner
+
+00:37:50,500 --> 00:37:53,219
+that her father might control her fortune
+
+00:37:53,219 --> 00:37:54,579
+or prevent her union
+
+00:37:54,579 --> 00:37:57,099
+with one of whom he disapproved.
+
+00:37:57,099 --> 00:37:58,569
+When she resisted,
+
+00:37:58,569 --> 00:38:01,460
+he resorted to cruel confinement.
+
+00:38:01,460 --> 00:38:04,320
+But to quiet suspicion among friends
+
+00:38:04,320 --> 00:38:06,480
+or perhaps to mislead her lover
+
+00:38:06,480 --> 00:38:08,019
+if he sought her out,
+
+00:38:08,019 --> 00:38:12,639
+He employed our brave Miss Hunter to impersonate her at the window.
+
+00:38:12,639 --> 00:38:19,689
+Thus, the absent one was seemingly present, and inquiries might be diverted.
+
+00:38:19,689 --> 00:38:23,989
+As Holmes spoke, the whole dark scheme grew plain before me.
+
+00:38:23,989 --> 00:38:27,059
+I could see the wretched Alice immured within her chamber,
+
+00:38:27,059 --> 00:38:30,760
+while her likeness was played by another to deceive the eyes of her suitor,
+
+00:38:30,760 --> 00:38:32,789
+lingering desperately outside.
+
+00:38:32,789 --> 00:38:36,259
+Your surmise about the chained dog was no less accurate, I remarked.
+
+00:38:36,260 --> 00:38:43,770
+Ah, yes, Carlo, he was their final safeguard, set to deter intrusion upon that side passage.
+
+00:38:43,770 --> 00:38:52,100
+Yet in his very ferocity lay our deliverance, for when the beast fell, Rucastle's power fell with him.
+
+00:38:52,100 --> 00:38:56,740
+Without his fangs to guard the secret, the prison door stood open.
+
+00:38:56,740 --> 00:38:57,900
+Oh!
+
+00:38:57,900 --> 00:39:03,040
+We walked on in silence for a time, the lane stretching white before us beneath the moon.
+
+00:39:03,039 --> 00:39:08,680
+I said, what of Miss Hunter? She has borne herself with a courage most rare.
+
+00:39:08,680 --> 00:39:10,719
+What future awaits her? Think you?
+
+00:39:10,719 --> 00:39:19,359
+Miss Hunter, Holmes answered gravely, is one of those women who ennoble their sex by quiet bravery.
+
+00:39:19,359 --> 00:39:24,220
+I have seldom met a character more resolute or more steadfast.
+
+00:39:24,220 --> 00:39:28,059
+She will, I believe, find happiness in her profession.
+
+00:39:28,059 --> 00:39:31,579
+perhaps even establish a school of her own
+
+00:39:31,579 --> 00:39:35,170
+where her independence and strength may flourish.
+
+00:39:35,170 --> 00:39:38,289
+Such a woman does not lack for a future.
+
+00:39:38,289 --> 00:39:42,260
+His words proved true as I learned later, as I learned later.
+
+00:39:42,260 --> 00:39:45,349
+Violet Hunter, with the capitals she had prudently saved,
+
+00:39:45,349 --> 00:39:47,279
+did in time open a school at Walsall
+
+00:39:47,279 --> 00:39:50,099
+where she achieved both prosperity and respect.
+
+00:39:50,099 --> 00:39:52,500
+I often recall her bright courage
+
+00:39:52,500 --> 00:39:55,920
+when I think of the perils women must endure in their solitary employments.
+
+00:39:55,920 --> 00:40:00,599
+The next day, after due communication with the local authorities, the matter of Geoffrey
+
+00:40:00,599 --> 00:40:02,840
+Rukasil was placed in their hands.
+
+00:40:02,840 --> 00:40:03,569
+Sabba!
+
+00:40:03,569 --> 00:40:08,500
+He, the unhappy man, thwarted and disarmed, sank into a state of collapse from which he
+
+00:40:08,500 --> 00:40:09,720
+never wholly recovered.
+
+00:40:09,720 --> 00:40:14,220
+His wife, released from fear, devoted herself to her daughter, and thus some measure of
+
+00:40:14,220 --> 00:40:16,810
+peace was restored within those sombre walls.
+
+00:40:16,810 --> 00:40:22,090
+And yet, Holmes, I said, as we prepared to return to London, one thing puzzles me still.
+
+00:40:22,090 --> 00:40:24,220
+And what of the lover who watched from the trees?
+
+00:40:24,220 --> 00:40:25,690
+What part did he play?
+
+00:40:25,690 --> 00:40:32,359
+Ah, Watson, you touch the heart of the matter, Holmes replied, his voice softer than usual.
+
+00:40:32,359 --> 00:40:39,659
+That man was Mr. Fowler, a gentleman of honourable intentions, who had sought Alice's hand,
+
+00:40:39,659 --> 00:40:44,550
+who Castle, greedy of her fortune and unwilling to surrender his authority,
+
+00:40:44,550 --> 00:40:51,139
+contrived her imprisonment to prevent the match. Fowler, faithful and persevering,
+
+00:40:51,139 --> 00:40:58,659
+haunted the place, hoping for some sign of her. It was to him that the false Alice was displayed.
+
+00:40:58,659 --> 00:41:06,989
+Thus the cruel deception was aimed at breaking his hope. Happily, it failed. With Alice's release,
+
+00:41:06,989 --> 00:41:14,239
+the two were reunited, and I trust they will find the happiness so long denied them.
+
+00:41:14,239 --> 00:41:19,659
+Hapig doubt. Then indeed justice has been done, I said warmly.
+
+00:41:19,659 --> 00:41:27,139
+Justice, yes, Holmes mused, though often in this world justice comes limping and mercy
+
+00:41:27,139 --> 00:41:29,089
+follows far behind.
+
+00:41:29,089 --> 00:41:37,219
+Let us be content that in this case, at least, suffering has been relieved and love vindicated.
+
+00:41:37,219 --> 00:41:43,119
+The copper beaches will stand long in memory, not for the house itself, but for the shadows
+
+00:41:43,119 --> 00:41:44,279
+it concealed.
+
+00:41:44,279 --> 00:41:45,399
+Well, aye.
+
+00:41:45,400 --> 00:41:49,100
+Thus ended our adventure among the beaches of Hampshire.
+
+00:41:49,100 --> 00:41:52,789
+As we sat once more in our familiar sitting room in Baker Street,
+
+00:41:52,789 --> 00:41:55,700
+I reflected upon the strange contrasts of human life
+
+00:41:55,700 --> 00:41:58,559
+that beneath the peaceful surface of an English country house
+
+00:41:58,559 --> 00:42:01,309
+should lurk cruelty, deceit and greed,
+
+00:42:01,309 --> 00:42:03,750
+and that out of such darkness should emerge courage,
+
+00:42:03,750 --> 00:42:05,050
+devotion and love.
+
+00:42:05,050 --> 00:42:07,440
+And I thought to myself, as often before,
+
+00:42:07,440 --> 00:42:09,320
+that it was my privilege beyond measure
+
+00:42:09,320 --> 00:42:11,239
+to walk beside Sherlock Holmes,
+
+00:42:11,239 --> 00:42:13,619
+whose keen mind could pierce the veil of crime
+
+00:42:13,619 --> 00:42:16,689
+and bring light to the hidden corners of the human heart.
+
+00:42:16,689 --> 00:42:21,199
+Another case for your chronicles, Watson, Holmes said,
+
+00:42:21,199 --> 00:42:24,569
+as he stretched himself languidly upon the sofa.
+
+00:42:24,569 --> 00:42:27,399
+But do not make me too infallible.
+
+00:42:27,399 --> 00:42:32,859
+The public must see the detective as a man, not as a miracle.
+
+00:42:32,859 --> 00:42:33,880
+..
+
+00:42:33,880 --> 00:42:35,760
+As a man, Holmes, I laughed.
+
+00:42:35,760 --> 00:42:38,309
+There never was man's reason more miraculous.
+
+00:42:38,309 --> 00:42:41,900
+And so, while London's hum rose once more outside our window,
+
+00:42:41,900 --> 00:42:45,829
+Quaise, a venture of the copper beeches was laid to rest.
+
+00:42:45,829 --> 00:42:48,989
+Yet even now, when the spring winds stir the branches of country lanes,
+
+00:42:48,989 --> 00:42:52,600
+I see again in memory those dark trees, that lonely house,
+
+00:42:52,600 --> 00:42:54,820
+and the brave young woman who sought our aid.
+
+00:42:54,820 --> 00:42:55,000
 .
 
